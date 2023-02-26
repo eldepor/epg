@@ -35,12 +35,12 @@ jobs:
         run: |
           npm install epg-grabber
           npx epg-grabber --config=sites/sky.de/sky.de.config.js --channels=sites/sky.de/sky.de.channels.xml --output=xml/sky.de.xml --days=2
-		  npx epg-grabber --config=sites/bt.com/bt.com.config.js --channels=sites/bt.com/bt.com.channels.xml --output=xml/bt.com.xml --days=2 
-		  npx epg-grabber --config=sites/tvguide.com/tvguide.com.config.js --channels=sites/tvguide.com/tvguide.com.channels.xml --output=xml/tvguide.com.xml --days=2
-		  npx epg-grabber --config=sites/directv.com/directv.com.config.js --channels=sites/directv.com/directv.com.channels.xml --output=xml/directv.com.xml --days=2
-		  npx epg-grabber --config=sites/programtv.onet.pl/programtv.onet.pl.config.js --channels=sites/programtv.onet.pl/programtv.onet.pl.channels.xml --output=xml/programtv.onet.pl.xml --days=2
-		  npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-es.channels.xml --output=xml/beinsports.com.xml --days=2
-		  npx epg-grabber --config=sites/sky.de/sky.de.config.js --channels=sites/sky.de/sky.de.channels.xml --output=xml/sky.de.xml --days=2
+	  npx epg-grabber --config=sites/bt.com/bt.com.config.js --channels=sites/bt.com/bt.com.channels.xml --output=xml/bt.com.xml --days=2 
+	  npx epg-grabber --config=sites/tvguide.com/tvguide.com.config.js --channels=sites/tvguide.com/tvguide.com.channels.xml --output=xml/tvguide.com.xml --days=2
+	  npx epg-grabber --config=sites/directv.com/directv.com.config.js --channels=sites/directv.com/directv.com.channels.xml --output=xml/directv.com.xml --days=2
+	  npx epg-grabber --config=sites/programtv.onet.pl/programtv.onet.pl.config.js --channels=sites/programtv.onet.pl/programtv.onet.pl.channels.xml --output=xml/programtv.onet.pl.xml --days=2
+	  npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-es.channels.xml --output=xml/beinsports.com.xml --days=2
+	  npx epg-grabber --config=sites/sky.de/sky.de.config.js --channels=sites/sky.de/sky.de.channels.xml --output=xml/sky.de.xml --days=2
 
       - name: Commit & Push changes
         uses: actions-js/push@master
