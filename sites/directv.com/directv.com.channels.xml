@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="directv.com">
+  <channels>
+    <channel lang="en" xmltv_id="ESPN.us" site_id="206#206">ESPN</channel>
+    <channel lang="en" xmltv_id="ESPN2.us" site_id="209#209">ESPN2</channel>
+    <channel lang="en" xmltv_id="FoxSports1.us" site_id="219#607">FOX Sports 1</channel>
+    <!-- <channel lang="en" xmltv_id="FoxSports1.us" site_id="219#8242">FOX Sports 1 HD</channel> -->
+    <channel lang="en" xmltv_id="FoxSports2.us" site_id="618#2618">FOX Sports 2</channel>
+    <!-- <channel lang="en" xmltv_id="FoxSports2.us" site_id="618#5618">FOX Sports 2 HD</channel> -->
+    <channel lang="en" xmltv_id="NBATV.us" site_id="216#601">NBA TV</channel>
+    <!-- <channel lang="en" xmltv_id="NBATV.us" site_id="216#8220">NBA TV HD</channel> -->
+    <channel lang="en" xmltv_id="TennisChannel.us" site_id="217#3088">Tennis Channel</channel>
+    <!-- <channel lang="en" xmltv_id="TennisChannel.us" site_id="217#8240">Tennis Channel HD</channel> -->
+  </channels>
+</site>
