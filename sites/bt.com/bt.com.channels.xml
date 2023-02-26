@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site site="bt.com">
+  <channels>
+    <channel lang="en" xmltv_id="BTSport1.uk" site_id="hspc">BT Sport 1</channel>
+    <channel lang="en" xmltv_id="BTSport2.uk" site_id="hspd">BT Sport 2</channel>
+    <channel lang="en" xmltv_id="BTSport3.uk" site_id="hspf">BT Sport 3</channel>
+    <channel lang="en" xmltv_id="BTSport4.uk" site_id="hspg">BT Sport 4</channel>
+    <channel lang="en" xmltv_id="SkySportsArena.uk" site_id="hssx">Sky Sports Arena</channel>
+    <channel lang="en" xmltv_id="SkySportsFootball.uk" site_id="hssr">Sky Sports Football</channel>
+    <channel lang="en" xmltv_id="SkySportsMainEvent.uk" site_id="hssp">Sky Sports Main Event</channel>
+    <channel lang="en" xmltv_id="SkySportsNews.uk" site_id="hssn">Sky Sports News UK</channel>
+    <channel lang="en" xmltv_id="SkySportsPremierLeague.uk" site_id="hssq">Sky Sports Premier League</channel>
+  </channels>
+</site>
