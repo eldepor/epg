@@ -41,7 +41,7 @@ jobs:
         run: |
           npm install epg-grabber
           npm install cheerio
-          npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-es.channels.xml --output=beinsports.com.xml --days=2
+          npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-es.channels.xml --output=beinsports.com.xml --days=2 --timeout=20000
       - name: Commit & Push changes
         uses: actions-js/push@master
         #uses: stefanzweifel/git-auto-commit-action@v4
