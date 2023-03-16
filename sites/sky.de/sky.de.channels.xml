@@ -2,5 +2,6 @@
 <site site="sky.de">
   <channels>
     <channel lang="de" xmltv_id="SkySportF1Germany.de" site_id="853">Sky Sport F1 HD</channel>
+    <channel lang="de" xmltv_id="SkySportBundesligaUHD.de" site_id="531">Sky Sport Bundesliga UHD</channel>
   </channels>
 </site>
