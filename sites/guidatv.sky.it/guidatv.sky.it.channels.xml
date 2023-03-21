@@ -2,5 +2,6 @@
 <site site="guidatv.sky.it">
   <channels>
     <channel lang="it" xmltv_id="SkySportF1Italy.it" site_id="DTH#9096">Sky Sport F1</channel>
+    <channel lang="it" xmltv_id="SkySportMotoGP.it" site_id="DTH#8434">Sky Sport Moto GP</channel>
   </channels>
 </site>
