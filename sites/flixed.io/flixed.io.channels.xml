@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site site="flixed.io">
+  <channels>
+    <channel lang="en" xmltv_id="ESPN.us" site_id="10179">ESPN</channel>
+	<channel lang="en" xmltv_id="ESPN2.us" site_id="12444">ESPN2</channel>
+    <channel lang="en" xmltv_id="FoxSports1.us" site_id="82541">Fox Sports 1</channel>
+    <channel lang="en" xmltv_id="FoxSports2.us" site_id="33178">Fox Sports 2</channel>
+    <channel lang="en" xmltv_id="NBATV.us" site_id="32281">NBA TV</channel>
+	<channel lang="en" xmltv_id="TennisChannel.us" site_id="33395">Tennis Channel</channel>
+  </channels>
+</site>
