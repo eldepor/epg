@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230409">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230410">
 <channel id="beINSportsenEspanol.us"><display-name>BeIN Sports en Español</display-name><url>https://beinsports.com</url></channel>
 <channel id="beINSPORTSXTRAenEspanol.us"><display-name>BeIN Sports Xtra en Español</display-name><url>https://beinsports.com</url></channel>
-<programme start="20230408203000 +0000" stop="20230408210000 +0000" channel="beINSportsenEspanol.us"><title lang="es">This Is Paris</title><category lang="es">Sports talk</category></programme>
-<programme start="20230408200000 +0000" stop="20230408210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="es">La Liga Highlight Zone</title><category lang="es">Soccer</category></programme>
 </tv>
