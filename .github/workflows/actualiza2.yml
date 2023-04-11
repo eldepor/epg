@@ -45,7 +45,8 @@ jobs:
           #npx epg-grabber --config=sites/flixed.io/flixed.io.config.js --channels=sites/flixed.io/flixed.io.channels.xml --output=flixed.io.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/programtv.onet.pl/programtv.onet.pl.config.js --channels=sites/programtv.onet.pl/programtv.onet.pl.channels.xml --output=programtv.onet.pl.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/guidatv.sky.it/guidatv.sky.it.config.js --channels=sites/guidatv.sky.it/guidatv.sky.it.channels.xml --output=guidatv.sky.it.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/tvtv.us/tvtv.us.config.js --channels=sites/tvtv.us/tvtv.us.channels.xml --output=beinsports.com.xml --days=3 --timeout=30000
+          #npx epg-grabber --config=sites/tvtv.us/tvtv.us.config.js --channels=sites/tvtv.us/tvtv.us.channels.xml --output=beinsports.com.xml --days=3 --timeout=30000
+          npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-en.channels.xml --output=beinsports.com.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/ziggogo.tv/ziggogo.tv.config.js --channels=sites/ziggogo.tv/ziggogo.tv.channels.xml --output=ziggogo.tv.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/programetv.ro/programetv.ro.config.js --channels=sites/programetv.ro/programetv.ro.channels.xml --output=programetv.ro.xml --days=3 --timeout=30000
       - name: Commit & Push changes
