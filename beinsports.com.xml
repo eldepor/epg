@@ -1,226 +1,152 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230412">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230415">
 <channel id="beINSportsenEspanol.us"><display-name>BeIn Sports en Español</display-name><url>https://tvtv.us</url></channel>
 <channel id="beINSPORTSXTRAenEspanol.us"><display-name>beIN Sports Xtra En Espanol</display-name><url>https://tvtv.us</url></channel>
-<programme start="20230412000000 +0000" stop="20230412010000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230412010000 +0000" stop="20230412013000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Lorient vs. Marseille</desc></programme>
-<programme start="20230412013000 +0000" stop="20230412020000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Nice vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412020000 +0000" stop="20230412023000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Montpellier vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412023000 +0000" stop="20230412030000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Toulouse</desc></programme>
-<programme start="20230412030000 +0000" stop="20230412033000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230412033000 +0000" stop="20230412040000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412040000 +0000" stop="20230412043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Lorient vs. Marseille</desc></programme>
-<programme start="20230412043000 +0000" stop="20230412050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Nice vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412050000 +0000" stop="20230412060000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230412060000 +0000" stop="20230412063000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Lyon vs. Stade Rennes</desc></programme>
-<programme start="20230412063000 +0000" stop="20230412070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Besiktas vs. Giresunspor</desc></programme>
-<programme start="20230412070000 +0000" stop="20230412073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412073000 +0000" stop="20230412080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412080000 +0000" stop="20230412083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412083000 +0000" stop="20230412090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412090000 +0000" stop="20230412093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412093000 +0000" stop="20230412100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412100000 +0000" stop="20230412103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412103000 +0000" stop="20230412110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412110000 +0000" stop="20230412120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach</desc></programme>
-<programme start="20230412120000 +0000" stop="20230412123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412123000 +0000" stop="20230412143000 +0000" channel="beINSportsenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Paris Saint-Germain vs. Nantes</desc></programme>
-<programme start="20230412143000 +0000" stop="20230412150000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412150000 +0000" stop="20230412160000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230412160000 +0000" stop="20230412163000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">The Strongest vs. River</desc></programme>
-<programme start="20230412163000 +0000" stop="20230412170000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">Monagas vs. Boca</desc></programme>
-<programme start="20230412170000 +0000" stop="20230412173000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230412173000 +0000" stop="20230412180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Troyes</desc></programme>
-<programme start="20230412180000 +0000" stop="20230412183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">Lille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412183000 +0000" stop="20230412190000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Clermont Foot vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412190000 +0000" stop="20230412193000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Monaco vs. Marseille</desc></programme>
-<programme start="20230412193000 +0000" stop="20230412200000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Marseille vs. Toulouse</desc></programme>
-<programme start="20230412200000 +0000" stop="20230412203000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">Montpellier vs. Marseille</desc></programme>
-<programme start="20230412203000 +0000" stop="20230412210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Troyes vs. Marseille</desc></programme>
-<programme start="20230412210000 +0000" stop="20230412230000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Besiktas vs. Giresunspor</desc></programme>
-<programme start="20230412230000 +0000" stop="20230413000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230413000000 +0000" stop="20230413010000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230413010000 +0000" stop="20230413013000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">The Strongest vs. River</desc></programme>
-<programme start="20230413013000 +0000" stop="20230413020000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">Monagas vs. Boca</desc></programme>
-<programme start="20230413020000 +0000" stop="20230413023000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230413023000 +0000" stop="20230413030000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Troyes</desc></programme>
-<programme start="20230413030000 +0000" stop="20230413033000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">Lille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413033000 +0000" stop="20230413040000 +0000" channel="beINSportsenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Clermont Foot vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413040000 +0000" stop="20230413043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">The Strongest vs. River</desc></programme>
-<programme start="20230413043000 +0000" stop="20230413050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">Monagas vs. Boca</desc></programme>
-<programme start="20230413050000 +0000" stop="20230413060000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230413060000 +0000" stop="20230413063000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Fatih Karagumruk SK vs. Fenerbahce</desc></programme>
-<programme start="20230413063000 +0000" stop="20230413070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Nice vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413070000 +0000" stop="20230413073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413073000 +0000" stop="20230413080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413080000 +0000" stop="20230413083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413083000 +0000" stop="20230413090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413090000 +0000" stop="20230413093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413093000 +0000" stop="20230413100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413100000 +0000" stop="20230413103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413103000 +0000" stop="20230413110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413110000 +0000" stop="20230413120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach</desc></programme>
-<programme start="20230413120000 +0000" stop="20230413123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413123000 +0000" stop="20230413143000 +0000" channel="beINSportsenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Lyon vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413143000 +0000" stop="20230413150000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413150000 +0000" stop="20230413160000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230413160000 +0000" stop="20230413163000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230413163000 +0000" stop="20230413170000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230413170000 +0000" stop="20230413173000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">Paris Saint-Germain vs. Metz</desc></programme>
-<programme start="20230413173000 +0000" stop="20230413180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Ajaccio vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413180000 +0000" stop="20230413183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413183000 +0000" stop="20230413190000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Nantes</desc></programme>
-<programme start="20230413190000 +0000" stop="20230413193000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">Marseille vs. Lorient</desc></programme>
-<programme start="20230413193000 +0000" stop="20230413200000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Nantes vs. Marseille</desc></programme>
-<programme start="20230413200000 +0000" stop="20230413203000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Clermont Foot vs. Marseille</desc></programme>
-<programme start="20230413203000 +0000" stop="20230413210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Toulouse vs. Marseille</desc></programme>
-<programme start="20230413210000 +0000" stop="20230413230000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lorient vs. Marseille</desc></programme>
-<programme start="20230413230000 +0000" stop="20230413233000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230413233000 +0000" stop="20230414000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414000000 +0000" stop="20230414010000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230414010000 +0000" stop="20230414013000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414013000 +0000" stop="20230414020000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414020000 +0000" stop="20230414023000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">Paris Saint-Germain vs. Metz</desc></programme>
-<programme start="20230414023000 +0000" stop="20230414030000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Ajaccio vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414030000 +0000" stop="20230414033000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414033000 +0000" stop="20230414040000 +0000" channel="beINSportsenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Nantes</desc></programme>
-<programme start="20230414040000 +0000" stop="20230414043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414043000 +0000" stop="20230414050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414050000 +0000" stop="20230414053000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414053000 +0000" stop="20230414060000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414060000 +0000" stop="20230414070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230414070000 +0000" stop="20230414073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414073000 +0000" stop="20230414080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414080000 +0000" stop="20230414083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414083000 +0000" stop="20230414090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414090000 +0000" stop="20230414093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414093000 +0000" stop="20230414100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414100000 +0000" stop="20230414103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414103000 +0000" stop="20230414110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414110000 +0000" stop="20230414120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach 2022, semifinales</desc></programme>
-<programme start="20230414120000 +0000" stop="20230414123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414123000 +0000" stop="20230414143000 +0000" channel="beINSportsenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230414143000 +0000" stop="20230414150000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414150000 +0000" stop="20230414153000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414153000 +0000" stop="20230414160000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414160000 +0000" stop="20230414180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">2022-2023: Lyon vs. Toulouse</desc></programme>
-<programme start="20230414180000 +0000" stop="20230414183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414183000 +0000" stop="20230414185000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414185000 +0000" stop="20230414210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Toulouse vs. Lyon</desc></programme>
-<programme start="20230414210000 +0000" stop="20230414213000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Lens vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414213000 +0000" stop="20230414220000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
-<programme start="20230414220000 +0000" stop="20230414223000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Lens vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414223000 +0000" stop="20230414230000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
-<programme start="20230414230000 +0000" stop="20230414233000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414233000 +0000" stop="20230415000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230412000000 +0000" stop="20230412010000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230412010000 +0000" stop="20230412013000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Lorient vs. Marseille</desc></programme>
-<programme start="20230412013000 +0000" stop="20230412020000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Nice vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412020000 +0000" stop="20230412023000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Montpellier vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412023000 +0000" stop="20230412030000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Toulouse</desc></programme>
-<programme start="20230412030000 +0000" stop="20230412033000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230412033000 +0000" stop="20230412040000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Messi el magnífico</title><desc lang="en">2022-2023: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412040000 +0000" stop="20230412043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Lorient vs. Marseille</desc></programme>
-<programme start="20230412043000 +0000" stop="20230412050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Ligue 1</title><desc lang="en">2022-2023: Nice vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412050000 +0000" stop="20230412060000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230412060000 +0000" stop="20230412063000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Lyon vs. Stade Rennes</desc></programme>
-<programme start="20230412063000 +0000" stop="20230412070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Besiktas vs. Giresunspor</desc></programme>
-<programme start="20230412070000 +0000" stop="20230412073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412073000 +0000" stop="20230412080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412080000 +0000" stop="20230412083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412083000 +0000" stop="20230412090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412090000 +0000" stop="20230412093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412093000 +0000" stop="20230412100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412100000 +0000" stop="20230412103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412103000 +0000" stop="20230412110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412110000 +0000" stop="20230412120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach</desc></programme>
-<programme start="20230412120000 +0000" stop="20230412123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412123000 +0000" stop="20230412143000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Paris Saint-Germain vs. Nantes</desc></programme>
-<programme start="20230412143000 +0000" stop="20230412150000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230412150000 +0000" stop="20230412160000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230412160000 +0000" stop="20230412163000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">The Strongest vs. River</desc></programme>
-<programme start="20230412163000 +0000" stop="20230412170000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">Monagas vs. Boca</desc></programme>
-<programme start="20230412170000 +0000" stop="20230412173000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230412173000 +0000" stop="20230412180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Troyes</desc></programme>
-<programme start="20230412180000 +0000" stop="20230412183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">Lille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412183000 +0000" stop="20230412190000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Clermont Foot vs. Paris Saint-Germain</desc></programme>
-<programme start="20230412190000 +0000" stop="20230412193000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Monaco vs. Marseille</desc></programme>
-<programme start="20230412193000 +0000" stop="20230412200000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Marseille vs. Toulouse</desc></programme>
-<programme start="20230412200000 +0000" stop="20230412203000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">Montpellier vs. Marseille</desc></programme>
-<programme start="20230412203000 +0000" stop="20230412210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Troyes vs. Marseille</desc></programme>
-<programme start="20230412210000 +0000" stop="20230412230000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Besiktas vs. Giresunspor</desc></programme>
-<programme start="20230412230000 +0000" stop="20230413000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230413000000 +0000" stop="20230413010000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230413010000 +0000" stop="20230413013000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">The Strongest vs. River</desc></programme>
-<programme start="20230413013000 +0000" stop="20230413020000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">Monagas vs. Boca</desc></programme>
-<programme start="20230413020000 +0000" stop="20230413023000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230413023000 +0000" stop="20230413030000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Troyes</desc></programme>
-<programme start="20230413030000 +0000" stop="20230413033000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">Lille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413033000 +0000" stop="20230413040000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">La fantasía Neymar</title><desc lang="en">2022-2023: Clermont Foot vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413040000 +0000" stop="20230413043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">The Strongest vs. River</desc></programme>
-<programme start="20230413043000 +0000" stop="20230413050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Copa Libertadores</title><desc lang="en">Monagas vs. Boca</desc></programme>
-<programme start="20230413050000 +0000" stop="20230413060000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230413060000 +0000" stop="20230413063000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Fatih Karagumruk SK vs. Fenerbahce</desc></programme>
-<programme start="20230413063000 +0000" stop="20230413070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Nice vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413070000 +0000" stop="20230413073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413073000 +0000" stop="20230413080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413080000 +0000" stop="20230413083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413083000 +0000" stop="20230413090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413090000 +0000" stop="20230413093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413093000 +0000" stop="20230413100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413100000 +0000" stop="20230413103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413103000 +0000" stop="20230413110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413110000 +0000" stop="20230413120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach</desc></programme>
-<programme start="20230413120000 +0000" stop="20230413123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413123000 +0000" stop="20230413143000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Lyon vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413143000 +0000" stop="20230413150000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230413150000 +0000" stop="20230413160000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230413160000 +0000" stop="20230413163000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230413163000 +0000" stop="20230413170000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230413170000 +0000" stop="20230413173000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">Paris Saint-Germain vs. Metz</desc></programme>
-<programme start="20230413173000 +0000" stop="20230413180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Ajaccio vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413180000 +0000" stop="20230413183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230413183000 +0000" stop="20230413190000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Nantes</desc></programme>
-<programme start="20230413190000 +0000" stop="20230413193000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">Marseille vs. Lorient</desc></programme>
-<programme start="20230413193000 +0000" stop="20230413200000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Nantes vs. Marseille</desc></programme>
-<programme start="20230413200000 +0000" stop="20230413203000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Clermont Foot vs. Marseille</desc></programme>
-<programme start="20230413203000 +0000" stop="20230413210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de Marseille</title><desc lang="en">2022-2023: Toulouse vs. Marseille</desc></programme>
-<programme start="20230413210000 +0000" stop="20230413230000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lorient vs. Marseille</desc></programme>
-<programme start="20230413230000 +0000" stop="20230413233000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230413233000 +0000" stop="20230414000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414000000 +0000" stop="20230414010000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
-<programme start="20230414010000 +0000" stop="20230414013000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414013000 +0000" stop="20230414020000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414020000 +0000" stop="20230414023000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">Paris Saint-Germain vs. Metz</desc></programme>
-<programme start="20230414023000 +0000" stop="20230414030000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Ajaccio vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414030000 +0000" stop="20230414033000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Marseille vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414033000 +0000" stop="20230414040000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">El magnífico Mbappé</title><desc lang="en">2022-2023: Paris Saint-Germain vs. Nantes</desc></programme>
-<programme start="20230414040000 +0000" stop="20230414043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414043000 +0000" stop="20230414050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Lo mejor de la Copa Sudamericana</title></programme>
-<programme start="20230414050000 +0000" stop="20230414053000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414053000 +0000" stop="20230414060000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414060000 +0000" stop="20230414070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Libertadores Highlights</title></programme>
-<programme start="20230414070000 +0000" stop="20230414073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414073000 +0000" stop="20230414080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414080000 +0000" stop="20230414083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414083000 +0000" stop="20230414090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414090000 +0000" stop="20230414093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414093000 +0000" stop="20230414100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414100000 +0000" stop="20230414103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414103000 +0000" stop="20230414110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414110000 +0000" stop="20230414120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach 2022, semifinales</desc></programme>
-<programme start="20230414120000 +0000" stop="20230414123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414123000 +0000" stop="20230414143000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Paris Saint-Germain vs. Lille</desc></programme>
-<programme start="20230414143000 +0000" stop="20230414150000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
-<programme start="20230414150000 +0000" stop="20230414153000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414153000 +0000" stop="20230414160000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414160000 +0000" stop="20230414180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">2022-2023: Lyon vs. Toulouse</desc></programme>
-<programme start="20230414180000 +0000" stop="20230414183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414183000 +0000" stop="20230414185000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
-<programme start="20230414185000 +0000" stop="20230414210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Toulouse vs. Lyon</desc></programme>
-<programme start="20230414210000 +0000" stop="20230414213000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Lens vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414213000 +0000" stop="20230414220000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
-<programme start="20230414220000 +0000" stop="20230414223000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Lens vs. Paris Saint-Germain</desc></programme>
-<programme start="20230414223000 +0000" stop="20230414230000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Rivales del PSG</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
-<programme start="20230414230000 +0000" stop="20230414233000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
-<programme start="20230414233000 +0000" stop="20230415000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415000000 +0000" stop="20230415020000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Galatasaray vs. Kayserispor</desc></programme>
+<programme start="20230415020000 +0000" stop="20230415040000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Toulouse vs. Lyon</desc></programme>
+<programme start="20230415040000 +0000" stop="20230415043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Happy Birthday Santos</title><desc lang="en">Copa Libertadores 2021: Santos vs. The Strongest</desc></programme>
+<programme start="20230415043000 +0000" stop="20230415050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Happy Birthday Santos</title><desc lang="en">Copa Libertadores 2021: Santos vs. Boca</desc></programme>
+<programme start="20230415050000 +0000" stop="20230415053000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
+<programme start="20230415053000 +0000" stop="20230415060000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415060000 +0000" stop="20230415070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
+<programme start="20230415070000 +0000" stop="20230415073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415073000 +0000" stop="20230415080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415080000 +0000" stop="20230415083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415083000 +0000" stop="20230415090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415090000 +0000" stop="20230415093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415093000 +0000" stop="20230415100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415100000 +0000" stop="20230415103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415103000 +0000" stop="20230415110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415110000 +0000" stop="20230415113000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415113000 +0000" stop="20230415120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415120000 +0000" stop="20230415123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415123000 +0000" stop="20230415125000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415125000 +0000" stop="20230415145500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 2</title><desc lang="en">Metz vs. Bordeaux</desc></programme>
+<programme start="20230415145500 +0000" stop="20230415170000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Stade Rennais vs. Stade Reims</desc></programme>
+<programme start="20230415170000 +0000" stop="20230415173000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Toulouse vs. Lyon</desc></programme>
+<programme start="20230415173000 +0000" stop="20230415180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Galatasaray vs. Kayserispor</desc></programme>
+<programme start="20230415180000 +0000" stop="20230415183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
+<programme start="20230415183000 +0000" stop="20230415185000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415185000 +0000" stop="20230415210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
+<programme start="20230415210000 +0000" stop="20230415213000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230415213000 +0000" stop="20230415233000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Fenerbahce vs. Ankaragucu</desc></programme>
+<programme start="20230415233000 +0000" stop="20230416000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This Is Paris</title></programme>
+<programme start="20230416000000 +0000" stop="20230416020000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
+<programme start="20230416020000 +0000" stop="20230416023000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230416023000 +0000" stop="20230416043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Stade Rennais vs. Stade Reims</desc></programme>
+<programme start="20230416043000 +0000" stop="20230416063000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Fenerbahce vs. Ankaragucu</desc></programme>
+<programme start="20230416063000 +0000" stop="20230416070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230416070000 +0000" stop="20230416073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416073000 +0000" stop="20230416080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416080000 +0000" stop="20230416083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416083000 +0000" stop="20230416090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416090000 +0000" stop="20230416093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416093000 +0000" stop="20230416100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416100000 +0000" stop="20230416103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416103000 +0000" stop="20230416105000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230416105000 +0000" stop="20230416125500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lille vs. Montpellier</desc></programme>
+<programme start="20230416125500 +0000" stop="20230416145500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Stade Brestois vs. Nice</desc></programme>
+<programme start="20230416145500 +0000" stop="20230416170100 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Monaco vs. Lorient</desc></programme>
+<programme start="20230416170100 +0000" stop="20230416173000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Paris Saint-Germain vs. Lens</desc></programme>
+<programme start="20230416173000 +0000" stop="20230416180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Fenerbahce vs. MKE Ankaragucu</desc></programme>
+<programme start="20230416180000 +0000" stop="20230416183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Stade Rennais vs. Stade Reims</desc></programme>
+<programme start="20230416183000 +0000" stop="20230416183500 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20230416183500 +0000" stop="20230416204500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Marseille vs. Troyes</desc></programme>
+<programme start="20230416204500 +0000" stop="20230416210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Wrap-Up</title></programme>
+<programme start="20230416210000 +0000" stop="20230416220000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230416220000 +0000" stop="20230417000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Trabzonspor vs. Besiktas</desc></programme>
+<programme start="20230417000000 +0000" stop="20230417020000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Marseille vs. Troyes</desc></programme>
+<programme start="20230417020000 +0000" stop="20230417030000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230417030000 +0000" stop="20230417050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Monaco vs. Lorient</desc></programme>
+<programme start="20230417050000 +0000" stop="20230417070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lille vs. Montpellier</desc></programme>
+<programme start="20230417070000 +0000" stop="20230417073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417073000 +0000" stop="20230417080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417080000 +0000" stop="20230417083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417083000 +0000" stop="20230417090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417090000 +0000" stop="20230417093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417093000 +0000" stop="20230417100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417100000 +0000" stop="20230417103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417103000 +0000" stop="20230417110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417110000 +0000" stop="20230417120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach 2022, final</desc></programme>
+<programme start="20230417120000 +0000" stop="20230417123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417123000 +0000" stop="20230417143000 +0000" channel="beINSportsenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Strasbourg vs. Paris Saint-Germain</desc></programme>
+<programme start="20230417143000 +0000" stop="20230417150000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417150000 +0000" stop="20230417170000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Marseille vs. Troyes</desc></programme>
+<programme start="20230417170000 +0000" stop="20230417190000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Strasbourg vs. Ajaccio</desc></programme>
+<programme start="20230417190000 +0000" stop="20230417210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Galatasaray vs. Kayserispor</desc></programme>
+<programme start="20230417210000 +0000" stop="20230417230000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lille vs. Montpellier</desc></programme>
+<programme start="20230417230000 +0000" stop="20230418000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415000000 +0000" stop="20230415020000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Galatasaray vs. Kayserispor</desc></programme>
+<programme start="20230415020000 +0000" stop="20230415040000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Toulouse vs. Lyon</desc></programme>
+<programme start="20230415040000 +0000" stop="20230415043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Happy Birthday Santos</title><desc lang="en">Copa Libertadores 2021: Santos vs. The Strongest</desc></programme>
+<programme start="20230415043000 +0000" stop="20230415050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Happy Birthday Santos</title><desc lang="en">Copa Libertadores 2021: Santos vs. Boca</desc></programme>
+<programme start="20230415050000 +0000" stop="20230415053000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
+<programme start="20230415053000 +0000" stop="20230415060000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415060000 +0000" stop="20230415070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Copa Sudamericana Highlight Show</title></programme>
+<programme start="20230415070000 +0000" stop="20230415073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415073000 +0000" stop="20230415080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415080000 +0000" stop="20230415083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415083000 +0000" stop="20230415090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415090000 +0000" stop="20230415093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415093000 +0000" stop="20230415100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415100000 +0000" stop="20230415103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415103000 +0000" stop="20230415110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415110000 +0000" stop="20230415113000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415113000 +0000" stop="20230415120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415120000 +0000" stop="20230415123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230415123000 +0000" stop="20230415125000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415125000 +0000" stop="20230415145500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 2</title><desc lang="en">Metz vs. Bordeaux</desc></programme>
+<programme start="20230415145500 +0000" stop="20230415170000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Stade Rennais vs. Stade Reims</desc></programme>
+<programme start="20230415170000 +0000" stop="20230415173000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Toulouse vs. Lyon</desc></programme>
+<programme start="20230415173000 +0000" stop="20230415180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Galatasaray vs. Kayserispor</desc></programme>
+<programme start="20230415180000 +0000" stop="20230415183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
+<programme start="20230415183000 +0000" stop="20230415185000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230415185000 +0000" stop="20230415210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
+<programme start="20230415210000 +0000" stop="20230415213000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230415213000 +0000" stop="20230415233000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Fenerbahce vs. Ankaragucu</desc></programme>
+<programme start="20230415233000 +0000" stop="20230416000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This Is Paris</title></programme>
+<programme start="20230416000000 +0000" stop="20230416020000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Paris Saint-Germain vs. Lens</desc></programme>
+<programme start="20230416020000 +0000" stop="20230416023000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230416023000 +0000" stop="20230416043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Stade Rennais vs. Stade Reims</desc></programme>
+<programme start="20230416043000 +0000" stop="20230416063000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Fenerbahce vs. Ankaragucu</desc></programme>
+<programme start="20230416063000 +0000" stop="20230416070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230416070000 +0000" stop="20230416073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416073000 +0000" stop="20230416080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416080000 +0000" stop="20230416083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416083000 +0000" stop="20230416090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416090000 +0000" stop="20230416093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416093000 +0000" stop="20230416100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416100000 +0000" stop="20230416103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230416103000 +0000" stop="20230416105000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20230416105000 +0000" stop="20230416125500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lille vs. Montpellier</desc></programme>
+<programme start="20230416125500 +0000" stop="20230416145500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Stade Brestois vs. Nice</desc></programme>
+<programme start="20230416145500 +0000" stop="20230416170100 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Monaco vs. Lorient</desc></programme>
+<programme start="20230416170100 +0000" stop="20230416173000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Paris Saint-Germain vs. Lens</desc></programme>
+<programme start="20230416173000 +0000" stop="20230416180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Superliga 2022-2023: Fenerbahce vs. MKE Ankaragucu</desc></programme>
+<programme start="20230416180000 +0000" stop="20230416183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title><desc lang="en">Ligue 1 2022-2023: Stade Rennais vs. Stade Reims</desc></programme>
+<programme start="20230416183000 +0000" stop="20230416183500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20230416183500 +0000" stop="20230416204500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Marseille vs. Troyes</desc></programme>
+<programme start="20230416204500 +0000" stop="20230416210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Wrap-Up</title></programme>
+<programme start="20230416210000 +0000" stop="20230416220000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230416220000 +0000" stop="20230417000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Trabzonspor vs. Besiktas</desc></programme>
+<programme start="20230417000000 +0000" stop="20230417020000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Marseille vs. Troyes</desc></programme>
+<programme start="20230417020000 +0000" stop="20230417030000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Locker Room</title></programme>
+<programme start="20230417030000 +0000" stop="20230417050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Monaco vs. Lorient</desc></programme>
+<programme start="20230417050000 +0000" stop="20230417070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lille vs. Montpellier</desc></programme>
+<programme start="20230417070000 +0000" stop="20230417073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417073000 +0000" stop="20230417080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417080000 +0000" stop="20230417083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417083000 +0000" stop="20230417090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417090000 +0000" stop="20230417093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417093000 +0000" stop="20230417100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417100000 +0000" stop="20230417103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417103000 +0000" stop="20230417110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417110000 +0000" stop="20230417120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Footvolley</title><desc lang="en">Hollywood Beach 2022, final</desc></programme>
+<programme start="20230417120000 +0000" stop="20230417123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417123000 +0000" stop="20230417143000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">PSG máquina goleadora</title><desc lang="en">2020-2021: Strasbourg vs. Paris Saint-Germain</desc></programme>
+<programme start="20230417143000 +0000" stop="20230417150000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20230417150000 +0000" stop="20230417170000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Marseille vs. Troyes</desc></programme>
+<programme start="20230417170000 +0000" stop="20230417190000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Strasbourg vs. Ajaccio</desc></programme>
+<programme start="20230417190000 +0000" stop="20230417210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Turco Superliga</title><desc lang="en">Galatasaray vs. Kayserispor</desc></programme>
+<programme start="20230417210000 +0000" stop="20230417230000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title><desc lang="en">Lille vs. Montpellier</desc></programme>
+<programme start="20230417230000 +0000" stop="20230418000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
 </tv>
