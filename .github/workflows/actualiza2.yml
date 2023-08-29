@@ -49,7 +49,7 @@ jobs:
           #npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-en.channels.xml --output=beinsports.com.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/ziggogo.tv/ziggogo.tv.config.js --channels=sites/ziggogo.tv/ziggogo.tv.channels.xml --output=ziggogo.tv.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/programetv.ro/programetv.ro.config.js --channels=sites/programetv.ro/programetv.ro.channels.xml --output=programetv.ro.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/cablego.com.pe.config.js --channels=sites/cablego.com.pe.channels.xml --output=cablego.com.pe.xml --days=3 --timeout=30000
+          npx epg-grabber --config=sites/cablego.com.pe/cablego.com.pe.config.js --channels=sites/cablego.com.pe/cablego.com.pe.channels.xml --output=cablego.com.pe.xml --days=3 --timeout=30000
       - name: Commit & Push changes
         uses: actions-js/push@master
         #uses: stefanzweifel/git-auto-commit-action@v4
