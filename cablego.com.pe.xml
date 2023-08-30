@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230829">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230830">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230830060000 +0000" stop="20230830070000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - Tour Championship</title></programme>
-<programme start="20230830070000 +0000" stop="20230830090000 +0000" channel="ESPN3.ar"><title lang="es">CONMEBOL Sudamericana - Estudiantes LP (Arg) vs. Corinthians (Bra), Cuartos de final - Ida, Estadio UNO</title></programme>
-<programme start="20230830090000 +0000" stop="20230830100000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20230830100000 +0000" stop="20230830110000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - Tour Championship</title></programme>
-<programme start="20230830110000 +0000" stop="20230830120000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20230830120000 +0000" stop="20230830130000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20230830130000 +0000" stop="20230830150000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Galatasaray (Tur) vs. Molde (Nor), Playoffs - Vuelta, Nef Stadium</title></programme>
-<programme start="20230830150000 +0000" stop="20230830230000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de los EE.UU. - Segunda ronda, USTA Billie Jean King Nat&apos;l Tennis Ctr, Flushing, NY, USA</title></programme>
-<programme start="20230830230000 +0000" stop="20230831030000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de los EE.UU. - Segunda ronda, USTA Billie Jean King Nat&apos;l Tennis Ctr, Flushing, NY, USA</title></programme>
-<programme start="20230831030000 +0000" stop="20230831033000 +0000" channel="ESPN3.ar"><title lang="es">Scrum - Camino a Francia - Parte 9</title></programme>
-<programme start="20230831033000 +0000" stop="20230831040000 +0000" channel="ESPN3.ar"><title lang="es">Scrum - Camino a Francia - Parte 10</title></programme>
-<programme start="20230831040000 +0000" stop="20230831043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20230831043000 +0000" stop="20230831050000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España - Etapa 5</title></programme>
 <programme start="20230831050000 +0000" stop="20230831060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
 <programme start="20230831060000 +0000" stop="20230831070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
 <programme start="20230831070000 +0000" stop="20230831080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
@@ -32,4 +19,20 @@
 <programme start="20230901033000 +0000" stop="20230901040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
 <programme start="20230901040000 +0000" stop="20230901043000 +0000" channel="ESPN3.ar"><title lang="es">Snow Time</title></programme>
 <programme start="20230901043000 +0000" stop="20230901050000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20230901050000 +0000" stop="20230901060000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20230901060000 +0000" stop="20230901070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230901070000 +0000" stop="20230901090000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 6: Requena &gt; Alto de la Montaña de Cullera</title></programme>
+<programme start="20230901090000 +0000" stop="20230901100000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20230901100000 +0000" stop="20230901110000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20230901110000 +0000" stop="20230901113000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20230901113000 +0000" stop="20230901120000 +0000" channel="ESPN3.ar"><title lang="es">Scrum - Camino a Francia - Parte 9</title></programme>
+<programme start="20230901120000 +0000" stop="20230901123000 +0000" channel="ESPN3.ar"><title lang="es">Scrum - Camino a Francia - Parte 10</title></programme>
+<programme start="20230901123000 +0000" stop="20230901130000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20230901130000 +0000" stop="20230901140000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230901140000 +0000" stop="20230901150000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20230901150000 +0000" stop="20230901230000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de los EE.UU. - Tercera ronda, USTA Billie Jean King Nat&apos;l Tennis Ctr, Flushing, NY, USA</title></programme>
+<programme start="20230901230000 +0000" stop="20230902030000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de los EE.UU. - Tercera ronda, USTA Billie Jean King Nat&apos;l Tennis Ctr, Flushing, NY, USA</title></programme>
+<programme start="20230902030000 +0000" stop="20230902033000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
+<programme start="20230902033000 +0000" stop="20230902040000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España - Etapa 7</title></programme>
+<programme start="20230902040000 +0000" stop="20230902043000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
