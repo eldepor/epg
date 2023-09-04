@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230903">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230904">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230904050000 +0000" stop="20230904070000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Inter vs. Fiorentina, Fecha 3, Estadio Giuseppe Meazza</title></programme>
-<programme start="20230904070000 +0000" stop="20230904100000 +0000" channel="ESPN3.ar"><title lang="es">Béisbol dominical de ESPN</title></programme>
-<programme start="20230904100000 +0000" stop="20230904120000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Cruzeiro vs. RB Bragantino, Fecha 22, Mineirão</title></programme>
-<programme start="20230904120000 +0000" stop="20230904140000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Olympique Lyonnais vs. Paris Saint-Germain, Fecha 4, Groupama Stadium</title></programme>
-<programme start="20230904140000 +0000" stop="20230904150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Osasuna vs. Barcelona, Fecha 4, Estadio El Sadar</title></programme>
-<programme start="20230904150000 +0000" stop="20230904200000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de los EE.UU. - Octavos de final, USTA Billie Jean King Nat&apos;l Tennis Ctr, Flushing, NY, USA</title></programme>
-<programme start="20230904200000 +0000" stop="20230904203000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20230904203000 +0000" stop="20230904210000 +0000" channel="ESPN3.ar"><title lang="es">Vuelta a España Highlights - Etapa 10</title></programme>
-<programme start="20230904210000 +0000" stop="20230904220000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20230904220000 +0000" stop="20230904223000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20230904223000 +0000" stop="20230905013000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Monday Night Baseball - Philadelphia Phillies vs. San Diego Padres, Temporada regular, Petco Park</title></programme>
-<programme start="20230905013000 +0000" stop="20230905020000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
-<programme start="20230905020000 +0000" stop="20230905040000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - Fortuna Sittard vs. Ajax, Fecha 4, Fortuna Sittard Stadion</title></programme>
-<programme start="20230905040000 +0000" stop="20230905043000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Liverpool vs. Aston Villa, Fecha 4, Anfield</title></programme>
 <programme start="20230905060000 +0000" stop="20230905063000 +0000" channel="ESPN3.ar"><title lang="es">Vuelta a España Highlights - Etapa 10</title></programme>
 <programme start="20230905063000 +0000" stop="20230905070000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
 <programme start="20230905070000 +0000" stop="20230905080000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
@@ -34,4 +20,29 @@
 <programme start="20230906000000 +0000" stop="20230906030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Tuesday Night Baseball - Houston Astros vs. Texas Rangers, Temporada regular, Globe Life Field</title></programme>
 <programme start="20230906030000 +0000" stop="20230906040000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20230906040000 +0000" stop="20230906043000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - The Tiger Effect</title></programme>
+<programme start="20230906050000 +0000" stop="20230906060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20230906060000 +0000" stop="20230906070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Cataluña, Circuito de Barcelona-Cataluña, Montmeló</title></programme>
+<programme start="20230906070000 +0000" stop="20230906090000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 10</title></programme>
+<programme start="20230906090000 +0000" stop="20230906100000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20230906100000 +0000" stop="20230906110000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20230906110000 +0000" stop="20230906120000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230906120000 +0000" stop="20230906123000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20230906123000 +0000" stop="20230906130000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
+<programme start="20230906130000 +0000" stop="20230906140000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - The Tiger Effect</title></programme>
+<programme start="20230906140000 +0000" stop="20230906170000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Tuesday Night Baseball - Houston Astros vs. Texas Rangers, Temporada regular, Globe Life Field</title></programme>
+<programme start="20230906170000 +0000" stop="20230906173000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20230906173000 +0000" stop="20230906180000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20230906180000 +0000" stop="20230906190000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - The Tiger Effect</title></programme>
+<programme start="20230906190000 +0000" stop="20230906200000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20230906200000 +0000" stop="20230906203000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20230906203000 +0000" stop="20230906210000 +0000" channel="ESPN3.ar"><title lang="es">Vuelta a España Highlights - Etapa 12</title></programme>
+<programme start="20230906210000 +0000" stop="20230906220000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - The Tiger Effect</title></programme>
+<programme start="20230906220000 +0000" stop="20230906230000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20230906230000 +0000" stop="20230907010000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 11</title></programme>
+<programme start="20230907010000 +0000" stop="20230907020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Cataluña, Circuito de Barcelona-Cataluña, Montmeló</title></programme>
+<programme start="20230907020000 +0000" stop="20230907023000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
+<programme start="20230907023000 +0000" stop="20230907030000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20230907030000 +0000" stop="20230907033000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20230907033000 +0000" stop="20230907040000 +0000" channel="ESPN3.ar"><title lang="es">Countdown to the Ryder Cup - The Fans</title></programme>
+<programme start="20230907040000 +0000" stop="20230907043000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 </tv>
