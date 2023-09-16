@@ -1,20 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230915">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230916">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230916053000 +0000" stop="20230916063000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20230916063000 +0000" stop="20230916070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20230916070000 +0000" stop="20230916080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20230916080000 +0000" stop="20230916090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20230916090000 +0000" stop="20230916110000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 19</title></programme>
-<programme start="20230916110000 +0000" stop="20230916170000 +0000" channel="ESPN3.ar"><title lang="es">European PGA Tour - BMW PGA Championship - Tercera ronda, Wentworth Club, Surrey, England</title></programme>
-<programme start="20230916170000 +0000" stop="20230916180000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20230916180000 +0000" stop="20230916183000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20230916183000 +0000" stop="20230916203000 +0000" channel="ESPN3.ar"><title lang="es">Off Road Electric Car Racing Series - Island X Prix, Italy, Carrera 1</title></programme>
-<programme start="20230916203000 +0000" stop="20230916210000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
-<programme start="20230916210000 +0000" stop="20230916230000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Ath. Bilbao vs. Cádiz, Fecha 5, Estadio San Mamés</title></programme>
-<programme start="20230916230000 +0000" stop="20230917000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Milan, Fecha 4, Estadio Giuseppe Meazza</title></programme>
-<programme start="20230917000000 +0000" stop="20230917010000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Brighton and Hove Albion, Fecha 5, Old Trafford</title></programme>
-<programme start="20230917010000 +0000" stop="20230917030000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Barcelona vs. Betis, Fecha 5, Estadio Camp Nou</title></programme>
-<programme start="20230917030000 +0000" stop="20230917033000 +0000" channel="ESPN3.ar"><title lang="es">Off Road Electric Car Racing Series - Island X Prix, Italy, Carrera 1</title></programme>
 <programme start="20230917050000 +0000" stop="20230917070000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Newcastle Utd. vs. Brentford, Fecha 5, St. James&apos; Park</title></programme>
 <programme start="20230917070000 +0000" stop="20230917090000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 20</title></programme>
 <programme start="20230917090000 +0000" stop="20230917110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Genoa vs. Napoli, Fecha 4, Estadio Luigi Ferraris</title></programme>
@@ -27,4 +12,21 @@
 <programme start="20230917230000 +0000" stop="20230918020000 +0000" channel="ESPN3.ar"><title lang="es">Béisbol dominical de ESPN - Chicago Cubs vs. Arizona D-Backs, Temporada regular, Chase Field</title></programme>
 <programme start="20230918020000 +0000" stop="20230918030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
 <programme start="20230918030000 +0000" stop="20230918033000 +0000" channel="ESPN3.ar"><title lang="es">Off Road Electric Car Racing Series - Island X Prix, Italy, Carrera 2</title></programme>
+<programme start="20230918050000 +0000" stop="20230918070000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Sevilla vs. Las Palmas, Fecha 5, Estadio Ramón Sánchez-Pizjuán</title></programme>
+<programme start="20230918070000 +0000" stop="20230918080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Roma vs. Empoli, Fecha 4, Estadio Olimpico</title></programme>
+<programme start="20230918080000 +0000" stop="20230918090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
+<programme start="20230918090000 +0000" stop="20230918120000 +0000" channel="ESPN3.ar"><title lang="es">Béisbol dominical de ESPN - Chicago Cubs vs. Arizona D-Backs, Temporada regular, Chase Field</title></programme>
+<programme start="20230918120000 +0000" stop="20230918130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Brighton and Hove Albion, Fecha 5, Old Trafford</title></programme>
+<programme start="20230918130000 +0000" stop="20230918150000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Roma vs. Empoli, Fecha 4, Estadio Olimpico</title></programme>
+<programme start="20230918150000 +0000" stop="20230918170000 +0000" channel="ESPN3.ar"><title lang="es">European PGA Tour - BMW PGA Championship - Tercera ronda, Wentworth Club, Surrey, England</title></programme>
+<programme start="20230918170000 +0000" stop="20230918190000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 21</title></programme>
+<programme start="20230918190000 +0000" stop="20230918200000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
+<programme start="20230918200000 +0000" stop="20230918203000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20230918203000 +0000" stop="20230918210000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
+<programme start="20230918210000 +0000" stop="20230918220000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20230918220000 +0000" stop="20230918230000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Italy, Race 1</title></programme>
+<programme start="20230918230000 +0000" stop="20230919000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Milan, Fecha 4, Estadio Giuseppe Meazza</title></programme>
+<programme start="20230919000000 +0000" stop="20230919031500 +0000" channel="ESPN3.ar"><title lang="es">NFL Football - Cleveland Browns vs. Pittsburgh Steelers, Semana 2, Estadio Acrisure</title></programme>
+<programme start="20230919031500 +0000" stop="20230919035000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20230919035000 +0000" stop="20230919042000 +0000" channel="ESPN3.ar"><title lang="es">Fórmula 1 - Gran Premio de Singapur, Circuito callejero de Marina Bay, Marina Bay</title></programme>
 </tv>
