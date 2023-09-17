@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230916">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230917">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230917050000 +0000" stop="20230917070000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Newcastle Utd. vs. Brentford, Fecha 5, St. James&apos; Park</title></programme>
-<programme start="20230917070000 +0000" stop="20230917090000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 20</title></programme>
-<programme start="20230917090000 +0000" stop="20230917110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Genoa vs. Napoli, Fecha 4, Estadio Luigi Ferraris</title></programme>
-<programme start="20230917110000 +0000" stop="20230917163000 +0000" channel="ESPN3.ar"><title lang="es">European PGA Tour - BMW PGA Championship - Ronda final, Wentworth Club, Surrey, England</title></programme>
-<programme start="20230917163000 +0000" stop="20230917190000 +0000" channel="ESPN3.ar"><title lang="es">La Vuelta - Etapa 21</title></programme>
-<programme start="20230917190000 +0000" stop="20230917200000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Bournemouth vs. Chelsea, Fecha 5, Dean Court - Vitality Stadium</title></programme>
-<programme start="20230917200000 +0000" stop="20230917220000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Everton vs. Arsenal, Fecha 5, Goodison Park</title></programme>
-<programme start="20230917220000 +0000" stop="20230917223000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
-<programme start="20230917223000 +0000" stop="20230917230000 +0000" channel="ESPN3.ar"><title lang="es">Béisbol esta noche</title></programme>
-<programme start="20230917230000 +0000" stop="20230918020000 +0000" channel="ESPN3.ar"><title lang="es">Béisbol dominical de ESPN - Chicago Cubs vs. Arizona D-Backs, Temporada regular, Chase Field</title></programme>
-<programme start="20230918020000 +0000" stop="20230918030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
-<programme start="20230918030000 +0000" stop="20230918033000 +0000" channel="ESPN3.ar"><title lang="es">Off Road Electric Car Racing Series - Island X Prix, Italy, Carrera 2</title></programme>
 <programme start="20230918050000 +0000" stop="20230918070000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Sevilla vs. Las Palmas, Fecha 5, Estadio Ramón Sánchez-Pizjuán</title></programme>
 <programme start="20230918070000 +0000" stop="20230918080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Roma vs. Empoli, Fecha 4, Estadio Olimpico</title></programme>
 <programme start="20230918080000 +0000" stop="20230918090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
@@ -29,4 +17,23 @@
 <programme start="20230919000000 +0000" stop="20230919031500 +0000" channel="ESPN3.ar"><title lang="es">NFL Football - Cleveland Browns vs. Pittsburgh Steelers, Semana 2, Estadio Acrisure</title></programme>
 <programme start="20230919031500 +0000" stop="20230919035000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20230919035000 +0000" stop="20230919042000 +0000" channel="ESPN3.ar"><title lang="es">Fórmula 1 - Gran Premio de Singapur, Circuito callejero de Marina Bay, Marina Bay</title></programme>
+<programme start="20230919055500 +0000" stop="20230919063000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
+<programme start="20230919063000 +0000" stop="20230919070000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20230919070000 +0000" stop="20230919080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20230919080000 +0000" stop="20230919083000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20230919083000 +0000" stop="20230919113000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Monday Night Baseball - Seattle Mariners vs. Oakland Athletics, Temporada regular, Oakland Coliseum</title></programme>
+<programme start="20230919113000 +0000" stop="20230919123000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230919123000 +0000" stop="20230919130000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20230919130000 +0000" stop="20230919145500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Kenshiro Teraji vs. Hekkie Budler</title></programme>
+<programme start="20230919145500 +0000" stop="20230919152000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
+<programme start="20230919152000 +0000" stop="20230919173000 +0000" channel="ESPN3.ar"><title lang="es">Women&apos;s Olympic Qualifiers - Polonia vs. Colombia, Grupo C, Lodz, Lodz, Poland</title></programme>
+<programme start="20230919173000 +0000" stop="20230919183000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20230919183000 +0000" stop="20230919184000 +0000" channel="ESPN3.ar"><title lang="es">España campeón UEFA NL 2023</title></programme>
+<programme start="20230919184000 +0000" stop="20230919205500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Shakhtar Donetsk (Ucr) vs. FC Porto (Por), Fecha 1 - Grupo H, Estadio Olímpico de Kiev</title></programme>
+<programme start="20230919205500 +0000" stop="20230919220000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230919220000 +0000" stop="20230919230000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Italia, Carrera 2</title></programme>
+<programme start="20230919230000 +0000" stop="20230920000000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20230920000000 +0000" stop="20230920030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Tuesday Night Baseball - Baltimore Orioles vs. Houston Astros, Temporada regular, Minute Maid Park</title></programme>
+<programme start="20230920030000 +0000" stop="20230920040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20230920040000 +0000" stop="20230920043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
 </tv>
