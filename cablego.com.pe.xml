@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230918">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230919">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230919055500 +0000" stop="20230919063000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
-<programme start="20230919063000 +0000" stop="20230919070000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20230919070000 +0000" stop="20230919080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20230919080000 +0000" stop="20230919083000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20230919083000 +0000" stop="20230919113000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Monday Night Baseball - Seattle Mariners vs. Oakland Athletics, Temporada regular, Oakland Coliseum</title></programme>
-<programme start="20230919113000 +0000" stop="20230919123000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20230919123000 +0000" stop="20230919130000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20230919130000 +0000" stop="20230919145500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Kenshiro Teraji vs. Hekkie Budler</title></programme>
-<programme start="20230919145500 +0000" stop="20230919152000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - Vuelta a España</title></programme>
-<programme start="20230919152000 +0000" stop="20230919173000 +0000" channel="ESPN3.ar"><title lang="es">Women&apos;s Olympic Qualifiers - Polonia vs. Colombia, Grupo C, Lodz, Lodz, Poland</title></programme>
-<programme start="20230919173000 +0000" stop="20230919183000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20230919183000 +0000" stop="20230919184000 +0000" channel="ESPN3.ar"><title lang="es">España campeón UEFA NL 2023</title></programme>
-<programme start="20230919184000 +0000" stop="20230919205500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Shakhtar Donetsk (Ucr) vs. FC Porto (Por), Fecha 1 - Grupo H, Estadio Olímpico de Kiev</title></programme>
-<programme start="20230919205500 +0000" stop="20230919220000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20230919220000 +0000" stop="20230919230000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Italia, Carrera 2</title></programme>
-<programme start="20230919230000 +0000" stop="20230920000000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20230920000000 +0000" stop="20230920030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN&apos;s Tuesday Night Baseball - Baltimore Orioles vs. Houston Astros, Temporada regular, Minute Maid Park</title></programme>
-<programme start="20230920030000 +0000" stop="20230920040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20230920040000 +0000" stop="20230920043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
 <programme start="20230920050000 +0000" stop="20230920070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Shakhtar Donetsk (Ucr) vs. FC Porto (Por), Fecha 1 - Grupo H, Estadio Olímpico de Kiev</title></programme>
 <programme start="20230920070000 +0000" stop="20230920073000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20230920073000 +0000" stop="20230920080000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
@@ -37,4 +18,22 @@
 <programme start="20230921010000 +0000" stop="20230921030000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Sevilla (Esp) vs. RC Lens (Fra), Fecha 1 - Grupo B, Estadio Ramón Sánchez-Pizjuán</title></programme>
 <programme start="20230921030000 +0000" stop="20230921040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
 <programme start="20230921040000 +0000" stop="20230921043000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A - Fluminense vs. Cruzeiro, Fecha 24, Estadio Maracaná</title></programme>
+<programme start="20230921060000 +0000" stop="20230921070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20230921070000 +0000" stop="20230921080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Bayern Munich (Ale) vs. Manchester Utd. (Ing), Fecha 1 - Grupo A, Allianz Arena</title></programme>
+<programme start="20230921080000 +0000" stop="20230921090000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20230921090000 +0000" stop="20230921093000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20230921093000 +0000" stop="20230921100000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20230921100000 +0000" stop="20230921120000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - SC Braga (Por) vs. Napoli (Ita), Fecha 1 - Grupo C, Estádio Municipal de Braga</title></programme>
+<programme start="20230921120000 +0000" stop="20230921140000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Galatasaray (Tur) vs. Copenhague (Din), Fecha 1 - Grupo A, RAMS Park</title></programme>
+<programme start="20230921140000 +0000" stop="20230921143000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20230921143000 +0000" stop="20230921163000 +0000" channel="ESPN3.ar"><title lang="es">2021-2022: El año del Eintracht Frankfurt</title></programme>
+<programme start="20230921163000 +0000" stop="20230921184500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Bayer Leverkusen (Ale) vs. Hacken (Sue), Fecha 1 - Grupo H, BayArena</title></programme>
+<programme start="20230921184500 +0000" stop="20230921205500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Atalanta (Ita) vs. Rakow (Pol), Fecha 1 - Grupo D, Gewiss Stadium</title></programme>
+<programme start="20230921205500 +0000" stop="20230921230000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Panathinaikos (Gre) vs. Villarreal (Esp), Fecha 1 - Grupo F, Estadio Olímpico de Atenas</title></programme>
+<programme start="20230921230000 +0000" stop="20230921233000 +0000" channel="ESPN3.ar"><title lang="es">Countdown to the Ryder Cup - Forging Legends</title></programme>
+<programme start="20230921233000 +0000" stop="20230922003000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230922003000 +0000" stop="20230922010000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20230922010000 +0000" stop="20230922030000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A - Fluminense vs. Cruzeiro, Fecha 24, Estadio Maracaná</title></programme>
+<programme start="20230922030000 +0000" stop="20230922040000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
+<programme start="20230922040000 +0000" stop="20230922043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Ajax (Hol) vs. Olympique de Marseille (Fra), Fecha 1 - Grupo B, Johan Cruijff Arena</title></programme>
 </tv>
