@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230921">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230922">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230922050000 +0000" stop="20230922060000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
-<programme start="20230922060000 +0000" stop="20230922070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20230922070000 +0000" stop="20230922073000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20230922073000 +0000" stop="20230922080000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
-<programme start="20230922080000 +0000" stop="20230922090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20230922090000 +0000" stop="20230922100000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League - Highlight</title></programme>
-<programme start="20230922100000 +0000" stop="20230922120000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Panathinaikos (Gre) vs. Villarreal (Esp), Fecha 1 - Grupo F, Estadio Olímpico de Atenas</title></programme>
-<programme start="20230922120000 +0000" stop="20230922140000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Brighton and Hove Albion (Ing) vs. AEK (Gre), Fecha 1 - Grupo B, Amex Stadium</title></programme>
-<programme start="20230922140000 +0000" stop="20230922150000 +0000" channel="ESPN3.ar"><title lang="es">GP Campo Chico</title></programme>
-<programme start="20230922150000 +0000" stop="20230922160000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20230922160000 +0000" stop="20230922163000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
-<programme start="20230922163000 +0000" stop="20230922170000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20230922170000 +0000" stop="20230922190000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Rangers (Esc) vs. Betis (Esp), Fecha 1 - Grupo C, Ibrox Stadium</title></programme>
-<programme start="20230922190000 +0000" stop="20230922193000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20230922193000 +0000" stop="20230923000000 +0000" channel="ESPN3.ar"><title lang="es">Laver Cup - Día 1</title></programme>
-<programme start="20230923000000 +0000" stop="20230923010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League - Highlight</title></programme>
-<programme start="20230923010000 +0000" stop="20230923013000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20230923013000 +0000" stop="20230923020000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20230923020000 +0000" stop="20230923023000 +0000" channel="ESPN3.ar"><title lang="es">Laver Cup - Día 1</title></programme>
 <programme start="20230923060000 +0000" stop="20230923063000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
 <programme start="20230923063000 +0000" stop="20230923070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
 <programme start="20230923070000 +0000" stop="20230923080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - All Access - Canelo Álvarez</title></programme>
@@ -36,4 +17,23 @@
 <programme start="20230924000000 +0000" stop="20230924010000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester City vs. Nottingham Forest, Fecha 6, Etihad Stadium</title></programme>
 <programme start="20230924010000 +0000" stop="20230924020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Celta de Vigo, Fecha 6, Estadio Camp Nou</title></programme>
 <programme start="20230924020000 +0000" stop="20230924023000 +0000" channel="ESPN3.ar"><title lang="es">Laver Cup - Día 2</title></programme>
+<programme start="20230924060000 +0000" stop="20230924070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Celta de Vigo, Fecha 6, Estadio Camp Nou</title></programme>
+<programme start="20230924070000 +0000" stop="20230924080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester City vs. Nottingham Forest, Fecha 6, Etihad Stadium</title></programme>
+<programme start="20230924080000 +0000" stop="20230924085500 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20230924085500 +0000" stop="20230924094000 +0000" channel="ESPN3.ar"><title lang="es">Superbikes FIM - España - World SBK - Superpole Race</title></programme>
+<programme start="20230924094000 +0000" stop="20230924101500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20230924101500 +0000" stop="20230924105000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20230924105000 +0000" stop="20230924115500 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230924115500 +0000" stop="20230924122000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20230924122000 +0000" stop="20230924143000 +0000" channel="ESPN3.ar"><title lang="es">Women&apos;s Olympic Qualifiers - Tailandia vs. Colombia, Grupo C, Lodz, Lodz, Poland</title></programme>
+<programme start="20230924143000 +0000" stop="20230924150000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20230924150000 +0000" stop="20230924160000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester City vs. Nottingham Forest, Fecha 6, Etihad Stadium</title></programme>
+<programme start="20230924160000 +0000" stop="20230924180000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Atalanta vs. Cagliari, Fecha 5, Gewiss Stadium</title></programme>
+<programme start="20230924180000 +0000" stop="20230924190000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230924190000 +0000" stop="20230925003000 +0000" channel="ESPN3.ar"><title lang="es">Laver Cup - Día 3</title></programme>
+<programme start="20230925003000 +0000" stop="20230925013000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Empoli vs. Inter, Fecha 5, Estadio Carlo Castellani</title></programme>
+<programme start="20230925013000 +0000" stop="20230925023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Arsenal vs. Tottenham Hotspur, Fecha 6, Emirates Stadium</title></programme>
+<programme start="20230925023000 +0000" stop="20230925033000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
+<programme start="20230925033000 +0000" stop="20230925043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Bharat, Circuito Internacional de Buddh?, Greater Noida</title></programme>
+<programme start="20230925043000 +0000" stop="20230925050000 +0000" channel="ESPN3.ar"><title lang="es">Fórmula 1 - Gran Premio de Japón, Circuito de Suzuka, Suzuka</title></programme>
 </tv>
