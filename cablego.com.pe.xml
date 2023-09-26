@@ -1,21 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230925">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230926">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230926060000 +0000" stop="20230926070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20230926070000 +0000" stop="20230926090000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. Olympique de Marseille, Fecha 6, Parc des Princes</title></programme>
-<programme start="20230926090000 +0000" stop="20230926100000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20230926100000 +0000" stop="20230926110000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20230926110000 +0000" stop="20230926130000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Betis vs. Cádiz, Fecha 6, Estadio Benito Villamarín</title></programme>
-<programme start="20230926130000 +0000" stop="20230926150000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. Olympique de Marseille, Fecha 6, Parc des Princes</title></programme>
-<programme start="20230926150000 +0000" stop="20230926160000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20230926160000 +0000" stop="20230926180000 +0000" channel="ESPN3.ar"><title lang="es">Fórmula 1 - Gran Premio de Japón, Circuito de Suzuka, Suzuka</title></programme>
-<programme start="20230926180000 +0000" stop="20230926183000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20230926183000 +0000" stop="20230926204500 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Juventus vs. Lecce, Fecha 6, Allianz Stadium</title></programme>
-<programme start="20230926204500 +0000" stop="20230926211000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20230926211000 +0000" stop="20230926220500 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20230926220500 +0000" stop="20230927000000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Sevilla vs. Almería, Fecha 7, Estadio Ramón Sánchez-Pizjuán</title></programme>
-<programme start="20230927000000 +0000" stop="20230927020000 +0000" channel="ESPN3.ar"><title lang="es">WNBA - Connecticut Sun vs. New York Liberty, Juego 2 - Semifinales, Barclays Center</title></programme>
-<programme start="20230927020000 +0000" stop="20230927040000 +0000" channel="ESPN3.ar"><title lang="es">WNBA - Dallas Wings vs. Las Vegas Aces, Juego 2 - Semifinales, T-Mobile Arena</title></programme>
-<programme start="20230927040000 +0000" stop="20230927043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Carabao Cup - Manchester Utd. vs. Crystal Palace, Tercera ronda</title></programme>
 <programme start="20230927050000 +0000" stop="20230927070000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Barcelona, Fecha 7, Estadio Son Moix</title></programme>
 <programme start="20230927070000 +0000" stop="20230927080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
 <programme start="20230927080000 +0000" stop="20230927090000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
@@ -35,4 +19,21 @@
 <programme start="20230927230000 +0000" stop="20230928010000 +0000" channel="ESPN3.ar"><title lang="es">Carabao Cup - Newcastle Utd. vs. Manchester City, Tercera ronda</title></programme>
 <programme start="20230928010000 +0000" stop="20230928030000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - Ajax vs. FC Volendam, Fecha 3, Johan Cruijff Arena</title></programme>
 <programme start="20230928030000 +0000" stop="20230928033000 +0000" channel="ESPN3.ar"><title lang="es">CONMEBOL Sudamericana - Liga de Quito (Ecu) vs. Def. y Justicia (Arg), Semifinal - Vuelta, Estadio Rodrigo P. Delgado</title></programme>
+<programme start="20230928050000 +0000" stop="20230928060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20230928060000 +0000" stop="20230928070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20230928070000 +0000" stop="20230928100000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de Bharat, Circuito Internacional de Buddh?, Greater Noida</title></programme>
+<programme start="20230928100000 +0000" stop="20230928103000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20230928103000 +0000" stop="20230928122500 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - Ajax vs. FC Volendam, Fecha 3, Johan Cruijff Arena</title></programme>
+<programme start="20230928122500 +0000" stop="20230928142500 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Valencia vs. Real Sociedad, Fecha 7, Estadio Mestalla</title></programme>
+<programme start="20230928142500 +0000" stop="20230928162000 +0000" channel="ESPN3.ar"><title lang="es">CONMEBOL Sudamericana - Liga de Quito (Ecu) vs. Def. y Justicia (Arg), Semifinal - Vuelta, Estadio Rodrigo P. Delgado</title></programme>
+<programme start="20230928162000 +0000" stop="20230928165000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20230928165000 +0000" stop="20230928190000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Celta de Vigo vs. Dep. Alavés, Fecha 7, Estadio Abanca-Balaídos</title></programme>
+<programme start="20230928190000 +0000" stop="20230928200000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20230928200000 +0000" stop="20230928210000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Carabao Cup - Newcastle Utd. vs. Manchester City, Tercera ronda</title></programme>
+<programme start="20230928210000 +0000" stop="20230928220000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20230928220000 +0000" stop="20230929000000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Celta de Vigo vs. Dep. Alavés, Fecha 7, Estadio Abanca-Balaídos</title></programme>
+<programme start="20230929000000 +0000" stop="20230929010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20230929010000 +0000" stop="20230929030000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Genoa vs. Roma, Fecha 6, Estadio Luigi Ferraris</title></programme>
+<programme start="20230929030000 +0000" stop="20230929040000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20230929040000 +0000" stop="20230929043000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 </tv>
