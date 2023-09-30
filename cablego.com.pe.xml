@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20230929">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20230930">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20230930053000 +0000" stop="20230930064000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Sprint Race - Gran Premio de Japón, Mobility Resort Motegi, Motegi</title></programme>
-<programme start="20230930064000 +0000" stop="20230930084500 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - RC Strasbourg vs. RC Lens, Fecha 7, Stade de la Meinau</title></programme>
-<programme start="20230930084500 +0000" stop="20230930092000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20230930092000 +0000" stop="20230930112000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Genoa vs. Roma, Fecha 6, Estadio Luigi Ferraris</title></programme>
-<programme start="20230930112000 +0000" stop="20230930133000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Aston Villa vs. Brighton and Hove Albion, Fecha 7, Villa Park</title></programme>
-<programme start="20230930133000 +0000" stop="20230930135000 +0000" channel="ESPN3.ar"><title lang="es">Manchester City campeón UEFA Champions League 20</title></programme>
-<programme start="20230930135000 +0000" stop="20230930155500 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Bournemouth vs. Arsenal, Fecha 7, Dean Court - Vitality Stadium</title></programme>
-<programme start="20230930155500 +0000" stop="20230930175500 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Milan vs. Lazio, Fecha 7, Estadio Giuseppe Meazza</title></programme>
-<programme start="20230930175500 +0000" stop="20230930200000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Everton vs. Luton Town, Fecha 7, Goodison Park</title></programme>
-<programme start="20230930200000 +0000" stop="20230930220000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Getafe vs. Villarreal, Fecha 8, Estadio Coliseum Alfonso Pérez</title></programme>
-<programme start="20230930220000 +0000" stop="20231001020000 +0000" channel="ESPN3.ar"><title lang="es">A1 Pádel - Asunción - Semifinales</title></programme>
-<programme start="20231001020000 +0000" stop="20231001030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum Mundial</title></programme>
-<programme start="20231001030000 +0000" stop="20231001033000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Aston Villa vs. Brighton and Hove Albion, Fecha 7, Villa Park</title></programme>
 <programme start="20231001050000 +0000" stop="20231001070000 +0000" channel="ESPN3.ar"><title lang="es">Copa Liga Profesional 2023 - Racing Club vs. Independiente, Fecha 7 - Interzonal, Estadio Presidente Perón</title></programme>
 <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Girona vs. Real Madrid, Fecha 8, Estadio Montilivi</title></programme>
 <programme start="20231001080000 +0000" stop="20231001090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
@@ -34,4 +21,21 @@
 <programme start="20231002000000 +0000" stop="20231002020000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de Japón, Mobility Resort Motegi, Motegi</title></programme>
 <programme start="20231002020000 +0000" stop="20231002030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
 <programme start="20231002030000 +0000" stop="20231002033000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de Hurlingham - Semifinal 2</title></programme>
+<programme start="20231002050000 +0000" stop="20231002060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Tottenham Hotspur vs. Liverpool, Fecha 7, Tottenham Hotspur Stadium</title></programme>
+<programme start="20231002060000 +0000" stop="20231002070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Girona vs. Real Madrid, Fecha 8, Estadio Montilivi</title></programme>
+<programme start="20231002070000 +0000" stop="20231002080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Atl. de Madrid vs. Cádiz, Fecha 8, Estadio Wanda Metropolitano</title></programme>
+<programme start="20231002080000 +0000" stop="20231002090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
+<programme start="20231002090000 +0000" stop="20231002110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Roma vs. Frosinone, Fecha 7, Estadio Olimpico</title></programme>
+<programme start="20231002110000 +0000" stop="20231002130000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Almería vs. Granada, Fecha 8, Power Horse Stadium</title></programme>
+<programme start="20231002130000 +0000" stop="20231002160000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de Japón, Mobility Resort Motegi, Motegi</title></programme>
+<programme start="20231002160000 +0000" stop="20231002180000 +0000" channel="ESPN3.ar"><title lang="es">Copa Liga Profesional 2023 - Boca Jrs. vs. River Plate, Fecha 7 - Interzonal, Estadio Alberto J. Armando</title></programme>
+<programme start="20231002180000 +0000" stop="20231002185500 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231002185500 +0000" stop="20231002195000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Atl. de Madrid vs. Cádiz, Fecha 8, Estadio Wanda Metropolitano</title></programme>
+<programme start="20231002195000 +0000" stop="20231002220000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Las Palmas vs. Celta de Vigo, Fecha 8, Estadio de Gran Canaria</title></programme>
+<programme start="20231002220000 +0000" stop="20231002230000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20231002230000 +0000" stop="20231003010000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Fiorentina vs. Cagliari, Fecha 7, Estadio Artemio Franchi</title></programme>
+<programme start="20231003010000 +0000" stop="20231003020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Tottenham Hotspur vs. Liverpool, Fecha 7, Tottenham Hotspur Stadium</title></programme>
+<programme start="20231003020000 +0000" stop="20231003030000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20231003030000 +0000" stop="20231003040000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231003040000 +0000" stop="20231003043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Japón, Mobility Resort Motegi, Motegi</title></programme>
 </tv>
