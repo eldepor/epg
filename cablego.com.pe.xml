@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231005">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
 <programme start="20231006060000 +0000" stop="20231006070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231006070000 +0000" stop="20231006090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Villarreal (Esp) vs. Stade Rennais (Fra), Fecha 2 - Grupo F, Estadio La Cerámica</title></programme>
+<programme start="20231006070000 +0000" stop="20231006090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Villarreal vs. Stade Rennais, Fecha 2 - Grupo F, Estadio La Cerámica</title></programme>
 <programme start="20231006090000 +0000" stop="20231006093000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
 <programme start="20231006093000 +0000" stop="20231006100000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20231006100000 +0000" stop="20231006103000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
 <programme start="20231006103000 +0000" stop="20231006140000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Shanghai Mas - Segunda ronda, Qi Zhong Tennis Center, Shanghai, China</title></programme>
-<programme start="20231006140000 +0000" stop="20231006160000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Shanghai Mas - Segunda ronda, Qi Zhong Tennis Center, Shanghai, China</title></programme>
-<programme start="20231006160000 +0000" stop="20231006180000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Olympique de Marseille (Fra) vs. Brighton and Hove Albion (Ing), Fecha 2 - Grupo B, Vélodrome</title></programme>
-<programme start="20231006180000 +0000" stop="20231006190000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Roma (Ita) vs. Servette (Sui), Fecha 2 - Grupo G, Estadio Olimpico</title></programme>
-<programme start="20231006190000 +0000" stop="20231006200000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Inter (Ita) vs. Benfica (Por), Fecha 2 - Grupo D, Estadio Giuseppe Meazza</title></programme>
+<programme start="20231006140000 +0000" stop="20231006162000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Shanghai Mas - Segunda ronda, Qi Zhong Tennis Center, Shanghai, China</title></programme>
+<programme start="20231006162000 +0000" stop="20231006182500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Olympique de Marseille (Fra) vs. Brighton and Hove Albion (Ing), Fecha 2 - Grupo B, Vélodrome</title></programme>
+<programme start="20231006182500 +0000" stop="20231006193000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Roma (Ita) vs. Servette (Sui), Fecha 2 - Grupo G, Estadio Olimpico</title></programme>
+<programme start="20231006193000 +0000" stop="20231006200000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
 <programme start="20231006200000 +0000" stop="20231006211000 +0000" channel="ESPN3.ar"><title lang="es">Formula One Practice - Gran Premio de Catar, Práctica 1, Circuito Internacional de Losail, Lusail</title></programme>
 <programme start="20231006211000 +0000" stop="20231006223000 +0000" channel="ESPN3.ar"><title lang="es">Clasificación - Fórmula 1 - Gran Premio de Catar, Circuito Internacional de Losail, Lusail</title></programme>
 <programme start="20231006223000 +0000" stop="20231006233000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
@@ -18,11 +18,23 @@
 <programme start="20231007010000 +0000" stop="20231007020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20231007020000 +0000" stop="20231007023000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
 <programme start="20231007023000 +0000" stop="20231007030000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20231007030000 +0000" stop="20231007033000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Lux Fight League - 36</title></programme>
-<programme start="20231007060000 +0000" stop="20231007170000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
-<programme start="20231007170000 +0000" stop="20231007200000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Juego 1 - Series de Campeonato</title></programme>
-<programme start="20231007200000 +0000" stop="20231007233000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
-<programme start="20231007233000 +0000" stop="20231008013000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Juego 1 - Series Divisionales</title></programme>
-<programme start="20231008013000 +0000" stop="20231008043000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Juego 1 - Series de Campeonato</title></programme>
-<programme start="20231008043000 +0000" stop="20231008050000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20231007030000 +0000" stop="20231007033000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Lux Fight League - Alan &amp;quot;Tiburón Blanco&amp;quot; Dominguez México vs. Antonio &amp;quot;Thunder&amp;quot; Suárez México / Eli Rodríguez...</title></programme>
+<programme start="20231007060000 +0000" stop="20231007070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Inter (Ita) vs. Benfica (Por), Fecha 2 - Grupo D, Estadio Giuseppe Meazza</title></programme>
+<programme start="20231007070000 +0000" stop="20231007080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231007080000 +0000" stop="20231007090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20231007090000 +0000" stop="20231007093000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20231007093000 +0000" stop="20231007100000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231007100000 +0000" stop="20231007103000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231007103000 +0000" stop="20231007140000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Shanghai Mas - Segunda ronda, Qi Zhong Tennis Center, Shanghai, China</title></programme>
+<programme start="20231007140000 +0000" stop="20231007162000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Shanghai Mas - Segunda ronda, Qi Zhong Tennis Center, Shanghai, China</title></programme>
+<programme start="20231007162000 +0000" stop="20231007183000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Valencia, Fecha 9, Estadio Son Moix</title></programme>
+<programme start="20231007183000 +0000" stop="20231007203000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Cádiz vs. Girona, Fecha 9, Estadio Nuevo Mirandilla</title></programme>
+<programme start="20231007203000 +0000" stop="20231007210000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20231007210000 +0000" stop="20231007220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Brentford, Fecha 8, Old Trafford</title></programme>
+<programme start="20231007220000 +0000" stop="20231007230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Juventus vs. Torino, Fecha 8, Allianz Stadium</title></programme>
+<programme start="20231007230000 +0000" stop="20231007233000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231007233000 +0000" stop="20231008003000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
+<programme start="20231008003000 +0000" stop="20231008013000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
+<programme start="20231008013000 +0000" stop="20231008043000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Juego 1 - Series Divisionales</title></programme>
+<programme start="20231008043000 +0000" stop="20231008050000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
 </tv>
