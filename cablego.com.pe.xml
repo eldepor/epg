@@ -1,30 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231012">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231013">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231013060000 +0000" stop="20231013063000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
-<programme start="20231013063000 +0000" stop="20231013070000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20231013070000 +0000" stop="20231013080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20231013080000 +0000" stop="20231013083000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20231013083000 +0000" stop="20231013103000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Croacia vs. Turquía, Fecha 7 - Grupo D</title></programme>
-<programme start="20231013103000 +0000" stop="20231013110000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20231013110000 +0000" stop="20231013120000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231013120000 +0000" stop="20231013130000 +0000" channel="ESPN3.ar"><title lang="es">El Show de la F1</title></programme>
-<programme start="20231013130000 +0000" stop="20231013133000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231013133000 +0000" stop="20231013140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
-<programme start="20231013140000 +0000" stop="20231013150000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231013150000 +0000" stop="20231013153000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20231013153000 +0000" stop="20231013163000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024</title></programme>
-<programme start="20231013163000 +0000" stop="20231013183000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Croacia vs. Turquía, Fecha 7 - Grupo D</title></programme>
-<programme start="20231013183000 +0000" stop="20231013204500 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Bristol Bears vs. Leicester Tigers</title></programme>
-<programme start="20231013204500 +0000" stop="20231013211000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
-<programme start="20231013211000 +0000" stop="20231013220500 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231013220500 +0000" stop="20231013230000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231013230000 +0000" stop="20231014000500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
-<programme start="20231014000500 +0000" stop="20231014010500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
-<programme start="20231014010500 +0000" stop="20231014021000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231014021000 +0000" stop="20231014024500 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20231014024500 +0000" stop="20231014034500 +0000" channel="ESPN3.ar"><title lang="es">MotoGP Qualifying - Gran Premio de Indonesia, Circuito Urbano Internacional de Mandalika, Lombok</title></programme>
-<programme start="20231014034500 +0000" stop="20231014044000 +0000" channel="ESPN3.ar"><title lang="es">WSOP Bracelets - $5,000 No-Limit Hold&apos;em / Pot-Limit Omaha - Part 2</title></programme>
-<programme start="20231014044000 +0000" stop="20231014051000 +0000" channel="ESPN3.ar"><title lang="es">WSOP Bracelets - Tournament of Champions - Part 1</title></programme>
 <programme start="20231014053500 +0000" stop="20231014063500 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231014063500 +0000" stop="20231014074500 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Sprint Race - Gran Premio de Indonesia, Circuito Urbano Internacional de Mandalika, Lombok</title></programme>
 <programme start="20231014074500 +0000" stop="20231014085000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
@@ -39,8 +14,26 @@
 <programme start="20231014193000 +0000" stop="20231014203000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231014203000 +0000" stop="20231014210000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
 <programme start="20231014210000 +0000" stop="20231014220000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231014220000 +0000" stop="20231015010000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Philadelphia Phillies vs. Atlanta Braves, Juego 5 - Series Divisionales, Truist Park</title></programme>
-<programme start="20231015010000 +0000" stop="20231015040000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Arizona D-Backs vs. Los Angeles Dodgers, Juego 5 - Series Divisionales, Dodger Stadium</title></programme>
+<programme start="20231014220000 +0000" stop="20231015000000 +0000" channel="ESPN3.ar"><title lang="es">Clasificación para la Eurocopa 2024 - Hungría vs. Serbia, Fecha 7 - Grupo G</title></programme>
+<programme start="20231015000000 +0000" stop="20231015030000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Philadelphia Phillies vs. Atlanta Braves, Juego 5 - Series Divisionales, Truist Park</title></programme>
+<programme start="20231015030000 +0000" stop="20231015040000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231015040000 +0000" stop="20231015043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
 <programme start="20231015043000 +0000" stop="20231015050000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231015050000 +0000" stop="20231015060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
+<programme start="20231015060000 +0000" stop="20231015070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
+<programme start="20231015070000 +0000" stop="20231015090000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Hungría vs. Serbia, Fecha 7 - Grupo G</title></programme>
+<programme start="20231015090000 +0000" stop="20231015100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Ucrania vs. Macedonia del Norte, Fecha 7 - Grupo C</title></programme>
+<programme start="20231015100000 +0000" stop="20231015110000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
+<programme start="20231015110000 +0000" stop="20231015120000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
+<programme start="20231015120000 +0000" stop="20231015130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231015130000 +0000" stop="20231015150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Janibek Alimkhanuly vs. Vincenzo Gualtieri</title></programme>
+<programme start="20231015150000 +0000" stop="20231015160000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
+<programme start="20231015160000 +0000" stop="20231015170000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
+<programme start="20231015170000 +0000" stop="20231015200000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de Indonesia, Circuito Urbano Internacional de Mandalika, Lombok</title></programme>
+<programme start="20231015200000 +0000" stop="20231015220000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Georgia vs. Chipre, Fecha 8 - Grupo A</title></programme>
+<programme start="20231015220000 +0000" stop="20231015230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
+<programme start="20231015230000 +0000" stop="20231016013000 +0000" channel="ESPN3.ar"><title lang="es">NBA Partido de pretemporada - Milwaukee Bucks vs. Los Angeles Lakers</title></programme>
+<programme start="20231016013000 +0000" stop="20231016040000 +0000" channel="ESPN3.ar"><title lang="es">NBA Partido de pretemporada - Golden State Warriors vs. Sacramento Kings</title></programme>
+<programme start="20231016040000 +0000" stop="20231016043000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231016043000 +0000" stop="20231016050000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
 </tv>
