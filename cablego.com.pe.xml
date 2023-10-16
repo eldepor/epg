@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231015">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231016">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231016053000 +0000" stop="20231016063000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231016063000 +0000" stop="20231016070000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231016070000 +0000" stop="20231016100000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de Indonesia, Circuito Urbano Internacional de Mandalika, Lombok</title></programme>
-<programme start="20231016100000 +0000" stop="20231016110000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231016110000 +0000" stop="20231016125500 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Suiza vs. Bielorrusia, Fecha 8 - Grupo I</title></programme>
-<programme start="20231016125500 +0000" stop="20231016145000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Georgia vs. Chipre, Fecha 8 - Grupo A</title></programme>
-<programme start="20231016145000 +0000" stop="20231016155000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Noruega vs. España, Fecha 8 - Grupo A</title></programme>
-<programme start="20231016155000 +0000" stop="20231016180000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Azerbaiyán vs. Austria, Fecha 8 - Grupo F</title></programme>
-<programme start="20231016180000 +0000" stop="20231016183000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231016183000 +0000" stop="20231016203000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Janibek Alimkhanuly vs. Vincenzo Gualtieri</title></programme>
-<programme start="20231016203000 +0000" stop="20231016210000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231016210000 +0000" stop="20231016220000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20231016220000 +0000" stop="20231016230000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231016230000 +0000" stop="20231017000000 +0000" channel="ESPN3.ar"><title lang="es">World Athletics Championships Budapest - Día 7</title></programme>
-<programme start="20231017000000 +0000" stop="20231017030000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Arizona D-Backs vs. Philadelphia Phillies, Juego 1 - Series de Campeonato, Citizens B. Park</title></programme>
-<programme start="20231017030000 +0000" stop="20231017040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Bosnia y Herzegovina vs. Portugal, Fecha 8 - Grupo J</title></programme>
-<programme start="20231017040000 +0000" stop="20231017043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Janibek Alimkhanuly vs. Vincenzo Gualtieri</title></programme>
 <programme start="20231017060000 +0000" stop="20231017070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Bélgica vs. Suecia, Fecha 8 - Grupo F</title></programme>
 <programme start="20231017070000 +0000" stop="20231017090000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Georgia vs. Chipre, Fecha 8 - Grupo A</title></programme>
 <programme start="20231017090000 +0000" stop="20231017100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Noruega vs. España, Fecha 8 - Grupo A</title></programme>
@@ -37,4 +20,29 @@
 <programme start="20231018000000 +0000" stop="20231018030000 +0000" channel="ESPN3.ar"><title lang="es">MLB - Arizona D-Backs vs. Philadelphia Phillies, Juego 2 - Series de Campeonato, Citizens B. Park</title></programme>
 <programme start="20231018030000 +0000" stop="20231018040000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231018040000 +0000" stop="20231018043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Inglaterra vs. Italia, Fecha 8 - Grupo C</title></programme>
+<programme start="20231018050000 +0000" stop="20231018053000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231018053000 +0000" stop="20231018060000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231018060000 +0000" stop="20231018070000 +0000" channel="ESPN3.ar"><title lang="es">WSOP Bracelets - Tournament of Champions - Part 2</title></programme>
+<programme start="20231018070000 +0000" stop="20231018080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Inglaterra vs. Italia, Fecha 8 - Grupo C</title></programme>
+<programme start="20231018080000 +0000" stop="20231018090000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231018090000 +0000" stop="20231018093000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231018093000 +0000" stop="20231018100000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231018100000 +0000" stop="20231018110000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
+<programme start="20231018110000 +0000" stop="20231018120000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
+<programme start="20231018120000 +0000" stop="20231018130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Inglaterra vs. Italia, Fecha 8 - Grupo C</title></programme>
+<programme start="20231018130000 +0000" stop="20231018150000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Finlandia vs. Kazajstán, Fecha 8 - Grupo H</title></programme>
+<programme start="20231018150000 +0000" stop="20231018160000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
+<programme start="20231018160000 +0000" stop="20231018170000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
+<programme start="20231018170000 +0000" stop="20231018173000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231018173000 +0000" stop="20231018180000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231018180000 +0000" stop="20231018190000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Indonesia, Circuito Urbano Internacional de Mandalika, Lombok</title></programme>
+<programme start="20231018190000 +0000" stop="20231018210000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Finlandia vs. Kazajstán, Fecha 8 - Grupo H</title></programme>
+<programme start="20231018210000 +0000" stop="20231018220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Inglaterra vs. Italia, Fecha 8 - Grupo C</title></programme>
+<programme start="20231018220000 +0000" stop="20231018230000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
+<programme start="20231018230000 +0000" stop="20231019000000 +0000" channel="ESPN3.ar"><title lang="es">World Athletics Championships Budapest - Day 9</title></programme>
+<programme start="20231019000000 +0000" stop="20231019020000 +0000" channel="ESPN3.ar"><title lang="es">WNBA - Las Vegas Aces vs. New York Liberty, Juego 4 - Finales, Barclays Center</title></programme>
+<programme start="20231019020000 +0000" stop="20231019023000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231019023000 +0000" stop="20231019030000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231019030000 +0000" stop="20231019040000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
+<programme start="20231019040000 +0000" stop="20231019043000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
 </tv>
