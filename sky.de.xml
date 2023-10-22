@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20231022">
 <channel id="SkySportF1Germany.de"><display-name>Sky Sport F1 HD</display-name><url>https://sky.de</url></channel>
 <channel id="SkySportBundesligaUHD.de"><display-name>Sky Sport Bundesliga UHD</display-name><url>https://sky.de</url></channel>
-<programme start="20231021230000 +0000" stop="20231021233000 +0000" channel="SkySportF1Germany.de"><title lang="de">Live F1: Pressekonferenz Sprint</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/13722903_s.jpg"/></programme>
+<programme start="20231021231000 +0000" stop="20231021233000 +0000" channel="SkySportF1Germany.de"><title lang="de">Live F1: Pressekonferenz Sprint</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/13722903_s.jpg"/></programme>
 <programme start="20231021233000 +0000" stop="20231022003000 +0000" channel="SkySportF1Germany.de"><title lang="de">F1: Sprint in Austin</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/13722902_s.jpg"/></programme>
 <programme start="20231022003000 +0000" stop="20231022011500 +0000" channel="SkySportF1Germany.de"><title lang="de">F1 Academy: 1. Rennen in Austin (USA)</title><category lang="de">Motorsport</category><icon src="http://sky.de/static/img/program_guide/14168436_s.jpg"/></programme>
 <programme start="20231022011500 +0000" stop="20231022014500 +0000" channel="SkySportF1Germany.de"><title lang="de">F1 Academy: 2. Rennen in Austin (USA)</title><category lang="de">Motorsport</category><icon src="http://sky.de/static/img/program_guide/14168437_s.jpg"/></programme>
