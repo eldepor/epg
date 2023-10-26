@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231025">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231026">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231026050000 +0000" stop="20231026060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Paris Saint Germain (Fra) vs. Milan (Ita), Fecha 3 - Grupo F, Parc des Princes</title></programme>
-<programme start="20231026060000 +0000" stop="20231026070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Inter (Ita) vs. RB Salzburgo (Aut), Fecha 3 - Grupo D, Estadio Giuseppe Meazza</title></programme>
-<programme start="20231026070000 +0000" stop="20231026090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Barcelona (Esp) vs. Shakhtar Donetsk (Ucr), Fecha 5 - Grupo H, Estadio Camp Nou</title></programme>
-<programme start="20231026090000 +0000" stop="20231026093000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20231026093000 +0000" stop="20231026100000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20231026100000 +0000" stop="20231026103000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231026103000 +0000" stop="20231026113000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20231026113000 +0000" stop="20231026123000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20231026123000 +0000" stop="20231026133000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20231026133000 +0000" stop="20231026143000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231026143000 +0000" stop="20231026153000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231026153000 +0000" stop="20231026163000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231026163000 +0000" stop="20231026184500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Olympiacos (Gre) vs. West Ham Utd. (Ing), Fecha 3 - Grupo A, Georgios Karaiskakis Stadium</title></programme>
-<programme start="20231026184500 +0000" stop="20231026205500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Brighton and Hove Albion (Ing) vs. Ajax (Hol), Fecha 3 - Grupo B, Amex Stadium</title></programme>
-<programme start="20231026205500 +0000" stop="20231026230000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Aris Limassol (Cyp) vs. Betis (Esp), Fecha 3 - Grupo C, Tsirion Stadium</title></programme>
-<programme start="20231026230000 +0000" stop="20231027000000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231027000000 +0000" stop="20231027010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231027010000 +0000" stop="20231027030000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Liverpool (Ing) vs. Toulouse FC (Fra), Fecha 3 - Grupo E, Anfield</title></programme>
-<programme start="20231027030000 +0000" stop="20231027040000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20231027040000 +0000" stop="20231027043000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231027050000 +0000" stop="20231027053000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
 <programme start="20231027053000 +0000" stop="20231027060000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
 <programme start="20231027060000 +0000" stop="20231027070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
@@ -43,4 +23,8 @@
 <programme start="20231027233000 +0000" stop="20231028020000 +0000" channel="ESPN3.ar"><title lang="es">NBA Viernes - Miami Heat vs. Boston Celtics, Temporada regular, TD Garden Boston</title></programme>
 <programme start="20231028020000 +0000" stop="20231028043000 +0000" channel="ESPN3.ar"><title lang="es">NBA Viernes - Golden State Warriors vs. Sacramento Kings, Temporada regular, Golden 1 Center Sacramento</title></programme>
 <programme start="20231028043000 +0000" stop="20231028050000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20231028163000 +0000" stop="20231028185000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20231028185000 +0000" stop="20231028205500 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Cádiz vs. Sevilla, Fecha 11, Estadio Nuevo Mirandilla</title></programme>
+<programme start="20231028205500 +0000" stop="20231029043000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20231029043000 +0000" stop="20231029050000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
