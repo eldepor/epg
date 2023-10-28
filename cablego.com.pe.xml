@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231027">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231028">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231028050000 +0000" stop="20231028060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231028060000 +0000" stop="20231028063000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
-<programme start="20231028063000 +0000" stop="20231028070000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20231028070000 +0000" stop="20231028080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231028080000 +0000" stop="20231028090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231028090000 +0000" stop="20231028093000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
-<programme start="20231028093000 +0000" stop="20231028103000 +0000" channel="ESPN3.ar"><title lang="es">Especiales LaLiga - Camino a El Clásico</title></programme>
-<programme start="20231028103000 +0000" stop="20231028113000 +0000" channel="ESPN3.ar"><title lang="es">Especiales LaLiga - El clásico: The Movie</title></programme>
-<programme start="20231028113000 +0000" stop="20231028115500 +0000" channel="ESPN3.ar"><title lang="es">Especiales LaLiga - Analizando el clásico</title></programme>
-<programme start="20231028115500 +0000" stop="20231028130000 +0000" channel="ESPN3.ar"><title lang="es">Superbikes FIM - España (Jerez) - World SBK - Race 1</title></programme>
-<programme start="20231028130000 +0000" stop="20231028153000 +0000" channel="ESPN3.ar"><title lang="es">NBA Viernes - Miami Heat vs. Boston Celtics, Temporada regular, TD Garden Boston</title></programme>
-<programme start="20231028153000 +0000" stop="20231028172500 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Genoa vs. Salernitana, Fecha 10, Estadio Luigi Ferraris</title></programme>
-<programme start="20231028172500 +0000" stop="20231028183500 +0000" channel="ESPN3.ar"><title lang="es">Formula One Practice - Gran Premio de la Ciudad de México, Práctica 3, Autódromo Hermanos Rodríguez, Ciudad de México</title></programme>
-<programme start="20231028183500 +0000" stop="20231028185000 +0000" channel="ESPN3.ar"><title lang="es">Manchester City Campeon UCL 2022-2023</title></programme>
-<programme start="20231028185000 +0000" stop="20231028205500 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Cádiz vs. Sevilla, Fecha 11, Estadio Nuevo Mirandilla</title></programme>
-<programme start="20231028205500 +0000" stop="20231028221500 +0000" channel="ESPN3.ar"><title lang="es">Clasificación - Fórmula 1 - Gran Premio de la Ciudad de México, Autódromo Hermanos Rodríguez, Ciudad de México</title></programme>
-<programme start="20231028221500 +0000" stop="20231028224500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231028224500 +0000" stop="20231028235000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Real Madrid, Fecha 11, Estadio Camp Nou</title></programme>
-<programme start="20231028235000 +0000" stop="20231029020000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Atl. Mineiro vs. Fluminense, Fecha 30, Estadio Mineirão</title></programme>
-<programme start="20231029020000 +0000" stop="20231029030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum Mundial</title></programme>
-<programme start="20231029030000 +0000" stop="20231029033000 +0000" channel="ESPN3.ar"><title lang="es">Tortugas Country Club Polo Open Championship - Final</title></programme>
 <programme start="20231029050000 +0000" stop="20231029070000 +0000" channel="ESPN3.ar"><title lang="es">Copa Liga Profesional 2023 - Boca Jrs. vs. Estudiantes LP, Fecha 11 - Grupo B, Estadio Alberto J. Armando</title></programme>
 <programme start="20231029070000 +0000" stop="20231029090000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Chelsea vs. Brentford, Fecha 10, Stamford Bridge</title></programme>
 <programme start="20231029090000 +0000" stop="20231029095500 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
@@ -40,4 +19,24 @@
 <programme start="20231030030000 +0000" stop="20231030040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Tailandia, Circuito Internacional de Chang, Buriram</title></programme>
 <programme start="20231030040000 +0000" stop="20231030043000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
 <programme start="20231030043000 +0000" stop="20231030050000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Manchester City, Fecha 10, Old Trafford</title></programme>
+<programme start="20231030053000 +0000" stop="20231030063000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Roma, Fecha 10, Estadio Giuseppe Meazza</title></programme>
+<programme start="20231030063000 +0000" stop="20231030070000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20231030070000 +0000" stop="20231030080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Copa Sudamericana - Fortaleza (Bra) vs. Liga de Quito (Ecu), Final, Estadio Domingo Burgueño Miguel</title></programme>
+<programme start="20231030080000 +0000" stop="20231030090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Real Madrid, Fecha 11, Estadio Camp Nou</title></programme>
+<programme start="20231030090000 +0000" stop="20231030100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Manchester City, Fecha 10, Old Trafford</title></programme>
+<programme start="20231030100000 +0000" stop="20231030120000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - PSV vs. Ajax, Fecha 10, Philips Stadion</title></programme>
+<programme start="20231030120000 +0000" stop="20231030130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Roma, Fecha 10, Estadio Giuseppe Meazza</title></programme>
+<programme start="20231030130000 +0000" stop="20231030140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Real Madrid, Fecha 11, Estadio Camp Nou</title></programme>
+<programme start="20231030140000 +0000" stop="20231030150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Manchester City, Fecha 10, Old Trafford</title></programme>
+<programme start="20231030150000 +0000" stop="20231030183000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Primera ronda, Accor Arena, Paris, France</title></programme>
+<programme start="20231030183000 +0000" stop="20231030193000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Roma, Fecha 10, Estadio Giuseppe Meazza</title></programme>
+<programme start="20231030193000 +0000" stop="20231030214500 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lazio vs. Fiorentina, Fecha 10, Estadio Olimpico</title></programme>
+<programme start="20231030214500 +0000" stop="20231030220000 +0000" channel="ESPN3.ar"><title lang="es">West Ham campeón UECL 2022-2023</title></programme>
+<programme start="20231030220000 +0000" stop="20231030230000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20231030230000 +0000" stop="20231030233000 +0000" channel="ESPN3.ar"><title lang="es">Asia-Pacific Amateur Championship</title></programme>
+<programme start="20231030233000 +0000" stop="20231031000000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231031000000 +0000" stop="20231031031500 +0000" channel="ESPN3.ar"><title lang="es">NFL Football - Las Vegas Raiders vs. Detroit Lions, Semana 8, Ford Field</title></programme>
+<programme start="20231031031500 +0000" stop="20231031035000 +0000" channel="ESPN3.ar"><title lang="es">Coppa Italia Show</title></programme>
+<programme start="20231031035000 +0000" stop="20231031045500 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20231031045500 +0000" stop="20231031052500 +0000" channel="ESPN3.ar"><title lang="es">Asia-Pacific Amateur Championship</title></programme>
 </tv>
