@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231029">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231030">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231030053000 +0000" stop="20231030063000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Roma, Fecha 10, Estadio Giuseppe Meazza</title></programme>
-<programme start="20231030063000 +0000" stop="20231030070000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20231030070000 +0000" stop="20231030080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Copa Sudamericana - Fortaleza (Bra) vs. Liga de Quito (Ecu), Final, Estadio Domingo Burgueño Miguel</title></programme>
-<programme start="20231030080000 +0000" stop="20231030090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Real Madrid, Fecha 11, Estadio Camp Nou</title></programme>
-<programme start="20231030090000 +0000" stop="20231030100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Manchester City, Fecha 10, Old Trafford</title></programme>
-<programme start="20231030100000 +0000" stop="20231030120000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - PSV vs. Ajax, Fecha 10, Philips Stadion</title></programme>
-<programme start="20231030120000 +0000" stop="20231030130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Roma, Fecha 10, Estadio Giuseppe Meazza</title></programme>
-<programme start="20231030130000 +0000" stop="20231030140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Real Madrid, Fecha 11, Estadio Camp Nou</title></programme>
-<programme start="20231030140000 +0000" stop="20231030150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Manchester City, Fecha 10, Old Trafford</title></programme>
-<programme start="20231030150000 +0000" stop="20231030183000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Primera ronda, Accor Arena, Paris, France</title></programme>
-<programme start="20231030183000 +0000" stop="20231030193000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Roma, Fecha 10, Estadio Giuseppe Meazza</title></programme>
-<programme start="20231030193000 +0000" stop="20231030214500 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lazio vs. Fiorentina, Fecha 10, Estadio Olimpico</title></programme>
-<programme start="20231030214500 +0000" stop="20231030220000 +0000" channel="ESPN3.ar"><title lang="es">West Ham campeón UECL 2022-2023</title></programme>
-<programme start="20231030220000 +0000" stop="20231030230000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20231030230000 +0000" stop="20231030233000 +0000" channel="ESPN3.ar"><title lang="es">Asia-Pacific Amateur Championship</title></programme>
-<programme start="20231030233000 +0000" stop="20231031000000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231031000000 +0000" stop="20231031031500 +0000" channel="ESPN3.ar"><title lang="es">NFL Football - Las Vegas Raiders vs. Detroit Lions, Semana 8, Ford Field</title></programme>
-<programme start="20231031031500 +0000" stop="20231031035000 +0000" channel="ESPN3.ar"><title lang="es">Coppa Italia Show</title></programme>
-<programme start="20231031035000 +0000" stop="20231031045500 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20231031045500 +0000" stop="20231031052500 +0000" channel="ESPN3.ar"><title lang="es">Asia-Pacific Amateur Championship</title></programme>
 <programme start="20231031053000 +0000" stop="20231031060000 +0000" channel="ESPN3.ar"><title lang="es">Coppa Italia Show</title></programme>
 <programme start="20231031060000 +0000" stop="20231031070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
 <programme start="20231031070000 +0000" stop="20231031080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Lazio vs. Fiorentina, Fecha 10, Estadio Olimpico</title></programme>
@@ -35,4 +15,18 @@
 <programme start="20231101023000 +0000" stop="20231101033000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
 <programme start="20231101033000 +0000" stop="20231101040000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
 <programme start="20231101040000 +0000" stop="20231101043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20231101050000 +0000" stop="20231101060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231101060000 +0000" stop="20231101070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Tailandia, Circuito Internacional de Chang, Buriram</title></programme>
+<programme start="20231101070000 +0000" stop="20231101080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Paris</title></programme>
+<programme start="20231101080000 +0000" stop="20231101100000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Bahia vs. Fluminense, Fecha 31, Arena Fonte Nova</title></programme>
+<programme start="20231101100000 +0000" stop="20231101120000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Granada vs. Villarreal, Fecha 11, Estadio Los Cármenes</title></programme>
+<programme start="20231101120000 +0000" stop="20231101130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Copa Sudamericana - Fortaleza (Bra) vs. Liga de Quito (Ecu), Final, Estadio Domingo Burgueño Miguel</title></programme>
+<programme start="20231101130000 +0000" stop="20231101150000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Bahia vs. Fluminense, Fecha 31, Arena Fonte Nova</title></programme>
+<programme start="20231101150000 +0000" stop="20231101183000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Segunda ronda, Accor Arena, Paris, France</title></programme>
+<programme start="20231101183000 +0000" stop="20231101220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Segunda ronda, Accor Arena, Paris, France</title></programme>
+<programme start="20231101220000 +0000" stop="20231101223000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20231101223000 +0000" stop="20231101233000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20231101233000 +0000" stop="20231102020000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - New Orleans Pelicans vs. Oklahoma City Thunder, Temporada regular, Paycom Center Oklahoma City</title></programme>
+<programme start="20231102020000 +0000" stop="20231102043000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - LA Clippers vs. Los Angeles Lakers, Temporada regular, STAPLES Center Los Angeles</title></programme>
+<programme start="20231102043000 +0000" stop="20231102050000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 </tv>
