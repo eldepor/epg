@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231031">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231101">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231101050000 +0000" stop="20231101060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231101060000 +0000" stop="20231101070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Tailandia, Circuito Internacional de Chang, Buriram</title></programme>
-<programme start="20231101070000 +0000" stop="20231101080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Paris</title></programme>
-<programme start="20231101080000 +0000" stop="20231101100000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Bahia vs. Fluminense, Fecha 31, Arena Fonte Nova</title></programme>
-<programme start="20231101100000 +0000" stop="20231101120000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Granada vs. Villarreal, Fecha 11, Estadio Los Cármenes</title></programme>
-<programme start="20231101120000 +0000" stop="20231101130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Copa Sudamericana - Fortaleza (Bra) vs. Liga de Quito (Ecu), Final, Estadio Domingo Burgueño Miguel</title></programme>
-<programme start="20231101130000 +0000" stop="20231101150000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Bahia vs. Fluminense, Fecha 31, Arena Fonte Nova</title></programme>
-<programme start="20231101150000 +0000" stop="20231101183000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Segunda ronda, Accor Arena, Paris, France</title></programme>
-<programme start="20231101183000 +0000" stop="20231101220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Segunda ronda, Accor Arena, Paris, France</title></programme>
-<programme start="20231101220000 +0000" stop="20231101223000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20231101223000 +0000" stop="20231101233000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20231101233000 +0000" stop="20231102020000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - New Orleans Pelicans vs. Oklahoma City Thunder, Temporada regular, Paycom Center Oklahoma City</title></programme>
-<programme start="20231102020000 +0000" stop="20231102043000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - LA Clippers vs. Los Angeles Lakers, Temporada regular, STAPLES Center Los Angeles</title></programme>
-<programme start="20231102043000 +0000" stop="20231102050000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20231102050000 +0000" stop="20231102060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
 <programme start="20231102060000 +0000" stop="20231102070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Paris</title></programme>
 <programme start="20231102070000 +0000" stop="20231102080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Carabao Cup - Manchester Utd. vs. Newcastle Utd., Octavos de final, Old Trafford</title></programme>
@@ -32,4 +18,25 @@
 <programme start="20231103030000 +0000" stop="20231103033000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
 <programme start="20231103033000 +0000" stop="20231103043000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231103043000 +0000" stop="20231103050000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Carabao Cup - Manchester Utd. vs. Newcastle Utd., Octavos de final, Old Trafford</title></programme>
+<programme start="20231103053000 +0000" stop="20231103060000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231103060000 +0000" stop="20231103070000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20231103070000 +0000" stop="20231103090000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - Ajax vs. FC Volendam, Fecha 3, Johan Cruijff Arena</title></programme>
+<programme start="20231103090000 +0000" stop="20231103093000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20231103093000 +0000" stop="20231103100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20231103100000 +0000" stop="20231103103000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231103103000 +0000" stop="20231103113000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231103113000 +0000" stop="20231103120000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231103120000 +0000" stop="20231103130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Paris</title></programme>
+<programme start="20231103130000 +0000" stop="20231103163000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Cuartos de final, Accor Arena, Paris, France</title></programme>
+<programme start="20231103163000 +0000" stop="20231103170000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231103170000 +0000" stop="20231103173000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20231103173000 +0000" stop="20231103180000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
+<programme start="20231103180000 +0000" stop="20231103183000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20231103183000 +0000" stop="20231103220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Rolex Paris Master - Cuartos de final, Accor Arena, Paris, France</title></programme>
+<programme start="20231103220000 +0000" stop="20231103230000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231103230000 +0000" stop="20231103233000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
+<programme start="20231103233000 +0000" stop="20231104000000 +0000" channel="ESPN3.ar"><title lang="es">Béisbol esta noche</title></programme>
+<programme start="20231104000000 +0000" stop="20231104030000 +0000" channel="ESPN3.ar"><title lang="es">Serie Mundial M.L.B. - Arizona D-Backs vs. Texas Rangers, Juego 6, Globe Life Field</title></programme>
+<programme start="20231104030000 +0000" stop="20231104040000 +0000" channel="ESPN3.ar"><title lang="es">WSOP Bracelets - $2,000 No-Limit Hold&apos;em - Part 1</title></programme>
+<programme start="20231104040000 +0000" stop="20231104043000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
