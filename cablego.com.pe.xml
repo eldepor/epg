@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231112">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231113">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231113050000 +0000" stop="20231113060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231113060000 +0000" stop="20231113070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231113070000 +0000" stop="20231113090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lazio vs. Roma, Fecha 12, Estadio Olimpico</title></programme>
-<programme start="20231113090000 +0000" stop="20231113110000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Sevilla vs. Betis, Fecha 13, Estadio Ramón Sánchez-Pizjuán</title></programme>
-<programme start="20231113110000 +0000" stop="20231113120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Shell Gran Premio de Malasia, Circuito Internacional de Sepang, Selangor</title></programme>
-<programme start="20231113120000 +0000" stop="20231113130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Frosinone, Fecha 12, Estadio Giuseppe Meazza</title></programme>
-<programme start="20231113130000 +0000" stop="20231113140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Chelsea vs. Manchester City, Fecha 12, Stamford Bridge</title></programme>
-<programme start="20231113140000 +0000" stop="20231113143000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
-<programme start="20231113143000 +0000" stop="20231113153000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga</title></programme>
-<programme start="20231113153000 +0000" stop="20231113183000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Shell Gran Premio de Malasia, Circuito Internacional de Sepang, Selangor</title></programme>
-<programme start="20231113183000 +0000" stop="20231113190000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
-<programme start="20231113190000 +0000" stop="20231113200000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Chelsea vs. Manchester City, Fecha 12, Stamford Bridge</title></programme>
-<programme start="20231113200000 +0000" stop="20231113220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Nitto ATP Finals - Daniil Medvedev (Rus) vs. Andrey Rublev (Rus), Singles, Pala Alpitour, Turin, Italy</title></programme>
-<programme start="20231113220000 +0000" stop="20231113230000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20231113230000 +0000" stop="20231114000000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231114000000 +0000" stop="20231114020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Jeremías Ponce vs. Andres Tejada</title></programme>
-<programme start="20231114020000 +0000" stop="20231114030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231114030000 +0000" stop="20231114040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231114040000 +0000" stop="20231114043000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
 <programme start="20231114050000 +0000" stop="20231114070000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lazio vs. Roma, Fecha 12, Estadio Olimpico</title></programme>
 <programme start="20231114070000 +0000" stop="20231114080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
 <programme start="20231114080000 +0000" stop="20231114090000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
@@ -41,4 +22,27 @@
 <programme start="20231115020000 +0000" stop="20231115030000 +0000" channel="ESPN3.ar"><title lang="es">WSOP Bracelets - $50K Poker Players Championship - Part 1</title></programme>
 <programme start="20231115030000 +0000" stop="20231115040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
 <programme start="20231115040000 +0000" stop="20231115043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231115050000 +0000" stop="20231115060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20231115060000 +0000" stop="20231115070000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231115070000 +0000" stop="20231115080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231115080000 +0000" stop="20231115083000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231115083000 +0000" stop="20231115090000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
+<programme start="20231115090000 +0000" stop="20231115100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231115100000 +0000" stop="20231115110000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231115110000 +0000" stop="20231115120000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231115120000 +0000" stop="20231115150000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Shell Gran Premio de Malasia, Circuito Internacional de Sepang, Selangor</title></programme>
+<programme start="20231115150000 +0000" stop="20231115153000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231115153000 +0000" stop="20231115160000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
+<programme start="20231115160000 +0000" stop="20231115170000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20231115170000 +0000" stop="20231115180000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20231115180000 +0000" stop="20231115190000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20231115190000 +0000" stop="20231115200000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231115200000 +0000" stop="20231115220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Nitto ATP Finals - Singles - Todos contra todos, Pala Alpitour, Turin, Italy</title></programme>
+<programme start="20231115220000 +0000" stop="20231115230000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20231115230000 +0000" stop="20231116010000 +0000" channel="ESPN3.ar"><title lang="es">Eliminatorias UEFA Euro - Israel vs. Suiza, Fecha 7 - Grupo I</title></programme>
+<programme start="20231116010000 +0000" stop="20231116020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231116020000 +0000" stop="20231116030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231116030000 +0000" stop="20231116033000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20231116033000 +0000" stop="20231116040000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
+<programme start="20231116040000 +0000" stop="20231116043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
 </tv>
