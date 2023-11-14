@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231113">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231114">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231114050000 +0000" stop="20231114070000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lazio vs. Roma, Fecha 12, Estadio Olimpico</title></programme>
-<programme start="20231114070000 +0000" stop="20231114080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20231114080000 +0000" stop="20231114090000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231114090000 +0000" stop="20231114100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231114100000 +0000" stop="20231114110000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231114110000 +0000" stop="20231114120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Chelsea vs. Manchester City, Fecha 12, Stamford Bridge</title></programme>
-<programme start="20231114120000 +0000" stop="20231114123000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
-<programme start="20231114123000 +0000" stop="20231114133000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20231114133000 +0000" stop="20231114143000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Shell Gran Premio de Malasia, Circuito Internacional de Sepang, Selangor</title></programme>
-<programme start="20231114143000 +0000" stop="20231114163000 +0000" channel="ESPN3.ar"><title lang="es">USL Championship - Charleston Battery vs. Phoenix Rising FC, Final</title></programme>
-<programme start="20231114163000 +0000" stop="20231114170000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
-<programme start="20231114170000 +0000" stop="20231114180000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20231114180000 +0000" stop="20231114200000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Liverpool vs. Brentford, Fecha 12, Anfield</title></programme>
-<programme start="20231114200000 +0000" stop="20231114220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Nitto ATP Finals - Singles - Todos contra todos, Pala Alpitour, Turin, Italy</title></programme>
-<programme start="20231114220000 +0000" stop="20231114230000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20231114230000 +0000" stop="20231115000000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20231115000000 +0000" stop="20231115010000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231115010000 +0000" stop="20231115013000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Preview</title></programme>
-<programme start="20231115013000 +0000" stop="20231115020000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231115020000 +0000" stop="20231115030000 +0000" channel="ESPN3.ar"><title lang="es">WSOP Bracelets - $50K Poker Players Championship - Part 1</title></programme>
-<programme start="20231115030000 +0000" stop="20231115040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231115040000 +0000" stop="20231115043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
 <programme start="20231115050000 +0000" stop="20231115060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
 <programme start="20231115060000 +0000" stop="20231115070000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231115070000 +0000" stop="20231115080000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
@@ -45,4 +23,28 @@
 <programme start="20231116030000 +0000" stop="20231116033000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20231116033000 +0000" stop="20231116040000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
 <programme start="20231116040000 +0000" stop="20231116043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20231116050000 +0000" stop="20231116060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20231116060000 +0000" stop="20231116070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
+<programme start="20231116070000 +0000" stop="20231116080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231116080000 +0000" stop="20231116090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231116090000 +0000" stop="20231116093000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231116093000 +0000" stop="20231116100000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20231116100000 +0000" stop="20231116110000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20231116110000 +0000" stop="20231116130000 +0000" channel="ESPN3.ar"><title lang="es">Eliminatorias UEFA Euro - Israel vs. Suiza, Fecha 7 - Grupo I</title></programme>
+<programme start="20231116130000 +0000" stop="20231116133000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20231116133000 +0000" stop="20231116140000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20231116140000 +0000" stop="20231116143000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
+<programme start="20231116143000 +0000" stop="20231116150000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231116150000 +0000" stop="20231116173000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - Boston Celtics vs. Philadelphia 76ers, Temporada regular, Wells Fargo Center Philadelphia</title></programme>
+<programme start="20231116173000 +0000" stop="20231116200000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - Sacramento Kings vs. Los Angeles Lakers, Temporada regular, STAPLES Center Los Angeles</title></programme>
+<programme start="20231116200000 +0000" stop="20231116220000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Nitto ATP Finals - Singles - Todos contra todos, Pala Alpitour, Turin, Italy</title></programme>
+<programme start="20231116220000 +0000" stop="20231116223000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20231116223000 +0000" stop="20231116230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20231116230000 +0000" stop="20231117000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Israel vs. Suiza, Fecha 7 - Grupo I</title></programme>
+<programme start="20231117000000 +0000" stop="20231117010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231117010000 +0000" stop="20231117020000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231117020000 +0000" stop="20231117023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20231117023000 +0000" stop="20231117033000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231117033000 +0000" stop="20231117042500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231117042500 +0000" stop="20231117045500 +0000" channel="ESPN3.ar"><title lang="es">Formula One Practice - Gran Premio de Las Vegas, Práctica 1, Circuito callejero de Las Vegas, Las Vegas</title></programme>
 </tv>
