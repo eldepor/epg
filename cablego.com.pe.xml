@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231117">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231118">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231118053500 +0000" stop="20231118060000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231118060000 +0000" stop="20231118070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Chipre vs. España, Fecha 9 - Grupo A</title></programme>
-<programme start="20231118070000 +0000" stop="20231118075500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231118075500 +0000" stop="20231118091500 +0000" channel="ESPN3.ar"><title lang="es">Clasificación - Fórmula 1 - Gran Premio de los Estados Unidos, Circuito de las Américas, Austin</title></programme>
-<programme start="20231118091500 +0000" stop="20231118095000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231118095000 +0000" stop="20231118105500 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231118105500 +0000" stop="20231118113000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231118113000 +0000" stop="20231118123500 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231118123500 +0000" stop="20231118133500 +0000" channel="ESPN3.ar"><title lang="es">MotoGP Qualifying - Gran Premio de Catar, Circuito Internacional de Losail, Lusail</title></programme>
-<programme start="20231118133500 +0000" stop="20231118143000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Eliminatorias Euro 2024 - Italia vs. Macedonia del Norte, Fecha 9 - Grupo C</title></programme>
-<programme start="20231118143000 +0000" stop="20231118170000 +0000" channel="ESPN3.ar"><title lang="es">NBA Viernes - Sacramento Kings vs. San Antonio Spurs, Temporada regular, AT&amp;T Center San Antonio</title></programme>
-<programme start="20231118170000 +0000" stop="20231118193000 +0000" channel="ESPN3.ar"><title lang="es">NBA Friday: NBA Opening Week - It&apos;s Game Time - Cleveland Cavaliers vs. San Antonio Spurs, Temporada regular, AT&amp;T Center San Antonio</title></programme>
-<programme start="20231118193000 +0000" stop="20231118203000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231118203000 +0000" stop="20231119003000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Denzel Bentley vs. Nathan Heaney</title></programme>
-<programme start="20231119003000 +0000" stop="20231119010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231119010000 +0000" stop="20231119020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier</title></programme>
-<programme start="20231119020000 +0000" stop="20231119040000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Países Bajos vs. Rep. de Irlanda, Fecha 9 - Grupo B</title></programme>
-<programme start="20231119040000 +0000" stop="20231119043000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231119050000 +0000" stop="20231119070000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Armenia vs. Gales, Fecha 9 - Grupo D</title></programme>
 <programme start="20231119070000 +0000" stop="20231119080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier</title></programme>
 <programme start="20231119080000 +0000" stop="20231119090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Letonia vs. Croacia, Fecha 9 - Grupo D</title></programme>
@@ -33,4 +15,20 @@
 <programme start="20231120020000 +0000" stop="20231120030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
 <programme start="20231120030000 +0000" stop="20231120040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - España vs. Georgia, Fecha 10 - Grupo A</title></programme>
 <programme start="20231120040000 +0000" stop="20231120043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Bélgica vs. Azerbaiyán, Fecha 10 - Grupo F</title></programme>
+<programme start="20231120050000 +0000" stop="20231120070000 +0000" channel="ESPN3.ar"><title lang="es">FA Women&apos;s Super League - Brighton &amp; Hove Albion vs. Arsenal</title></programme>
+<programme start="20231120070000 +0000" stop="20231120090000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Nitto ATP Finals - Final, Pala Alpitour, Turin, Italy</title></programme>
+<programme start="20231120090000 +0000" stop="20231120110000 +0000" channel="ESPN3.ar"><title lang="es">ATP Challenger Tour - ATP Uruguay Open - Final</title></programme>
+<programme start="20231120110000 +0000" stop="20231120120000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231120120000 +0000" stop="20231120130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
+<programme start="20231120130000 +0000" stop="20231120140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier</title></programme>
+<programme start="20231120140000 +0000" stop="20231120150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Letonia vs. Croacia, Fecha 9 - Grupo D</title></programme>
+<programme start="20231120150000 +0000" stop="20231120180000 +0000" channel="ESPN3.ar"><title lang="es">Moto Grand Prix F.I.M. - Gran Premio de Japón, Mobility Resort Motegi, Motegi</title></programme>
+<programme start="20231120180000 +0000" stop="20231120190000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
+<programme start="20231120190000 +0000" stop="20231120210000 +0000" channel="ESPN3.ar"><title lang="es">Top 14 de Francia - La Rochelle vs. Bordeaux, Fecha 7</title></programme>
+<programme start="20231120210000 +0000" stop="20231120230000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Nitto ATP Finals - Final, Pala Alpitour, Turin, Italy</title></programme>
+<programme start="20231120230000 +0000" stop="20231121010000 +0000" channel="ESPN3.ar"><title lang="es">ATP Challenger Tour - ATP Uruguay Open - Final</title></programme>
+<programme start="20231121010000 +0000" stop="20231121020000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20231121020000 +0000" stop="20231121040000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Irlanda del Norte vs. Dinamarca, Fecha 10 - Grupo H</title></programme>
+<programme start="20231121040000 +0000" stop="20231121043000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231121043000 +0000" stop="20231121050000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Catar, Circuito Internacional de Losail, Lusail</title></programme>
 </tv>
