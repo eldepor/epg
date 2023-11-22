@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231121">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231122">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231122050000 +0000" stop="20231122060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Catar, Circuito Internacional de Losail, Lusail</title></programme>
-<programme start="20231122060000 +0000" stop="20231122063000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231122063000 +0000" stop="20231122070000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231122070000 +0000" stop="20231122080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Grecia vs. Francia, Fecha 10 - Grupo B</title></programme>
-<programme start="20231122080000 +0000" stop="20231122090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Ucrania vs. Italia, Fecha 10 - Grupo C</title></programme>
-<programme start="20231122090000 +0000" stop="20231122093000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231122093000 +0000" stop="20231122100000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231122100000 +0000" stop="20231122110000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231122110000 +0000" stop="20231122120000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
-<programme start="20231122120000 +0000" stop="20231122140000 +0000" channel="ESPN3.ar"><title lang="es">ATP Challenger Tour - ATP Uruguay Open - Final</title></programme>
-<programme start="20231122140000 +0000" stop="20231122150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Finals - Turin</title></programme>
-<programme start="20231122150000 +0000" stop="20231122170000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Irlanda del Norte vs. Dinamarca, Fecha 10 - Grupo H</title></programme>
-<programme start="20231122170000 +0000" stop="20231122190000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Croacia vs. Armenia, Fecha 10 - Grupo D</title></programme>
-<programme start="20231122190000 +0000" stop="20231122210000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers for EURO 2024 - Serbia vs. Bulgaria, Fecha 10 - Grupo G</title></programme>
-<programme start="20231122210000 +0000" stop="20231122220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Grecia vs. Francia, Fecha 10 - Grupo B</title></programme>
-<programme start="20231122220000 +0000" stop="20231122230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - European Qualifier - Ucrania vs. Italia, Fecha 10 - Grupo C</title></programme>
-<programme start="20231122230000 +0000" stop="20231123000000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Night Highlights</title></programme>
-<programme start="20231123000000 +0000" stop="20231123010000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
-<programme start="20231123010000 +0000" stop="20231123020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de Catar, Circuito Internacional de Losail, Lusail</title></programme>
-<programme start="20231123020000 +0000" stop="20231123040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Denzel Bentley vs. Nathan Heaney</title></programme>
-<programme start="20231123040000 +0000" stop="20231123043000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231123043000 +0000" stop="20231123050000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
 <programme start="20231123050000 +0000" stop="20231123060000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231123060000 +0000" stop="20231123070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
 <programme start="20231123070000 +0000" stop="20231123073000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
@@ -47,4 +25,26 @@
 <programme start="20231124030000 +0000" stop="20231124040000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
 <programme start="20231124040000 +0000" stop="20231124043000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
 <programme start="20231124043000 +0000" stop="20231124050000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20231124050000 +0000" stop="20231124060000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231124060000 +0000" stop="20231124070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231124070000 +0000" stop="20231124100000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de Catar, Circuito Internacional de Losail, Lusail</title></programme>
+<programme start="20231124100000 +0000" stop="20231124110000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231124110000 +0000" stop="20231124113000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20231124113000 +0000" stop="20231124120000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231124120000 +0000" stop="20231124130000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231124130000 +0000" stop="20231124140000 +0000" channel="ESPN3.ar"><title lang="es">European Qualifiers Match Day Highlights</title></programme>
+<programme start="20231124140000 +0000" stop="20231124143000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20231124143000 +0000" stop="20231124150000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231124150000 +0000" stop="20231124160000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231124160000 +0000" stop="20231124180000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Fortaleza vs. Botafogo, Fecha 29, Estadio Castelão</title></programme>
+<programme start="20231124180000 +0000" stop="20231124183000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
+<programme start="20231124183000 +0000" stop="20231124190000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
+<programme start="20231124190000 +0000" stop="20231124193000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231124193000 +0000" stop="20231124214500 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Northampton Saints vs. Harlequins</title></programme>
+<programme start="20231124214500 +0000" stop="20231124224000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231124224000 +0000" stop="20231124230500 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231124230500 +0000" stop="20231125010000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. AS Monaco, Fecha 13, Parc des Princes</title></programme>
+<programme start="20231125010000 +0000" stop="20231125020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231125020000 +0000" stop="20231125043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Alejandro Gonzalez vs. Jorge Zarate</title></programme>
+<programme start="20231125043000 +0000" stop="20231125050000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Lux Fight League - 37</title></programme>
 </tv>
