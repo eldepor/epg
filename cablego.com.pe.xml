@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231126">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231127">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231127050000 +0000" stop="20231127060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Everton vs. Manchester Utd., Fecha 13, Goodison Park</title></programme>
-<programme start="20231127060000 +0000" stop="20231127070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de la Comunidad Valenciana, Circuito Ricardo Tormo, Valencia</title></programme>
-<programme start="20231127070000 +0000" stop="20231127080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester City vs. Liverpool, Fecha 13, Etihad Stadium</title></programme>
-<programme start="20231127080000 +0000" stop="20231127090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
-<programme start="20231127090000 +0000" stop="20231127100000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231127100000 +0000" stop="20231127120000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - OGC Nice vs. Toulouse FC, Fecha 13, Allianz Riviera</title></programme>
-<programme start="20231127120000 +0000" stop="20231127130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Everton vs. Manchester Utd., Fecha 13, Goodison Park</title></programme>
-<programme start="20231127130000 +0000" stop="20231127140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Cádiz vs. Real Madrid, Fecha 14, Estadio Nuevo Mirandilla</title></programme>
-<programme start="20231127140000 +0000" stop="20231127172000 +0000" channel="ESPN3.ar"><title lang="es">Moto GP - Gran Premio de la Comunidad Valenciana, Circuito Ricardo Tormo, Valencia</title></programme>
-<programme start="20231127172000 +0000" stop="20231127193000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Hellas Verona vs. Lecce, Fecha 13, Estadio Marcantonio Bentegodi</title></programme>
-<programme start="20231127193000 +0000" stop="20231127213000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - OGC Nice vs. Toulouse FC, Fecha 13, Allianz Riviera</title></programme>
-<programme start="20231127213000 +0000" stop="20231127220000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231127220000 +0000" stop="20231127230000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20231127230000 +0000" stop="20231128000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Cádiz vs. Real Madrid, Fecha 14, Estadio Nuevo Mirandilla</title></programme>
-<programme start="20231128000000 +0000" stop="20231128020000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Hellas Verona vs. Lecce, Fecha 13, Estadio Marcantonio Bentegodi</title></programme>
-<programme start="20231128020000 +0000" stop="20231128040000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Fulham vs. Wolverhampton Wanderers, Fecha 13, Craven Cottage</title></programme>
-<programme start="20231128040000 +0000" stop="20231128043000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Girona vs. Ath. Bilbao, Fecha 14, Estadio Montilivi</title></programme>
 <programme start="20231128060000 +0000" stop="20231128070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
 <programme start="20231128070000 +0000" stop="20231128080000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231128080000 +0000" stop="20231128090000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
@@ -34,4 +17,23 @@
 <programme start="20231129020000 +0000" stop="20231129030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Barcelona (Esp) vs. FC Porto (Por), Fecha 3 - Grupo H, Estadio Camp Nou</title></programme>
 <programme start="20231129030000 +0000" stop="20231129040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
 <programme start="20231129040000 +0000" stop="20231129043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231129050000 +0000" stop="20231129060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20231129060000 +0000" stop="20231129063000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231129063000 +0000" stop="20231129070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231129070000 +0000" stop="20231129080000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231129080000 +0000" stop="20231129100000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Paris Saint Germain (Fra) vs. Newcastle Utd (Ing), Fecha 5 - Grupo F, Parc des Princes</title></programme>
+<programme start="20231129100000 +0000" stop="20231129110000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231129110000 +0000" stop="20231129120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Moto GP - Gran Premio de la Comunidad Valenciana, Circuito Ricardo Tormo, Valencia</title></programme>
+<programme start="20231129120000 +0000" stop="20231129153000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Ruedas Preliminares - Día 2, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
+<programme start="20231129153000 +0000" stop="20231129163000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Barcelona (Esp) vs. FC Porto (Por), Fecha 3 - Grupo H, Estadio Camp Nou</title></programme>
+<programme start="20231129163000 +0000" stop="20231129173000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20231129173000 +0000" stop="20231129180000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231129180000 +0000" stop="20231129190500 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20231129190500 +0000" stop="20231129194000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231129194000 +0000" stop="20231129215500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - SC Braga (Por) vs. Union Berlin (Ale), Fecha 5 - Grupo C, Estádio Municipal de Braga</title></programme>
+<programme start="20231129215500 +0000" stop="20231130000000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Sevilla (Esp) vs. PSV (Hol), Fecha 5 - Grupo B, Estadio Ramón Sánchez-Pizjuán</title></programme>
+<programme start="20231130000000 +0000" stop="20231130020000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Arsenal (Ing) vs. RC Lens (Fra), Fecha 5 - Grupo B, Emirates Stadium</title></programme>
+<programme start="20231130020000 +0000" stop="20231130030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Benfica (Por) vs. Inter (Ita), Fecha 5 - Grupo D, Estádio do Sport Lisboa e Benfica</title></programme>
+<programme start="20231130030000 +0000" stop="20231130040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20231130040000 +0000" stop="20231130043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
 </tv>
