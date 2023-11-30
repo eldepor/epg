@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231129">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231130">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231130050000 +0000" stop="20231130053000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20231130053000 +0000" stop="20231130060000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
-<programme start="20231130060000 +0000" stop="20231130070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
-<programme start="20231130070000 +0000" stop="20231130090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Sevilla (Esp) vs. PSV (Hol), Fecha 5 - Grupo B, Estadio Ramón Sánchez-Pizjuán</title></programme>
-<programme start="20231130090000 +0000" stop="20231130093000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
-<programme start="20231130093000 +0000" stop="20231130100000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231130100000 +0000" stop="20231130110000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Benfica (Por) vs. Inter (Ita), Fecha 5 - Grupo D, Estádio do Sport Lisboa e Benfica</title></programme>
-<programme start="20231130110000 +0000" stop="20231130120000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20231130120000 +0000" stop="20231130153000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Ruedas Preliminares - Día 3, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
-<programme start="20231130153000 +0000" stop="20231130163000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231130163000 +0000" stop="20231130173000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231130173000 +0000" stop="20231130194500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - AEK (Gre) vs. Brighton and Hove Albion (Ing), Fecha 5 - Grupo B, Agia Sofía</title></programme>
-<programme start="20231130194500 +0000" stop="20231130215500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Villarreal (Esp) vs. Panathinaikos (Gre), Fecha 5 - Grupo F, Estadio La Cerámica</title></programme>
-<programme start="20231130215500 +0000" stop="20231130230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Benfica (Por) vs. Inter (Ita), Fecha 5 - Grupo D, Estádio do Sport Lisboa e Benfica</title></programme>
-<programme start="20231130230000 +0000" stop="20231201010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - AEK (Gre) vs. Brighton and Hove Albion (Ing), Fecha 5 - Grupo B, Agia Sofía</title></programme>
-<programme start="20231201010000 +0000" stop="20231201020000 +0000" channel="ESPN3.ar"><title lang="es">GP Haras Abril</title></programme>
-<programme start="20231201020000 +0000" stop="20231201030000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231201030000 +0000" stop="20231201040000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20231201040000 +0000" stop="20231201043000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231201050000 +0000" stop="20231201060000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
 <programme start="20231201060000 +0000" stop="20231201070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231201070000 +0000" stop="20231201090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Villarreal (Esp) vs. Panathinaikos (Gre), Fecha 5 - Grupo F, Estadio La Cerámica</title></programme>
@@ -38,4 +19,7 @@
 <programme start="20231202003000 +0000" stop="20231202010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
 <programme start="20231202010000 +0000" stop="20231202020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20231202020000 +0000" stop="20231202023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Derrieck Cuevas vs. Marlon Aguas</title></programme>
+<programme start="20231202053000 +0000" stop="20231202060000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20231202060000 +0000" stop="20231202180000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20231202180000 +0000" stop="20231202183000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
