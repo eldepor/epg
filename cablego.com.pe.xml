@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231130">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231201">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231201050000 +0000" stop="20231201060000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231201060000 +0000" stop="20231201070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231201070000 +0000" stop="20231201090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Villarreal (Esp) vs. Panathinaikos (Gre), Fecha 5 - Grupo F, Estadio La Cerámica</title></programme>
-<programme start="20231201090000 +0000" stop="20231201100000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20231201100000 +0000" stop="20231201120000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Atalanta (Ita) vs. Sporting CP (Por), Fecha 5 - Grupo D, Gewiss Stadium</title></programme>
-<programme start="20231201120000 +0000" stop="20231201130000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231201130000 +0000" stop="20231201140000 +0000" channel="ESPN3.ar"><title lang="es">GP Haras Abril</title></programme>
-<programme start="20231201140000 +0000" stop="20231201143000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
-<programme start="20231201143000 +0000" stop="20231201150000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
-<programme start="20231201150000 +0000" stop="20231201160000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Liverpool (Ing) vs. LASK (Aut), Fecha 5 - Grupo E, Anfield</title></programme>
-<programme start="20231201160000 +0000" stop="20231201200000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Semifinal, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
-<programme start="20231201200000 +0000" stop="20231201210000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231201210000 +0000" stop="20231201220000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231201220000 +0000" stop="20231201230000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20231201230000 +0000" stop="20231202000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Barcelona (Esp) vs. FC Porto (Por), Fecha 3 - Grupo H, Estadio Camp Nou</title></programme>
-<programme start="20231202000000 +0000" stop="20231202003000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20231202003000 +0000" stop="20231202010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231202010000 +0000" stop="20231202020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231202020000 +0000" stop="20231202023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Derrieck Cuevas vs. Marlon Aguas</title></programme>
 <programme start="20231202053000 +0000" stop="20231202060000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
 <programme start="20231202060000 +0000" stop="20231202070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League</title></programme>
 <programme start="20231202070000 +0000" stop="20231202080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
@@ -37,4 +18,21 @@
 <programme start="20231203013000 +0000" stop="20231203020000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
 <programme start="20231203020000 +0000" stop="20231203043000 +0000" channel="ESPN3.ar"><title lang="es">Edición especial de la NBA - Memphis Grizzlies vs. Phoenix Suns, Temporada regular, Footprint Center Phoenix</title></programme>
 <programme start="20231203043000 +0000" stop="20231203050000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Granada vs. Real Madrid, Fecha 35, Estadio Los Cármenes</title></programme>
+<programme start="20231203053000 +0000" stop="20231203063000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Newcastle Utd. vs. Manchester Utd., Fecha 14, St. James&apos; Park</title></programme>
+<programme start="20231203063000 +0000" stop="20231203070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231203070000 +0000" stop="20231203073000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231203073000 +0000" stop="20231203092500 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Arsenal vs. Wolverhampton Wanderers, Fecha 14, Emirates Stadium</title></programme>
+<programme start="20231203092500 +0000" stop="20231203112000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Nottingham Forest vs. Everton, Fecha 14, City Ground</title></programme>
+<programme start="20231203112000 +0000" stop="20231203133000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lecce vs. Bologna, Fecha 14, Estadio Via del Mare</title></programme>
+<programme start="20231203133000 +0000" stop="20231203140000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231203140000 +0000" stop="20231203163000 +0000" channel="ESPN3.ar"><title lang="es">HSBC World Rugby Sevens Series - Dubai #2 (F&amp;M), Super Session</title></programme>
+<programme start="20231203163000 +0000" stop="20231203182500 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Le Havre vs. Paris Saint-Germain, Fecha 14, Stade Océane</title></programme>
+<programme start="20231203182500 +0000" stop="20231203185000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231203185000 +0000" stop="20231203210000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Palmeiras vs. Fluminense, Fecha 37, Estadio Allianz Parque</title></programme>
+<programme start="20231203210000 +0000" stop="20231203212000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231203212000 +0000" stop="20231203233000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Botafogo vs. Cruzeiro, Fecha 37, Estadio Olímpico Nilton Santos</title></programme>
+<programme start="20231203233000 +0000" stop="20231204013000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Dep. Alavés, Fecha 15, Estadio Son Moix</title></programme>
+<programme start="20231204013000 +0000" stop="20231204020000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231204020000 +0000" stop="20231204030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Napoli vs. Inter, Fecha 14, Estadio Diego Armando Maradona</title></programme>
+<programme start="20231204030000 +0000" stop="20231204033000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Le Havre vs. Paris Saint-Germain, Fecha 14, Stade Océane</title></programme>
 </tv>
