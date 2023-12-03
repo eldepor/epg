@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231202">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231203">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231203053000 +0000" stop="20231203063000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Newcastle Utd. vs. Manchester Utd., Fecha 14, St. James&apos; Park</title></programme>
-<programme start="20231203063000 +0000" stop="20231203070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231203070000 +0000" stop="20231203073000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231203073000 +0000" stop="20231203092500 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Arsenal vs. Wolverhampton Wanderers, Fecha 14, Emirates Stadium</title></programme>
-<programme start="20231203092500 +0000" stop="20231203112000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Nottingham Forest vs. Everton, Fecha 14, City Ground</title></programme>
-<programme start="20231203112000 +0000" stop="20231203133000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Lecce vs. Bologna, Fecha 14, Estadio Via del Mare</title></programme>
-<programme start="20231203133000 +0000" stop="20231203140000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231203140000 +0000" stop="20231203163000 +0000" channel="ESPN3.ar"><title lang="es">HSBC World Rugby Sevens Series - Dubai #2 (F&amp;M), Super Session</title></programme>
-<programme start="20231203163000 +0000" stop="20231203182500 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Le Havre vs. Paris Saint-Germain, Fecha 14, Stade Océane</title></programme>
-<programme start="20231203182500 +0000" stop="20231203185000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231203185000 +0000" stop="20231203210000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Palmeiras vs. Fluminense, Fecha 37, Estadio Allianz Parque</title></programme>
-<programme start="20231203210000 +0000" stop="20231203212000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231203212000 +0000" stop="20231203233000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Botafogo vs. Cruzeiro, Fecha 37, Estadio Olímpico Nilton Santos</title></programme>
-<programme start="20231203233000 +0000" stop="20231204013000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Dep. Alavés, Fecha 15, Estadio Son Moix</title></programme>
-<programme start="20231204013000 +0000" stop="20231204020000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231204020000 +0000" stop="20231204030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Napoli vs. Inter, Fecha 14, Estadio Diego Armando Maradona</title></programme>
-<programme start="20231204030000 +0000" stop="20231204033000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Le Havre vs. Paris Saint-Germain, Fecha 14, Stade Océane</title></programme>
 <programme start="20231204050000 +0000" stop="20231204070000 +0000" channel="ESPN3.ar"><title lang="es">Off Road Electric Car Racing Series - Copper X Prix, Chile, Carrera 2</title></programme>
 <programme start="20231204070000 +0000" stop="20231204090000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Sevilla vs. Villarreal, Fecha 15, Estadio Ramón Sánchez-Pizjuán</title></programme>
 <programme start="20231204090000 +0000" stop="20231204110000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Le Havre vs. Paris Saint-Germain, Fecha 14, Stade Océane</title></programme>
@@ -35,4 +18,18 @@
 <programme start="20231204230000 +0000" stop="20231205010000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
 <programme start="20231205010000 +0000" stop="20231205030000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Final, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
 <programme start="20231205030000 +0000" stop="20231205033000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Sevilla vs. Villarreal, Fecha 15, Estadio Ramón Sánchez-Pizjuán</title></programme>
+<programme start="20231205050000 +0000" stop="20231205070000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Almería vs. Betis, Fecha 15, Power Horse Stadium</title></programme>
+<programme start="20231205070000 +0000" stop="20231205090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
+<programme start="20231205090000 +0000" stop="20231205110000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Final, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
+<programme start="20231205110000 +0000" stop="20231205130000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Botafogo vs. Cruzeiro, Fecha 37, Estadio Olímpico Nilton Santos</title></programme>
+<programme start="20231205130000 +0000" stop="20231205150000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Palmeiras vs. Fluminense, Fecha 37, Estadio Allianz Parque</title></programme>
+<programme start="20231205150000 +0000" stop="20231205160000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1 - Resumen 2023 - Parte 1</title></programme>
+<programme start="20231205160000 +0000" stop="20231205180000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
+<programme start="20231205180000 +0000" stop="20231205200000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Final, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
+<programme start="20231205200000 +0000" stop="20231205220000 +0000" channel="ESPN3.ar"><title lang="es">Major League Pickleball - Season Two Championship</title></programme>
+<programme start="20231205220000 +0000" stop="20231205230000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Chile, Carrera 2</title></programme>
+<programme start="20231205230000 +0000" stop="20231206000000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
+<programme start="20231206000000 +0000" stop="20231206020000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
+<programme start="20231206020000 +0000" stop="20231206040000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Wolverhampton Wanderers vs. Burnley, Fecha 15, Molineux Stadium</title></programme>
+<programme start="20231206040000 +0000" stop="20231206043000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
 </tv>
