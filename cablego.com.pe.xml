@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231204">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231205">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231205050000 +0000" stop="20231205070000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Almería vs. Betis, Fecha 15, Power Horse Stadium</title></programme>
-<programme start="20231205070000 +0000" stop="20231205090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
-<programme start="20231205090000 +0000" stop="20231205110000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Arthur Fils (Fra) vs. Hamad Medjedovic (Srb), Final, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
-<programme start="20231205110000 +0000" stop="20231205130000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Botafogo vs. Cruzeiro, Fecha 37, Estadio Olímpico Nilton Santos</title></programme>
-<programme start="20231205130000 +0000" stop="20231205150000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Série A - Palmeiras vs. Fluminense, Fecha 37, Estadio Allianz Parque</title></programme>
-<programme start="20231205150000 +0000" stop="20231205160000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1 - Resumen 2023 - Parte 1</title></programme>
-<programme start="20231205160000 +0000" stop="20231205180000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
-<programme start="20231205180000 +0000" stop="20231205200000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour Masters 1000 - Next Gen ATP Final - Arthur Fils (Fra) vs. Hamad Medjedovic (Srb), Final, King Abdullah Sports City, Jeddah, Saudi Arabia</title></programme>
-<programme start="20231205200000 +0000" stop="20231205220000 +0000" channel="ESPN3.ar"><title lang="es">Major League Pickleball - Season Two Championship</title></programme>
-<programme start="20231205220000 +0000" stop="20231205230000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Chile, Carrera 2</title></programme>
-<programme start="20231205230000 +0000" stop="20231206000000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
-<programme start="20231206000000 +0000" stop="20231206020000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Atalanta, Fecha 14, Estadio Olimpico Grande Torino</title></programme>
-<programme start="20231206020000 +0000" stop="20231206040000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Wolverhampton Wanderers vs. Burnley, Fecha 15, Molineux Stadium</title></programme>
-<programme start="20231206040000 +0000" stop="20231206043000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
 <programme start="20231206050000 +0000" stop="20231206060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
 <programme start="20231206060000 +0000" stop="20231206070000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231206070000 +0000" stop="20231206080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
@@ -37,4 +23,25 @@
 <programme start="20231207023000 +0000" stop="20231207030000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20231207030000 +0000" stop="20231207040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Chelsea, Fecha 15, Old Trafford</title></programme>
 <programme start="20231207040000 +0000" stop="20231207043000 +0000" channel="ESPN3.ar"><title lang="es">Copa de Alemania - Stuttgart vs. Borussia Dortmund, Octavos de final, MHPArena</title></programme>
+<programme start="20231207060000 +0000" stop="20231207070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
+<programme start="20231207070000 +0000" stop="20231207080000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231207080000 +0000" stop="20231207090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
+<programme start="20231207090000 +0000" stop="20231207093000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20231207093000 +0000" stop="20231207100000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
+<programme start="20231207100000 +0000" stop="20231207123000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - San Antonio Spurs vs. Minnesota Timberwolves, Temporada regular, Target Center Minneapolis</title></programme>
+<programme start="20231207123000 +0000" stop="20231207150000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - Denver Nuggets vs. LA Clippers, Temporada regular, STAPLES Center Los Angeles</title></programme>
+<programme start="20231207150000 +0000" stop="20231207153000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
+<programme start="20231207153000 +0000" stop="20231207155500 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
+<programme start="20231207155500 +0000" stop="20231207162000 +0000" channel="ESPN3.ar"><title lang="es">Coppa Italia Show</title></programme>
+<programme start="20231207162000 +0000" stop="20231207182000 +0000" channel="ESPN3.ar"><title lang="es">Copa de Alemania - Stuttgart vs. Borussia Dortmund, Octavos de final, MHPArena</title></programme>
+<programme start="20231207182000 +0000" stop="20231207192000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Manchester Utd. vs. Chelsea, Fecha 15, Old Trafford</title></programme>
+<programme start="20231207192000 +0000" stop="20231207213000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Brest vs. RC Strasbourg, Fecha 12, Stade Francis-Le Blé</title></programme>
+<programme start="20231207213000 +0000" stop="20231207220000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231207220000 +0000" stop="20231208000000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Everton vs. Newcastle Utd., Fecha 15, Goodison Park</title></programme>
+<programme start="20231208000000 +0000" stop="20231208010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231208010000 +0000" stop="20231208020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
+<programme start="20231208020000 +0000" stop="20231208023000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 4</title></programme>
+<programme start="20231208023000 +0000" stop="20231208030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20231208030000 +0000" stop="20231208040000 +0000" channel="ESPN3.ar"><title lang="es">World Series of Poker - Main Event, Day 6 - Part 1</title></programme>
+<programme start="20231208040000 +0000" stop="20231208043000 +0000" channel="ESPN3.ar"><title lang="es">World Series of Poker - Main Event, Day 6 - Part 2</title></programme>
 </tv>
