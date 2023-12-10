@@ -1,21 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231209">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231210">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231210050000 +0000" stop="20231210060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Crystal Palace vs. Liverpool, Fecha 16, Selhurst Park</title></programme>
-<programme start="20231210060000 +0000" stop="20231210070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Aston Villa vs. Arsenal, Fecha 16, Villa Park</title></programme>
-<programme start="20231210070000 +0000" stop="20231210080000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231210080000 +0000" stop="20231210095500 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Sevilla, Fecha 16, Estadio Son Moix</title></programme>
-<programme start="20231210095500 +0000" stop="20231210102000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231210102000 +0000" stop="20231210125000 +0000" channel="ESPN3.ar"><title lang="es">NBA In-Season Tournament - Indiana Pacers vs. Los Angeles Lakers, Finales - In-Season Tournament, T-Mobile Arena</title></programme>
-<programme start="20231210125000 +0000" stop="20231210150000 +0000" channel="ESPN3.ar"><title lang="es">Copa Europea de Clubes - Sale Sharks vs. Stade Francais, Fecha 1, Stade Jean-Bouin, Paris, France</title></programme>
-<programme start="20231210150000 +0000" stop="20231210171500 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Granada vs. Ath. Bilbao, Fecha 16, Estadio Los Cármenes</title></programme>
-<programme start="20231210171500 +0000" stop="20231210173000 +0000" channel="ESPN3.ar"><title lang="es">España campeón UEFA NL 2023</title></programme>
-<programme start="20231210173000 +0000" stop="20231210180000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231210180000 +0000" stop="20231210220000 +0000" channel="ESPN3.ar"><title lang="es">World Champions Cup - Día 3, The Concession Golf Club, Bradenton, FL, USA</title></programme>
-<programme start="20231210220000 +0000" stop="20231210230000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de la URBA - Días de Gloria 2023</title></programme>
-<programme start="20231210230000 +0000" stop="20231211013000 +0000" channel="ESPN3.ar"><title lang="es">HSBC World Rugby Sevens Series - Cape Town #2 (F&amp;M) - Super Session</title></programme>
-<programme start="20231211013000 +0000" stop="20231211020000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231211020000 +0000" stop="20231211030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Barcelona vs. Girona, Fecha 16, Estadio Camp Nou</title></programme>
-<programme start="20231211030000 +0000" stop="20231211033000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Tottenham Hotspur vs. Newcastle Utd., Fecha 16, Tottenham Hotspur Stadium</title></programme>
 <programme start="20231211050000 +0000" stop="20231211060000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231211060000 +0000" stop="20231211070000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de la URBA - Días de Gloria 2023</title></programme>
 <programme start="20231211070000 +0000" stop="20231211080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Crystal Palace vs. Liverpool, Fecha 16, Selhurst Park</title></programme>
@@ -37,4 +21,23 @@
 <programme start="20231212023000 +0000" stop="20231212030000 +0000" channel="ESPN3.ar"><title lang="es">Campeonato Brasileiro Serie A Highlight Show</title></programme>
 <programme start="20231212030000 +0000" stop="20231212040000 +0000" channel="ESPN3.ar"><title lang="es">World Series of Poker: Main Event - Day 7 - Part 4</title></programme>
 <programme start="20231212040000 +0000" stop="20231212043000 +0000" channel="ESPN3.ar"><title lang="es">World Series of Poker: Main Event - Day 8 - Part 1</title></programme>
+<programme start="20231212050000 +0000" stop="20231212070000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Sassuolo, Fecha 15, Sardegna Arena</title></programme>
+<programme start="20231212070000 +0000" stop="20231212080000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
+<programme start="20231212080000 +0000" stop="20231212090000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de la URBA - Días de Gloria 2023</title></programme>
+<programme start="20231212090000 +0000" stop="20231212100000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231212100000 +0000" stop="20231212110000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20231212110000 +0000" stop="20231212130000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Sassuolo, Fecha 15, Sardegna Arena</title></programme>
+<programme start="20231212130000 +0000" stop="20231212140000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1 - Resumen 2023 - Parte 2</title></programme>
+<programme start="20231212140000 +0000" stop="20231212150000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
+<programme start="20231212150000 +0000" stop="20231212153000 +0000" channel="ESPN3.ar"><title lang="es">Coppa Italia Show</title></programme>
+<programme start="20231212153000 +0000" stop="20231212173500 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - OGC Nice vs. Stade de Reims, Fecha 15, Allianz Riviera</title></programme>
+<programme start="20231212173500 +0000" stop="20231212184000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231212184000 +0000" stop="20231212194000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20231212194000 +0000" stop="20231212215500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Napoli (Ita) vs. SC Braga (Por), Fecha 6 - Grupo C, Estadio Diego Armando Maradona</title></programme>
+<programme start="20231212215500 +0000" stop="20231212230000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20231212230000 +0000" stop="20231213000000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
+<programme start="20231213000000 +0000" stop="20231213020000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Inter (Ita) vs. Real Sociedad (Esp), Fecha 6 - Grupo D, Estadio Giuseppe Meazza</title></programme>
+<programme start="20231213020000 +0000" stop="20231213030000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20231213030000 +0000" stop="20231213040000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20231213040000 +0000" stop="20231213043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Union Berlin (Ale) vs. Real Madrid (Esp), Fecha 6 - Grupo C, An der Alten Försterei</title></programme>
 </tv>
