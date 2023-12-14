@@ -40,7 +40,7 @@ jobs:
           #npx epg-grabber --config=sites/nos.pt/nos.pt.config.js --channels=sites/nos.pt/nos.pt.channels.xml --output=nos.pt.xml --days=3 --timeout=30000
           ##npx epg-grabber --config=sites/sky.de/sky.de.config.js --channels=sites/sky.de/sky.de.channels.xml --output=sky.de.xml --days=3 --timeout=30000
           ##npx epg-grabber --config=sites/bt.com/bt.com.config.js --channels=sites/bt.com/bt.com.channels.xml --output=bt.com.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/player.ee.co.uk/player.ee.co.uk.config.js --channels=sites/player.ee.co.uk/player.ee.co.uk.channels.xml --output=bt.com.xml --days=3 --timeout=30000
+          npx epg-grabber --config=sites/player.ee.co.uk/player.ee.co.uk.config.js --channels=sites/player.ee.co.uk/player.ee.co.uk.channels.xml --output=bt.com.xml --days=1 --timeout=30000
           #npx epg-grabber --config=sites/tvguide.com/tvguide.com.config.js --channels=sites/tvguide.com/tvguide.com.channels.xml --output=tvguide.com.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/directv.com/directv.com.config.js --channels=sites/directv.com/directv.com.channels.xml --output=directv.com.xml --days=3 --timeout=30000
           ##npx epg-grabber --config=sites/flixed.io/flixed.io.config.js --channels=sites/flixed.io/flixed.io.channels.xml --output=flixed.io.xml --days=3 --timeout=30000
