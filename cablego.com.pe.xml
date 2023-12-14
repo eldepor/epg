@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231213">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231214">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231214050000 +0000" stop="20231214060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231214060000 +0000" stop="20231214070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20231214070000 +0000" stop="20231214090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Celtic (Esc) vs. Feyenoord (Hol), Fecha 6 - Grupo E, Celtic Park</title></programme>
-<programme start="20231214090000 +0000" stop="20231214100000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20231214100000 +0000" stop="20231214120000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Atl. de Madrid (Esp) vs. Lazio (Ita), Fecha 6 - Grupo E, Estadio Cívitas Metropolitano</title></programme>
-<programme start="20231214120000 +0000" stop="20231214130000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20231214130000 +0000" stop="20231214140000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231214140000 +0000" stop="20231214150000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20231214150000 +0000" stop="20231214153000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231214153000 +0000" stop="20231214163500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Estrella Roja (Srb) vs. Manchester City (Ing), Fecha 6 - Grupo G, Estadio Marakana</title></programme>
-<programme start="20231214163500 +0000" stop="20231214173000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Newcastle Utd (Ing) vs. Milan (Ita), Fecha 6 - Grupo F, St. James&apos; Park</title></programme>
-<programme start="20231214173000 +0000" stop="20231214194500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Bayer Leverkusen (Ale) vs. Molde (Nor), Fecha 6 - Grupo H, BayArena</title></programme>
-<programme start="20231214194500 +0000" stop="20231214220000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - West Ham Utd. (Ing) vs. Friburgo (Ale), Fecha 6 - Grupo A, London Stadium</title></programme>
-<programme start="20231214220000 +0000" stop="20231215000000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Stade Rennais (Fra) vs. Villarreal (Esp), Fecha 6 - Grupo F, Roazhon Park</title></programme>
-<programme start="20231215000000 +0000" stop="20231215010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231215010000 +0000" stop="20231215020000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231215020000 +0000" stop="20231215030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Betis (Esp) vs. Rangers (Esc), Fecha 6 - Grupo C, Estadio Benito Villamarín</title></programme>
-<programme start="20231215030000 +0000" stop="20231215040000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20231215040000 +0000" stop="20231215043000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231215050000 +0000" stop="20231215060000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20231215060000 +0000" stop="20231215070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
 <programme start="20231215070000 +0000" stop="20231215090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - West Ham Utd. (Ing) vs. Friburgo (Ale), Fecha 6 - Grupo A, London Stadium</title></programme>
@@ -41,4 +22,27 @@
 <programme start="20231216003000 +0000" stop="20231216010000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
 <programme start="20231216010000 +0000" stop="20231216020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20231216020000 +0000" stop="20231216023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Kevin Crespo vs. Hector Garcia Dolores</title></programme>
+<programme start="20231216053000 +0000" stop="20231216060000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231216060000 +0000" stop="20231216063000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231216063000 +0000" stop="20231216070000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
+<programme start="20231216070000 +0000" stop="20231216080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231216080000 +0000" stop="20231216090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20231216090000 +0000" stop="20231216093000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
+<programme start="20231216093000 +0000" stop="20231216100000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20231216100000 +0000" stop="20231216110000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231216110000 +0000" stop="20231216120000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico</title></programme>
+<programme start="20231216120000 +0000" stop="20231216130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231216130000 +0000" stop="20231216133000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231216133000 +0000" stop="20231216140000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
+<programme start="20231216140000 +0000" stop="20231216143000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
+<programme start="20231216143000 +0000" stop="20231216163000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Nottingham Forest vs. Tottenham Hotspur, Fecha 17, City Ground</title></programme>
+<programme start="20231216163000 +0000" stop="20231216183000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Celta de Vigo vs. Granada, Fecha 17, Estadio Abanca-Balaídos</title></programme>
+<programme start="20231216183000 +0000" stop="20231216203000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Ath. Bilbao vs. Atl. de Madrid, Fecha 17, Estadio San Mamés</title></programme>
+<programme start="20231216203000 +0000" stop="20231216223000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Napoli vs. Cagliari, Fecha 16, Estadio Diego Armando Maradona</title></programme>
+<programme start="20231216223000 +0000" stop="20231216230000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
+<programme start="20231216230000 +0000" stop="20231217000000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231217000000 +0000" stop="20231217010000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20231217010000 +0000" stop="20231217020000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
+<programme start="20231217020000 +0000" stop="20231217043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Jesse Rodriguez vs. Sunny Edwards</title></programme>
+<programme start="20231217043000 +0000" stop="20231217050000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
 </tv>
