@@ -5,12 +5,12 @@
     <channel lang="en" xmltv_id="TNTSports2.uk" site_id="http://bds.tv/services/BT_764001">BT Sport 2</channel>
     <channel lang="en" xmltv_id="TNTSports3.uk" site_id="http://bds.tv/services/BT_768612">BT Sport 3</channel>
     <channel lang="en" xmltv_id="TNTSports4.uk" site_id="http://bds.tv/services/BT_758465">BT Sport 4</channel>
-    <channel lang="en" xmltv_id="SkySportsArena.uk" site_id="hssx">Sky Sports Arena</channel>
-    <channel lang="en" xmltv_id="SkySportsFootball.uk" site_id="hssr">Sky Sports Football</channel>
-    <channel lang="en" xmltv_id="SkySportsMainEvent.uk" site_id="hssp">Sky Sports Main Event</channel>
-    <channel lang="en" xmltv_id="SkySportsNews.uk" site_id="hssn">Sky Sports News UK</channel>
-    <channel lang="en" xmltv_id="SkySportsPremierLeague.uk" site_id="hssq">Sky Sports Premier League</channel>
-    <channel lang="en" xmltv_id="SkySportsF1.uk" site_id="hssv">Sky Sports F1</channel>
-    <channel lang="en" xmltv_id="TNTSportsUltimate.uk" site_id="hspr">BT Sport Ultimate</channel>
+    <channel lang="en" xmltv_id="SkySportsArena.uk" site_id="http://bds.tv/services/BT_771051_3839_SD">Sky Sports Arena</channel>
+    <channel lang="en" xmltv_id="SkySportsFootball.uk" site_id="http://bds.tv/services/BT_771052_3838_SD">Sky Sports Football</channel>
+    <channel lang="en" xmltv_id="SkySportsMainEvent.uk" site_id="http://bds.tv/services/BT_503_1301_SD">Sky Sports Main Event</channel>
+    <channel lang="en" xmltv_id="SkySportsNews.uk" site_id="http://bds.tv/services/BT_631679_1314_SD">Sky Sports News UK</channel>
+    <channel lang="en" xmltv_id="SkySportsPremierLeague.uk" site_id="http://bds.tv/services/BT_768064_1303_SD">Sky Sports Premier League</channel>
+    <channel lang="en" xmltv_id="SkySportsF1.uk" site_id="http://bds.tv/services/BT_759963_1306_SD">Sky Sports F1</channel>
+    <channel lang="en" xmltv_id="TNTSportsUltimate.uk" site_id="http://bds.tv/services/BT_768397">BT Sport Ultimate</channel>
   </channels>
 </site>
