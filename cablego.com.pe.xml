@@ -1,24 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231220">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231221">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231221050000 +0000" stop="20231221060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20231221060000 +0000" stop="20231221070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
-<programme start="20231221070000 +0000" stop="20231221080000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - World Champions Cup</title></programme>
-<programme start="20231221080000 +0000" stop="20231221090000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20231221090000 +0000" stop="20231221100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Granada vs. Sevilla, Fecha 18, Estadio Los Cármenes</title></programme>
-<programme start="20231221100000 +0000" stop="20231221120000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - OGC Nice vs. RC Lens, Fecha 17, Allianz Riviera</title></programme>
-<programme start="20231221120000 +0000" stop="20231221130000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231221130000 +0000" stop="20231221150000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Villarreal vs. Celta de Vigo, Fecha 18, Estadio La Cerámica</title></programme>
-<programme start="20231221150000 +0000" stop="20231221160000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20231221160000 +0000" stop="20231221170000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20231221170000 +0000" stop="20231221173000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
-<programme start="20231221173000 +0000" stop="20231221182500 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - World Champions Cup</title></programme>
-<programme start="20231221182500 +0000" stop="20231221202000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. FC Metz, Fecha 17, Parc des Princes</title></programme>
-<programme start="20231221202000 +0000" stop="20231221223000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Osasuna, Fecha 18, Estadio Son Moix</title></programme>
-<programme start="20231221223000 +0000" stop="20231221233000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231221233000 +0000" stop="20231222000000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231222000000 +0000" stop="20231222010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231222010000 +0000" stop="20231222030000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Crystal Palace vs. Brighton and Hove Albion, Fecha 18, Selhurst Park</title></programme>
-<programme start="20231222030000 +0000" stop="20231222033000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Mallorca vs. Osasuna, Fecha 18, Estadio Son Moix</title></programme>
 <programme start="20231222050000 +0000" stop="20231222060000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
 <programme start="20231222060000 +0000" stop="20231222070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
 <programme start="20231222070000 +0000" stop="20231222080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
@@ -41,4 +22,28 @@
 <programme start="20231223020000 +0000" stop="20231223040000 +0000" channel="ESPN3.ar"><title lang="es">Top 14 de Francia - Bordeaux vs. Lyon</title></programme>
 <programme start="20231223040000 +0000" stop="20231223043000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
 <programme start="20231223043000 +0000" stop="20231223050000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
+<programme start="20231223050000 +0000" stop="20231223060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
+<programme start="20231223060000 +0000" stop="20231223070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial - Masters 1000</title></programme>
+<programme start="20231223070000 +0000" stop="20231223080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231223080000 +0000" stop="20231223090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20231223090000 +0000" stop="20231223093000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
+<programme start="20231223093000 +0000" stop="20231223100000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20231223100000 +0000" stop="20231223103000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231223103000 +0000" stop="20231223110000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
+<programme start="20231223110000 +0000" stop="20231223120000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231223120000 +0000" stop="20231223123000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20231223123000 +0000" stop="20231223130000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
+<programme start="20231223130000 +0000" stop="20231223140000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231223140000 +0000" stop="20231223150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20231223150000 +0000" stop="20231223170000 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Bath vs. Harlequins</title></programme>
+<programme start="20231223170000 +0000" stop="20231223190000 +0000" channel="ESPN3.ar"><title lang="es">Top 14 de Francia - Bordeaux vs. Lyon</title></programme>
+<programme start="20231223190000 +0000" stop="20231223210000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Aston Villa vs. Sheffield Utd., Fecha 18, Villa Park</title></programme>
+<programme start="20231223210000 +0000" stop="20231223220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Tottenham Hotspur vs. Everton, Fecha 18, Tottenham Hotspur Stadium</title></programme>
+<programme start="20231223220000 +0000" stop="20231223230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Liverpool vs. Arsenal, Fecha 18, Anfield</title></programme>
+<programme start="20231223230000 +0000" stop="20231223233000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
+<programme start="20231223233000 +0000" stop="20231224000000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
+<programme start="20231224000000 +0000" stop="20231224020000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Bologna vs. Atalanta, Fecha 17, Estadio Renato Dall&apos;ara</title></programme>
+<programme start="20231224020000 +0000" stop="20231224030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Tottenham Hotspur vs. Everton, Fecha 18, Tottenham Hotspur Stadium</title></programme>
+<programme start="20231224030000 +0000" stop="20231224040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Frosinone vs. Juventus, Fecha 17, Stadio Benito Stirpe</title></programme>
+<programme start="20231224040000 +0000" stop="20231224043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Liverpool vs. Arsenal, Fecha 18, Anfield</title></programme>
 </tv>
