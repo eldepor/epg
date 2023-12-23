@@ -1,29 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231222">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231223">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231223050000 +0000" stop="20231223060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
-<programme start="20231223060000 +0000" stop="20231223070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial - Masters 1000</title></programme>
-<programme start="20231223070000 +0000" stop="20231223080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231223080000 +0000" stop="20231223090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231223090000 +0000" stop="20231223093000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
-<programme start="20231223093000 +0000" stop="20231223100000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
-<programme start="20231223100000 +0000" stop="20231223103000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20231223103000 +0000" stop="20231223110000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20231223110000 +0000" stop="20231223120000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231223120000 +0000" stop="20231223123000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20231223123000 +0000" stop="20231223130000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
-<programme start="20231223130000 +0000" stop="20231223140000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231223140000 +0000" stop="20231223150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20231223150000 +0000" stop="20231223170000 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Bath vs. Harlequins</title></programme>
-<programme start="20231223170000 +0000" stop="20231223190000 +0000" channel="ESPN3.ar"><title lang="es">Top 14 de Francia - Bordeaux vs. Lyon</title></programme>
-<programme start="20231223190000 +0000" stop="20231223210000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Aston Villa vs. Sheffield Utd., Fecha 18, Villa Park</title></programme>
-<programme start="20231223210000 +0000" stop="20231223220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Tottenham Hotspur vs. Everton, Fecha 18, Tottenham Hotspur Stadium</title></programme>
-<programme start="20231223220000 +0000" stop="20231223230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Liverpool vs. Arsenal, Fecha 18, Anfield</title></programme>
-<programme start="20231223230000 +0000" stop="20231223233000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
-<programme start="20231223233000 +0000" stop="20231224000000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
-<programme start="20231224000000 +0000" stop="20231224020000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Bologna vs. Atalanta, Fecha 17, Estadio Renato Dall&apos;ara</title></programme>
-<programme start="20231224020000 +0000" stop="20231224030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Tottenham Hotspur vs. Everton, Fecha 18, Tottenham Hotspur Stadium</title></programme>
-<programme start="20231224030000 +0000" stop="20231224040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Frosinone vs. Juventus, Fecha 17, Stadio Benito Stirpe</title></programme>
-<programme start="20231224040000 +0000" stop="20231224043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Liverpool vs. Arsenal, Fecha 18, Anfield</title></programme>
 <programme start="20231224050000 +0000" stop="20231224070000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Inter vs. Lecce, Fecha 17, Estadio Giuseppe Meazza</title></programme>
 <programme start="20231224070000 +0000" stop="20231224073000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 4</title></programme>
 <programme start="20231224073000 +0000" stop="20231224080000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
@@ -48,4 +24,28 @@
 <programme start="20231225020000 +0000" stop="20231225030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023 - Argentina vs. Chile, Fecha 4</title></programme>
 <programme start="20231225030000 +0000" stop="20231225040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023 - Japón vs. Argentina, Fecha 5, Stade DE LA Beaujoire, Nantes, France</title></programme>
 <programme start="20231225040000 +0000" stop="20231225043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023 - Gales vs. Argentina, Cuartos de final, Stade de Marseille, Marseille, France</title></programme>
+<programme start="20231225050000 +0000" stop="20231225060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023</title></programme>
+<programme start="20231225060000 +0000" stop="20231225070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023</title></programme>
+<programme start="20231225070000 +0000" stop="20231225080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Manchester City (Ing) vs. Inter (Ita), Final, Atatürk Olimpiyat</title></programme>
+<programme start="20231225080000 +0000" stop="20231225090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Sevilla (Esp) vs. Roma (Ita), Final, Puskás Aréna</title></programme>
+<programme start="20231225090000 +0000" stop="20231225100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa Conference League - Fiorentina (Ita) vs. West Ham Utd. (Ing), Final, Fortuna Arena</title></programme>
+<programme start="20231225100000 +0000" stop="20231225110000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - FA Cup - Manchester City vs. Manchester Utd., Final, Wembley Stadium</title></programme>
+<programme start="20231225110000 +0000" stop="20231225120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Supercopa 2023 - Manchester City (Ing) vs. Sevilla (Esp), Final, Estadio Georgios Karaiskakis</title></programme>
+<programme start="20231225120000 +0000" stop="20231225130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Coppa Italia - Fiorentina vs. Inter, Final, Estadio Olimpico</title></programme>
+<programme start="20231225130000 +0000" stop="20231225140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Nations League - Croacia vs. España, Final</title></programme>
+<programme start="20231225140000 +0000" stop="20231225150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
+<programme start="20231225150000 +0000" stop="20231225160000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231225160000 +0000" stop="20231225170000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial latinos</title></programme>
+<programme start="20231225170000 +0000" stop="20231225180000 +0000" channel="ESPN3.ar"><title lang="es">Scrum Mundial - Especial - Rugby World Cup</title></programme>
+<programme start="20231225180000 +0000" stop="20231225190000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Cincinnati</title></programme>
+<programme start="20231225190000 +0000" stop="20231225200000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Shanghai</title></programme>
+<programme start="20231225200000 +0000" stop="20231225210000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP Masters 1000 - Paris</title></programme>
+<programme start="20231225210000 +0000" stop="20231225220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Manchester City (Ing) vs. Inter (Ita), Final, Atatürk Olimpiyat</title></programme>
+<programme start="20231225220000 +0000" stop="20231225230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Sevilla (Esp) vs. Roma (Ita), Final, Puskás Aréna</title></programme>
+<programme start="20231225230000 +0000" stop="20231226000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa Conference League - Fiorentina (Ita) vs. West Ham Utd. (Ing), Final, Fortuna Arena</title></programme>
+<programme start="20231226000000 +0000" stop="20231226010000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - FA Cup - Manchester City vs. Manchester Utd., Final, Wembley Stadium</title></programme>
+<programme start="20231226010000 +0000" stop="20231226020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Supercopa 2023 - Manchester City (Ing) vs. Sevilla (Esp), Final, Estadio Georgios Karaiskakis</title></programme>
+<programme start="20231226020000 +0000" stop="20231226030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Coppa Italia - Fiorentina vs. Inter, Final, Estadio Olimpico</title></programme>
+<programme start="20231226030000 +0000" stop="20231226040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Nations League - Croacia vs. España, Final</title></programme>
+<programme start="20231226040000 +0000" stop="20231226043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023</title></programme>
 </tv>
