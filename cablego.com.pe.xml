@@ -1,31 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20231227">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20231228">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20231228050000 +0000" stop="20231228053000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
-<programme start="20231228053000 +0000" stop="20231228060000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
-<programme start="20231228060000 +0000" stop="20231228070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
-<programme start="20231228070000 +0000" stop="20231228080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial Grand Slam</title></programme>
-<programme start="20231228080000 +0000" stop="20231228090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial latinos</title></programme>
-<programme start="20231228090000 +0000" stop="20231228093000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 4</title></programme>
-<programme start="20231228093000 +0000" stop="20231228100000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
-<programme start="20231228100000 +0000" stop="20231228103000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
-<programme start="20231228103000 +0000" stop="20231228123000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Everton vs. Manchester City, Fecha 19, Goodison Park</title></programme>
-<programme start="20231228123000 +0000" stop="20231228150000 +0000" channel="ESPN3.ar"><title lang="es">NBA Wednesday - New York Knicks vs. Oklahoma City Thunder, Temporada regular, Paycom Center Oklahoma City</title></programme>
-<programme start="20231228150000 +0000" stop="20231228153000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 4</title></programme>
-<programme start="20231228153000 +0000" stop="20231228160000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
-<programme start="20231228160000 +0000" stop="20231228163000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
-<programme start="20231228163000 +0000" stop="20231228173000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - FA Cup - Manchester City vs. Manchester Utd., Final, Wembley Stadium</title></programme>
-<programme start="20231228173000 +0000" stop="20231228183000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Supercopa 2023 - Manchester City (Ing) vs. Sevilla (Esp), Final, Estadio Georgios Karaiskakis</title></programme>
-<programme start="20231228183000 +0000" stop="20231228193000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Coppa Italia - Fiorentina vs. Inter, Final, Estadio Olimpico</title></programme>
-<programme start="20231228193000 +0000" stop="20231228200000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
-<programme start="20231228200000 +0000" stop="20231228203000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
-<programme start="20231228203000 +0000" stop="20231228210000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
-<programme start="20231228210000 +0000" stop="20231228220000 +0000" channel="ESPN3.ar"><title lang="es">F Europa - Especiales 2023</title></programme>
-<programme start="20231228220000 +0000" stop="20231228230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Rugby World Cup 2023</title></programme>
-<programme start="20231228230000 +0000" stop="20231229000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Superliga Americana de Rugby - Final</title></programme>
-<programme start="20231229000000 +0000" stop="20231229020000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Brighton and Hove Albion vs. Tottenham Hotspur, Fecha 19, Amex Stadium</title></programme>
-<programme start="20231229020000 +0000" stop="20231229030000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20231229030000 +0000" stop="20231229040000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20231229040000 +0000" stop="20231229043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Las 50 mejores jugadas del año</title></programme>
 <programme start="20231229050000 +0000" stop="20231229053000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
 <programme start="20231229053000 +0000" stop="20231229060000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
 <programme start="20231229060000 +0000" stop="20231229070000 +0000" channel="ESPN3.ar"><title lang="es">F Europa - Especiales 2023</title></programme>
@@ -51,4 +25,30 @@
 <programme start="20231230033000 +0000" stop="20231230040000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 4</title></programme>
 <programme start="20231230040000 +0000" stop="20231230043000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
 <programme start="20231230043000 +0000" stop="20231230050000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 6</title></programme>
+<programme start="20231230050000 +0000" stop="20231230053000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230053000 +0000" stop="20231230060000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230060000 +0000" stop="20231230070000 +0000" channel="ESPN3.ar"><title lang="es">F Europa - Especiales 2023</title></programme>
+<programme start="20231230070000 +0000" stop="20231230073000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230073000 +0000" stop="20231230080000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230080000 +0000" stop="20231230090000 +0000" channel="ESPN3.ar"><title lang="es">F Europa - Especiales 2023</title></programme>
+<programme start="20231230090000 +0000" stop="20231230100000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20231230100000 +0000" stop="20231230103000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230103000 +0000" stop="20231230110000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230110000 +0000" stop="20231230120000 +0000" channel="ESPN3.ar"><title lang="es">F Europa - Especiales 2023</title></programme>
+<programme start="20231230120000 +0000" stop="20231230130000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20231230130000 +0000" stop="20231230140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN F360</title></programme>
+<programme start="20231230140000 +0000" stop="20231230150000 +0000" channel="ESPN3.ar"><title lang="es">F Europa - Especiales 2023</title></programme>
+<programme start="20231230150000 +0000" stop="20231230160000 +0000" channel="ESPN3.ar"><title lang="es">Especiales - ESPN Fútbol 1</title></programme>
+<programme start="20231230160000 +0000" stop="20231230163000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230163000 +0000" stop="20231230170000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico - Especiales 2023</title></programme>
+<programme start="20231230170000 +0000" stop="20231230180000 +0000" channel="ESPN3.ar"><title lang="es">ESPN F360</title></programme>
+<programme start="20231230180000 +0000" stop="20231230190000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20231230190000 +0000" stop="20231230200000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Fútbol 1</title></programme>
+<programme start="20231230200000 +0000" stop="20231230210000 +0000" channel="ESPN3.ar"><title lang="es">ESPN F360</title></programme>
+<programme start="20231230210000 +0000" stop="20231230220000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Luton Town vs. Chelsea, Fecha 20, Kenilworth Road</title></programme>
+<programme start="20231230220000 +0000" stop="20231230230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Premier League - Nottingham Forest vs. Manchester Utd., Fecha 20, City Ground</title></programme>
+<programme start="20231230230000 +0000" stop="20231231000000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Juventus vs. Roma, Fecha 18, Allianz Stadium</title></programme>
+<programme start="20231231000000 +0000" stop="20231231010000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout, el show - Resumen del año</title></programme>
+<programme start="20231231010000 +0000" stop="20231231030000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Hellas Verona vs. Salernitana, Fecha 18, Estadio Marcantonio Bentegodi</title></programme>
+<programme start="20231231030000 +0000" stop="20231231033000 +0000" channel="ESPN3.ar"><title lang="es">Top 14 de Francia - La Rochelle vs. Toulouse, Stade Toulousain, Toulouse, France</title></programme>
 </tv>
