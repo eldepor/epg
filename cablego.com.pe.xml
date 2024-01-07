@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240106">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240107">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240107060000 +0000" stop="20240107070000 +0000" channel="ESPN3.ar"><title lang="es">Especiales de LaLiga - Mejores goles de LaLiga 2023</title></programme>
-<programme start="20240107070000 +0000" stop="20240107090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Sassuolo vs. Fiorentina, Fecha 19, Mapei Stadium</title></programme>
-<programme start="20240107090000 +0000" stop="20240107100000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 2</title></programme>
-<programme start="20240107100000 +0000" stop="20240107103000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
-<programme start="20240107103000 +0000" stop="20240107110000 +0000" channel="ESPN3.ar"><title lang="es">Scrum Mundial - Especial - Sudáfrica, el camino del bicampeón</title></programme>
-<programme start="20240107110000 +0000" stop="20240107120000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240107120000 +0000" stop="20240107125500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Las 50 mejores jugadas del año</title></programme>
-<programme start="20240107125500 +0000" stop="20240107145000 +0000" channel="ESPN3.ar"><title lang="es">Top 14 de Francia - Racing 92 vs. Castres, Stade Pierre-Antoine, Castres, France</title></programme>
-<programme start="20240107145000 +0000" stop="20240107170000 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Bath vs. Gloucester, Kingsholm Stadium, Gloucester, England</title></programme>
-<programme start="20240107170000 +0000" stop="20240107180000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240107180000 +0000" stop="20240107190000 +0000" channel="ESPN3.ar"><title lang="es">Resumen - ESPN Knockout - Resumen del año</title></programme>
-<programme start="20240107190000 +0000" stop="20240107210000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Vergil Ortiz vs. Fredrick Lawson</title></programme>
-<programme start="20240107210000 +0000" stop="20240107230000 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Bath vs. Gloucester, Kingsholm Stadium, Gloucester, England</title></programme>
-<programme start="20240107230000 +0000" stop="20240108010000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Napoli, Fecha 19, Estadio Olimpico Grande Torino</title></programme>
-<programme start="20240108010000 +0000" stop="20240108020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - FA Cup - Arsenal vs. Liverpool, Tercera ronda</title></programme>
-<programme start="20240108020000 +0000" stop="20240108030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Roma vs. Atalanta, Fecha 19, Estadio Olimpico</title></programme>
-<programme start="20240108030000 +0000" stop="20240108040000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 3</title></programme>
-<programme start="20240108040000 +0000" stop="20240108043000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Empoli vs. Milan, Fecha 19, Estadio Carlo Castellani</title></programme>
 <programme start="20240108060000 +0000" stop="20240108070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Las 50 mejores jugadas del año</title></programme>
 <programme start="20240108070000 +0000" stop="20240108090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Napoli, Fecha 19, Estadio Olimpico Grande Torino</title></programme>
 <programme start="20240108090000 +0000" stop="20240108100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Roma vs. Atalanta, Fecha 19, Estadio Olimpico</title></programme>
@@ -35,4 +17,21 @@
 <programme start="20240109030000 +0000" stop="20240109040000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 4</title></programme>
 <programme start="20240109040000 +0000" stop="20240109043000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 4</title></programme>
 <programme start="20240109043000 +0000" stop="20240109050000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Resumen - Parte 5</title></programme>
+<programme start="20240109050000 +0000" stop="20240109060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial - Masters 1000</title></programme>
+<programme start="20240109060000 +0000" stop="20240109070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial latinos</title></programme>
+<programme start="20240109070000 +0000" stop="20240109080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Hellas Verona, Fecha 19, Estadio Giuseppe Meazza</title></programme>
+<programme start="20240109080000 +0000" stop="20240109090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - FA Cup - Arsenal vs. Liverpool, Tercera ronda</title></programme>
+<programme start="20240109090000 +0000" stop="20240109100000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Roma vs. Atalanta, Fecha 19, Estadio Olimpico</title></programme>
+<programme start="20240109100000 +0000" stop="20240109120000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Sassuolo vs. Fiorentina, Fecha 19, Mapei Stadium</title></programme>
+<programme start="20240109120000 +0000" stop="20240109140000 +0000" channel="ESPN3.ar"><title lang="es">Premiership Rugby de Inglaterra - Bath vs. Gloucester, Kingsholm Stadium, Gloucester, England</title></programme>
+<programme start="20240109140000 +0000" stop="20240109150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial - Masters 1000</title></programme>
+<programme start="20240109150000 +0000" stop="20240109160000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Tenis - Especial latinos</title></programme>
+<programme start="20240109160000 +0000" stop="20240109180000 +0000" channel="ESPN3.ar"><title lang="es">FA Cup Soccer - Arsenal vs. Liverpool, Tercera ronda</title></programme>
+<programme start="20240109180000 +0000" stop="20240109190000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 4</title></programme>
+<programme start="20240109190000 +0000" stop="20240109210000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Napoli, Fecha 19, Estadio Olimpico Grande Torino</title></programme>
+<programme start="20240109210000 +0000" stop="20240109230000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Sassuolo vs. Fiorentina, Fecha 19, Mapei Stadium</title></programme>
+<programme start="20240109230000 +0000" stop="20240110010000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Empoli vs. Milan, Fecha 19, Estadio Carlo Castellani</title></programme>
+<programme start="20240110010000 +0000" stop="20240110013000 +0000" channel="ESPN3.ar"><title lang="es">Coppa Italia Show</title></programme>
+<programme start="20240110013000 +0000" stop="20240110040000 +0000" channel="ESPN3.ar"><title lang="es">National Hockey League - Edmonton Oilers vs. Chicago Blackhawks, Temporada regular, United Center</title></programme>
+<programme start="20240110040000 +0000" stop="20240110043000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 5</title></programme>
 </tv>
