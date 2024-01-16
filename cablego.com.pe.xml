@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240115">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240116">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240116060000 +0000" stop="20240116070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20240116070000 +0000" stop="20240116090000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Ath. Bilbao vs. Real Sociedad, Fecha 20, Estadio San Mamés</title></programme>
-<programme start="20240116090000 +0000" stop="20240116100000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 11</title></programme>
-<programme start="20240116100000 +0000" stop="20240116120000 +0000" channel="ESPN3.ar"><title lang="es">Tour Down Under - Etapa 1</title></programme>
-<programme start="20240116120000 +0000" stop="20240116130000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20240116130000 +0000" stop="20240116140000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240116140000 +0000" stop="20240116160000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Top Rank - Artur Beterbiev vs. Callum Smith</title></programme>
-<programme start="20240116160000 +0000" stop="20240116180000 +0000" channel="ESPN3.ar"><title lang="es">Best of Australian Open</title></programme>
-<programme start="20240116180000 +0000" stop="20240116200000 +0000" channel="ESPN3.ar"><title lang="es">Best of Australian Open</title></programme>
-<programme start="20240116200000 +0000" stop="20240116210000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Milan vs. Roma, Fecha 20, Estadio Giuseppe Meazza</title></programme>
-<programme start="20240116210000 +0000" stop="20240116220000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 11</title></programme>
-<programme start="20240116220000 +0000" stop="20240116230000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240116230000 +0000" stop="20240117000000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 12</title></programme>
-<programme start="20240117000000 +0000" stop="20240117003000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de Australia - Segunda ronda, Melbourne Park, Melbourne, Australia</title></programme>
 <programme start="20240117060000 +0000" stop="20240117070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
 <programme start="20240117070000 +0000" stop="20240117090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Juventus vs. Sassuolo, Fecha 20, Allianz Stadium</title></programme>
 <programme start="20240117090000 +0000" stop="20240117100000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 12</title></programme>
@@ -30,4 +16,17 @@
 <programme start="20240118000000 +0000" stop="20240118003000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
 <programme start="20240118003000 +0000" stop="20240118030000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - Milwaukee Bucks vs. Cleveland Cavaliers, Temporada regular, Rocket M. FieldHouse Cleveland</title></programme>
 <programme start="20240118030000 +0000" stop="20240118033000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de Australia - Segunda ronda, Melbourne Park, Melbourne, Australia</title></programme>
+<programme start="20240118060000 +0000" stop="20240118070000 +0000" channel="ESPN3.ar"><title lang="es">Scrum+</title></programme>
+<programme start="20240118070000 +0000" stop="20240118073000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20240118073000 +0000" stop="20240118133000 +0000" channel="ESPN3.ar"><title lang="es">European PGA Tour - Hero Dubai Desert Classic - Primera ronda, Emirates Golf Club, Dubai, United Arab Emirates</title></programme>
+<programme start="20240118133000 +0000" stop="20240118140000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
+<programme start="20240118140000 +0000" stop="20240118150000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 13</title></programme>
+<programme start="20240118150000 +0000" stop="20240118160000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20240118160000 +0000" stop="20240118180000 +0000" channel="ESPN3.ar"><title lang="es">Best of Australian Open</title></programme>
+<programme start="20240118180000 +0000" stop="20240118200000 +0000" channel="ESPN3.ar"><title lang="es">Best of Australian Open</title></programme>
+<programme start="20240118200000 +0000" stop="20240118210000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20240118210000 +0000" stop="20240118220000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20240118220000 +0000" stop="20240118230000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20240118230000 +0000" stop="20240119000000 +0000" channel="ESPN3.ar"><title lang="es">Dakar: El resumen - Parte 14</title></programme>
+<programme start="20240119000000 +0000" stop="20240119003000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de Australia - Tercera ronda, Melbourne Park, Melbourne, Australia</title></programme>
 </tv>
