@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240120">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240121">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240121070000 +0000" stop="20240121130000 +0000" channel="ESPN3.ar"><title lang="es">European PGA Tour - Hero Dubai Desert Classic - Ronda final, Emirates Golf Club, Dubai, United Arab Emirates</title></programme>
-<programme start="20240121130000 +0000" stop="20240121140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Udinese vs. Milan, Fecha 21, Dacia Arena - Stadio Friuli</title></programme>
-<programme start="20240121140000 +0000" stop="20240121142000 +0000" channel="ESPN3.ar"><title lang="es">Manchester City campeón UCL 2022-2023</title></programme>
-<programme start="20240121142000 +0000" stop="20240121162500 +0000" channel="ESPN3.ar"><title lang="es">FA Women&apos;s Super League - Manchester City vs. Liverpool</title></programme>
-<programme start="20240121162500 +0000" stop="20240121183000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - FC Utrecht vs. PSV, Fecha 18, Stadion Galgenwaard</title></programme>
-<programme start="20240121183000 +0000" stop="20240121203000 +0000" channel="ESPN3.ar"><title lang="es">Best of Australian Open</title></programme>
-<programme start="20240121203000 +0000" stop="20240121213000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Real Madrid vs. Almería, Fecha 21, Estadio Santiago Bernabéu</title></programme>
-<programme start="20240121213000 +0000" stop="20240121220000 +0000" channel="ESPN3.ar"><title lang="es">Road to UEFA Euro 2024 Magazine</title></programme>
-<programme start="20240121220000 +0000" stop="20240122000000 +0000" channel="ESPN3.ar"><title lang="es">Copa Europea de Clubes - Investec Champions Cup - Stade Français Paris Rugby vs. DHL Stormers, Fecha 4</title></programme>
-<programme start="20240122000000 +0000" stop="20240122003000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de Australia - Octavos de final, Melbourne Park, Melbourne, Australia</title></programme>
 <programme start="20240122070000 +0000" stop="20240122080000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 <programme start="20240122080000 +0000" stop="20240122090000 +0000" channel="ESPN3.ar"><title lang="es">Compacto - Serie A - Lecce vs. Juventus, Fecha 21, Estadio Via del Mare</title></programme>
 <programme start="20240122090000 +0000" stop="20240122110000 +0000" channel="ESPN3.ar"><title lang="es">FA Women&apos;s Super League - Manchester City vs. Liverpool</title></programme>
@@ -25,4 +15,19 @@
 <programme start="20240123013000 +0000" stop="20240123020000 +0000" channel="ESPN3.ar"><title lang="es">Latin America Amateur Championship</title></programme>
 <programme start="20240123020000 +0000" stop="20240123030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Granada vs. Atl. de Madrid, Fecha 21, Estadio Los Cármenes</title></programme>
 <programme start="20240123030000 +0000" stop="20240123033000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Brighton and Hove Albion vs. Wolverhampton Wanderers, Fecha 21, Amex Stadium</title></programme>
+<programme start="20240123050000 +0000" stop="20240123060000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Lecce vs. Juventus, Fecha 21, Estadio Via del Mare</title></programme>
+<programme start="20240123060000 +0000" stop="20240123070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Real Madrid vs. Almería, Fecha 21, Estadio Santiago Bernabéu</title></programme>
+<programme start="20240123070000 +0000" stop="20240123090000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Osasuna vs. Getafe, Fecha 21, Estadio El Sadar</title></programme>
+<programme start="20240123090000 +0000" stop="20240123120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Top Rank - Kenshiro &amp;quot;The Amazing Boy&amp;quot; Teraji (Japón) vs. Carlos &amp;quot;CCC&amp;quot; Cañizales (Venezuela) / Artem...</title></programme>
+<programme start="20240123120000 +0000" stop="20240123130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Granada vs. Atl. de Madrid, Fecha 21, Estadio Los Cármenes</title></programme>
+<programme start="20240123130000 +0000" stop="20240123140000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240123140000 +0000" stop="20240123160000 +0000" channel="ESPN3.ar"><title lang="es">Eredivisie - FC Utrecht vs. PSV, Fecha 18, Stadion Galgenwaard</title></programme>
+<programme start="20240123160000 +0000" stop="20240123180000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Empoli vs. Monza, Fecha 21, Estadio Carlo Castellani</title></programme>
+<programme start="20240123180000 +0000" stop="20240123200000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Brighton and Hove Albion vs. Wolverhampton Wanderers, Fecha 21, Amex Stadium</title></programme>
+<programme start="20240123200000 +0000" stop="20240123220000 +0000" channel="ESPN3.ar"><title lang="es">Copa Europea de Clubes - Investec Champions Cup - Stade Français Paris Rugby vs. DHL Stormers, Fecha 4</title></programme>
+<programme start="20240123220000 +0000" stop="20240124000000 +0000" channel="ESPN3.ar"><title lang="es">Best of Australian Open</title></programme>
+<programme start="20240124000000 +0000" stop="20240124010000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Super Cup</title></programme>
+<programme start="20240124010000 +0000" stop="20240124020000 +0000" channel="ESPN3.ar"><title lang="es">F Europa</title></programme>
+<programme start="20240124020000 +0000" stop="20240124030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Carabao Cup - Chelsea vs. Middlesbrough, Semifinal - Vuelta, Stamford Bridge</title></programme>
+<programme start="20240124030000 +0000" stop="20240124033000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Brighton and Hove Albion vs. Wolverhampton Wanderers, Fecha 21, Amex Stadium</title></programme>
 </tv>
