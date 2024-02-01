@@ -1,26 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240131">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240201">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240201053000 +0000" stop="20240201060000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240201060000 +0000" stop="20240201070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Liverpool vs. Chelsea, Fecha 22, Anfield</title></programme>
-<programme start="20240201070000 +0000" stop="20240201090000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Tottenham Hotspur vs. Brentford, Fecha 22, Tottenham Hotspur Stadium</title></programme>
-<programme start="20240201090000 +0000" stop="20240201100000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - Farmers Insurance Open</title></programme>
-<programme start="20240201100000 +0000" stop="20240201110000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Liverpool vs. Chelsea, Fecha 22, Anfield</title></programme>
-<programme start="20240201110000 +0000" stop="20240201120000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20240201120000 +0000" stop="20240201130000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20240201130000 +0000" stop="20240201133000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20240201133000 +0000" stop="20240201140000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240201140000 +0000" stop="20240201150000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240201150000 +0000" stop="20240201170000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Tottenham Hotspur vs. Brentford, Fecha 22, Tottenham Hotspur Stadium</title></programme>
-<programme start="20240201170000 +0000" stop="20240201180000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20240201180000 +0000" stop="20240201190000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - Farmers Insurance Open</title></programme>
-<programme start="20240201190000 +0000" stop="20240201220000 +0000" channel="ESPN3.ar"><title lang="es">Abierto de Australia - Jannik Sinner (Ita) vs. Daniil Medvedev (Rus), Final masculina, Melbourne Park, Melbourne, Australia</title></programme>
-<programme start="20240201220000 +0000" stop="20240201223000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240201223000 +0000" stop="20240201230000 +0000" channel="ESPN3.ar"><title lang="es">Road to UEFA Euro 2024 Magazine</title></programme>
-<programme start="20240201230000 +0000" stop="20240202000000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20240202000000 +0000" stop="20240202010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240202010000 +0000" stop="20240202030000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - West Ham Utd. vs. Bournemouth, Fecha 22, London Stadium</title></programme>
-<programme start="20240202030000 +0000" stop="20240202040000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Liverpool vs. Chelsea, Fecha 22, Anfield</title></programme>
-<programme start="20240202040000 +0000" stop="20240202043000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
 <programme start="20240202050000 +0000" stop="20240202060000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20240202060000 +0000" stop="20240202063000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
 <programme start="20240202063000 +0000" stop="20240202070000 +0000" channel="ESPN3.ar"><title lang="es">Road to UEFA Euro 2024 Magazine</title></programme>
@@ -43,4 +22,8 @@
 <programme start="20240203000000 +0000" stop="20240203020000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - RC Strasbourg vs. Paris Saint-Germain, Fecha 20, Stade de la Meinau</title></programme>
 <programme start="20240203020000 +0000" stop="20240203030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20240203030000 +0000" stop="20240203033000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Quashawn Toler (USA) vs. Vlad &apos;Super Bad&apos; Panin (USA), Red Owl Boxing Arena, Texas, EE.UU.</title></programme>
+<programme start="20240203053000 +0000" stop="20240203173000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240203173000 +0000" stop="20240203180000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240203180000 +0000" stop="20240204000000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - AT&amp;T Pebble Beach Pro-Am - Tercera ronda, Pebble Beach Golf Links, Pebble Beach, CA, USA</title></programme>
+<programme start="20240204000000 +0000" stop="20240204003000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
