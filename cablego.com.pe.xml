@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240203">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240204">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240204050000 +0000" stop="20240204070000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Valencia vs. Almería, Fecha 23, Estadio Mestalla</title></programme>
-<programme start="20240204070000 +0000" stop="20240204080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Dutch Eredivisie - Ajax vs. PSV, Fecha 20, Johan Cruijff Arena</title></programme>
-<programme start="20240204080000 +0000" stop="20240204083000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20240204083000 +0000" stop="20240204102500 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Brighton and Hove Albion vs. Crystal Palace, Fecha 23, Amex Stadium</title></programme>
-<programme start="20240204102500 +0000" stop="20240204122000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Frosinone vs. Milan, Fecha 23, Stadio Benito Stirpe</title></programme>
-<programme start="20240204122000 +0000" stop="20240204143000 +0000" channel="ESPN3.ar"><title lang="es">FA Women&apos;s Super League - West Ham vs. Arsenal</title></programme>
-<programme start="20240204143000 +0000" stop="20240204162500 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Gales vs. Escocia, Fecha 1, Murrayfield, Edinburgh, Scotland</title></programme>
-<programme start="20240204162500 +0000" stop="20240204165000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240204165000 +0000" stop="20240204190000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Atalanta vs. Lazio, Fecha 23, Gewiss Stadium</title></programme>
-<programme start="20240204190000 +0000" stop="20240204195500 +0000" channel="ESPN3.ar"><title lang="es">2024 Pro Bowl Games: Skills Showdown</title></programme>
-<programme start="20240204195500 +0000" stop="20240204230000 +0000" channel="ESPN3.ar"><title lang="es">2024 Pro Bowl Games</title></programme>
-<programme start="20240204230000 +0000" stop="20240205000000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
-<programme start="20240205000000 +0000" stop="20240205010000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Arsenal vs. Liverpool, Fecha 23, Emirates Stadium</title></programme>
-<programme start="20240205010000 +0000" stop="20240205020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - LaLiga - Real Madrid vs. Atl. de Madrid, Fecha 23, Estadio Santiago Bernabéu</title></programme>
-<programme start="20240205020000 +0000" stop="20240205030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Juventus, Fecha 23, Estadio Giuseppe Meazza</title></programme>
-<programme start="20240205030000 +0000" stop="20240205040000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240205040000 +0000" stop="20240205043000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Atalanta vs. Lazio, Fecha 23, Gewiss Stadium</title></programme>
 <programme start="20240205060000 +0000" stop="20240205070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Arsenal vs. Liverpool, Fecha 23, Emirates Stadium</title></programme>
 <programme start="20240205070000 +0000" stop="20240205090000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - AS Monaco vs. Le Havre, Fecha 20, Stade Louis II</title></programme>
 <programme start="20240205090000 +0000" stop="20240205110000 +0000" channel="ESPN3.ar"><title lang="es">Copa Liga Profesional 2024 - River Plate vs. Vélez Sarsfield, Fecha 3 - Grupo A, Estadio Antonio Vespucio Liberti</title></programme>
@@ -33,4 +16,20 @@
 <programme start="20240206013500 +0000" stop="20240206023000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20240206023000 +0000" stop="20240206030000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
 <programme start="20240206030000 +0000" stop="20240206033000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Roma vs. Cagliari, Fecha 23, Estadio Olimpico</title></programme>
+<programme start="20240206050000 +0000" stop="20240206070000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Brentford vs. Manchester City, Fecha 23, Brentford Community Stadium</title></programme>
+<programme start="20240206070000 +0000" stop="20240206090000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Salernitana, Fecha 23, Estadio Olimpico Grande Torino</title></programme>
+<programme start="20240206090000 +0000" stop="20240206100000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240206100000 +0000" stop="20240206120000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - AS Monaco vs. Le Havre, Fecha 20, Stade Louis II</title></programme>
+<programme start="20240206120000 +0000" stop="20240206140000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Atalanta vs. Lazio, Fecha 23, Gewiss Stadium</title></programme>
+<programme start="20240206140000 +0000" stop="20240206150000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Arsenal vs. Liverpool, Fecha 23, Emirates Stadium</title></programme>
+<programme start="20240206150000 +0000" stop="20240206170000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Torino vs. Salernitana, Fecha 23, Estadio Olimpico Grande Torino</title></programme>
+<programme start="20240206170000 +0000" stop="20240206190000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Betis vs. Getafe, Fecha 23, Estadio Benito Villamarín</title></programme>
+<programme start="20240206190000 +0000" stop="20240206193000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20240206193000 +0000" stop="20240206200000 +0000" channel="ESPN3.ar"><title lang="es">Road to UEFA Euro 2024 Magazine</title></programme>
+<programme start="20240206200000 +0000" stop="20240206203000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240206203000 +0000" stop="20240206223000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Roma vs. Cagliari, Fecha 23, Estadio Olimpico</title></programme>
+<programme start="20240206223000 +0000" stop="20240207003000 +0000" channel="ESPN3.ar"><title lang="es">Copa de Alemania - Bayer Leverkusen vs. Stuttgart, Cuartos de final, BayArena</title></programme>
+<programme start="20240207003000 +0000" stop="20240207010000 +0000" channel="ESPN3.ar"><title lang="es">Road to UEFA Euro 2024 Magazine</title></programme>
+<programme start="20240207010000 +0000" stop="20240207030000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Rayo Vallecano vs. Sevilla, Fecha 23, Estadio Vallecas</title></programme>
+<programme start="20240207030000 +0000" stop="20240207033000 +0000" channel="ESPN3.ar"><title lang="es">National Hockey League - Edmonton Oilers vs. Vegas Golden Knights, Temporada regular, T-Mobile Arena</title></programme>
 </tv>
