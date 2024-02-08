@@ -2,7 +2,8 @@
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
 <programme start="20240209050000 +0000" stop="20240209060000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20240209060000 +0000" stop="20240209070000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20240209070000 +0000" stop="20240209093000 +0000" channel="ESPN3.ar"><title lang="es">National Hockey League - Edmonton Oilers vs. Anaheim Ducks, Temporada regular, Honda Center</title></programme>
+<programme start="20240209070000 +0000" stop="20240209090000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Top Rank - Teofimo Lopez vs. Jamaine Ortiz</title></programme>
+<programme start="20240209090000 +0000" stop="20240209093000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
 <programme start="20240209093000 +0000" stop="20240209113000 +0000" channel="ESPN3.ar"><title lang="es">Tour Colombia 2.1</title></programme>
 <programme start="20240209113000 +0000" stop="20240209133000 +0000" channel="ESPN3.ar"><title lang="es">Copa de Alemania - Bayer Leverkusen vs. Stuttgart, Cuartos de final, BayArena</title></programme>
 <programme start="20240209133000 +0000" stop="20240209143000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Juventus, Fecha 23, Estadio Giuseppe Meazza</title></programme>
@@ -19,6 +20,21 @@
 <programme start="20240210023000 +0000" stop="20240210030000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
 <programme start="20240210030000 +0000" stop="20240210033000 +0000" channel="ESPN3.ar"><title lang="es">NBA Esta noche</title></programme>
 <programme start="20240210033000 +0000" stop="20240210040000 +0000" channel="ESPN3.ar"><title lang="es">NBA Friday - New Orleans Pelicans vs. Los Angeles Lakers, Temporada regular, STAPLES Center Los Angeles</title></programme>
-<programme start="20240210060000 +0000" stop="20240210180000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
-<programme start="20240210180000 +0000" stop="20240210183000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240210060000 +0000" stop="20240210063000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
+<programme start="20240210063000 +0000" stop="20240210070000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20240210070000 +0000" stop="20240210080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20240210080000 +0000" stop="20240210100000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Salernitana vs. Empoli, Fecha 24, Estadio Arechi</title></programme>
+<programme start="20240210100000 +0000" stop="20240210110000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240210110000 +0000" stop="20240210113000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240210113000 +0000" stop="20240210120000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
+<programme start="20240210120000 +0000" stop="20240210130000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240210130000 +0000" stop="20240210140000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20240210140000 +0000" stop="20240210161500 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Escocia vs. Francia, Fecha 2, Stade de France, Paris, France</title></programme>
+<programme start="20240210161500 +0000" stop="20240210184500 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Inglaterra vs. Gales, Fecha 2, Millenium Stadium, Cardiff, Wales</title></programme>
+<programme start="20240210184500 +0000" stop="20240210204000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Dep. Alavés vs. Villarreal, Fecha 24, Estadio Mendizorroza</title></programme>
+<programme start="20240210204000 +0000" stop="20240210223500 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Manchester City vs. Everton, Fecha 24, Etihad Stadium</title></programme>
+<programme start="20240210223500 +0000" stop="20240211003000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Real Sociedad vs. Osasuna, Fecha 24, Estadio Reale Arena</title></programme>
+<programme start="20240211003000 +0000" stop="20240211023000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Escocia vs. Francia, Fecha 2, Stade de France, Paris, France</title></programme>
+<programme start="20240211023000 +0000" stop="20240211043000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. LOSC Lille, Fecha 21, Parc des Princes</title></programme>
+<programme start="20240211043000 +0000" stop="20240211050000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
 </tv>
