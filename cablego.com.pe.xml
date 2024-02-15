@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240214">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240215">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240215050000 +0000" stop="20240215060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20240215060000 +0000" stop="20240215070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Paris Saint Germain (Fra) vs. Real Sociedad (Esp), Octavos de final - Ida, Parc des Princes</title></programme>
-<programme start="20240215070000 +0000" stop="20240215090000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Le Havre vs. Stade Rennais, Fecha 21, Stade Océane</title></programme>
-<programme start="20240215090000 +0000" stop="20240215100000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - WM Phoenix Open</title></programme>
-<programme start="20240215100000 +0000" stop="20240215110000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240215110000 +0000" stop="20240215120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Paris Saint Germain (Fra) vs. Real Sociedad (Esp), Octavos de final - Ida, Parc des Princes</title></programme>
-<programme start="20240215120000 +0000" stop="20240215123000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240215123000 +0000" stop="20240215143000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - RB Leipzig (Ale) vs. Real Madrid (Esp), Octavos de final - Ida, Red Bull Arena</title></programme>
-<programme start="20240215143000 +0000" stop="20240215150000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20240215150000 +0000" stop="20240215153000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20240215153000 +0000" stop="20240215163000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20240215163000 +0000" stop="20240215173000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League &amp; Conference League Magazine</title></programme>
-<programme start="20240215173000 +0000" stop="20240215194500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Shakhtar Donetsk (Ucr) vs. Olympique de Marseille (Fra), Playoffs - Ida, Estadio Olímpico de Kiev</title></programme>
-<programme start="20240215194500 +0000" stop="20240215215500 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - RC Lens (Fra) vs. Friburgo (Ale), Playoffs - Ida, Stade Bollaert-Delelis</title></programme>
-<programme start="20240215215500 +0000" stop="20240216010000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - The Genesis Invitational - Primera ronda, Riviera Country Club, Pacific Palisades, CA, USA</title></programme>
-<programme start="20240216010000 +0000" stop="20240216033000 +0000" channel="ESPN3.ar"><title lang="es">National Hockey League - Dallas Stars vs. Nashville Predators, Temporada regular, Bridgestone Arena</title></programme>
-<programme start="20240216033000 +0000" stop="20240216040000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
-<programme start="20240216040000 +0000" stop="20240216043000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
 <programme start="20240216050000 +0000" stop="20240216060000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
 <programme start="20240216060000 +0000" stop="20240216070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Paris Saint Germain (Fra) vs. Real Sociedad (Esp), Octavos de final - Ida, Parc des Princes</title></programme>
 <programme start="20240216070000 +0000" stop="20240216090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Shakhtar Donetsk (Ucr) vs. Olympique de Marseille (Fra), Playoffs - Ida, Estadio Olímpico de Kiev</title></programme>
@@ -33,4 +15,8 @@
 <programme start="20240216210000 +0000" stop="20240217010000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - The Genesis Invitational - Segunda ronda, Riviera Country Club, Pacific Palisades, CA, USA</title></programme>
 <programme start="20240217010000 +0000" stop="20240217043000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Top Rank - O&apos;Shaquie Foster vs. Abraham Nova</title></programme>
 <programme start="20240217043000 +0000" stop="20240217050000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20240217050000 +0000" stop="20240217170000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240217170000 +0000" stop="20240217180000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240217180000 +0000" stop="20240218000000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - The Genesis Invitational - Tercera ronda, Riviera Country Club, Pacific Palisades, CA, USA</title></programme>
+<programme start="20240218000000 +0000" stop="20240218003000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
