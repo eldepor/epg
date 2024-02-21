@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240220">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240221">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240221050000 +0000" stop="20240221070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Inter (Ita) vs. Atl. de Madrid (Esp), Octavos de final - Ida, Estadio Giuseppe Meazza</title></programme>
-<programme start="20240221070000 +0000" stop="20240221090000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Everton vs. Crystal Palace, Fecha 25, Goodison Park</title></programme>
-<programme start="20240221090000 +0000" stop="20240221100000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20240221100000 +0000" stop="20240221120000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Ath. Bilbao vs. Girona, Fecha 25, Estadio San Mamés</title></programme>
-<programme start="20240221120000 +0000" stop="20240221130000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240221130000 +0000" stop="20240221150000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Everton vs. Crystal Palace, Fecha 25, Goodison Park</title></programme>
-<programme start="20240221150000 +0000" stop="20240221160000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Arabia Saudita - Parte 1</title></programme>
-<programme start="20240221160000 +0000" stop="20240221170000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Arabia Saudita - Parte 2</title></programme>
-<programme start="20240221170000 +0000" stop="20240221180000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20240221180000 +0000" stop="20240221183000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20240221183000 +0000" stop="20240221193000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
-<programme start="20240221193000 +0000" stop="20240221203000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240221203000 +0000" stop="20240221213000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
-<programme start="20240221213000 +0000" stop="20240221220000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20240221220000 +0000" stop="20240221230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Champions League - Inter (Ita) vs. Atl. de Madrid (Esp), Octavos de final - Ida, Estadio Giuseppe Meazza</title></programme>
-<programme start="20240221230000 +0000" stop="20240222010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - FC Porto (Por) vs. Arsenal (Ing), Octavos de final - Ida, Estádio do Dragão</title></programme>
-<programme start="20240222010000 +0000" stop="20240222030000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - Inter (Ita) vs. Atl. de Madrid (Esp), Octavos de final - Ida, Estadio Giuseppe Meazza</title></programme>
-<programme start="20240222030000 +0000" stop="20240222033000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
-<programme start="20240222033000 +0000" stop="20240222043000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Arabia Saudita - Parte 1</title></programme>
-<programme start="20240222043000 +0000" stop="20240222050000 +0000" channel="ESPN3.ar"><title lang="es">Extreme E Highlights - Arabia Saudita - Parte 2</title></programme>
 <programme start="20240222053000 +0000" stop="20240222060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
 <programme start="20240222060000 +0000" stop="20240222070000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - ATP 500 - Rotterdam</title></programme>
 <programme start="20240222070000 +0000" stop="20240222090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League - FC Porto (Por) vs. Arsenal (Ing), Octavos de final - Ida, Estádio do Dragão</title></programme>
@@ -41,4 +21,16 @@
 <programme start="20240223030000 +0000" stop="20240223040000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
 <programme start="20240223040000 +0000" stop="20240223043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
 <programme start="20240223043000 +0000" stop="20240223050000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20240223050000 +0000" stop="20240223070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Stade Rennais (Fra) vs. Milan (Ita), Playoffs - Vuelta, Roazhon Park</title></programme>
+<programme start="20240223070000 +0000" stop="20240223090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Friburgo (Ale) vs. RC Lens (Fra), Playoffs - Vuelta, Schwarzwald-Stadion</title></programme>
+<programme start="20240223090000 +0000" stop="20240223110000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Olympique de Marseille (Fra) vs. Shakhtar Donetsk (Ucr), Playoffs - Vuelta, Vélodrome</title></programme>
+<programme start="20240223110000 +0000" stop="20240223130000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Qarabag (Aze) vs. SC Braga (Por), Playoffs - Vuelta, Tofiq Bahramov Stadium</title></programme>
+<programme start="20240223130000 +0000" stop="20240223150000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Sporting CP (Por) vs. Young Boys (Sui), Playoffs - Vuelta, Estádio José Alvalade</title></programme>
+<programme start="20240223150000 +0000" stop="20240223170000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Sparta Praga (Czk) vs. Galatasaray (Tur), Playoffs - Vuelta, Generali Arena</title></programme>
+<programme start="20240223170000 +0000" stop="20240223190000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Roma (Ita) vs. Feyenoord (Hol), Playoffs - Vuelta, Estadio Olimpico</title></programme>
+<programme start="20240223190000 +0000" stop="20240223210000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Stade Rennais (Fra) vs. Milan (Ita), Playoffs - Vuelta, Roazhon Park</title></programme>
+<programme start="20240223210000 +0000" stop="20240224000000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - Mexico Open at Vidanta - Segunda ronda, Vidanta Vallarta, Puerto Vallarta, Mexico</title></programme>
+<programme start="20240224000000 +0000" stop="20240224010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
+<programme start="20240224010000 +0000" stop="20240224020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
+<programme start="20240224020000 +0000" stop="20240224023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Lester Martinez vs. Ruben Angulo</title></programme>
 </tv>
