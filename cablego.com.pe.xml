@@ -1,17 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240222">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240223">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240223050000 +0000" stop="20240223070000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Stade Rennais (Fra) vs. Milan (Ita), Playoffs - Vuelta, Roazhon Park</title></programme>
-<programme start="20240223070000 +0000" stop="20240223090000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Friburgo (Ale) vs. RC Lens (Fra), Playoffs - Vuelta, Schwarzwald-Stadion</title></programme>
-<programme start="20240223090000 +0000" stop="20240223110000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Olympique de Marseille (Fra) vs. Shakhtar Donetsk (Ucr), Playoffs - Vuelta, Vélodrome</title></programme>
-<programme start="20240223110000 +0000" stop="20240223130000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Qarabag (Aze) vs. SC Braga (Por), Playoffs - Vuelta, Tofiq Bahramov Stadium</title></programme>
-<programme start="20240223130000 +0000" stop="20240223150000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Sporting CP (Por) vs. Young Boys (Sui), Playoffs - Vuelta, Estádio José Alvalade</title></programme>
-<programme start="20240223150000 +0000" stop="20240223170000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Sparta Praga (Czk) vs. Galatasaray (Tur), Playoffs - Vuelta, Generali Arena</title></programme>
-<programme start="20240223170000 +0000" stop="20240223190000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Roma (Ita) vs. Feyenoord (Hol), Playoffs - Vuelta, Estadio Olimpico</title></programme>
-<programme start="20240223190000 +0000" stop="20240223210000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa League - Stade Rennais (Fra) vs. Milan (Ita), Playoffs - Vuelta, Roazhon Park</title></programme>
-<programme start="20240223210000 +0000" stop="20240224000000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - Mexico Open at Vidanta - Segunda ronda, Vidanta Vallarta, Puerto Vallarta, Mexico</title></programme>
-<programme start="20240224000000 +0000" stop="20240224010000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20240224010000 +0000" stop="20240224020000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20240224020000 +0000" stop="20240224023000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout - Martínez (Gua) vs. Ángulo (Col) / Macario (Gua) vs. Jiménez (CRC) / Sánchez (CRC) vs. Cordovez (Ven)</title></programme>
 <programme start="20240224050000 +0000" stop="20240224053000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
 <programme start="20240224053000 +0000" stop="20240224060000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
 <programme start="20240224060000 +0000" stop="20240224063000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
@@ -28,4 +16,15 @@
 <programme start="20240225010000 +0000" stop="20240225040000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 <programme start="20240225040000 +0000" stop="20240225045500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Aston Villa vs. Nottingham Forest, Fecha 26, Villa Park</title></programme>
 <programme start="20240225045500 +0000" stop="20240225052500 +0000" channel="ESPN3.ar"><title lang="es">Superbikes FIM - Australia - World SBK - Race 2, Phillip Island Grand Prix Circuit, Victoria, Australia</title></programme>
+<programme start="20240225060000 +0000" stop="20240225070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240225070000 +0000" stop="20240225073000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240225073000 +0000" stop="20240225080000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240225080000 +0000" stop="20240225090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20240225090000 +0000" stop="20240225093000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240225093000 +0000" stop="20240225103000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Bournemouth vs. Manchester City, Fecha 26, Dean Court - Vitality Stadium</title></programme>
+<programme start="20240225103000 +0000" stop="20240225105500 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20240225105500 +0000" stop="20240225200000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240225200000 +0000" stop="20240225220000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
+<programme start="20240225220000 +0000" stop="20240226030000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240226030000 +0000" stop="20240226033000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
