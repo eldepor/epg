@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240223">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240224">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240224050000 +0000" stop="20240224053000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20240224053000 +0000" stop="20240224060000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - La previa</title></programme>
-<programme start="20240224060000 +0000" stop="20240224063000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240224063000 +0000" stop="20240224070000 +0000" channel="ESPN3.ar"><title lang="es">Inside Serie A</title></programme>
-<programme start="20240224070000 +0000" stop="20240224080000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20240224080000 +0000" stop="20240224090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20240224090000 +0000" stop="20240224110000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Real Sociedad vs. Villarreal, Fecha 26, Estadio Reale Arena</title></programme>
-<programme start="20240224110000 +0000" stop="20240224120000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Roma (Ita) vs. Feyenoord (Hol), Playoffs - Vuelta, Estadio Olimpico</title></programme>
-<programme start="20240224120000 +0000" stop="20240224130000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - UEFA Europa League - Toulouse FC (Fra) vs. Benfica (Por), Playoffs - Vuelta, Stade de Toulouse</title></programme>
-<programme start="20240224130000 +0000" stop="20240224140000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Europa &amp; UEFA Conference League Highlights</title></programme>
-<programme start="20240224140000 +0000" stop="20240224161500 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Irlanda vs. Gales, Fecha 3, Millenium Stadium, Cardiff, Wales</title></programme>
-<programme start="20240224161500 +0000" stop="20240224180000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Escocia vs. Inglaterra, Fecha 3, Twickenham Stadium, London, England</title></programme>
-<programme start="20240224180000 +0000" stop="20240224230000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour - Mexico Open at Vidanta - Tercera ronda, Vidanta Vallarta, Puerto Vallarta, Mexico</title></programme>
-<programme start="20240224230000 +0000" stop="20240225010000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Sassuolo vs. Empoli, Fecha 26, Mapei Stadium</title></programme>
-<programme start="20240225010000 +0000" stop="20240225040000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
-<programme start="20240225040000 +0000" stop="20240225045500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Aston Villa vs. Nottingham Forest, Fecha 26, Villa Park</title></programme>
-<programme start="20240225045500 +0000" stop="20240225052500 +0000" channel="ESPN3.ar"><title lang="es">Superbikes FIM - Australia - World SBK - Race 2, Phillip Island Grand Prix Circuit, Victoria, Australia</title></programme>
 <programme start="20240225060000 +0000" stop="20240225070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
 <programme start="20240225070000 +0000" stop="20240225073000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
 <programme start="20240225073000 +0000" stop="20240225080000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
@@ -32,4 +15,20 @@
 <programme start="20240225233000 +0000" stop="20240226020000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 <programme start="20240226020000 +0000" stop="20240226030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
 <programme start="20240226030000 +0000" stop="20240226033000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. Stade Rennais, Fecha 23, Parc des Princes</title></programme>
+<programme start="20240226050000 +0000" stop="20240226070000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - RC Lens vs. AS Monaco, Fecha 23, Stade Bollaert-Delelis</title></programme>
+<programme start="20240226070000 +0000" stop="20240226090000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Wolverhampton Wanderers vs. Sheffield Utd., Fecha 26, Molineux Stadium</title></programme>
+<programme start="20240226090000 +0000" stop="20240226110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Napoli, Fecha 26, Sardegna Arena</title></programme>
+<programme start="20240226110000 +0000" stop="20240226130000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. Stade Rennais, Fecha 23, Parc des Princes</title></programme>
+<programme start="20240226130000 +0000" stop="20240226150000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Francia vs. Italia, Fecha 3</title></programme>
+<programme start="20240226150000 +0000" stop="20240226170000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240226170000 +0000" stop="20240226180000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240226180000 +0000" stop="20240226190000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Lecce vs. Inter, Fecha 26, Estadio Via del Mare</title></programme>
+<programme start="20240226190000 +0000" stop="20240226210000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Escocia vs. Inglaterra, Fecha 3, Twickenham Stadium, London, England</title></programme>
+<programme start="20240226210000 +0000" stop="20240226220000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20240226220000 +0000" stop="20240226230000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Bournemouth vs. Manchester City, Fecha 26, Dean Court - Vitality Stadium</title></programme>
+<programme start="20240226230000 +0000" stop="20240227000000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
+<programme start="20240227000000 +0000" stop="20240227010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240227010000 +0000" stop="20240227030000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Knockout: Top Rank - Takuma Inoue vs. Jerwin Ancajas</title></programme>
+<programme start="20240227030000 +0000" stop="20240227040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20240227040000 +0000" stop="20240227043000 +0000" channel="ESPN3.ar"><title lang="es">A confirmar</title></programme>
 </tv>
