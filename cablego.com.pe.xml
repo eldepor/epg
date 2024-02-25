@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240224">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240225">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240225060000 +0000" stop="20240225070000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240225070000 +0000" stop="20240225073000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240225073000 +0000" stop="20240225080000 +0000" channel="ESPN3.ar"><title lang="es">Acción de la NBA</title></programme>
-<programme start="20240225080000 +0000" stop="20240225090000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
-<programme start="20240225090000 +0000" stop="20240225093000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240225093000 +0000" stop="20240225103000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - English Premier League - Bournemouth vs. Manchester City, Fecha 26, Dean Court - Vitality Stadium</title></programme>
-<programme start="20240225103000 +0000" stop="20240225105500 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20240225105500 +0000" stop="20240225115000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240225115000 +0000" stop="20240225135500 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - RC Lens vs. AS Monaco, Fecha 23, Stade Bollaert-Delelis</title></programme>
-<programme start="20240225135500 +0000" stop="20240225155500 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Napoli, Fecha 26, Sardegna Arena</title></programme>
-<programme start="20240225155500 +0000" stop="20240225180000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. Stade Rennais, Fecha 23, Parc des Princes</title></programme>
-<programme start="20240225180000 +0000" stop="20240225203000 +0000" channel="ESPN3.ar"><title lang="es">ABC Sunday Showcase - Milwaukee Bucks vs. Philadelphia 76ers, Temporada regular, Wells Fargo Center, Philadelphia</title></programme>
-<programme start="20240225203000 +0000" stop="20240225230000 +0000" channel="ESPN3.ar"><title lang="es">ABC Sunday Showcase - Los Angeles Lakers vs. Phoenix Suns, Temporada regular, Footprint Center, Phoenix</title></programme>
-<programme start="20240225230000 +0000" stop="20240225233000 +0000" channel="ESPN3.ar"><title lang="es">Road to UEFA Euro 2024 Magazine</title></programme>
-<programme start="20240225233000 +0000" stop="20240226020000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series</title></programme>
-<programme start="20240226020000 +0000" stop="20240226030000 +0000" channel="ESPN3.ar"><title lang="es">Scrum domingo</title></programme>
-<programme start="20240226030000 +0000" stop="20240226033000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - Paris Saint-Germain vs. Stade Rennais, Fecha 23, Parc des Princes</title></programme>
 <programme start="20240226050000 +0000" stop="20240226070000 +0000" channel="ESPN3.ar"><title lang="es">Ligue 1 - RC Lens vs. AS Monaco, Fecha 23, Stade Bollaert-Delelis</title></programme>
 <programme start="20240226070000 +0000" stop="20240226090000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - Wolverhampton Wanderers vs. Sheffield Utd., Fecha 26, Molineux Stadium</title></programme>
 <programme start="20240226090000 +0000" stop="20240226110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Napoli, Fecha 26, Sardegna Arena</title></programme>
@@ -34,4 +17,22 @@
 <programme start="20240227020000 +0000" stop="20240227030000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
 <programme start="20240227030000 +0000" stop="20240227040000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
 <programme start="20240227040000 +0000" stop="20240227043000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20240227050000 +0000" stop="20240227070000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - West Ham Utd. vs. Brentford, Fecha 26, London Stadium</title></programme>
+<programme start="20240227070000 +0000" stop="20240227090000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Barcelona vs. Getafe, Fecha 26, Estadio Camp Nou</title></programme>
+<programme start="20240227090000 +0000" stop="20240227110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Roma vs. Torino, Fecha 26, Estadio Olimpico</title></programme>
+<programme start="20240227110000 +0000" stop="20240227130000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Francia vs. Italia, Fecha 3</title></programme>
+<programme start="20240227130000 +0000" stop="20240227140000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20240227140000 +0000" stop="20240227160000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Napoli, Fecha 26, Sardegna Arena</title></programme>
+<programme start="20240227160000 +0000" stop="20240227180000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Barcelona vs. Getafe, Fecha 26, Estadio Camp Nou</title></programme>
+<programme start="20240227180000 +0000" stop="20240227190000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20240227190000 +0000" stop="20240227193000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
+<programme start="20240227193000 +0000" stop="20240227200000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20240227200000 +0000" stop="20240227220000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Irlanda vs. Gales, Fecha 3, Millenium Stadium, Cardiff, Wales</title></programme>
+<programme start="20240227220000 +0000" stop="20240227223000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240227223000 +0000" stop="20240227230000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20240227230000 +0000" stop="20240228000000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
+<programme start="20240228000000 +0000" stop="20240228010000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20240228010000 +0000" stop="20240228030000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour - Rio Open - Final, Jockey Club Brasileiro, Rio de Janeiro, RJ, Brazil</title></programme>
+<programme start="20240228030000 +0000" stop="20240228040000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240228040000 +0000" stop="20240228043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
 </tv>
