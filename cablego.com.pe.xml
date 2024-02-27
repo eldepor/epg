@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240226">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20240227">
 <channel id="ESPN3.ar"><display-name>ESPN3</display-name><url>https://cablego.com.pe</url></channel>
-<programme start="20240227050000 +0000" stop="20240227070000 +0000" channel="ESPN3.ar"><title lang="es">Premier League - West Ham Utd. vs. Brentford, Fecha 26, London Stadium</title></programme>
-<programme start="20240227070000 +0000" stop="20240227090000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Barcelona vs. Getafe, Fecha 26, Estadio Camp Nou</title></programme>
-<programme start="20240227090000 +0000" stop="20240227110000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Roma vs. Torino, Fecha 26, Estadio Olimpico</title></programme>
-<programme start="20240227110000 +0000" stop="20240227130000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Francia vs. Italia, Fecha 3</title></programme>
-<programme start="20240227130000 +0000" stop="20240227140000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20240227140000 +0000" stop="20240227160000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Cagliari vs. Napoli, Fecha 26, Sardegna Arena</title></programme>
-<programme start="20240227160000 +0000" stop="20240227180000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga - Barcelona vs. Getafe, Fecha 26, Estadio Camp Nou</title></programme>
-<programme start="20240227180000 +0000" stop="20240227190000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
-<programme start="20240227190000 +0000" stop="20240227193000 +0000" channel="ESPN3.ar"><title lang="es">Aguas arriba</title></programme>
-<programme start="20240227193000 +0000" stop="20240227200000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20240227200000 +0000" stop="20240227220000 +0000" channel="ESPN3.ar"><title lang="es">Torneo de las 6 naciones - Irlanda vs. Gales, Fecha 3, Millenium Stadium, Cardiff, Wales</title></programme>
-<programme start="20240227220000 +0000" stop="20240227223000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
-<programme start="20240227223000 +0000" stop="20240227230000 +0000" channel="ESPN3.ar"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20240227230000 +0000" stop="20240228000000 +0000" channel="ESPN3.ar"><title lang="es">Rugby World Sevens Series Highlights</title></programme>
-<programme start="20240228000000 +0000" stop="20240228010000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
-<programme start="20240228010000 +0000" stop="20240228030000 +0000" channel="ESPN3.ar"><title lang="es">ATP World Tour - Rio Open - Final, Jockey Club Brasileiro, Rio de Janeiro, RJ, Brazil</title></programme>
-<programme start="20240228030000 +0000" stop="20240228040000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
-<programme start="20240228040000 +0000" stop="20240228043000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Premier League</title></programme>
 <programme start="20240228050000 +0000" stop="20240228060000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - Mexico Open at Vidanta</title></programme>
 <programme start="20240228060000 +0000" stop="20240228070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
 <programme start="20240228070000 +0000" stop="20240228090000 +0000" channel="ESPN3.ar"><title lang="es">FA Cup Soccer - Luton Town vs. Manchester City, Octavos de final</title></programme>
@@ -37,4 +19,29 @@
 <programme start="20240229000000 +0000" stop="20240229003000 +0000" channel="ESPN3.ar"><title lang="es">Resumen semanal - Top 14 de Francia</title></programme>
 <programme start="20240229003000 +0000" stop="20240229030000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - New Orleans Pelicans vs. Indiana Pacers, Temporada regular, Bankers Life FieldHouse Indianapolis</title></programme>
 <programme start="20240229030000 +0000" stop="20240229033000 +0000" channel="ESPN3.ar"><title lang="es">Serie A - Inter vs. Atalanta, Fecha 21, Estadio Giuseppe Meazza</title></programme>
+<programme start="20240229050000 +0000" stop="20240229060000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20240229060000 +0000" stop="20240229070000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20240229070000 +0000" stop="20240229073000 +0000" channel="ESPN3.ar"><title lang="es">La Liga World</title></programme>
+<programme start="20240229073000 +0000" stop="20240229080000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240229080000 +0000" stop="20240229090000 +0000" channel="ESPN3.ar"><title lang="es">PGA Tour Highlights - Mexico Open at Vidanta</title></programme>
+<programme start="20240229090000 +0000" stop="20240229113000 +0000" channel="ESPN3.ar"><title lang="es">NBA Miércoles - Los Angeles Lakers vs. LA Clippers, Temporada regular, STAPLES Center Los Angeles</title></programme>
+<programme start="20240229113000 +0000" stop="20240229123000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20240229123000 +0000" stop="20240229130000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240229130000 +0000" stop="20240229150000 +0000" channel="ESPN3.ar"><title lang="es">FA Cup Soccer - Luton Town vs. Manchester City, Octavos de final</title></programme>
+<programme start="20240229150000 +0000" stop="20240229160000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20240229160000 +0000" stop="20240229170000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Serie A</title></programme>
+<programme start="20240229170000 +0000" stop="20240229180000 +0000" channel="ESPN3.ar"><title lang="es">ESPN Compact - Italian Serie A - Inter vs. Atalanta, Fecha 21, Estadio Giuseppe Meazza</title></programme>
+<programme start="20240229180000 +0000" stop="20240229183000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240229183000 +0000" stop="20240229193000 +0000" channel="ESPN3.ar"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20240229193000 +0000" stop="20240229203000 +0000" channel="ESPN3.ar"><title lang="es">El show de la F1</title></programme>
+<programme start="20240229203000 +0000" stop="20240229214000 +0000" channel="ESPN3.ar"><title lang="es">Formula One Practice - Gran Premio de Baréin, Práctica 1, Circuito Internacional de Baréin, Sakhir</title></programme>
+<programme start="20240229214000 +0000" stop="20240229225000 +0000" channel="ESPN3.ar"><title lang="es">Formula One Practice - Gran Premio de Baréin, Práctica 2, Circuito Internacional de Baréin, Sakhir</title></programme>
+<programme start="20240229225000 +0000" stop="20240229232500 +0000" channel="ESPN3.ar"><title lang="es">ESPN Polo</title></programme>
+<programme start="20240229232500 +0000" stop="20240301000000 +0000" channel="ESPN3.ar"><title lang="es">ATP Tour: This Week</title></programme>
+<programme start="20240301000000 +0000" stop="20240301010000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240301010000 +0000" stop="20240301020000 +0000" channel="ESPN3.ar"><title lang="es">F Táctico</title></programme>
+<programme start="20240301020000 +0000" stop="20240301030000 +0000" channel="ESPN3.ar"><title lang="es">Revista del Turf</title></programme>
+<programme start="20240301030000 +0000" stop="20240301040000 +0000" channel="ESPN3.ar"><title lang="es">Simplemente fútbol</title></programme>
+<programme start="20240301040000 +0000" stop="20240301043000 +0000" channel="ESPN3.ar"><title lang="es">Lo mejor de MotoGP - Previa - Temporada 2024</title></programme>
+<programme start="20240301043000 +0000" stop="20240301050000 +0000" channel="ESPN3.ar"><title lang="es">LaLiga Show</title></programme>
 </tv>
