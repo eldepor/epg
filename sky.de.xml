@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240610">
 <channel id="SkySportF1Germany.de"><display-name>Sky Sport F1 HD</display-name><url>https://sky.de</url></channel>
 <channel id="SkySportBundesligaUHD.de"><display-name>Sky Sport Bundesliga UHD</display-name><url>https://sky.de</url></channel>
-<programme start="20240609233000 +0000" stop="20240610000000 +0000" channel="SkySportF1Germany.de"><title lang="de">F1: Ted&apos;s Notebook: GP Kanada</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/14515078_s.jpg"/></programme>
+<programme start="20240609220000 +0000" stop="20240610000000 +0000" channel="SkySportF1Germany.de"><title lang="de">F1: Rennen - GP Kanada</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/14515075_s.jpg"/></programme>
 <programme start="20240610000000 +0000" stop="20240610020000 +0000" channel="SkySportF1Germany.de"><title lang="de">IndyCar: EXPEL Grand Prix at Road America</title><category lang="de">Motorsport</category><icon src="http://sky.de/static/img/program_guide/14457510_s.jpg"/></programme>
 <programme start="20240610020000 +0000" stop="20240610040000 +0000" channel="SkySportF1Germany.de"><title lang="de">F1: Rennen - GP Kanada</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/14515075_s.jpg"/></programme>
 <programme start="20240610040000 +0000" stop="20240610053000 +0000" channel="SkySportF1Germany.de"><title lang="de">F1: 1. Freies Training - GP Kanada</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/14515068_s.jpg"/></programme>
