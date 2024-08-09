@@ -71,9 +71,8 @@ function parseStop(item) {
   return dayjs(item.stop).toJSON()
 }
 
-
 function parseContent(content) {
-  const [_, data] = content.match(/var pageData = ((.|[\r\n])+);\n/) || [null, null]
+  const [, data] = content.match(/var pageData = ({.+});\n/) || [null, null]
 
   return data ? JSON.parse(data) : {}
 }
