@@ -1,115 +1,68 @@
 const axios = require('axios')
-const cheerio = require('cheerio')
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
-const timezone = require('dayjs/plugin/timezone')
-const customParseFormat = require('dayjs/plugin/customParseFormat')
 
 dayjs.extend(utc)
-dayjs.extend(timezone)
-dayjs.extend(customParseFormat)
+
+const headers = {
+  'X-Apikey': 'xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI',
+  'X-Core-Appversion': '2.14.0.1',
+  'X-Core-Contentratinglimit': '0',
+  'X-Core-Deviceid': '',
+  'X-Core-Devicetype': 'web',
+  Origin: 'https://nostv.pt',
+  'User-Agent':
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+}
 
 module.exports = {
-  site: 'nos.pt',
+  site: 'nostv.pt',
   days: 2,
-  url({ channel }) {
-    return `https://www.nos.pt/particulares/televisao/guia-tv/Pages/channel.aspx?channel=${channel.site_id}`
+  url({ channel, date }) {
+    return `https://tyr-prod.apigee.net/nostv/ott/schedule/range/contents/guest?channels=${
+      channel.site_id
+    }&minDate=${date.format('YYYY-MM-DD')}T00:00:00Z&maxDate=${date.format(
+      'YYYY-MM-DD'
+    )}T23:59:59Z&isDateInclusive=true&client_id=${headers['X-Apikey']}`
   },
-  async parser({ content, date }) {
+  request: { headers },
+  parser({ content }) {
     const programs = []
-    const items = parseItems(content, date)
-    date = date.subtract(1, 'd')
-    for (let item of items) {
-      const prev = programs[programs.length - 1]
-      const $item = cheerio.load(item)
-
-      const channelAcronym = parseChannelAcronym(content)
-      const programId = parseProgramId($item)
-      const details = await loadProgramDetails(channelAcronym, programId)
-
-      programs.push({
-        title: details.title,
-        description: details.description,
-        icon: parseIcon(details),
-        start: dayjs(details.start),
-        stop: dayjs(details.stop)
+    if (content) {
+      const items = Array.isArray(content) ? content : JSON.parse(content)
+      items.forEach(item => {
+        programs.push({
+          title: item.Metadata?.Title,
+          sub_title: item.Metadata?.SubTitle ? item.Metadata?.SubTitle : null,
+          description: item.Metadata?.Description,
+          season: item.Metadata?.Season,
+          episode: item.Metadata?.Episode,
+          image: item.Images
+            ? `https://mage.stream.nos.pt/v1/nostv_mage/Images?sourceUri=${item.Images[0].Url}&profile=ott_1_452x340&client_id=${headers['X-Apikey']}`
+            : null,
+          start: dayjs.utc(item.UtcDateTimeStart),
+          stop: dayjs.utc(item.UtcDateTimeEnd)
+        })
       })
     }
 
     return programs
   },
-  async channels({ country }) {
-    const html = await axios
-      .get(`https://www.nos.pt/particulares/televisao/guia-tv/Pages/default.aspx`)
+  async channels() {
+    const result = await axios
+      .get(
+        `https://tyr-prod.apigee.net/nostv/ott/channels/guest?client_id=${headers['X-Apikey']}`,
+        { headers }
+      )
       .then(r => r.data)
-      .catch(console.log)
+      .catch(console.error)
 
-    const $ = cheerio.load(html)
-    const items = $('#guide-filters > dl.dropdown-ord > dd > ul > li').toArray()
-
-    return items.map(item => {
-      const $item = cheerio.load(item)
-
+    return result.map(item => {
       return {
         lang: 'pt',
-        site_id: $item('.value').text().trim(),
-        name: $item('a').clone().children().remove().end().text().trim()
+        site_id: item.ServiceId,
+        name: item.Name
       }
     })
   }
-}
-
-async function loadProgramDetails(channelAcronym, programId) {
-  if (!channelAcronym || !programId) return {}
-  const data = await axios
-    .post(
-      `https://www.nos.pt/_layouts/15/Armstrong/ApplicationPages/EPGGetProgramsAndDetails.aspx/GetProgramDetails`,
-      {
-        programId,
-        channelAcronym,
-        hour: 'undefined',
-        startHour: 'undefined',
-        endHour: 'undefined'
-      },
-      {
-        headers: {
-          'content-type': 'application/json; charset=UTF-8'
-        }
-      }
-    )
-    .then(r => r.data)
-    .catch(console.log)
-
-  if (!data) return {}
-
-  const [title, description, image, , , , start, stop] = data.d.split('_#|$_')
-
-  return {
-    title,
-    description,
-    image,
-    start,
-    stop
-  }
-}
-
-function parseIcon(details) {
-  return details.image ? `https://images.nos.pt/${details.image}` : null
-}
-
-function parseProgramId($item) {
-  return $item('a').attr('id')
-}
-
-function parseChannelAcronym(content) {
-  const $ = cheerio.load(content)
-
-  return $('#channel-logo > img').attr('alt')
-}
-
-function parseItems(content, date) {
-  const day = date.date()
-  const $ = cheerio.load(content)
-
-  return $(`#day${day} > ul > li`).toArray()
 }
