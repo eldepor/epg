@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="ziggogo.tv">
   <channels>
+    <channel lang="nl" xmltv_id="ZiggoSportGolf.nl" site_id="NL_000096_019382">Ziggo Sport Golf</channel>
     <channel lang="nl" xmltv_id="ZiggoSportRacing.nl" site_id="NL_000097_019370">Ziggo Sport Racing</channel>
     <channel lang="nl" xmltv_id="ZiggoSportSelect.nl" site_id="NL_000094_019321">Ziggo Sport Select</channel>
     <channel lang="nl" xmltv_id="ZiggoSportVoetbal.nl" site_id="NL_000095_019371">Ziggo Sport Voetbal</channel>
