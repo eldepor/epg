@@ -2,5 +2,7 @@
 <site site="superguidatv.it">
   <channels>
 	<channel lang="it" xmltv_id="SkySportArena.it" site_id="sky-sport-arena/sky-sport/38">Sky Sport Arena</channel>
+	<channel lang="it" xmltv_id="SkySportUno.it" site_id="sky-sport-uno/sky-sport/37">Sky Sport Uno</channel>
+	<channel lang="it" xmltv_id="SkySportNBA.it" site_id="sky-sport-nba/sky-sport/40">Sky Sport NBA</channel>
   </channels>
 </site>
