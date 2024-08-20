@@ -3,10 +3,10 @@
 <channel id="SkySportUno.it"><display-name>Sky Sport Uno</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportNBA.it"><display-name>Sky Sport NBA</display-name><url>https://superguidatv.it</url></channel>
 <programme start="20240820174000 +0000" stop="20240821040000 +0000" channel="SkySportArena.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 231)</title><category lang="it">Sport</category></programme>
-<programme start="20240821040000 +0000" stop="20240821055500 +0000" channel="SkySportArena.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 231)</title><category lang="it">Sport</category></programme>
-<programme start="20240821055500 +0000" stop="20240821070000 +0000" channel="SkySportArena.it"><title lang="it">King &amp; Queen Of The Beach (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20240821070000 +0000" stop="20240821080000 +0000" channel="SkySportArena.it"><title lang="it">King &amp; Queen Of The Beach (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20240821080000 +0000" stop="20240821100000 +0000" channel="SkySportArena.it"><title lang="it">The Rugby Championship (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20240821040000 +0000" stop="20240821061500 +0000" channel="SkySportArena.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 231)</title><category lang="it">Sport</category></programme>
+<programme start="20240821061500 +0000" stop="20240821070500 +0000" channel="SkySportArena.it"><title lang="it">King &amp; Queen Of The Beach (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20240821070500 +0000" stop="20240821080500 +0000" channel="SkySportArena.it"><title lang="it">King &amp; Queen Of The Beach (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20240821080500 +0000" stop="20240821100000 +0000" channel="SkySportArena.it"><title lang="it">The Rugby Championship (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
 <programme start="20240821100000 +0000" stop="20240821110000 +0000" channel="SkySportArena.it"><title lang="it">Beach Soccer Tour (St. 2024 - Ep. 19)</title><category lang="it">Sport</category></programme>
 <programme start="20240821110000 +0000" stop="20240821115500 +0000" channel="SkySportArena.it"><title lang="it">Beach Soccer Tour (St. 2024 - Ep. 20)</title><category lang="it">Sport</category></programme>
 <programme start="20240821115500 +0000" stop="20240821134500 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 33)</title><category lang="it">Sport</category></programme>
@@ -29,6 +29,8 @@
 <programme start="20240821050000 +0000" stop="20240821053000 +0000" channel="SkySportArena.it"><title lang="it">Champions Of The Water (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20240821053000 +0000" stop="20240821060000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20240821060000 +0000" stop="20240821070000 +0000" channel="SkySportArena.it"><title lang="it">Beach Soccer Tour (St. 2024 - Ep. 19)</title><category lang="it">Sport</category></programme>
+<programme start="20240821070000 +0000" stop="20240821080000 +0000" channel="SkySportArena.it"><title lang="it">Beach Soccer Tour (St. 2024 - Ep. 20)</title><category lang="it">Sport</category></programme>
+<programme start="20240821080000 +0000" stop="20240821100000 +0000" channel="SkySportArena.it"><title lang="it">Super Rugby (St. 2024 - Ep. 23)</title><category lang="it">Sport</category></programme>
 <programme start="20240821120000 +0000" stop="20240821124500 +0000" channel="SkySportArena.it"><title lang="it">AEW Rampage (St. 2024 - Ep. 33)</title><category lang="it">Sport</category></programme>
 <programme start="20240821124500 +0000" stop="20240821130000 +0000" channel="SkySportArena.it"><title lang="it">AdrenaliniX (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
 <programme start="20240821130000 +0000" stop="20240821133000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
@@ -61,14 +63,15 @@
 <programme start="20240823020000 +0000" stop="20240823030000 +0000" channel="SkySportArena.it"><title lang="it">Beach Soccer Tour (St. 2024 - Ep. 15)</title><category lang="it">Sport</category></programme>
 <programme start="20240823030000 +0000" stop="20240823040000 +0000" channel="SkySportArena.it"><title lang="it">Beach Soccer Tour (St. 2024 - Ep. 16)</title><category lang="it">Sport</category></programme>
 <programme start="20240823040000 +0000" stop="20240823043000 +0000" channel="SkySportArena.it"><title lang="it">Calciomercato - L&apos;originale</title><category lang="it">Sport</category></programme>
-<programme start="20240820000000 +0000" stop="20240820040000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 231)</title><category lang="it">Sport</category></programme>
+<programme start="20240820001500 +0000" stop="20240820040000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 231)</title><category lang="it">Sport</category></programme>
 <programme start="20240820040000 +0000" stop="20240820055500 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 231)</title><category lang="it">Sport</category></programme>
-<programme start="20240820055500 +0000" stop="20240820080000 +0000" channel="SkySportUno.it"><title lang="it">ATP 1000 Cincinnati (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20240820080000 +0000" stop="20240820094500 +0000" channel="SkySportUno.it"><title lang="it">Premier League (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20240820094500 +0000" stop="20240820100500 +0000" channel="SkySportUno.it"><title lang="it">Premier 30 (St. 2022 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20240820100500 +0000" stop="20240820120000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20240820120000 +0000" stop="20240820125500 +0000" channel="SkySportUno.it"><title lang="it">Calciomercato - L&apos;originale</title><category lang="it">Sport</category></programme>
-<programme start="20240820125500 +0000" stop="20240820150000 +0000" channel="SkySportUno.it"><title lang="it">WTA 1000 Cincinnati (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20240820055500 +0000" stop="20240820074000 +0000" channel="SkySportUno.it"><title lang="it">ATP 1000 Cincinnati (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20240820074000 +0000" stop="20240820094500 +0000" channel="SkySportUno.it"><title lang="it">Premier League (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20240820094500 +0000" stop="20240820101500 +0000" channel="SkySportUno.it"><title lang="it">Premier League Remix (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20240820101500 +0000" stop="20240820120000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20240820120000 +0000" stop="20240820130000 +0000" channel="SkySportUno.it"><title lang="it">Calciomercato - L&apos;originale</title><category lang="it">Sport</category></programme>
+<programme start="20240820130000 +0000" stop="20240820133500 +0000" channel="SkySportUno.it"><title lang="it">Champions League Best Goal All Time</title><category lang="it">Sport</category></programme>
+<programme start="20240820133500 +0000" stop="20240820150000 +0000" channel="SkySportUno.it"><title lang="it">WTA 1000 Cincinnati (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
 <programme start="20240820150000 +0000" stop="20240820185500 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 232)</title><category lang="it">Sport</category></programme>
 <programme start="20240820185500 +0000" stop="20240820210000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20240820210000 +0000" stop="20240820214500 +0000" channel="SkySportUno.it"><title lang="it">Stories (St. 5 - Ep. 18)</title><category lang="it">Mondo e Tendenze</category></programme>
@@ -76,7 +79,8 @@
 <programme start="20240820220000 +0000" stop="20240820230000 +0000" channel="SkySportUno.it"><title lang="it">Calciomercato - L&apos;originale</title><category lang="it">Sport</category></programme>
 <programme start="20240820230000 +0000" stop="20240821040000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 232)</title><category lang="it">Sport</category></programme>
 <programme start="20240821040000 +0000" stop="20240821043000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 232)</title><category lang="it">Sport</category></programme>
-<programme start="20240821060000 +0000" stop="20240821080000 +0000" channel="SkySportUno.it"><title lang="it">WTA 1000 Cincinnati (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20240821060000 +0000" stop="20240821071500 +0000" channel="SkySportUno.it"><title lang="it">WTA 1000 Cincinnati (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20240821071500 +0000" stop="20240821080000 +0000" channel="SkySportUno.it"><title lang="it">Buffa racconta (St. 1 - Ep. 5)</title><category lang="it">Sport</category></programme>
 <programme start="20240821080000 +0000" stop="20240821091500 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 216)</title><category lang="it">Sport</category></programme>
 <programme start="20240821091500 +0000" stop="20240821101500 +0000" channel="SkySportUno.it"><title lang="it">Race Anatomy MotoGP (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
 <programme start="20240821101500 +0000" stop="20240821120000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
