@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="directv.com">
   <channels>
-    <channel lang="en" xmltv_id="ESPN.us" site_id="206#206">ESPN</channel>
-    <channel lang="en" xmltv_id="ESPN2.us" site_id="209#209">ESPN2</channel>
-    <channel lang="en" xmltv_id="FoxSports1.us" site_id="219#607">FOX Sports 1</channel>
-    <!-- <channel lang="en" xmltv_id="FoxSports1.us" site_id="219#8242">FOX Sports 1 HD</channel> -->
-    <channel lang="en" xmltv_id="FoxSports2.us" site_id="618#2618">FOX Sports 2</channel>
-    <!-- <channel lang="en" xmltv_id="FoxSports2.us" site_id="618#5618">FOX Sports 2 HD</channel> -->
-    <channel lang="en" xmltv_id="NBATV.us" site_id="216#601">NBA TV</channel>
-    <!-- <channel lang="en" xmltv_id="NBATV.us" site_id="216#8220">NBA TV HD</channel> -->
-    <channel lang="en" xmltv_id="TennisChannel.us" site_id="217#3088">Tennis Channel</channel>
-    <!-- <channel lang="en" xmltv_id="TennisChannel.us" site_id="217#8240">Tennis Channel HD</channel> -->
-	 <channel lang="en" xmltv_id="NBALeaguePass1.us" site_id="747#747">NBA League Pass 747</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass1.us" site_id="747#5747">NBA League Pass HD 747</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass2.us" site_id="748#748">NBA League Pass 748</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass2.us" site_id="748#5748">NBA League Pass HD 748</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass3.us" site_id="749#749">NBA League Pass 749</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass3.us" site_id="749#5749">NBA League Pass HD 749</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass4.us" site_id="750#750">NBA League Pass 750</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass4.us" site_id="750#5750">NBA League Pass 750 HD</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass5.us" site_id="765#765">NBA League Pass 765</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass5.us" site_id="765#5765">NBA League Pass 765 HD</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass6.us" site_id="766#766">NBA League Pass 766</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass6.us" site_id="766#5766">NBA League Pass 766 HD</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass7.us" site_id="767#767">NBA League Pass 767</channel>
-    <!-- <channel lang="en" xmltv_id="NBALeaguePass7.us" site_id="767#5767">NBA League Pass 767 HD</channel> -->
-    <channel lang="en" xmltv_id="NBALeaguePass8.us" site_id="768#768">NBA League Pass 768</channel>
+    <channel site="directv.com" lang="en" xmltv_id="ESPN.us" site_id="206#206">ESPN</channel>
+    <channel site="directv.com" lang="en" xmltv_id="ESPN2.us" site_id="209#209">ESPN2</channel>
+    <channel site="directv.com" lang="en" xmltv_id="FoxSports1.us" site_id="219#607">FOX Sports 1</channel>
+    <channel site="directv.com" lang="en" xmltv_id="FoxSports2.us" site_id="618#2618">FOX Sports 2</channel>
+    <channel site="directv.com" lang="en" xmltv_id="TennisChannel.us" site_id="217#3088">Tennis Channel</channel>
   </channels>
 </site>
