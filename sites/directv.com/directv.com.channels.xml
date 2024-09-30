@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site site="directv.com">
-  <channels>
+<channels>
     <channel site="directv.com" lang="en" xmltv_id="ESPN.us" site_id="206#206">ESPN</channel>
     <channel site="directv.com" lang="en" xmltv_id="ESPN2.us" site_id="209#209">ESPN2</channel>
     <channel site="directv.com" lang="en" xmltv_id="FoxSports1.us" site_id="219#607">FOX Sports 1</channel>
     <channel site="directv.com" lang="en" xmltv_id="FoxSports2.us" site_id="618#2618">FOX Sports 2</channel>
     <channel site="directv.com" lang="en" xmltv_id="TennisChannel.us" site_id="217#3088">Tennis Channel</channel>
-  </channels>
-</site>
+</channels>
