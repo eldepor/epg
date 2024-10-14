@@ -1,24 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241013">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20241014">
 <channel id="ESPN.us"><display-name>ESPN</display-name><url>https://tvguide.com</url></channel>
 <channel id="ESPN2.us"><display-name>ESPN 2 US</display-name><url>https://tvguide.com</url></channel>
 <channel id="FoxSports1.us"><display-name>Fox Sports 1</display-name><url>https://tvguide.com</url></channel>
-<programme start="20241012230000 +0000" stop="20241013020000 +0000" channel="ESPN.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013020000 +0000" stop="20241013021500 +0000" channel="ESPN.us"><title lang="en">College Football Scoreboard</title></programme>
-<programme start="20241013021500 +0000" stop="20241013051500 +0000" channel="ESPN.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013051500 +0000" stop="20241013061500 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013061500 +0000" stop="20241013070000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013070000 +0000" stop="20241013080000 +0000" channel="ESPN.us"><title lang="en">College Football Final</title></programme>
-<programme start="20241013080000 +0000" stop="20241013083000 +0000" channel="ESPN.us"><title lang="en">NFL Matchup</title></programme>
-<programme start="20241013083000 +0000" stop="20241013103000 +0000" channel="ESPN.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013103000 +0000" stop="20241013110000 +0000" channel="ESPN.us"><title lang="en">NFL Matchup</title></programme>
-<programme start="20241013110000 +0000" stop="20241013120000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013120000 +0000" stop="20241013130000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013130000 +0000" stop="20241013140000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013140000 +0000" stop="20241013170000 +0000" channel="ESPN.us"><title lang="en">Sunday NFL Countdown</title></programme>
-<programme start="20241013170000 +0000" stop="20241013190000 +0000" channel="ESPN.us"><title lang="en">Women&apos;s College Volleyball</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013190000 +0000" stop="20241013200000 +0000" channel="ESPN.us"><title lang="en">Clutch: The NBA Playoffs</title></programme>
-<programme start="20241013200000 +0000" stop="20241013210000 +0000" channel="ESPN.us"><title lang="en">Clutch: The NBA Playoffs</title></programme>
-<programme start="20241013210000 +0000" stop="20241013220000 +0000" channel="ESPN.us"><title lang="en">Clutch: The NBA Playoffs</title></programme>
 <programme start="20241013220000 +0000" stop="20241014003000 +0000" channel="ESPN.us"><title lang="en">NBA Preseason Basketball</title></programme>
 <programme start="20241014003000 +0000" stop="20241014030000 +0000" channel="ESPN.us"><title lang="en">NBA Preseason Basketball</title></programme>
 <programme start="20241014030000 +0000" stop="20241014033000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
@@ -60,23 +43,25 @@
 <programme start="20241015220000 +0000" stop="20241015230000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
 <programme start="20241015230000 +0000" stop="20241015233000 +0000" channel="ESPN.us"><title lang="en">CFP Rankings Show</title></programme>
 <programme start="20241015233000 +0000" stop="20241016020000 +0000" channel="ESPN.us"><title lang="en">NHL Hockey</title></programme>
-<programme start="20241012230000 +0000" stop="20241013020000 +0000" channel="ESPN2.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013020000 +0000" stop="20241013021500 +0000" channel="ESPN2.us"><title lang="en">College Football Scoreboard</title></programme>
-<programme start="20241013021500 +0000" stop="20241013051500 +0000" channel="ESPN2.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013051500 +0000" stop="20241013063000 +0000" channel="ESPN2.us"><title lang="en">College Football Final</title></programme>
-<programme start="20241013063000 +0000" stop="20241013070000 +0000" channel="ESPN2.us"><title lang="en">TrueSouth</title></programme>
-<programme start="20241013070000 +0000" stop="20241013080000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013080000 +0000" stop="20241013100000 +0000" channel="ESPN2.us"><title lang="en">Junior Golf</title></programme>
-<programme start="20241013100000 +0000" stop="20241013110000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
-<programme start="20241013110000 +0000" stop="20241013120000 +0000" channel="ESPN2.us"><title lang="en">College Football Final</title></programme>
-<programme start="20241013120000 +0000" stop="20241013123000 +0000" channel="ESPN2.us"><title lang="en">TrueSouth</title></programme>
-<programme start="20241013123000 +0000" stop="20241013130000 +0000" channel="ESPN2.us"><title lang="en">The Breakdown with Peyton and Belichick</title></programme>
-<programme start="20241013130000 +0000" stop="20241013140000 +0000" channel="ESPN2.us"><title lang="en">ESPN BET Live</title></programme>
-<programme start="20241013140000 +0000" stop="20241013170000 +0000" channel="ESPN2.us"><title lang="en">Fantasy Football Now</title></programme>
-<programme start="20241013170000 +0000" stop="20241013190000 +0000" channel="ESPN2.us"><title lang="en">APP Tour Pickleball</title></programme>
-<programme start="20241013190000 +0000" stop="20241013210000 +0000" channel="ESPN2.us"><title lang="en">PGA Junior League Championship</title></programme>
-<programme start="20241013210000 +0000" stop="20241013230000 +0000" channel="ESPN2.us"><title lang="en">NWSL Soccer</title></programme>
-<programme start="20241013230000 +0000" stop="20241014000000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016020000 +0000" stop="20241016043000 +0000" channel="ESPN.us"><title lang="en">NHL Hockey</title></programme>
+<programme start="20241016043000 +0000" stop="20241016053000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016053000 +0000" stop="20241016063000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016063000 +0000" stop="20241016073000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016073000 +0000" stop="20241016080000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016080000 +0000" stop="20241016100000 +0000" channel="ESPN.us"><title lang="en">NHL Hockey</title></programme>
+<programme start="20241016100000 +0000" stop="20241016110000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="ESPN.us"><title lang="en">Get Up</title></programme>
+<programme start="20241016140000 +0000" stop="20241016160000 +0000" channel="ESPN.us"><title lang="en">First Take</title></programme>
+<programme start="20241016160000 +0000" stop="20241016180000 +0000" channel="ESPN.us"><title lang="en">The Pat McAfee Show</title><rating system="MPA"><value>TV-PG</value></rating></programme>
+<programme start="20241016180000 +0000" stop="20241016190000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016190000 +0000" stop="20241016200000 +0000" channel="ESPN.us"><title lang="en">NBA Today</title></programme>
+<programme start="20241016200000 +0000" stop="20241016210000 +0000" channel="ESPN.us"><title lang="en">NFL Live</title></programme>
+<programme start="20241016210000 +0000" stop="20241016213000 +0000" channel="ESPN.us"><title lang="en">Around the Horn</title></programme>
+<programme start="20241016213000 +0000" stop="20241016220000 +0000" channel="ESPN.us"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20241016220000 +0000" stop="20241016230000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016230000 +0000" stop="20241016233000 +0000" channel="ESPN.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016233000 +0000" stop="20241017000000 +0000" channel="ESPN.us"><title lang="en">WNBA Countdown</title></programme>
 <programme start="20241014000000 +0000" stop="20241014003000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
 <programme start="20241014003000 +0000" stop="20241014010000 +0000" channel="ESPN2.us"><title lang="en">TrueSouth</title></programme>
 <programme start="20241014010000 +0000" stop="20241014020000 +0000" channel="ESPN2.us"><title lang="en">Inside Pro Surfing</title></programme>
@@ -124,17 +109,26 @@
 <programme start="20241015210000 +0000" stop="20241015220000 +0000" channel="ESPN2.us"><title lang="en">NFL Live</title></programme>
 <programme start="20241015220000 +0000" stop="20241015233000 +0000" channel="ESPN2.us"><title lang="en">The Point</title></programme>
 <programme start="20241015233000 +0000" stop="20241016023000 +0000" channel="ESPN2.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241012230000 +0000" stop="20241013023000 +0000" channel="FoxSports1.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013023000 +0000" stop="20241013043000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Soccer</title></programme>
-<programme start="20241013043000 +0000" stop="20241013073000 +0000" channel="FoxSports1.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013073000 +0000" stop="20241013103000 +0000" channel="FoxSports1.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013103000 +0000" stop="20241013133000 +0000" channel="FoxSports1.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013133000 +0000" stop="20241013140000 +0000" channel="FoxSports1.us"><title lang="en">The Joel Klatt Show</title><rating system="MPA"><value>TV-PG</value></rating></programme>
-<programme start="20241013140000 +0000" stop="20241013150000 +0000" channel="FoxSports1.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
-<programme start="20241013150000 +0000" stop="20241013155000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Matchnight Highlights</title></programme>
-<programme start="20241013155000 +0000" stop="20241013180000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Soccer</title></programme>
-<programme start="20241013180000 +0000" stop="20241013200000 +0000" channel="FoxSports1.us"><title lang="en">NHRA Drag Racing</title></programme>
-<programme start="20241013200000 +0000" stop="20241013230000 +0000" channel="FoxSports1.us"><title lang="en">NHRA Drag Racing</title></programme>
+<programme start="20241016023000 +0000" stop="20241016040000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016040000 +0000" stop="20241016043000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016043000 +0000" stop="20241016050000 +0000" channel="ESPN2.us"><title lang="en">Good Guy/Bad Guy</title></programme>
+<programme start="20241016050000 +0000" stop="20241016060000 +0000" channel="ESPN2.us"><title lang="en">NFL Live</title></programme>
+<programme start="20241016060000 +0000" stop="20241016080000 +0000" channel="ESPN2.us"><title lang="en">NHL Hockey</title></programme>
+<programme start="20241016080000 +0000" stop="20241016090000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016090000 +0000" stop="20241016100000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016100000 +0000" stop="20241016120000 +0000" channel="ESPN2.us"><title lang="en">Unsportsmanlike with Evan, Canty and Michelle</title></programme>
+<programme start="20241016120000 +0000" stop="20241016130000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016130000 +0000" stop="20241016140000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016140000 +0000" stop="20241016160000 +0000" channel="ESPN2.us"><title lang="en">Get Up</title></programme>
+<programme start="20241016160000 +0000" stop="20241016180000 +0000" channel="ESPN2.us"><title lang="en">First Take</title></programme>
+<programme start="20241016180000 +0000" stop="20241016183000 +0000" channel="ESPN2.us"><title lang="en">College Football Live</title></programme>
+<programme start="20241016183000 +0000" stop="20241016190000 +0000" channel="ESPN2.us"><title lang="en">Championship Drive</title></programme>
+<programme start="20241016190000 +0000" stop="20241016200000 +0000" channel="ESPN2.us"><title lang="en">SportsCenter</title></programme>
+<programme start="20241016200000 +0000" stop="20241016210000 +0000" channel="ESPN2.us"><title lang="en">NBA Today</title></programme>
+<programme start="20241016210000 +0000" stop="20241016220000 +0000" channel="ESPN2.us"><title lang="en">NFL Live</title></programme>
+<programme start="20241016220000 +0000" stop="20241016223000 +0000" channel="ESPN2.us"><title lang="en">Around the Horn</title></programme>
+<programme start="20241016223000 +0000" stop="20241016230000 +0000" channel="ESPN2.us"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20241016230000 +0000" stop="20241017020000 +0000" channel="ESPN2.us"><title lang="en">College Football</title><rating system="MPA"><value>TV-G</value></rating></programme>
 <programme start="20241013230000 +0000" stop="20241014010000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Soccer</title></programme>
 <programme start="20241014010000 +0000" stop="20241014030000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Soccer</title></programme>
 <programme start="20241014030000 +0000" stop="20241014040000 +0000" channel="FoxSports1.us"><title lang="en">MLB on FS1 Postgame</title></programme>
@@ -153,7 +147,7 @@
 <programme start="20241015023000 +0000" stop="20241015033000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Matchnight Highlights</title></programme>
 <programme start="20241015033000 +0000" stop="20241015063000 +0000" channel="FoxSports1.us"><title lang="en">MLB Playoff</title></programme>
 <programme start="20241015063000 +0000" stop="20241015073000 +0000" channel="FoxSports1.us"><title lang="en">When New York Was One: The Yankees,The Mets, And The 2000 Subway Series</title><rating system="MPA"><value>TV-14</value></rating></programme>
-<programme start="20241015073000 +0000" stop="20241015083000 +0000" channel="FoxSports1.us"><title lang="en">To Be Announced</title><rating system="MPA"><value>TV-G</value></rating></programme>
+<programme start="20241015073000 +0000" stop="20241015083000 +0000" channel="FoxSports1.us"><title lang="en">MLB Special</title></programme>
 <programme start="20241015083000 +0000" stop="20241015090000 +0000" channel="FoxSports1.us"><title lang="en">MLB Epic Moments</title><rating system="MPA"><value>TV-14</value></rating></programme>
 <programme start="20241015090000 +0000" stop="20241015120000 +0000" channel="FoxSports1.us"><title lang="en">MLB Playoff</title></programme>
 <programme start="20241015120000 +0000" stop="20241015140000 +0000" channel="FoxSports1.us"><title lang="en">Breakfast Ball</title></programme>
@@ -163,4 +157,17 @@
 <programme start="20241015210000 +0000" stop="20241015230000 +0000" channel="FoxSports1.us"><title lang="en">Speak</title></programme>
 <programme start="20241015230000 +0000" stop="20241015233000 +0000" channel="FoxSports1.us"><title lang="en">The Joel Klatt Show</title><rating system="MPA"><value>TV-PG</value></rating></programme>
 <programme start="20241015233000 +0000" stop="20241016013000 +0000" channel="FoxSports1.us"><title lang="en">International Friendly Soccer</title><rating system="MPA"><value>TV-PG</value></rating></programme>
+<programme start="20241016013000 +0000" stop="20241016033000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Soccer</title></programme>
+<programme start="20241016033000 +0000" stop="20241016043000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Matchnight Highlights</title></programme>
+<programme start="20241016043000 +0000" stop="20241016053000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Matchweek Highlights</title></programme>
+<programme start="20241016053000 +0000" stop="20241016073000 +0000" channel="FoxSports1.us"><title lang="en">UEFA Nations League Soccer</title></programme>
+<programme start="20241016073000 +0000" stop="20241016080000 +0000" channel="FoxSports1.us"><title lang="en">TMZ Sports</title><rating system="MPA"><value>TV-14</value></rating></programme>
+<programme start="20241016080000 +0000" stop="20241016110000 +0000" channel="FoxSports1.us"><title lang="en">NHRA Drag Racing</title></programme>
+<programme start="20241016110000 +0000" stop="20241016120000 +0000" channel="FoxSports1.us"><title lang="en">First Things First</title></programme>
+<programme start="20241016120000 +0000" stop="20241016140000 +0000" channel="FoxSports1.us"><title lang="en">Breakfast Ball</title></programme>
+<programme start="20241016140000 +0000" stop="20241016160000 +0000" channel="FoxSports1.us"><title lang="en">The Facility</title></programme>
+<programme start="20241016160000 +0000" stop="20241016190000 +0000" channel="FoxSports1.us"><title lang="en">The Herd With Colin Cowherd</title></programme>
+<programme start="20241016190000 +0000" stop="20241016210000 +0000" channel="FoxSports1.us"><title lang="en">First Things First</title></programme>
+<programme start="20241016210000 +0000" stop="20241016230000 +0000" channel="FoxSports1.us"><title lang="en">Speak</title></programme>
+<programme start="20241016230000 +0000" stop="20241017000000 +0000" channel="FoxSports1.us"><title lang="en">MLB on FS1 Pregame</title></programme>
 </tv>
