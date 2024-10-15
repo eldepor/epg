@@ -1,50 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241014">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20241015">
 <channel id="SkySportArena.it"><display-name>Sky Sport Arena</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportUno.it"><display-name>Sky Sport Uno</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportNBA.it"><display-name>Sky Sport NBA</display-name><url>https://superguidatv.it</url></channel>
-<programme start="20241014020000 +0000" stop="20241014040000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20241014040000 +0000" stop="20241014043000 +0000" channel="SkySportArena.it"><title lang="it">History Remix Champions League (St. 1 - Ep. 11)</title><category lang="it">Sport</category></programme>
-<programme start="20241014043000 +0000" stop="20241014052500 +0000" channel="SkySportArena.it"><title lang="it">L&apos;uomo della Domenica (St. 2 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241014052500 +0000" stop="20241014055500 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League Remix (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241014055500 +0000" stop="20241014080000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20241014080000 +0000" stop="20241014094500 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241014094500 +0000" stop="20241014100500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241014100500 +0000" stop="20241014115500 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
-<programme start="20241014115500 +0000" stop="20241014130000 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
-<programme start="20241014130000 +0000" stop="20241014140000 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
-<programme start="20241014140000 +0000" stop="20241014160000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20241014160000 +0000" stop="20241014161500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241014161500 +0000" stop="20241014163000 +0000" channel="SkySportArena.it"><title lang="it">On the Evolution of Sports (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241014163000 +0000" stop="20241014170000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
-<programme start="20241014170000 +0000" stop="20241014180000 +0000" channel="SkySportArena.it"><title lang="it">WorldSBK (St. 2024 - Ep. 130)</title><category lang="it">Sport</category></programme>
-<programme start="20241014180000 +0000" stop="20241014184500 +0000" channel="SkySportArena.it"><title lang="it">AEW Rampage (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
-<programme start="20241014184500 +0000" stop="20241014194500 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
-<programme start="20241014194500 +0000" stop="20241014200000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241014200000 +0000" stop="20241014233000 +0000" channel="SkySportArena.it"><title lang="it">MLB (St. 2024 - Ep. 69)</title><category lang="it">Sport</category></programme>
-<programme start="20241014233000 +0000" stop="20241015000000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
-<programme start="20241015000000 +0000" stop="20241015015500 +0000" channel="SkySportArena.it"><title lang="it">The Rugby Championship (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
-<programme start="20241015015500 +0000" stop="20241015034000 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
 <programme start="20241015034000 +0000" stop="20241015040000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
 <programme start="20241015040000 +0000" stop="20241015043000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
-<programme start="20241015034500 +0000" stop="20241015040000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
 <programme start="20241015043000 +0000" stop="20241015053000 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
 <programme start="20241015053000 +0000" stop="20241015060000 +0000" channel="SkySportArena.it"><title lang="it">Expedition Uganda: In moto nel cuore dell&apos;Africa</title><category lang="it">Sport</category></programme>
 <programme start="20241015060000 +0000" stop="20241015080000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20241015080000 +0000" stop="20241015100000 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20241015100000 +0000" stop="20241015120000 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 33)</title><category lang="it">Sport</category></programme>
-<programme start="20241015120000 +0000" stop="20241015134500 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241015134500 +0000" stop="20241015140000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241015140000 +0000" stop="20241015154500 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
-<programme start="20241015154500 +0000" stop="20241015170000 +0000" channel="SkySportArena.it"><title lang="it">Fanatec GT World Challenge Europe (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
-<programme start="20241015170000 +0000" stop="20241015171500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241015171500 +0000" stop="20241015174500 +0000" channel="SkySportArena.it"><title lang="it">The WRC Magazine (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
-<programme start="20241015174500 +0000" stop="20241015180000 +0000" channel="SkySportArena.it"><title lang="it">AdrenaliniX (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241015180000 +0000" stop="20241015183000 +0000" channel="SkySportArena.it"><title lang="it">Studio Basket Eurolega</title><category lang="it">Sport</category></programme>
-<programme start="20241015183000 +0000" stop="20241015204500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
-<programme start="20241015204500 +0000" stop="20241015224500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
-<programme start="20241015224500 +0000" stop="20241015231500 +0000" channel="SkySportArena.it"><title lang="it">The WRC Magazine (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20241015080000 +0000" stop="20241015095500 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20241015095500 +0000" stop="20241015114500 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 33)</title><category lang="it">Sport</category></programme>
+<programme start="20241015114500 +0000" stop="20241015134000 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241015134000 +0000" stop="20241015135500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20241015135500 +0000" stop="20241015155000 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241015155000 +0000" stop="20241015165500 +0000" channel="SkySportArena.it"><title lang="it">Fanatec GT World Challenge Europe (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241015165500 +0000" stop="20241015171500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20241015171500 +0000" stop="20241015174000 +0000" channel="SkySportArena.it"><title lang="it">The WRC Magazine (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20241015174000 +0000" stop="20241015180000 +0000" channel="SkySportArena.it"><title lang="it">AdrenaliniX (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241015180000 +0000" stop="20241015182000 +0000" channel="SkySportArena.it"><title lang="it">Studio Basket Eurolega</title><category lang="it">Sport</category></programme>
+<programme start="20241015182000 +0000" stop="20241015204500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
+<programme start="20241015204500 +0000" stop="20241015224000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
+<programme start="20241015224000 +0000" stop="20241015231500 +0000" channel="SkySportArena.it"><title lang="it">The WRC Magazine (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
 <programme start="20241015231500 +0000" stop="20241015233000 +0000" channel="SkySportArena.it"><title lang="it">On the Evolution of Sports (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241015233000 +0000" stop="20241016030000 +0000" channel="SkySportArena.it"><title lang="it">MLB - Ep. 70 - Yankees - Guardians (Ep. 70)</title><category lang="it">Sport</category></programme>
+<programme start="20241015233000 +0000" stop="20241016030000 +0000" channel="SkySportArena.it"><title lang="it">MLB - Ep. 70 - Yankees - Guardians (St. 2024 - Ep. 70)</title><category lang="it">Sport</category></programme>
 <programme start="20241016030000 +0000" stop="20241016040000 +0000" channel="SkySportArena.it"><title lang="it">Ferrari Challenge (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
 <programme start="20241016040000 +0000" stop="20241016043000 +0000" channel="SkySportArena.it"><title lang="it">Expedition Uganda: In moto nel cuore dell&apos;Africa</title><category lang="it">Sport</category></programme>
 <programme start="20241016043000 +0000" stop="20241016044500 +0000" channel="SkySportArena.it"><title lang="it">Passione a due ruote</title><category lang="it">Sport</category></programme>
@@ -69,17 +46,29 @@
 <programme start="20241017020000 +0000" stop="20241017030000 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
 <programme start="20241017030000 +0000" stop="20241017040000 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
 <programme start="20241017040000 +0000" stop="20241017043000 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League Remix (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241014013000 +0000" stop="20241014040000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 295)</title><category lang="it">Sport</category></programme>
-<programme start="20241014040000 +0000" stop="20241014193000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 295)</title><category lang="it">Sport</category></programme>
-<programme start="20241014193000 +0000" stop="20241014202500 +0000" channel="SkySportUno.it"><title lang="it">WorldSBK (St. 2024 - Ep. 126)</title><category lang="it">Sport</category></programme>
-<programme start="20241014202500 +0000" stop="20241014212500 +0000" channel="SkySportUno.it"><title lang="it">WorldSBK (St. 2024 - Ep. 130)</title><category lang="it">Sport</category></programme>
-<programme start="20241014212500 +0000" stop="20241014220000 +0000" channel="SkySportUno.it"><title lang="it">Corsa di Testa</title><category lang="it">Sport</category></programme>
-<programme start="20241014220000 +0000" stop="20241014222500 +0000" channel="SkySportUno.it"><title lang="it">UEFA Champions League Magazine (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20241014222500 +0000" stop="20241014232500 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 1 - Ep. 70)</title><category lang="it">Sport</category></programme>
-<programme start="20241014232500 +0000" stop="20241014234500 +0000" channel="SkySportUno.it"><title lang="it">Sport Dataroom (St. 2024 - Ep. 22)</title><category lang="it">Sport</category></programme>
-<programme start="20241014234500 +0000" stop="20241015013000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: WTA 1000 Wuhan (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241017043000 +0000" stop="20241017051500 +0000" channel="SkySportArena.it"><title lang="it">Federico Buffa incontra Platini</title><category lang="it">Sport</category></programme>
+<programme start="20241017051500 +0000" stop="20241017054500 +0000" channel="SkySportArena.it"><title lang="it">Sanchini &amp; Pasini, la moto tra le mani</title><category lang="it">Sport</category></programme>
+<programme start="20241017054500 +0000" stop="20241017060000 +0000" channel="SkySportArena.it"><title lang="it">Passione a due ruote</title><category lang="it">Sport</category></programme>
+<programme start="20241017060000 +0000" stop="20241017071500 +0000" channel="SkySportArena.it"><title lang="it">Fanatec GT World Challenge Europe (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241017071500 +0000" stop="20241017080000 +0000" channel="SkySportArena.it"><title lang="it">AEW Rampage (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241017080000 +0000" stop="20241017100000 +0000" channel="SkySportArena.it"><title lang="it">The Rugby Championship (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
+<programme start="20241017100000 +0000" stop="20241017120000 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 39)</title><category lang="it">Sport</category></programme>
+<programme start="20241017120000 +0000" stop="20241017123000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241017123000 +0000" stop="20241017130000 +0000" channel="SkySportArena.it"><title lang="it">Le Mans 2024 - La sfida continua</title><category lang="it">Sport</category></programme>
+<programme start="20241017130000 +0000" stop="20241017140000 +0000" channel="SkySportArena.it"><title lang="it">World Rally Championship (St. 2024 - Ep. 55)</title><category lang="it">Sport</category></programme>
+<programme start="20241017140000 +0000" stop="20241017160000 +0000" channel="SkySportArena.it"><title lang="it">Eurocup (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241017160000 +0000" stop="20241017163000 +0000" channel="SkySportArena.it"><title lang="it">The Boat Show (St. 2024 - Ep. 36)</title><category lang="it">Sport</category></programme>
+<programme start="20241017163000 +0000" stop="20241017170000 +0000" channel="SkySportArena.it"><title lang="it">Le Mans 2024 - La sfida continua</title><category lang="it">Sport</category></programme>
+<programme start="20241017170000 +0000" stop="20241017190000 +0000" channel="SkySportArena.it"><title lang="it">Eurocup (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20241017190000 +0000" stop="20241017210000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241017210000 +0000" stop="20241017230000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20241017230000 +0000" stop="20241018000000 +0000" channel="SkySportArena.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 16)</title><category lang="it">Sport</category></programme>
+<programme start="20241018000000 +0000" stop="20241018020000 +0000" channel="SkySportArena.it"><title lang="it">Eurocup (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241018020000 +0000" stop="20241018031500 +0000" channel="SkySportArena.it"><title lang="it">Fanatec GT World Challenge Europe (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241018031500 +0000" stop="20241018040000 +0000" channel="SkySportArena.it"><title lang="it">AEW Rampage (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241018040000 +0000" stop="20241018043000 +0000" channel="SkySportArena.it"><title lang="it">History Remix Champions League (St. 1 - Ep. 10)</title><category lang="it">Sport</category></programme>
 <programme start="20241015013000 +0000" stop="20241015040000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 296)</title><category lang="it">Sport</category></programme>
-<programme start="20241015040000 +0000" stop="20241015043000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 296)</title><category lang="it">Sport</category></programme>
+<programme start="20241015040000 +0000" stop="20241015173000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 296)</title><category lang="it">Sport</category></programme>
 <programme start="20241015173000 +0000" stop="20241015180000 +0000" channel="SkySportUno.it"><title lang="it">Jannik 7inner</title><category lang="it">Sport</category></programme>
 <programme start="20241015180000 +0000" stop="20241015181000 +0000" channel="SkySportUno.it"><title lang="it">Studio Basket Eurolega</title><category lang="it">Sport</category></programme>
 <programme start="20241015181000 +0000" stop="20241015201500 +0000" channel="SkySportUno.it"><title lang="it">Eurolega (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
@@ -108,35 +97,29 @@
 <programme start="20241016233000 +0000" stop="20241017013000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 500 Pechino (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
 <programme start="20241017013000 +0000" stop="20241017040000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 298)</title><category lang="it">Sport</category></programme>
 <programme start="20241017040000 +0000" stop="20241017043000 +0000" channel="SkySportUno.it"><title lang="it">ATP &amp; WTA (St. 2024 - Ep. 298)</title><category lang="it">Sport</category></programme>
-<programme start="20241014210000 +0000" stop="20241015040000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241015040000 +0000" stop="20241015083000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241015083000 +0000" stop="20241015084500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
-<programme start="20241015084500 +0000" stop="20241015090000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
-<programme start="20241015090000 +0000" stop="20241015091500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241015091500 +0000" stop="20241015093000 +0000" channel="SkySportNBA.it"><title lang="it">Intervista a Jaren Jackson Jr</title><category lang="it">Sport</category></programme>
-<programme start="20241015093000 +0000" stop="20241015111500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241015111500 +0000" stop="20241015113000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20241015113000 +0000" stop="20241015120500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room - Il film delle Finals 2024</title><category lang="it">Sport</category></programme>
-<programme start="20241015120500 +0000" stop="20241015140000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20241015140000 +0000" stop="20241015150000 +0000" channel="SkySportNBA.it"><title lang="it">Larry Bird 50 Greatest Moments</title><category lang="it">Sport</category></programme>
-<programme start="20241015150000 +0000" stop="20241015170000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241015170000 +0000" stop="20241015171500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
-<programme start="20241015171500 +0000" stop="20241015185500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241015185500 +0000" stop="20241015191500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
-<programme start="20241015191500 +0000" stop="20241015193500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
-<programme start="20241015193500 +0000" stop="20241015195000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
-<programme start="20241015195000 +0000" stop="20241015200500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20241015200500 +0000" stop="20241015220000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20241015220000 +0000" stop="20241015230000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Special (St. 2018 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241015230000 +0000" stop="20241016000000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241016000000 +0000" stop="20241016023000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
-<programme start="20241016023000 +0000" stop="20241016040000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241016040000 +0000" stop="20241016043000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241017160000 +0000" stop="20241017163000 +0000" channel="SkySportUno.it"><title lang="it">Jannik 7inner</title><category lang="it">Sport</category></programme>
+<programme start="20241017163000 +0000" stop="20241017180000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: Six Kings Slam (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241017180000 +0000" stop="20241017200000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: Six Kings Slam (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20241017200000 +0000" stop="20241017215500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: Six Kings Slam (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241017215500 +0000" stop="20241017224500 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 308)</title><category lang="it">Sport</category></programme>
+<programme start="20241017224500 +0000" stop="20241017234000 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 309)</title><category lang="it">Sport</category></programme>
+<programme start="20241017234000 +0000" stop="20241018004000 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 310)</title><category lang="it">Sport</category></programme>
+<programme start="20241018004000 +0000" stop="20241018010000 +0000" channel="SkySportUno.it"><title lang="it">Moto GP Paddock Pass</title><category lang="it">Sport</category></programme>
+<programme start="20241018010000 +0000" stop="20241018020000 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 309)</title><category lang="it">Sport</category></programme>
+<programme start="20241018020000 +0000" stop="20241018021000 +0000" channel="SkySportUno.it"><title lang="it">Stag. 2016 - Highlights MotoGp</title><category lang="it">Sport</category></programme>
+<programme start="20241018021000 +0000" stop="20241018030000 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
+<programme start="20241018030000 +0000" stop="20241018040000 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 312)</title><category lang="it">Sport</category></programme>
+<programme start="20241018040000 +0000" stop="20241018043000 +0000" channel="SkySportUno.it"><title lang="it">MotoGP (St. 2024 - Ep. 313)</title><category lang="it">Sport</category></programme>
 <programme start="20241015023000 +0000" stop="20241015040000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241015040000 +0000" stop="20241015090000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241015090000 +0000" stop="20241015091500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20241015091500 +0000" stop="20241015093500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
 <programme start="20241015093500 +0000" stop="20241015112500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
 <programme start="20241015112500 +0000" stop="20241015114500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
 <programme start="20241015114500 +0000" stop="20241015120000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
 <programme start="20241015120000 +0000" stop="20241015140000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241015140000 +0000" stop="20241015150000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Special (St. 2018 - Ep. 9)</title><category lang="it">Sport</category></programme>
+<programme start="20241015150000 +0000" stop="20241015175500 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
 <programme start="20241015175500 +0000" stop="20241015183000 +0000" channel="SkySportNBA.it"><title lang="it">Basket: NBA (St. 2023 - Ep. 340)</title><category lang="it">Sport</category></programme>
 <programme start="20241015183000 +0000" stop="20241015190000 +0000" channel="SkySportNBA.it"><title lang="it">Basket: NBA (St. 2023 - Ep. 341)</title><category lang="it">Sport</category></programme>
 <programme start="20241015190000 +0000" stop="20241015192500 +0000" channel="SkySportNBA.it"><title lang="it">Basket: NBA (St. 2023 - Ep. 342)</title><category lang="it">Sport</category></programme>
@@ -144,6 +127,9 @@
 <programme start="20241015195500 +0000" stop="20241015203000 +0000" channel="SkySportNBA.it"><title lang="it">Basket: NBA (St. 2023 - Ep. 344)</title><category lang="it">Sport</category></programme>
 <programme start="20241015203000 +0000" stop="20241015210000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room - Il film delle Finals 2024</title><category lang="it">Sport</category></programme>
 <programme start="20241015210000 +0000" stop="20241016000000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241016000000 +0000" stop="20241016023000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20241016023000 +0000" stop="20241016040000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241016040000 +0000" stop="20241016043000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
 <programme start="20241016100000 +0000" stop="20241016120000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
 <programme start="20241016120000 +0000" stop="20241016130000 +0000" channel="SkySportNBA.it"><title lang="it">Allen Iverson The Answer</title><category lang="it">Sport</category></programme>
 <programme start="20241016130000 +0000" stop="20241016150000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
@@ -158,4 +144,23 @@
 <programme start="20241017000000 +0000" stop="20241017023000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
 <programme start="20241017023000 +0000" stop="20241017040000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
 <programme start="20241017040000 +0000" stop="20241017043000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241017090000 +0000" stop="20241017091500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20241017091500 +0000" stop="20241017093000 +0000" channel="SkySportNBA.it"><title lang="it">Intervista a Jaren Jackson Jr</title><category lang="it">Sport</category></programme>
+<programme start="20241017093000 +0000" stop="20241017094500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20241017094500 +0000" stop="20241017100000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Chasing History (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241017100000 +0000" stop="20241017120000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241017120000 +0000" stop="20241017130000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Special (St. 2018 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241017130000 +0000" stop="20241017150000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241017150000 +0000" stop="20241017170000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241017170000 +0000" stop="20241017180000 +0000" channel="SkySportNBA.it"><title lang="it">One On One - Michael Jordan</title><category lang="it">Sport</category></programme>
+<programme start="20241017180000 +0000" stop="20241017200000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241017200000 +0000" stop="20241017201500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20241017201500 +0000" stop="20241017203000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241017203000 +0000" stop="20241017204500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20241017204500 +0000" stop="20241017210000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20241017210000 +0000" stop="20241017230000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241017230000 +0000" stop="20241018000000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241018000000 +0000" stop="20241018023000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Pre-Season (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241018023000 +0000" stop="20241018040000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241018040000 +0000" stop="20241018043000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
 </tv>
