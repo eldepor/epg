@@ -1,24 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241110">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20241111">
 <channel id="SkySportArena.it"><display-name>Sky Sport Arena</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportUno.it"><display-name>Sky Sport Uno</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportNBA.it"><display-name>Sky Sport NBA</display-name><url>https://superguidatv.it</url></channel>
-<programme start="20241110031000 +0000" stop="20241110050000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 29)</title><category lang="it">Sport</category></programme>
-<programme start="20241110050000 +0000" stop="20241110064500 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 45)</title><category lang="it">Sport</category></programme>
-<programme start="20241110064500 +0000" stop="20241110083000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 31)</title><category lang="it">Sport</category></programme>
-<programme start="20241110083000 +0000" stop="20241110090000 +0000" channel="SkySportArena.it"><title lang="it">Basket Room Talk (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110090000 +0000" stop="20241110110000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20241110110000 +0000" stop="20241110125000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20241110125000 +0000" stop="20241110132500 +0000" channel="SkySportArena.it"><title lang="it">The Boat Show (St. 2024 - Ep. 39)</title><category lang="it">Sport</category></programme>
-<programme start="20241110132500 +0000" stop="20241110154500 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241110154500 +0000" stop="20241110160000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20241110160000 +0000" stop="20241110180500 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20241110180500 +0000" stop="20241110182500 +0000" channel="SkySportArena.it"><title lang="it">La giovane Italia (St. 2024 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20241110182500 +0000" stop="20241110203000 +0000" channel="SkySportArena.it"><title lang="it">Bundesliga (St. 2024 - Ep. 54)</title><category lang="it">Sport</category></programme>
-<programme start="20241110203000 +0000" stop="20241110210500 +0000" channel="SkySportArena.it"><title lang="it">The Boat Show (St. 2024 - Ep. 39)</title><category lang="it">Sport</category></programme>
-<programme start="20241110210500 +0000" stop="20241110230000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110230000 +0000" stop="20241111004500 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20241111004500 +0000" stop="20241111010000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20241111010000 +0000" stop="20241111030000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
 <programme start="20241111030000 +0000" stop="20241111050000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 31)</title><category lang="it">Sport</category></programme>
 <programme start="20241111050000 +0000" stop="20241111053000 +0000" channel="SkySportArena.it"><title lang="it">NBA Action (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20241111053000 +0000" stop="20241111061500 +0000" channel="SkySportArena.it"><title lang="it">Federico Buffa incontra Platini</title><category lang="it">Sport</category></programme>
@@ -68,29 +51,27 @@
 <programme start="20241113030000 +0000" stop="20241113043000 +0000" channel="SkySportArena.it"><title lang="it">Pallamano Qualificazioni Europei (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
 <programme start="20241113043000 +0000" stop="20241113050000 +0000" channel="SkySportArena.it"><title lang="it">This Is Padel (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
 <programme start="20241113050000 +0000" stop="20241113053000 +0000" channel="SkySportArena.it"><title lang="it">Basket Room Talk (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110030000 +0000" stop="20241110050000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110050000 +0000" stop="20241110053000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa e Conference League Remix (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20241110053000 +0000" stop="20241110060000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Champions League Remix (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20241110060000 +0000" stop="20241110070000 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20241110070000 +0000" stop="20241110084500 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110084500 +0000" stop="20241110090000 +0000" channel="SkySportUno.it"><title lang="it">Sport Dataroom (St. 2024 - Ep. 36)</title><category lang="it">Sport</category></programme>
-<programme start="20241110090000 +0000" stop="20241110100000 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20241110100000 +0000" stop="20241110103000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 69)</title><category lang="it">Sport</category></programme>
-<programme start="20241110103000 +0000" stop="20241110123000 +0000" channel="SkySportUno.it"><title lang="it">ATP Finals (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20241110123000 +0000" stop="20241110133000 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20241110133000 +0000" stop="20241110135500 +0000" channel="SkySportUno.it"><title lang="it">Di Canio Premier Special (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20241110135500 +0000" stop="20241110160000 +0000" channel="SkySportUno.it"><title lang="it">Premier League (St. 2024 - Ep. 70)</title><category lang="it">Sport</category></programme>
-<programme start="20241110160000 +0000" stop="20241110162500 +0000" channel="SkySportUno.it"><title lang="it">Di Canio Premier Special (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20241110162500 +0000" stop="20241110182500 +0000" channel="SkySportUno.it"><title lang="it">Premier League (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
-<programme start="20241110182500 +0000" stop="20241110193000 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20241110193000 +0000" stop="20241110213000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110213000 +0000" stop="20241110223000 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20241110223000 +0000" stop="20241110224500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20241110224500 +0000" stop="20241111003000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 36)</title><category lang="it">Sport</category></programme>
-<programme start="20241111003000 +0000" stop="20241111023000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241111023000 +0000" stop="20241111030000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Champions League Remix (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20241113053000 +0000" stop="20241113063000 +0000" channel="SkySportArena.it"><title lang="it">Tutti i gol della Bundesliga (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
+<programme start="20241113063000 +0000" stop="20241113070000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 18)</title><category lang="it">Sport</category></programme>
+<programme start="20241113070000 +0000" stop="20241113084500 +0000" channel="SkySportArena.it"><title lang="it">Qualificazioni EuroBasket (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
+<programme start="20241113084500 +0000" stop="20241113090000 +0000" channel="SkySportArena.it"><title lang="it">Basket Room con Flavio Tranquillo</title><category lang="it">Sport</category></programme>
+<programme start="20241113090000 +0000" stop="20241113110000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241113110000 +0000" stop="20241113130000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20241113130000 +0000" stop="20241113150000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 33)</title><category lang="it">Sport</category></programme>
+<programme start="20241113150000 +0000" stop="20241113170000 +0000" channel="SkySportArena.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20241113170000 +0000" stop="20241113190000 +0000" channel="SkySportArena.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241113190000 +0000" stop="20241113193000 +0000" channel="SkySportArena.it"><title lang="it">Highlights Rugby Autumn Test Match (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
+<programme start="20241113193000 +0000" stop="20241113213000 +0000" channel="SkySportArena.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20241113213000 +0000" stop="20241113214500 +0000" channel="SkySportArena.it"><title lang="it">Basket Room Europa</title><category lang="it">Sport</category></programme>
+<programme start="20241113214500 +0000" stop="20241113220000 +0000" channel="SkySportArena.it"><title lang="it">AdrenaliniX (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20241113220000 +0000" stop="20241114000000 +0000" channel="SkySportArena.it"><title lang="it">Eurocup (St. 2024 - Ep. 16)</title><category lang="it">Sport</category></programme>
+<programme start="20241114000000 +0000" stop="20241114010000 +0000" channel="SkySportArena.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
+<programme start="20241114010000 +0000" stop="20241114030000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
+<programme start="20241114030000 +0000" stop="20241114044500 +0000" channel="SkySportArena.it"><title lang="it">Qualificazioni EuroBasket (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20241114044500 +0000" stop="20241114050000 +0000" channel="SkySportArena.it"><title lang="it">Basket Room con Flavio Tranquillo</title><category lang="it">Sport</category></programme>
+<programme start="20241114050000 +0000" stop="20241114053000 +0000" channel="SkySportArena.it"><title lang="it">This Is Padel (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
 <programme start="20241111030000 +0000" stop="20241111050000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 36)</title><category lang="it">Sport</category></programme>
-<programme start="20241111050000 +0000" stop="20241111053000 +0000" channel="SkySportUno.it"><title lang="it">The Insider ATP Finals (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
+<programme start="20241111050000 +0000" stop="20241111051500 +0000" channel="SkySportUno.it"><title lang="it">The Insider ATP Finals (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
 <programme start="20241111051500 +0000" stop="20241111071500 +0000" channel="SkySportUno.it"><title lang="it">ATP Finals (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20241111071500 +0000" stop="20241111073000 +0000" channel="SkySportUno.it"><title lang="it">The Insider ATP Finals (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
 <programme start="20241111073000 +0000" stop="20241111080000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 69)</title><category lang="it">Sport</category></programme>
@@ -138,29 +119,33 @@
 <programme start="20241113003000 +0000" stop="20241113004500 +0000" channel="SkySportUno.it"><title lang="it">The Insider ATP Finals (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20241113004500 +0000" stop="20241113030000 +0000" channel="SkySportUno.it"><title lang="it">Eurolega (St. 2024 - Ep. 32)</title><category lang="it">Sport</category></programme>
 <programme start="20241113030000 +0000" stop="20241113033000 +0000" channel="SkySportUno.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
-<programme start="20241110023000 +0000" stop="20241110050000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241110050000 +0000" stop="20241110070000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241110070000 +0000" stop="20241110071500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Week</title><category lang="it">Sport</category></programme>
-<programme start="20241110071500 +0000" stop="20241110091500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110091500 +0000" stop="20241110093000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Into The Game</title><category lang="it">Sport</category></programme>
-<programme start="20241110093000 +0000" stop="20241110100000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110100000 +0000" stop="20241110101500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Week</title><category lang="it">Sport</category></programme>
-<programme start="20241110101500 +0000" stop="20241110103000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20241110103000 +0000" stop="20241110123000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110123000 +0000" stop="20241110124500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Week</title><category lang="it">Sport</category></programme>
-<programme start="20241110124500 +0000" stop="20241110130000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room con Flavio Tranquillo</title><category lang="it">Sport</category></programme>
-<programme start="20241110130000 +0000" stop="20241110150000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110150000 +0000" stop="20241110151500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Week</title><category lang="it">Sport</category></programme>
-<programme start="20241110151500 +0000" stop="20241110154500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110154500 +0000" stop="20241110160000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Week</title><category lang="it">Sport</category></programme>
-<programme start="20241110160000 +0000" stop="20241110180000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110180000 +0000" stop="20241110183000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Talk (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241110183000 +0000" stop="20241110203000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 35)</title><category lang="it">Sport</category></programme>
-<programme start="20241110203000 +0000" stop="20241110233000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 36)</title><category lang="it">Sport</category></programme>
-<programme start="20241110233000 +0000" stop="20241111000000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20241111000000 +0000" stop="20241111023000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 37)</title><category lang="it">Sport</category></programme>
+<programme start="20241113060000 +0000" stop="20241113061500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241113061500 +0000" stop="20241113071500 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
+<programme start="20241113071500 +0000" stop="20241113073000 +0000" channel="SkySportUno.it"><title lang="it">The Insider ATP Finals (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241113073000 +0000" stop="20241113080000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 71)</title><category lang="it">Sport</category></programme>
+<programme start="20241113080000 +0000" stop="20241113100000 +0000" channel="SkySportUno.it"><title lang="it">Tennis Atp World Tour Masters 1000 - Stag. Tennis Atp Masters 1000 2024 - Tennis Atp Masters 1000 Finals 2024 Singles R.R. Sess. Diurna 12/11/2024 (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
+<programme start="20241113100000 +0000" stop="20241113101500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241113101500 +0000" stop="20241113103000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
+<programme start="20241113103000 +0000" stop="20241113123000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241113123000 +0000" stop="20241113130000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
+<programme start="20241113130000 +0000" stop="20241113150000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241113150000 +0000" stop="20241113153000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
+<programme start="20241113153000 +0000" stop="20241113163000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
+<programme start="20241113163000 +0000" stop="20241113170000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
+<programme start="20241113170000 +0000" stop="20241113190000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 16)</title><category lang="it">Sport</category></programme>
+<programme start="20241113190000 +0000" stop="20241113193000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
+<programme start="20241113193000 +0000" stop="20241113213000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 15)</title><category lang="it">Sport</category></programme>
+<programme start="20241113213000 +0000" stop="20241113220000 +0000" channel="SkySportUno.it"><title lang="it">Studio Tennis (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
+<programme start="20241113220000 +0000" stop="20241113221500 +0000" channel="SkySportUno.it"><title lang="it">The Insider ATP Finals (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20241113221500 +0000" stop="20241114000000 +0000" channel="SkySportUno.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20241114000000 +0000" stop="20241114001500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20241114001500 +0000" stop="20241114003000 +0000" channel="SkySportUno.it"><title lang="it">Sport Dataroom (St. 2024 - Ep. 37)</title><category lang="it">Sport</category></programme>
+<programme start="20241114003000 +0000" stop="20241114021500 +0000" channel="SkySportUno.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241114021500 +0000" stop="20241114040000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20241114040000 +0000" stop="20241114050000 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 2023 - Ep. 18)</title><category lang="it">Sport</category></programme>
+<programme start="20241114050000 +0000" stop="20241114053000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
 <programme start="20241111023000 +0000" stop="20241111050000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
-<programme start="20241111050000 +0000" stop="20241111053000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241111050000 +0000" stop="20241111070000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
 <programme start="20241111070000 +0000" stop="20241111073000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Talk (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20241111073000 +0000" stop="20241111093000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 36)</title><category lang="it">Sport</category></programme>
 <programme start="20241111093000 +0000" stop="20241111094500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
@@ -207,4 +192,24 @@
 <programme start="20241113020000 +0000" stop="20241113043000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 40)</title><category lang="it">Sport</category></programme>
 <programme start="20241113043000 +0000" stop="20241113050000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
 <programme start="20241113050000 +0000" stop="20241113053000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241113093000 +0000" stop="20241113094500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room con Flavio Tranquillo</title><category lang="it">Sport</category></programme>
+<programme start="20241113094500 +0000" stop="20241113101500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241113101500 +0000" stop="20241113103000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Into The Game</title><category lang="it">Sport</category></programme>
+<programme start="20241113103000 +0000" stop="20241113123000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241113123000 +0000" stop="20241113130000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Talk (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241113130000 +0000" stop="20241113150000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241113150000 +0000" stop="20241113153000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 39)</title><category lang="it">Sport</category></programme>
+<programme start="20241113153000 +0000" stop="20241113160000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241113160000 +0000" stop="20241113180000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241113180000 +0000" stop="20241113181500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room con Flavio Tranquillo</title><category lang="it">Sport</category></programme>
+<programme start="20241113181500 +0000" stop="20241113201500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241113201500 +0000" stop="20241113203000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
+<programme start="20241113203000 +0000" stop="20241113210000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241113210000 +0000" stop="20241113211500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Into The Game</title><category lang="it">Sport</category></programme>
+<programme start="20241113211500 +0000" stop="20241113231500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 41)</title><category lang="it">Sport</category></programme>
+<programme start="20241113231500 +0000" stop="20241113233000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room con Flavio Tranquillo</title><category lang="it">Sport</category></programme>
+<programme start="20241113233000 +0000" stop="20241114000000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20241114000000 +0000" stop="20241114003000 +0000" channel="SkySportNBA.it"><title lang="it">Nba Tv</title><category lang="it">Sport</category></programme>
+<programme start="20241114003000 +0000" stop="20241114030000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 42)</title><category lang="it">Sport</category></programme>
+<programme start="20241114030000 +0000" stop="20241114033000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 43)</title><category lang="it">Sport</category></programme>
 </tv>
