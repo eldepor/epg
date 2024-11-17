@@ -2,13 +2,14 @@
 <channel id="SkySportArena.it"><display-name>Sky Sport Arena</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportUno.it"><display-name>Sky Sport Uno</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportNBA.it"><display-name>Sky Sport NBA</display-name><url>https://superguidatv.it</url></channel>
-<programme start="20241117042000 +0000" stop="20241117053500 +0000" channel="SkySportArena.it"><title lang="it">FIA GT World Cup (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20241117053500 +0000" stop="20241117063500 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
-<programme start="20241117063500 +0000" stop="20241117071500 +0000" channel="SkySportArena.it"><title lang="it">I dominatori del mare 2024</title><category lang="it">Sport</category></programme>
-<programme start="20241117071500 +0000" stop="20241117073000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20241117073000 +0000" stop="20241117083000 +0000" channel="SkySportArena.it"><title lang="it">FIA GT World Cup (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20241117083000 +0000" stop="20241117090000 +0000" channel="SkySportArena.it"><title lang="it">This Is Padel (St. 2023 - Ep. 19)</title><category lang="it">Sport</category></programme>
-<programme start="20241117090000 +0000" stop="20241117105500 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20241117042000 +0000" stop="20241117051000 +0000" channel="SkySportArena.it"><title lang="it">FIA GT World Cup (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
+<programme start="20241117051000 +0000" stop="20241117053500 +0000" channel="SkySportArena.it"><title lang="it">Un giorno da pilota</title><category lang="it">Sport</category></programme>
+<programme start="20241117053500 +0000" stop="20241117063000 +0000" channel="SkySportArena.it"><title lang="it">Lamborghini Super Trofeo Europa (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241117063000 +0000" stop="20241117070000 +0000" channel="SkySportArena.it"><title lang="it">I dominatori del mare 2024</title><category lang="it">Sport</category></programme>
+<programme start="20241117070000 +0000" stop="20241117073000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20241117073000 +0000" stop="20241117085500 +0000" channel="SkySportArena.it"><title lang="it">FIA GT World Cup (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20241117085500 +0000" stop="20241117091000 +0000" channel="SkySportArena.it"><title lang="it">Chasing The Dream (St. 2024 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20241117091000 +0000" stop="20241117105500 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 12)</title><category lang="it">Sport</category></programme>
 <programme start="20241117105500 +0000" stop="20241117124500 +0000" channel="SkySportArena.it"><title lang="it">AEW Dynamite (St. 2024 - Ep. 46)</title><category lang="it">Sport</category></programme>
 <programme start="20241117124500 +0000" stop="20241117130000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
 <programme start="20241117130000 +0000" stop="20241117133000 +0000" channel="SkySportArena.it"><title lang="it">Studio Rugby (St. 2024 - Ep. 2)</title><category lang="it">Sport</category></programme>
@@ -71,7 +72,7 @@
 <programme start="20241120010000 +0000" stop="20241120030000 +0000" channel="SkySportArena.it"><title lang="it">Test Match (St. 2024 - Ep. 10)</title><category lang="it">Sport</category></programme>
 <programme start="20241120030000 +0000" stop="20241120050000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 26)</title><category lang="it">Sport</category></programme>
 <programme start="20241120050000 +0000" stop="20241120053000 +0000" channel="SkySportArena.it"><title lang="it">Laureus Spirit of Sport (St. 2024 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20241117030000 +0000" stop="20241117050000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 27)</title><category lang="it">Sport</category></programme>
+<programme start="20241117041000 +0000" stop="20241117050000 +0000" channel="SkySportUno.it"><title lang="it">Jannik, oltre il tennis (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20241117050000 +0000" stop="20241117051500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
 <programme start="20241117051500 +0000" stop="20241117071500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP Finals (St. 2024 - Ep. 25)</title><category lang="it">Sport</category></programme>
 <programme start="20241117071500 +0000" stop="20241117073000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: The Insider ATP Finals (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
