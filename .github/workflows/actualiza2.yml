@@ -37,7 +37,7 @@ jobs:
         run: |
           npm install epg-grabber
           npm install cheerio
-          npm @ntlab/sfetch
+          npm install @ntlab/sfetch
           #npx epg-grabber --config=sites/superguidatv.it/superguidatv.it.config.js --channels=sites/superguidatv.it/superguidatv.it.channels.xml --output=superguidatv.it.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/nos.pt/nos.pt.config.js --channels=sites/nos.pt/nos.pt.channels.xml --output=nos.pt.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/sky.de/sky.de.config.js --channels=sites/sky.de/sky.de.channels.xml --output=sky.de.xml --days=3 --timeout=30000
