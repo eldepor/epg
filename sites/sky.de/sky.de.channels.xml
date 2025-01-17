@@ -3,5 +3,7 @@
   <channels>
     <channel lang="de" xmltv_id="SkySportF1Germany.de" site_id="853">Sky Sport F1 HD</channel>
     <channel lang="de" xmltv_id="SkySportBundesligaUHD.de" site_id="531">Sky Sport Bundesliga UHD</channel>
+    <channel lang="de" xmltv_id="DAZN1HD.de" site_id="659">DAZN 1 DE</channel>
+    <channel lang="de" xmltv_id="DAZN2HD.de" site_id="900">DAZN 2 DE</channel>
   </channels>
 </site>
