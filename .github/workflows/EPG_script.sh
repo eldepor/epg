@@ -12,19 +12,18 @@ rm -f EPG_temp*
  	while IFS=, read -r epg
 	do
  		extension="${epg##*.}"
-		if [ $extension = "gz" ]; then
-			echo Descargando y descomprimiendo epg
-			wget -O EPG_temp00.xml.gz -q ${epg}
-      			gzip -d -f EPG_temp00.xml.gz
-	  	else
-			echo Descargando epg
-			wget -O EPG_temp00.xml -q ${epg}
+		if [ "$extension" = "gz" ]; then
+			echo "Descomprimiendo archivo: $epg"
+			gzip -d -c "$epg" > EPG_temp00.xml
+		else
+			echo "Procesando archivo: $epg"
+			cp "$epg" EPG_temp00.xml
 		fi
-  	cat EPG_temp00.xml >> EPG_temp.xml
+  		cat EPG_temp00.xml >> EPG_temp.xml
 	
 	
-	awk '/<channel id="/,/<\/channel>/' EPG_temp.xml >> EPG_temp_channel.xml
-	awk '/<programme/,/<\/programme>/' EPG_temp.xml >> EPG_temp_programme.xml
+		awk '/<channel id="/,/<\/channel>/' EPG_temp.xml >> EPG_temp_channel.xml
+		awk '/<programme/,/<\/programme>/' EPG_temp.xml >> EPG_temp_programme.xml
 	
 	#sed -n '/<channel id="/,/<\/channel>/p' EPG_temp.xml | grep -E '<channel|<\/channel>' >> EPGTOTAL.xml
 	#sed -n '/<channel id=/,/<\/channel/p' EPG_temp.xml >> EPGTOTAL.xml 
