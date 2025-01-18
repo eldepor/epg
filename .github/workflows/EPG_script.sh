@@ -42,3 +42,4 @@ rm -f EPG_temp*
 
 
 rm -f EPG_temp*
+rm -f EPGTOTAL.xml
