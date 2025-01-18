@@ -37,6 +37,8 @@ rm -f EPG_temp*
 
 	echo '</tv>' >> EPGTOTAL.xml
 
+ 	gzip -c EPGTOTAL.xml > EPGTOTAL.xml.gz
+
 
 
 rm -f EPG_temp*
