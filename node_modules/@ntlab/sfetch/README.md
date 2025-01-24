@@ -22,7 +22,8 @@ For complex objects, the following property is recognized:
 
 * `method`, the method to use, either `get` or `post` is supported. If none specified it will be assumed as `get`.
 
-* `params`, parameters which can includes request headers `headers` or request parameters `params`.
+* `params`, parameters which can includes request `headers`, URL parameters `params`, or anything else
+  of Axios [Request Config](https://axios-http.com/docs/req_config).
 
 The `callback` will be called once each queue completed. The callback function signature is described as:
 
@@ -90,7 +91,8 @@ const doFetch = require('@ntlab/sfetch');
             method: 'post',
             params: {
                 headers,
-                params: { data: 'bar' }
+                params: { data: 'bar' },
+                data: { bar: 'baz' }
             }
         }
     ], function(queue, res, headers) {

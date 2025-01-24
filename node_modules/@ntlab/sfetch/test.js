@@ -51,8 +51,11 @@ mocker
     .get('https://example.com/get', () => {
         return 'get';
     })
-    .post('https://example.com/post', () => {
-        return 'post';
+    .post('https://example.com/post', (req, res) => {
+        if (req.query.test === 'true') {
+            const body = JSON.parse(req.body);
+            return body.content;
+        }
     })
     .get('https://example.com/headers', (req, res) => {
         res.headers['my-header-reply'] = 'true';
@@ -124,13 +127,17 @@ test('complex url queuing', async (t) => {
             },
             {
                 url: 'https://example.com/post',
-                method: 'post'
+                method: 'post',
+                params: {
+                    params: { test: 'true' },
+                    data: { content: 'test' }
+                }
             }
         ], (url, res) => {
             result.push(res);
         });
         assert.strictEqual(result.length, 2);
-        assert.deepStrictEqual(result, ['get', 'post']);
+        assert.deepStrictEqual(result, ['get', 'test']);
     });
     await t.test('response headers', async () => {
         let myheader;

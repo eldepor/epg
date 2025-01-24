@@ -89,10 +89,25 @@ async function doFetch(queues, cb) {
                 const url = typeof queue === 'string' ? queue : queue.url;
                 const method = typeof queue === 'object' && queue.method ? queue.method : 'get';
                 const params = typeof queue === 'object' && queue.params ? queue.params : {};
+                const args = [];
+                if (method !== 'request') {
+                    args.push(url);
+                    if (['get', 'delete', 'head', 'options'].indexOf(method) < 0) {
+                        if (params.data !== undefined) {
+                            args.push(params.data);
+                        }
+                    }
+                } else {
+                    params.url = url;
+                }
+                args.push(params);
+                // request({})
+                // (get|delete|head|options)(url, {})
+                // (post|put|patch|postForm|putForm|patchForm)(url, data, {})
                 if (typeof debug === 'function') {
                     debug(`fetch %s with %s`, url, JSON.stringify(params));
                 }
-                axios[method](url, params)
+                axios[method](...args)
                     .then(response => {
                         done(response.data, response.headers);
                     })
