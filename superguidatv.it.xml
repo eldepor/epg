@@ -3,8 +3,8 @@
 <channel id="SkySportUno.it"><display-name>Sky Sport Uno</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportNBA.it"><display-name>Sky Sport NBA</display-name><url>https://superguidatv.it</url></channel>
 <programme start="20250202030000 +0000" stop="20250202050000 +0000" channel="SkySportArena.it"><title lang="it">Eurocup (St. 2024 - Ep. 34)</title><category lang="it">Sport</category></programme>
-<programme start="20250202050000 +0000" stop="20250202071000 +0000" channel="SkySportArena.it"><title lang="it">Meguiar&apos;s Bathurst 12h</title><category lang="it">Sport</category></programme>
-<programme start="20250202071000 +0000" stop="20250202073000 +0000" channel="SkySportArena.it"><title lang="it">Io sono Varenne</title><category lang="it">Sport</category></programme>
+<programme start="20250202050000 +0000" stop="20250202070000 +0000" channel="SkySportArena.it"><title lang="it">Meguiar&apos;s Bathurst 12h</title><category lang="it">Sport</category></programme>
+<programme start="20250202070000 +0000" stop="20250202073000 +0000" channel="SkySportArena.it"><title lang="it">Io sono Varenne</title><category lang="it">Sport</category></programme>
 <programme start="20250202073000 +0000" stop="20250202080000 +0000" channel="SkySportArena.it"><title lang="it">Laureus Spirit of Sport (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20250202080000 +0000" stop="20250202090000 +0000" channel="SkySportArena.it"><title lang="it">Federico Buffa Talks (St. 1 - Ep. 22)</title><category lang="it">Sport</category></programme>
 <programme start="20250202090000 +0000" stop="20250202110000 +0000" channel="SkySportArena.it"><title lang="it">Six Nations (St. 2025 - Ep. 3)</title><category lang="it">Sport</category></programme>
@@ -78,8 +78,8 @@
 <programme start="20250202112000 +0000" stop="20250202133000 +0000" channel="SkySportUno.it"><title lang="it">Serie C (St. 2024 - Ep. 161)</title><category lang="it">Sport</category></programme>
 <programme start="20250202133000 +0000" stop="20250202134500 +0000" channel="SkySportUno.it"><title lang="it">Fermata San Siro: viaggio nel Derby</title><category lang="it">Sport</category></programme>
 <programme start="20250202134500 +0000" stop="20250202135500 +0000" channel="SkySportUno.it"><title lang="it">Highlights Calcio</title><category lang="it">Sport</category></programme>
-<programme start="20250202135500 +0000" stop="20250202155500 +0000" channel="SkySportUno.it"><title lang="it">Premier League (St. 2024 - Ep. 184)</title><category lang="it">Sport</category></programme>
-<programme start="20250202155500 +0000" stop="20250202161500 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
+<programme start="20250202135500 +0000" stop="20250202160000 +0000" channel="SkySportUno.it"><title lang="it">Premier League (St. 2024 - Ep. 184)</title><category lang="it">Sport</category></programme>
+<programme start="20250202160000 +0000" stop="20250202161500 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
 <programme start="20250202161500 +0000" stop="20250202163500 +0000" channel="SkySportUno.it"><title lang="it">Sport Dataroom (St. 2024 - Ep. 67)</title><category lang="it">Sport</category></programme>
 <programme start="20250202163500 +0000" stop="20250202165500 +0000" channel="SkySportUno.it"><title lang="it">Fermata San Siro: viaggio nel Derby</title><category lang="it">Sport</category></programme>
 <programme start="20250202165500 +0000" stop="20250202190000 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 72)</title><category lang="it">Sport</category></programme>
@@ -105,7 +105,7 @@
 <programme start="20250204060000 +0000" stop="20250204070000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa e Conference League Magazine (St. 2024 - Ep. 11)</title><category lang="it">Sport</category></programme>
 <programme start="20250204070000 +0000" stop="20250204191500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP &amp; WTA (St. 2025 - Ep. 18)</title><category lang="it">Sport</category></programme>
 <programme start="20250204191500 +0000" stop="20250204193000 +0000" channel="SkySportUno.it"><title lang="it">Sport Dataroom (St. 2024 - Ep. 68)</title><category lang="it">Sport</category></programme>
-<programme start="20250204193000 +0000" stop="20250204194500 +0000" channel="SkySportUno.it"><title lang="it">Studio Basket Eurolega</title><category lang="it">Altro</category></programme>
+<programme start="20250204193000 +0000" stop="20250204194500 +0000" channel="SkySportUno.it"><title lang="it">Studio Basket Eurolega</title><category lang="it">Sport</category></programme>
 <programme start="20250204194500 +0000" stop="20250204214500 +0000" channel="SkySportUno.it"><title lang="it">Eurolega (St. 2024 - Ep. 96)</title><category lang="it">Sport</category></programme>
 <programme start="20250204214500 +0000" stop="20250204224500 +0000" channel="SkySportUno.it"><title lang="it">Federico Buffa Talks (St. 1 - Ep. 22)</title><category lang="it">Sport</category></programme>
 <programme start="20250204224500 +0000" stop="20250204230000 +0000" channel="SkySportUno.it"><title lang="it">Basket Room Into The Game</title><category lang="it">Sport</category></programme>
