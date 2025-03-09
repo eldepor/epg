@@ -80,7 +80,7 @@ function parseStart($item, date) {
 
   return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'EST'
-  }).toUTC()
+  }).setZone('Europe/Madrid')
 }
 
 function parseStop($item, date) {
@@ -88,7 +88,7 @@ function parseStop($item, date) {
 
   return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'EST'
-  }).toUTC()
+  }).setZone('Europe/Madrid')
 }
 
 function parseItems(content) {
