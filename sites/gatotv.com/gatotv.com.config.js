@@ -2,7 +2,12 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const url = require('url')
 const path = require('path')
-const { DateTime } = require('luxon')
+const dayjs = require('dayjs')
+const utc = require('dayjs/plugin/utc')
+const timezone = require('dayjs/plugin/timezone')
+
+dayjs.extend(utc)
+dayjs.extend(timezone)
 
 module.exports = {
   site: 'gatotv.com',
@@ -13,26 +18,30 @@ module.exports = {
   parser({ content, date }) {
     let programs = []
     const items = parseItems(content)
-    date = date.subtract(1, 'd')
+
+    date = date.subtract(1, 'day')
+
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
       let start = parseStart($item, date)
-      if (i === 0 && start.hour >= 5) {
-        start = start.plus({ days: 1 })
-        date = date.add(1, 'd')
+
+      if (i === 0 && start.hour() >= 5) {
+        start = start.add(1, 'day')
+        date = date.add(1, 'day')
       }
+
       let stop = parseStop($item, date)
-      if (stop < start) {
-        stop = stop.plus({ days: 1 })
-        date = date.add(1, 'd')
+      if (stop.isBefore(start)) {
+        stop = stop.add(1, 'day')
+        date = date.add(1, 'day')
       }
 
       programs.push({
         title: parseTitle($item),
         description: parseDescription($item),
         image: parseImage($item),
-        start,
-        stop
+        start: start.toISOString(),
+        stop: stop.toISOString()
       })
     })
 
@@ -77,28 +86,22 @@ function parseImage($item) {
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
-
-  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'EST'  // Hora de origen en EST
-  })
-    .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
-    //.toUTC()  // Convertir a UTC si es necesario
+  return convertESTtoMadrid(date, time)
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
+  return convertESTtoMadrid(date, time)
+}
 
-  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'EST'  // Hora de origen en EST
-  })
-    .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
-    //.toUTC()  // Convertir a UTC si es necesario
+function convertESTtoMadrid(date, time) {
+  return dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'America/New_York').tz('Europe/Madrid')
 }
 
 function parseItems(content) {
   const $ = cheerio.load(content)
 
-  return $(
+  return $(  
     'body > div.div_content > table:nth-child(8) > tbody > tr:nth-child(2) > td:nth-child(1) > table.tbl_EPG'
   )
     .find('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected')
