@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="gatotv.com" lang="es" xmltv_id="" site_id="13_de_guatemala">13 de Guatemala</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN1SUR" site_id="espn_sur">ESPN</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN2COL" site_id="espn_sur">ESPN 2</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN3SUR" site_id="espn_sur">ESPN 3</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN4SUR" site_id="espn_sur">ESPN 4</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN5SUR" site_id="espn_sur">ESPN 5</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN6SUR" site_id="espn_sur">ESPN 6</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPN7SUR" site_id="espn_sur">ESPN 7</channel>
+  <channel site="gatotv.com" lang="es" xmltv_id="ESPNPremium" site_id="espn_sur">ESPN Premium</channel>
 </channels>
