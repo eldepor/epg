@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<channels>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN1SUR" site_id="espn_sur">ESPN</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN2COL" site_id="espn_2_colombia">ESPN 2</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN3SUR" site_id="espn_3_sur">ESPN 3</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN4SUR" site_id="espn_4_sur">ESPN 4</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN5SUR" site_id="espn_5_sudamerica">ESPN 5</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN6SUR" site_id="espn_6_sudamerica">ESPN 6</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPN7SUR" site_id="espn_7_sudamerica">ESPN 7</channel>
-  <channel site="gatotv.com" lang="es" xmltv_id="ESPNPremium" site_id="espn_premium_chile">ESPN Premium</channel>
-</channels>
+<site site="gatotv.com">
+  <channels>
+    <channel lang="es" xmltv_id="ESPN1SUR" site_id="espn_sur">ESPN</channel>
+    <channel lang="es" xmltv_id="ESPN2COL" site_id="espn_2_colombia">ESPN 2</channel>
+    <channel lang="es" xmltv_id="ESPN3SUR" site_id="espn_3_sur">ESPN 3</channel>
+    <channel lang="es" xmltv_id="ESPN4SUR" site_id="espn_4_sur">ESPN 4</channel>
+    <channel lang="es" xmltv_id="ESPN5SUR" site_id="espn_5_sudamerica">ESPN 5</channel>
+    <channel lang="es" xmltv_id="ESPN6SUR" site_id="espn_6_sudamerica">ESPN 6</channel>
+    <channel lang="es" xmltv_id="ESPN7SUR" site_id="espn_7_sudamerica">ESPN 7</channel>
+    <channel lang="es" xmltv_id="ESPNPremium" site_id="espn_premium_chile">ESPN Premium</channel>
+  </channels>
+</site>
