@@ -82,7 +82,7 @@ function parseStart($item, date) {
     zone: 'EST'  // Hora de origen en EST
   })
     .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
-    .toUTC()  // Convertir a UTC si es necesario
+    //.toUTC()  // Convertir a UTC si es necesario
 }
 
 function parseStop($item, date) {
@@ -92,7 +92,7 @@ function parseStop($item, date) {
     zone: 'EST'  // Hora de origen en EST
   })
     .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
-    .toUTC()  // Convertir a UTC si es necesario
+    //.toUTC()  // Convertir a UTC si es necesario
 }
 
 function parseItems(content) {
