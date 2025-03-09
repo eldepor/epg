@@ -79,16 +79,20 @@ function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
 
   return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'EST'
-  }).toUTC()
+    zone: 'EST'  // Hora de origen en EST
+  })
+    .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
+    .toUTC()  // Convertir a UTC si es necesario
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
 
   return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'EST'
-  }).toUTC()
+    zone: 'EST'  // Hora de origen en EST
+  })
+    .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
+    .toUTC()  // Convertir a UTC si es necesario
 }
 
 function parseItems(content) {
