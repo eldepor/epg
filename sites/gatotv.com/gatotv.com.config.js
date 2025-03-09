@@ -84,14 +84,22 @@ function parseIcon($item) {
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
+  const siteTimezone = 'EST';  // Puedes reemplazar esto con la zona horaria detectada del sitio si es posible
+  const localTimezone = dayjs().format('Z');  // Zona horaria local del servidor
 
-  return dayjs(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm')
+  // Convertir la hora al horario local del servidor
+  const start = dayjs(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm').tz(siteTimezone, true)
+  return start.tz(localTimezone, true)
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
+  const siteTimezone = 'EST';  // Similar a `parseStart`, reemplaza con la zona horaria del sitio
+  const localTimezone = dayjs().format('Z');  // Zona horaria local del servidor
 
-  return dayjs(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm')
+  // Convertir la hora al horario local del servidor
+  const stop = dayjs(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm').tz(siteTimezone, true)
+  return stop.tz(localTimezone, true)
 }
 
 function parseItems(content) {
