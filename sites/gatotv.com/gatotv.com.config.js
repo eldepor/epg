@@ -79,7 +79,7 @@ function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
 
   return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'UTC-6'
+    zone: 'UTC-5'
   }).setZone(Intl.DateTimeFormat().resolvedOptions().timeZone)
 }
 
@@ -87,7 +87,7 @@ function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
 
   return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'UTC-6'
+    zone: 'UTC-5'
   }).setZone(Intl.DateTimeFormat().resolvedOptions().timeZone)
 }
 
