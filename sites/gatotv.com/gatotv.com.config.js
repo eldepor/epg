@@ -2,14 +2,7 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const url = require('url')
 const path = require('path')
-const dayjs = require('dayjs')
-const utc = require('dayjs/plugin/utc')
-const timezone = require('dayjs/plugin/timezone')
-const customParseFormat = require('dayjs/plugin/customParseFormat')
-
-dayjs.extend(utc)
-dayjs.extend(timezone)
-dayjs.extend(customParseFormat)
+const { DateTime } = require('luxon')
 
 module.exports = {
   site: 'gatotv.com',
@@ -21,27 +14,23 @@ module.exports = {
     let programs = []
     const items = parseItems(content)
     date = date.subtract(1, 'd')
-    items.forEach((item, index) => {
-      const prev = programs[programs.length - 1]
+    items.forEach((item, i) => {
       const $item = cheerio.load(item)
       let start = parseStart($item, date)
-      if (prev) {
-        if (start.isBefore(prev.start)) {
-          start = start.add(1, 'd')
-          date = date.add(1, 'd')
-        }
-        prev.stop = start
+      if (i === 0 && start.hour >= 5) {
+        start = start.plus({ days: 1 })
+        date = date.add(1, 'd')
       }
-      let stop = parseStop($item, start)
-      if (stop.isBefore(start)) {
-        stop = stop.add(1, 'd')
+      let stop = parseStop($item, date)
+      if (stop < start) {
+        stop = stop.plus({ days: 1 })
         date = date.add(1, 'd')
       }
 
       programs.push({
         title: parseTitle($item),
         description: parseDescription($item),
-        icon: parseIcon($item),
+        image: parseImage($item),
         start,
         stop
       })
@@ -51,7 +40,7 @@ module.exports = {
   },
   async channels() {
     const data = await axios
-      .get(`https://www.gatotv.com/guia_tv/completa`)
+      .get('https://www.gatotv.com/guia_tv/completa')
       .then(response => response.data)
       .catch(console.log)
 
@@ -73,33 +62,33 @@ module.exports = {
 }
 
 function parseTitle($item) {
-			   
-  return $item('td:nth-child(4) > div > div > a > span,td:nth-child(3) > div > div > span').text()
-		  
+  return $item(
+    'td:nth-child(4) > div > div > a > span,td:nth-child(3) > div > div > span,td:nth-child(3) > div > div > a > span'
+  ).text()
 }
 
 function parseDescription($item) {
   return $item('td:nth-child(4) > div').clone().children().remove().end().text().trim()
 }
 
-function parseIcon($item) {
+function parseImage($item) {
   return $item('td:nth-child(3) > a > img').attr('src')
 }
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
 
-  return dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', 'EST')
-			   
-			
+  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+    zone: 'EST'
+  }).toUTC()
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
 
-  return dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', 'EST')
-			   
-			
+  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+    zone: 'EST'
+  }).toUTC()
 }
 
 function parseItems(content) {
