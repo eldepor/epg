@@ -8,23 +8,44 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
+    // Añade log para ver qué fecha se está utilizando para la URL
+    console.log(`[DEBUG] Fecha utilizada para URL: ${date.format('YYYY-MM-DD')}`)
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.format('YYYY-MM-DD')}`
   },
   parser({ content, date }) {
+    // Añade logs para verificar la fecha inicial
+    console.log(`[DEBUG] Fecha inicial en parser: ${date.toISO()}`)
+    
     let programs = []
     const items = parseItems(content)
-    date = date.subtract(1, 'd')
+    
+    // Importante: ELIMINA esta línea que resta un día a la fecha actual
+    // date = date.subtract(1, 'd')
+    
+    console.log(`[DEBUG] Número de items encontrados: ${items.length}`)
+    
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
       let start = parseStart($item, date)
+      
+      // Log para ver los tiempos de inicio extraídos
+      console.log(`[DEBUG] Item ${i} - Tiempo original: ${$item('td:nth-child(1) > div > time').attr('datetime')}, Fecha ISO: ${start.toISO()}`)
+      
       if (i === 0 && start.hour >= 5) {
         start = start.plus({ days: 1 })
         date = date.add(1, 'd')
+        console.log(`[DEBUG] Ajustando fecha para item 0 con hora >= 5: Nueva fecha: ${date.toISO()}`)
       }
+      
       let stop = parseStop($item, date)
+      
+      // Log para ver los tiempos de fin extraídos
+      console.log(`[DEBUG] Item ${i} - Tiempo fin original: ${$item('td:nth-child(2) > div > time').attr('datetime')}, Fecha ISO: ${stop.toISO()}`)
+      
       if (stop < start) {
         stop = stop.plus({ days: 1 })
         date = date.add(1, 'd')
+        console.log(`[DEBUG] Ajustando fecha para stop < start: Nueva fecha: ${date.toISO()}`)
       }
 
       programs.push({
@@ -77,18 +98,30 @@ function parseImage($item) {
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
-
-  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  
+  console.log(`[DEBUG] parseStart - Fecha: ${date.format('YYYY-MM-DD')}, Hora: ${time}, Zona: Europe/Madrid`)
+  
+  const dateTime = DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'Europe/Madrid'
   }).toUTC()
+  
+  console.log(`[DEBUG] parseStart - Resultado UTC: ${dateTime.toISO()}`)
+  
+  return dateTime
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
-
-  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  
+  console.log(`[DEBUG] parseStop - Fecha: ${date.format('YYYY-MM-DD')}, Hora: ${time}, Zona: Europe/Madrid`)
+  
+  const dateTime = DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'Europe/Madrid'
   }).toUTC()
+  
+  console.log(`[DEBUG] parseStop - Resultado UTC: ${dateTime.toISO()}`)
+  
+  return dateTime
 }
 
 function parseItems(content) {
