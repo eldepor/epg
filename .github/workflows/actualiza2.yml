@@ -40,8 +40,8 @@ jobs:
           npm install @ntlab/sfetch
           npm install debug
           npm install luxon
-          npx epg-grabber --config=sites/gatotv.com/gatotv.com.config.js --channels=sites/gatotv.com/gatotv.com.channels.xml --output=gatotv.com.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/superguidatv.it/superguidatv.it.config.js --channels=sites/superguidatv.it/superguidatv.it.channels.xml --output=superguidatv.it.xml --days=3 --timeout=30000
+          npx epg-grabber --config=sites/gatotv.com/gatotv.com.config.js --channels=sites/gatotv.com/gatotv.com.channels.xml --output=gatotv.com.xml --days=1 --timeout=30000
+          npx epg-grabber --config=sites/superguidatv.it/superguidatv.it.config.js --channels=sites/superguidatv.it/superguidatv.it.channels.xml --output=superguidatv.it.xml --days=1 --timeout=30000
       - name: Dar permisos de ejecución al script
         run: |
           chmod +x .github/workflows/EPG_script.sh
