@@ -9,13 +9,18 @@ module.exports = {
   days: 2,
   url({ channel, date }) {
     date = ensureDateTime(date)
-    console.log(`Generando URL con fecha: ${date.toFormat('yyyy-MM-dd')}`)
+    console.log(`Generando URL con fecha: ${date.isValid ? date.toFormat('yyyy-MM-dd') : 'Fecha inválida'}`)
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`
   },
   parser({ content, date }) {
     date = ensureDateTime(date)
-    console.log(`Fecha original antes de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
-    
+    console.log(`Fecha original antes de restar un día: ${date.isValid ? date.toFormat('yyyy-MM-dd') : 'Fecha inválida'}`)
+
+    if (!date.isValid) {
+      console.error("Error: La fecha recibida en parser() es inválida.")
+      return []
+    }
+
     date = date.minus({ days: 1 })
     console.log(`Fecha después de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
 
@@ -25,28 +30,30 @@ module.exports = {
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
       let start = parseStart($item, date)
-      console.log(`Start antes de ajustes: ${start.toISO()}`)
+      console.log(`Start antes de ajustes: ${start ? start.toISO() : 'null'}`)
 
-      if (i === 0 && start.hour >= 5) {
+      if (i === 0 && start && start.hour >= 5) {
         start = start.plus({ days: 1 })
         console.log(`Start ajustado porque es el primer item y la hora >= 5: ${start.toISO()}`)
       }
 
       let stop = parseStop($item, date)
-      console.log(`Stop antes de ajustes: ${stop.toISO()}`)
+      console.log(`Stop antes de ajustes: ${stop ? stop.toISO() : 'null'}`)
 
-      if (stop < start) {
+      if (stop && start && stop < start) {
         stop = stop.plus({ days: 1 })
         console.log(`Stop ajustado porque era menor a start: ${stop.toISO()}`)
       }
 
-      programs.push({
-        title: parseTitle($item),
-        description: parseDescription($item),
-        image: parseImage($item),
-        start,
-        stop
-      })
+      if (start && stop) {
+        programs.push({
+          title: parseTitle($item),
+          description: parseDescription($item),
+          image: parseImage($item),
+          start,
+          stop
+        })
+      }
     })
 
     return programs
@@ -99,9 +106,9 @@ function parseStart($item, date) {
     zone: 'EST'
   }).toUTC()
   
-  console.log(`Parseado Start: ${start.toISO()} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
+  console.log(`Parseado Start: ${start.isValid ? start.toISO() : 'null'} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
   
-  return start
+  return start.isValid ? start : null
 }
 
 function parseStop($item, date) {
@@ -113,9 +120,9 @@ function parseStop($item, date) {
     zone: 'EST'
   }).toUTC()
   
-  console.log(`Parseado Stop: ${stop.toISO()} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
+  console.log(`Parseado Stop: ${stop.isValid ? stop.toISO() : 'null'} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
   
-  return stop
+  return stop.isValid ? stop : null
 }
 
 function parseItems(content) {
@@ -128,5 +135,14 @@ function parseItems(content) {
 }
 
 function ensureDateTime(date) {
-  return date instanceof DateTime ? date : DateTime.fromISO(date)
+  if (date instanceof DateTime && date.isValid) {
+    return date
+  } else if (typeof date === 'string') {
+    const parsedDate = DateTime.fromISO(date)
+    if (parsedDate.isValid) {
+      return parsedDate
+    }
+  }
+  console.error("Error: La fecha proporcionada no es válida:", date)
+  return DateTime.invalid("Fecha inválida")
 }
