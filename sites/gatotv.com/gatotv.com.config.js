@@ -8,16 +8,19 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
+    date = ensureDateTime(date)
     console.log(`Generando URL con fecha: ${date.toFormat('yyyy-MM-dd')}`)
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`
   },
   parser({ content, date }) {
-    let programs = []
-    const items = parseItems(content)
-    
+    date = ensureDateTime(date)
     console.log(`Fecha original antes de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
+    
     date = date.minus({ days: 1 })
     console.log(`Fecha después de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
+
+    const programs = []
+    const items = parseItems(content)
 
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
@@ -26,7 +29,6 @@ module.exports = {
 
       if (i === 0 && start.hour >= 5) {
         start = start.plus({ days: 1 })
-        date = date.plus({ days: 1 })
         console.log(`Start ajustado porque es el primer item y la hora >= 5: ${start.toISO()}`)
       }
 
@@ -35,7 +37,6 @@ module.exports = {
 
       if (stop < start) {
         stop = stop.plus({ days: 1 })
-        date = date.plus({ days: 1 })
         console.log(`Stop ajustado porque era menor a start: ${stop.toISO()}`)
       }
 
@@ -63,21 +64,22 @@ module.exports = {
     return items.map(item => {
       const $item = cheerio.load(item)
       const link = $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').attr('href')
+      if (!link) return null
       const parsed = url.parse(link)
 
       return {
         lang: 'es',
         site_id: path.basename(parsed.pathname),
-        name: $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').text()
+        name: $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').text().trim()
       }
-    })
+    }).filter(Boolean)
   }
 }
 
 function parseTitle($item) {
   return $item(
     'td:nth-child(4) > div > div > a > span,td:nth-child(3) > div > div > span,td:nth-child(3) > div > div > a > span'
-  ).text()
+  ).text().trim()
 }
 
 function parseDescription($item) {
@@ -85,11 +87,14 @@ function parseDescription($item) {
 }
 
 function parseImage($item) {
-  return $item('td:nth-child(3) > a > img').attr('src')
+  return $item('td:nth-child(3) > a > img').attr('src') || ''
 }
 
 function parseStart($item, date) {
+  date = ensureDateTime(date)
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
+  if (!time) return null
+
   const start = DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'EST'
   }).toUTC()
@@ -100,7 +105,10 @@ function parseStart($item, date) {
 }
 
 function parseStop($item, date) {
+  date = ensureDateTime(date)
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
+  if (!time) return null
+
   const stop = DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'EST'
   }).toUTC()
@@ -112,9 +120,13 @@ function parseStop($item, date) {
 
 function parseItems(content) {
   const $ = cheerio.load(content)
-  return $(
+  return $( 
     'body > div.div_content > table:nth-child(8) > tbody > tr:nth-child(2) > td:nth-child(1) > table.tbl_EPG'
   )
     .find('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected')
     .toArray()
+}
+
+function ensureDateTime(date) {
+  return date instanceof DateTime ? date : DateTime.fromISO(date)
 }
