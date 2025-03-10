@@ -8,16 +8,16 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    console.log(`Generando URL con fecha: ${date.toISODate()}`)
+    console.log(`Generando URL con fecha: ${date.toFormat('yyyy-MM-dd')}`)
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`
   },
   parser({ content, date }) {
     let programs = []
     const items = parseItems(content)
     
-    console.log(`Fecha original antes de restar un día: ${date.toISODate()}`)
+    console.log(`Fecha original antes de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
     date = date.minus({ days: 1 })
-    console.log(`Fecha después de restar un día: ${date.toISODate()}`)
+    console.log(`Fecha después de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
 
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
@@ -94,7 +94,7 @@ function parseStart($item, date) {
     zone: 'EST'
   }).toUTC()
   
-  console.log(`Parseado Start: ${start.toISO()} con fecha base: ${date.toISODate()} y hora: ${time}`)
+  console.log(`Parseado Start: ${start.toISO()} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
   
   return start
 }
@@ -105,7 +105,7 @@ function parseStop($item, date) {
     zone: 'EST'
   }).toUTC()
   
-  console.log(`Parseado Stop: ${stop.toISO()} con fecha base: ${date.toISODate()} y hora: ${time}`)
+  console.log(`Parseado Stop: ${stop.toISO()} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
   
   return stop
 }
