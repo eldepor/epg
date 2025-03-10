@@ -135,14 +135,25 @@ function parseItems(content) {
 }
 
 function ensureDateTime(date) {
-  if (date instanceof DateTime && date.isValid) {
+  if (DateTime.isDateTime(date) && date.isValid) {
     return date
-  } else if (typeof date === 'string') {
-    const parsedDate = DateTime.fromISO(date)
+  }
+  
+  if (typeof date === 'string') {
+    const parsedDate = DateTime.fromISO(date, { zone: 'UTC' })
     if (parsedDate.isValid) {
       return parsedDate
     }
   }
+
+  if (typeof date === 'object' && date['$d']) {
+    const parsedDate = DateTime.fromJSDate(new Date(date['$d']), { zone: 'UTC' })
+    if (parsedDate.isValid) {
+      return parsedDate
+    }
+  }
+
   console.error("Error: La fecha proporcionada no es válida:", date)
   return DateTime.invalid("Fecha inválida")
 }
+
