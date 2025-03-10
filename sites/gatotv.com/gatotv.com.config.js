@@ -86,7 +86,7 @@ function parseIcon($item) {
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime');
-  const startTime = dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', 'America/Chicago');
+  const startTime = dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', 'America/New_York');
 
   console.log(`Start Time: ${startTime.format()}`); // Imprime en consola para GitHub Actions
   return startTime;
@@ -94,7 +94,7 @@ function parseStart($item, date) {
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime');
-  const stopTime = dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', 'America/Chicago');
+  const stopTime = dayjs.tz(`${date.format('YYYY-MM-DD')} ${time}`, 'YYYY-MM-DD HH:mm', 'America/New_York');
 
   console.log(`Stop Time: ${stopTime.format()}`); // Imprime en consola para GitHub Actions
   return stopTime;
