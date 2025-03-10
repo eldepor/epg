@@ -8,20 +8,20 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    // Usamos directamente la fecha del día anterior para la URL
-    // date ya es un objeto con método format
-    const yesterdayStr = date.subtract(1, 'd').format('YYYY-MM-DD')
-    console.log(`[DEBUG] Fecha original: ${date.format('YYYY-MM-DD')}`)
-    console.log(`[DEBUG] Fecha de ayer para URL: ${yesterdayStr}`)
+    // USAR UNA FECHA FIJA: 2025-03-10
+    // Esto garantizará que siempre se obtengan los mismos resultados
+    const fixedDateStr = '2025-03-10'
     
-    return `https://www.gatotv.com/canal/${channel.site_id}/${yesterdayStr}`
+    console.log(`[DEBUG] Fecha original: ${date.format('YYYY-MM-DD')}`)
+    console.log(`[DEBUG] Usando fecha fija para URL: ${fixedDateStr}`)
+    
+    return `https://www.gatotv.com/canal/${channel.site_id}/${fixedDateStr}`
   },
   parser({ content, date }) {
-    // Trabajamos directamente con el objeto date que recibimos
-    // Lo convertimos a un objeto DateTime de Luxon
-    const baseDate = DateTime.fromISO(date.format('YYYY-MM-DD'), { zone: 'Europe/Madrid' }).minus({ days: 1 })
+    // Usar una fecha fija en lugar de la fecha actual
+    const fixedDate = DateTime.fromISO('2025-03-10', { zone: 'Europe/Madrid' })
     
-    console.log(`[DEBUG] Fecha base en parser: ${baseDate.toFormat('yyyy-MM-dd')}`)
+    console.log(`[DEBUG] Usando fecha fija en parser: ${fixedDate.toFormat('yyyy-MM-dd')}`)
     
     let programs = []
     const items = parseItems(content)
@@ -40,13 +40,13 @@ module.exports = {
       
       console.log(`[DEBUG] Item ${i} - Tiempo inicio: ${timeStr}, Tiempo fin: ${stopTimeStr}`)
       
-      // Usamos el mismo día base para todos los programas
-      let startDate = baseDate
+      // Usamos el mismo día base fijo para todos los programas
+      let startDate = fixedDate
       
       // Si la hora es menor que 5:00, asumimos que es del día siguiente
       const [hours] = timeStr.split(':').map(Number)
       if (hours < 5) {
-        startDate = baseDate.plus({ days: 1 })
+        startDate = fixedDate.plus({ days: 1 })
         console.log(`[DEBUG] Item ${i} - Hora < 5:00, usando día siguiente: ${startDate.toFormat('yyyy-MM-dd')}`)
       }
       
