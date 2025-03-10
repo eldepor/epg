@@ -8,56 +8,37 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    console.log(`Generando URL con fecha: ${date.isValid ? date.toFormat('yyyy-MM-dd') : 'Fecha inválida'}`)
-    return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`
+    return `https://www.gatotv.com/canal/${channel.site_id}/${date.format('YYYY-MM-DD')}`
   },
   parser({ content, date }) {
-    console.log(`Fecha recibida en parser(): ${date.isValid ? date.toFormat('yyyy-MM-dd') : 'Fecha inválida'}`)
-
-    if (!date.isValid) {
-      console.error("Error: La fecha recibida en parser() es inválida.")
-      return []
-    }
-
     let programs = []
     const items = parseItems(content)
     date = date.subtract(1, 'd')
-    console.log(`Fecha después de restar un día: ${date.toFormat('yyyy-MM-dd')}`)
-
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
       let start = parseStart($item, date)
-      console.log(`Start antes de ajustes: ${start ? start.toISO() : 'null'}`)
-
-      if (i === 0 && start && start.hour >= 5) {
+      if (i === 0 && start.hour >= 5) {
         start = start.plus({ days: 1 })
         date = date.add(1, 'd')
-        console.log(`Start ajustado porque es el primer item y la hora >= 5: ${start.toISO()}`)
       }
-
       let stop = parseStop($item, date)
-      console.log(`Stop antes de ajustes: ${stop ? stop.toISO() : 'null'}`)
-
-      if (stop && start && stop < start) {
+      if (stop < start) {
         stop = stop.plus({ days: 1 })
-        console.log(`Stop ajustado porque era menor a start: ${stop.toISO()}`)
+        date = date.add(1, 'd')
       }
 
-      if (start && stop) {
-        programs.push({
-          title: parseTitle($item),
-          description: parseDescription($item),
-          image: parseImage($item),
-          start,
-          stop
-        })
-      }
+      programs.push({
+        title: parseTitle($item),
+        description: parseDescription($item),
+        image: parseImage($item),
+        start,
+        stop
+      })
     })
 
     return programs
   },
   async channels() {
-    console.log("Obteniendo lista de canales...")
     const data = await axios
       .get('https://www.gatotv.com/guia_tv/completa')
       .then(response => response.data)
@@ -69,22 +50,21 @@ module.exports = {
     return items.map(item => {
       const $item = cheerio.load(item)
       const link = $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').attr('href')
-      if (!link) return null
       const parsed = url.parse(link)
 
       return {
         lang: 'es',
         site_id: path.basename(parsed.pathname),
-        name: $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').text().trim()
+        name: $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').text()
       }
-    }).filter(Boolean)
+    })
   }
 }
 
 function parseTitle($item) {
   return $item(
     'td:nth-child(4) > div > div > a > span,td:nth-child(3) > div > div > span,td:nth-child(3) > div > div > a > span'
-  ).text().trim()
+  ).text()
 }
 
 function parseDescription($item) {
@@ -92,37 +72,27 @@ function parseDescription($item) {
 }
 
 function parseImage($item) {
-  return $item('td:nth-child(3) > a > img').attr('src') || ''
+  return $item('td:nth-child(3) > a > img').attr('src')
 }
 
 function parseStart($item, date) {
-  console.log(`Parsing Start con fecha base: ${date.toFormat('yyyy-MM-dd')}`)
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
 
-  if (!time) return null
-
-  const start = DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'EST'
-  }).setZone('Europe/Madrid')
-
-  console.log(`Parseado Start: ${start.isValid ? start.toISO() : 'null'} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
-
-  return start.isValid ? start : null
+  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+    zone: 'EST'  // Hora de origen en EST
+  })
+    .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
+    //.toUTC()  // Convertir a UTC si es necesario
 }
 
 function parseStop($item, date) {
-  console.log(`Parsing Stop con fecha base: ${date.toFormat('yyyy-MM-dd')}`)
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
 
-  if (!time) return null
-
-  const stop = DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
-    zone: 'EST'
-  }).setZone('Europe/Madrid')
-
-  console.log(`Parseado Stop: ${stop.isValid ? stop.toISO() : 'null'} con fecha base: ${date.toFormat('yyyy-MM-dd')} y hora: ${time}`)
-
-  return stop.isValid ? stop : null
+  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+    zone: 'EST'  // Hora de origen en EST
+  })
+    .setZone('Europe/Madrid')  // Convertir a la zona horaria de España (CET/CEST)
+    //.toUTC()  // Convertir a UTC si es necesario
 }
 
 function parseItems(content) {
@@ -133,27 +103,4 @@ function parseItems(content) {
   )
     .find('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected')
     .toArray()
-}
-
-function ensureDateTime(date) {
-  if (DateTime.isDateTime(date) && date.isValid) {
-    return date
-  }
-  
-  if (typeof date === 'string') {
-    const parsedDate = DateTime.fromISO(date, { zone: 'UTC' })
-    if (parsedDate.isValid) {
-      return parsedDate
-    }
-  }
-
-  if (typeof date === 'object' && date['$d']) {
-    const parsedDate = DateTime.fromJSDate(new Date(date['$d']), { zone: 'UTC' })
-    if (parsedDate.isValid) {
-      return parsedDate
-    }
-  }
-
-  console.error("Error: La fecha proporcionada no es válida:", date)
-  return DateTime.invalid("Fecha inválida")
 }
