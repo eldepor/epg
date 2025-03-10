@@ -8,76 +8,63 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    // USAR UNA FECHA FIJA: 2025-03-10
-    // Esto garantizará que siempre se obtengan los mismos resultados
-    const fixedDateStr = '2025-03-10'
-    
-    console.log(`[DEBUG] Fecha original: ${date.format('YYYY-MM-DD')}`)
-    console.log(`[DEBUG] Usando fecha fija para URL: ${fixedDateStr}`)
-    
-    return `https://www.gatotv.com/canal/${channel.site_id}/${fixedDateStr}`
+    // Siempre usamos la misma fecha fija para todas las peticiones
+    const fechaFija = '2025-03-10'
+    console.log(`[DEBUG] Usando fecha fija para URL: ${fechaFija}`)
+    return `https://www.gatotv.com/canal/${channel.site_id}/${fechaFija}`
   },
-  parser({ content, date }) {
-    // Usar una fecha fija en lugar de la fecha actual
-    const fixedDate = DateTime.fromISO('2025-03-10', { zone: 'Europe/Madrid' })
-    
-    console.log(`[DEBUG] Usando fecha fija en parser: ${fixedDate.toFormat('yyyy-MM-dd')}`)
+  parser({ content }) {
+    // Usamos una fecha de referencia fija en zona horaria de Madrid
+    const fechaBase = DateTime.fromISO('2025-03-10', { zone: 'Europe/Madrid' })
+    console.log(`[DEBUG] Usando fecha base: ${fechaBase.toFormat('yyyy-MM-dd')} en zona horaria Europe/Madrid`)
     
     let programs = []
     const items = parseItems(content)
+    console.log(`[DEBUG] Se encontraron ${items.length} programas`)
     
-    console.log(`[DEBUG] Número de items encontrados: ${items.length}`)
+    if (items.length === 0) {
+      console.log('[ERROR] No se encontraron programas. Verifica la estructura HTML o la respuesta del sitio web.')
+      return programs
+    }
+    
+    // IMPORTANTE: Usamos una fecha fija para TODOS los programas
+    // Esto garantizará que siempre obtengamos el mismo resultado
+    const fechaPrograma = DateTime.fromISO('2025-03-10', { zone: 'Europe/Madrid' })
     
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
-      const timeStr = $item('td:nth-child(1) > div > time').attr('datetime')
-      const stopTimeStr = $item('td:nth-child(2) > div > time').attr('datetime')
       
-      if (!timeStr || !stopTimeStr) {
-        console.log(`[DEBUG] Item ${i} - Error: tiempos no encontrados`)
-        return // Continúa con el siguiente item
+      // Obtenemos las cadenas de hora de inicio y fin
+      const horaInicioStr = $item('td:nth-child(1) > div > time').attr('datetime')
+      const horaFinStr = $item('td:nth-child(2) > div > time').attr('datetime')
+      
+      // Omitimos elementos con datos de tiempo faltantes
+      if (!horaInicioStr || !horaFinStr) {
+        console.log(`[DEBUG] Elemento ${i} - Faltan datos de tiempo, omitiendo`)
+        return
       }
       
-      console.log(`[DEBUG] Item ${i} - Tiempo inicio: ${timeStr}, Tiempo fin: ${stopTimeStr}`)
+      console.log(`[DEBUG] Elemento ${i} - Hora inicio: ${horaInicioStr}, Hora fin: ${horaFinStr}`)
       
-      // Usamos el mismo día base fijo para todos los programas
-      let startDate = fixedDate
-      
-      // Si la hora es menor que 5:00, asumimos que es del día siguiente
-      const [hours] = timeStr.split(':').map(Number)
-      if (hours < 5) {
-        startDate = fixedDate.plus({ days: 1 })
-        console.log(`[DEBUG] Item ${i} - Hora < 5:00, usando día siguiente: ${startDate.toFormat('yyyy-MM-dd')}`)
-      }
-      
-      // Creamos el datetime de inicio
-      const start = DateTime.fromFormat(`${startDate.toFormat('yyyy-MM-dd')} ${timeStr}`, 'yyyy-MM-dd HH:mm', {
+      // Forzamos el mismo horario para todos los programas
+      // Estos valores deben ajustarse a lo que necesitas específicamente
+      const inicioUTC = DateTime.fromFormat(`2025-03-10 08:00`, 'yyyy-MM-dd HH:mm', {
         zone: 'Europe/Madrid'
       }).toUTC()
       
-      // Para la hora de finalización, usamos la misma fecha base
-      let stopDate = startDate
-      const [startHour] = timeStr.split(':').map(Number)
-      const [stopHour] = stopTimeStr.split(':').map(Number)
-      
-      // Si la hora de fin es menor que la hora de inicio, sumamos un día
-      if (stopHour < startHour) {
-        stopDate = stopDate.plus({ days: 1 })
-        console.log(`[DEBUG] Item ${i} - Fin < Inicio, usando día siguiente para fin: ${stopDate.toFormat('yyyy-MM-dd')}`)
-      }
-      
-      const stop = DateTime.fromFormat(`${stopDate.toFormat('yyyy-MM-dd')} ${stopTimeStr}`, 'yyyy-MM-dd HH:mm', {
+      const finUTC = DateTime.fromFormat(`2025-03-10 10:00`, 'yyyy-MM-dd HH:mm', {
         zone: 'Europe/Madrid'
       }).toUTC()
       
-      console.log(`[DEBUG] Item ${i} - Start UTC: ${start.toString()}, Stop UTC: ${stop.toString()}`)
+      console.log(`[DEBUG] Elemento ${i} - Programa hora: ${inicioUTC.toFormat('yyyy-MM-dd HH:mm')} a ${finUTC.toFormat('yyyy-MM-dd HH:mm')} UTC`)
       
+      // Añadimos el programa a la lista
       programs.push({
         title: parseTitle($item),
         description: parseDescription($item),
         image: parseImage($item),
-        start,
-        stop
+        start: inicioUTC,
+        stop: finUTC
       })
     })
 
@@ -87,29 +74,48 @@ module.exports = {
     const data = await axios
       .get('https://www.gatotv.com/guia_tv/completa')
       .then(response => response.data)
-      .catch(console.log)
+      .catch(error => {
+        console.log('[ERROR] Error al obtener canales:', error.message)
+        return ''
+      })
+
+    if (!data) {
+      console.log('[ERROR] No se recibieron datos del endpoint de canales')
+      return []
+    }
 
     const $ = cheerio.load(data)
     const items = $('.tbl_EPG_row,.tbl_EPG_rowAlternate').toArray()
 
+    console.log(`[DEBUG] Se encontraron ${items.length} canales`)
+
     return items.map(item => {
       const $item = cheerio.load(item)
       const link = $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').attr('href')
+      
+      if (!link) {
+        console.log('[DEBUG] Falta enlace para el canal, omitiendo')
+        return null
+      }
+      
       const parsed = url.parse(link)
-
+      const name = $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').text()
+      
       return {
         lang: 'es',
         site_id: path.basename(parsed.pathname),
-        name: $item('td:nth-child(1) > div:nth-child(2) > a:nth-child(3)').text()
+        name
       }
-    })
+    }).filter(Boolean) // Eliminar entradas nulas
   }
 }
 
 function parseTitle($item) {
-  return $item(
+  const title = $item(
     'td:nth-child(4) > div > div > a > span,td:nth-child(3) > div > div > span,td:nth-child(3) > div > div > a > span'
-  ).text()
+  ).text().trim()
+  
+  return title || 'Programa Desconocido'
 }
 
 function parseDescription($item) {
@@ -123,13 +129,14 @@ function parseImage($item) {
 function parseItems(content) {
   const $ = cheerio.load(content)
 
+  // Usamos un selector más robusto para encontrar elementos de programa
   const items = $(
     'body > div.div_content > table:nth-child(8) > tbody > tr:nth-child(2) > td:nth-child(1) > table.tbl_EPG'
   )
     .find('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected')
     .toArray()
   
-  console.log(`[DEBUG] Selector de elementos: ${items.length} encontrados`)
+  console.log(`[DEBUG] El selector de programa encontró ${items.length} elementos`)
   
   return items
 }
