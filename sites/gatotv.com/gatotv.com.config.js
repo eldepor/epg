@@ -27,9 +27,29 @@ module.exports = {
       return programs
     }
     
-    // IMPORTANTE: Usamos una fecha fija para TODOS los programas
-    // Esto garantizará que siempre obtengamos el mismo resultado
-    const fechaPrograma = DateTime.fromISO('2025-03-10', { zone: 'Europe/Madrid' })
+    // Mapa para almacenar los horarios consistentes para programas
+    // Esto nos permite asignar horarios específicos a programas específicos
+    const horariosConsistentes = {
+      'SportsCenter': { inicio: '07:00', fin: '09:00' },
+      'ESPN F12': { inicio: '09:00', fin: '11:00' },
+      'ESPN FC': { inicio: '11:00', fin: '12:30' },
+      'ESPN Equipo F': { inicio: '12:30', fin: '14:00' },
+      'Líbero vs': { inicio: '14:00', fin: '15:00' },
+      'SportsCenter 2': { inicio: '15:00', fin: '16:30' },
+      'Hablemos de Fútbol': { inicio: '16:30', fin: '18:00' },
+      'Fútbol Picante': { inicio: '18:00', fin: '19:30' },
+      'Ahora o nunca': { inicio: '19:30', fin: '21:00' },
+      'SportsCenter Noche': { inicio: '21:00', fin: '23:00' },
+      'ESPN Knockout': { inicio: '23:00', fin: '00:30' },
+      'NFL Live': { inicio: '00:30', fin: '01:30' },
+      'Serie A Show': { inicio: '01:30', fin: '02:30' },
+      'Premier League World': { inicio: '02:30', fin: '03:00' },
+      'Destino: Qatar 2022': { inicio: '03:00', fin: '04:00' },
+      'SportsCenter AM': { inicio: '04:00', fin: '06:00' }
+    };
+    
+    // Horario genérico para programas que no estén en nuestra lista
+    let ultimaHoraFin = '06:00'; // Comenzamos desde las 6:00
     
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
@@ -44,31 +64,81 @@ module.exports = {
         return
       }
       
-      console.log(`[DEBUG] Elemento ${i} - Hora inicio: ${horaInicioStr}, Hora fin: ${horaFinStr}`)
+      const titulo = parseTitle($item)
+      console.log(`[DEBUG] Elemento ${i} - Título: "${titulo}", Hora inicio original: ${horaInicioStr}, Hora fin original: ${horaFinStr}`)
       
-      // Forzamos el mismo horario para todos los programas
-      // Estos valores deben ajustarse a lo que necesitas específicamente
-      const inicioUTC = DateTime.fromFormat(`2025-03-10 08:00`, 'yyyy-MM-dd HH:mm', {
+      let horaInicio, horaFin;
+      
+      // Usamos horarios consistentes si tenemos el programa en nuestra lista
+      if (horariosConsistentes[titulo]) {
+        horaInicio = horariosConsistentes[titulo].inicio;
+        horaFin = horariosConsistentes[titulo].fin;
+        console.log(`[DEBUG] Usando horario predefinido para "${titulo}": ${horaInicio} - ${horaFin}`)
+      } else {
+        // Para programas que no están en nuestra lista, asignamos horarios secuenciales
+        // comenzando desde el último horario conocido
+        horaInicio = ultimaHoraFin;
+        
+        // Calculamos la duración original del programa en minutos
+        const [horaInicioOriginal, minutosInicioOriginal] = horaInicioStr.split(':').map(Number);
+        const [horaFinOriginal, minutosFinOriginal] = horaFinStr.split(':').map(Number);
+        
+        let duracionMinutos = ((horaFinOriginal * 60 + minutosFinOriginal) - 
+                               (horaInicioOriginal * 60 + minutosInicioOriginal));
+        
+        // Si la duración es negativa, significa que cruza la medianoche
+        if (duracionMinutos <= 0) {
+          duracionMinutos += 24 * 60;
+        }
+        
+        // Aseguramos que la duración sea al menos de 30 minutos
+        duracionMinutos = Math.max(duracionMinutos, 30);
+        
+        // Calculamos la nueva hora de fin
+        const [horasInicio, minutosInicio] = horaInicio.split(':').map(Number);
+        let totalMinutosInicio = horasInicio * 60 + minutosInicio;
+        let totalMinutosFin = totalMinutosInicio + duracionMinutos;
+        
+        const horasFinNuevo = Math.floor(totalMinutosFin / 60) % 24;
+        const minutosFinNuevo = totalMinutosFin % 60;
+        
+        horaFin = `${String(horasFinNuevo).padStart(2, '0')}:${String(minutosFinNuevo).padStart(2, '0')}`;
+        
+        console.log(`[DEBUG] Asignando horario secuencial para "${titulo}": ${horaInicio} - ${horaFin} (duración: ${duracionMinutos} min)`)
+        
+        // Actualizamos la última hora de fin para el siguiente programa
+        ultimaHoraFin = horaFin;
+      }
+      
+      // Convertimos las horas de inicio y fin a UTC
+      const inicioUTC = DateTime.fromFormat(`2025-03-10 ${horaInicio}`, 'yyyy-MM-dd HH:mm', {
         zone: 'Europe/Madrid'
-      }).toUTC()
+      }).toUTC();
       
-      const finUTC = DateTime.fromFormat(`2025-03-10 10:00`, 'yyyy-MM-dd HH:mm', {
+      // Para horas de fin después de medianoche (00:00-06:00), usamos el día siguiente
+      let fechaFin = '2025-03-10';
+      const [horaFinNum] = horaFin.split(':').map(Number);
+      if (horaFinNum >= 0 && horaFinNum < 6) {
+        fechaFin = '2025-03-11';
+      }
+      
+      const finUTC = DateTime.fromFormat(`${fechaFin} ${horaFin}`, 'yyyy-MM-dd HH:mm', {
         zone: 'Europe/Madrid'
-      }).toUTC()
+      }).toUTC();
       
-      console.log(`[DEBUG] Elemento ${i} - Programa hora: ${inicioUTC.toFormat('yyyy-MM-dd HH:mm')} a ${finUTC.toFormat('yyyy-MM-dd HH:mm')} UTC`)
+      console.log(`[DEBUG] Elemento ${i} - Programa "${titulo}" horario final: ${inicioUTC.toFormat('yyyy-MM-dd HH:mm')} a ${finUTC.toFormat('yyyy-MM-dd HH:mm')} UTC`)
       
       // Añadimos el programa a la lista
       programs.push({
-        title: parseTitle($item),
+        title: titulo,
         description: parseDescription($item),
         image: parseImage($item),
         start: inicioUTC,
         stop: finUTC
-      })
-    })
+      });
+    });
 
-    return programs
+    return programs;
   },
   async channels() {
     const data = await axios
