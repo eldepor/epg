@@ -8,23 +8,35 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    return `https://www.gatotv.com/canal/${channel.site_id}/${date.format('YYYY-MM-DD')}`
+    console.log(`Generando URL con fecha: ${date.toISODate()}`)
+    return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`
   },
   parser({ content, date }) {
     let programs = []
     const items = parseItems(content)
-    date = date.subtract(1, 'd')
+    
+    console.log(`Fecha original antes de restar un día: ${date.toISODate()}`)
+    date = date.minus({ days: 1 })
+    console.log(`Fecha después de restar un día: ${date.toISODate()}`)
+
     items.forEach((item, i) => {
       const $item = cheerio.load(item)
       let start = parseStart($item, date)
+      console.log(`Start antes de ajustes: ${start.toISO()}`)
+
       if (i === 0 && start.hour >= 5) {
         start = start.plus({ days: 1 })
-        date = date.add(1, 'd')
+        date = date.plus({ days: 1 })
+        console.log(`Start ajustado porque es el primer item y la hora >= 5: ${start.toISO()}`)
       }
+
       let stop = parseStop($item, date)
+      console.log(`Stop antes de ajustes: ${stop.toISO()}`)
+
       if (stop < start) {
         stop = stop.plus({ days: 1 })
-        date = date.add(1, 'd')
+        date = date.plus({ days: 1 })
+        console.log(`Stop ajustado porque era menor a start: ${stop.toISO()}`)
       }
 
       programs.push({
@@ -39,6 +51,7 @@ module.exports = {
     return programs
   },
   async channels() {
+    console.log("Obteniendo lista de canales...")
     const data = await axios
       .get('https://www.gatotv.com/guia_tv/completa')
       .then(response => response.data)
@@ -77,23 +90,28 @@ function parseImage($item) {
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime')
-
-  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  const start = DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'EST'
   }).toUTC()
+  
+  console.log(`Parseado Start: ${start.toISO()} con fecha base: ${date.toISODate()} y hora: ${time}`)
+  
+  return start
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime')
-
-  return DateTime.fromFormat(`${date.format('YYYY-MM-DD')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  const stop = DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'EST'
   }).toUTC()
+  
+  console.log(`Parseado Stop: ${stop.toISO()} con fecha base: ${date.toISODate()} y hora: ${time}`)
+  
+  return stop
 }
 
 function parseItems(content) {
   const $ = cheerio.load(content)
-
   return $(
     'body > div.div_content > table:nth-child(8) > tbody > tr:nth-child(2) > td:nth-child(1) > table.tbl_EPG'
   )
