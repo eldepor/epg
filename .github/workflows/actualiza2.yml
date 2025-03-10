@@ -21,13 +21,18 @@ jobs:
       # Give the default GITHUB_TOKEN write permission to commit and push the
       # added or changed files to the repository.
       contents: write
+    # Establecer explícitamente la zona horaria
+    env:
+      TZ: 'Europe/Madrid'
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
       # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo "Fecha github:$(date)"
+      - name: Mostrar zona horaria y fecha
+        run: |
+          echo "Zona horaria actual: $TZ"
+          echo "Fecha github: $(date)"
       - uses: actions/setup-node@v4
         with:
           node-version: 20
