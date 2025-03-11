@@ -1,5 +1,9 @@
 #!/bin/bash
 
+export LC_ALL=C.UTF-8
+export LANG=C.UTF-8
+export LANGUAGE=C.UTF-8
+
 sed -i '/^ *$/d' epgs.txt
 
 rm -f EPG_temp*
