@@ -18,6 +18,7 @@ module.exports = {
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.format('YYYY-MM-DD')}`
   },
   parser({ content, date }) {
+    console.log('HTML Hash:', getHash(content)); // Depuración
     let programs = []
     const items = parseItems(content)
     date = date.subtract(1, 'd')
@@ -104,4 +105,8 @@ function parseItems(content) {
   )
     .find('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected')
     .toArray()
+}
+
+function getHash(content) {
+  return crypto.createHash('md5').update(content).digest('hex');
 }
