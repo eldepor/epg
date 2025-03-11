@@ -141,3 +141,4 @@ function ensureDateTime(date) {
   if (typeof date === 'string') return DateTime.fromISO(date);
   if (date && date.$d) return DateTime.fromJSDate(date.$d);
   return DateTime.now();
+}
