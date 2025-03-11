@@ -10,24 +10,17 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    if (!(date instanceof DateTime)) {
-      date = DateTime.fromISO(date.toString());
-    }
+    date = ensureDateTime(date);
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`;
   },
   async parser({ content, date }) {
-    console.log('Fecha recibida:', typeof date, date);
-    
-    if (!(date instanceof DateTime)) {
-      date = DateTime.fromISO(date.toString());
-    }
-    console.log('Fecha convertida:', date.toISO());
+    date = ensureDateTime(date);
+    console.log('Fecha recibida:', date.toISO());
 
     const filteredContent = extractRelevantContent(content);
     const hash = getHash(filteredContent);
     console.log('HTML Hash:', hash);
     
-    // Guardar HTML filtrado para comparación
     fs.writeFileSync(`debug_gatotv_${hash}.html`, filteredContent);
     
     let programs = [];
@@ -102,24 +95,16 @@ function parseImage($item) {
 }
 
 function parseStart($item, date) {
-  if (!(date instanceof DateTime)) {
-    date = DateTime.fromISO(date.toString());
-  }
-
+  date = ensureDateTime(date);
   const time = $item('td:nth-child(1) > div > time').attr('datetime');
-
   return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'America/New_York'
   }).setZone('UTC');
 }
 
 function parseStop($item, date) {
-  if (!(date instanceof DateTime)) {
-    date = DateTime.fromISO(date.toString());
-  }
-
+  date = ensureDateTime(date);
   const time = $item('td:nth-child(2) > div > time').attr('datetime');
-
   return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'America/New_York'
   }).setZone('UTC');
@@ -141,4 +126,11 @@ function getHash(content) {
 function extractRelevantContent(html) {
   const $ = cheerio.load(html);
   return $('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected').toString();
+}
+
+function ensureDateTime(date) {
+  if (date instanceof DateTime) return date;
+  if (typeof date === 'string') return DateTime.fromISO(date);
+  if (date && date.toISOString) return DateTime.fromISO(date.toISOString());
+  throw new Error(`Formato de fecha inválido: ${date}`);
 }
