@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250311">
 <channel id="ESPN1SUR"><display-name>ESPN</display-name><url>https://gatotv.com</url></channel>
-<programme start="20250311035500 +0000" stop="20250311053000 +0000" channel="ESPN1SUR"><title lang="es">Equipo F</title></programme>
-<programme start="20250311053000 +0000" stop="20250311060000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos mÃ¡s importantes del deporte incluyendo resÃºmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20250311060000 +0000" stop="20250311081500 +0000" channel="ESPN1SUR"><title lang="es">FÃºtbol argentino Primera DivisiÃ³n</title></programme>
-<programme start="20250311081500 +0000" stop="20250311090000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F10</title></programme>
-<programme start="20250311090000 +0000" stop="20250311100000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos mÃ¡s importantes del deporte incluyendo resÃºmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20250311100000 +0000" stop="20250311110000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250311110000 +0000" stop="20250311120000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250311120000 +0000" stop="20250311130000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250311130000 +0000" stop="20250311140000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250311140000 +0000" stop="20250311150000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250311150000 +0000" stop="20250311160000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250311160000 +0000" stop="20250311190000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter AM</title></programme>
-<programme start="20250311190000 +0000" stop="20250311200000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos mÃ¡s importantes del deporte incluyendo resÃºmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
-<programme start="20250311200000 +0000" stop="20250311220000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F12</title></programme>
-<programme start="20250311220000 +0000" stop="20250311232500 +0000" channel="ESPN1SUR"><title lang="es">ESPN F90 Primera ediciÃ³n</title></programme>
-<programme start="20250311232500 +0000" stop="20250312014000 +0000" channel="ESPN1SUR"><title lang="es">FÃºtbol UEFA Champions League</title></programme>
-<programme start="20250312014000 +0000" stop="20250312035500 +0000" channel="ESPN1SUR"><title lang="es">FÃºtbol UEFA Champions League</title></programme>
-<programme start="20250312035500 +0000" stop="20250312053000 +0000" channel="ESPN1SUR"><title lang="es">Equipo F</title></programme>
+<programme start="20250310215500 +0000" stop="20250310233000 +0000" channel="ESPN1SUR"><title lang="es">Equipo F</title></programme>
+<programme start="20250310233000 +0000" stop="20250311000000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos mÃ¡s importantes del deporte incluyendo resÃºmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20250311000000 +0000" stop="20250311021500 +0000" channel="ESPN1SUR"><title lang="es">FÃºtbol argentino Primera DivisiÃ³n</title></programme>
+<programme start="20250311021500 +0000" stop="20250311030000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F10</title></programme>
+<programme start="20250311030000 +0000" stop="20250311040000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos mÃ¡s importantes del deporte incluyendo resÃºmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20250311040000 +0000" stop="20250311050000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250311050000 +0000" stop="20250311060000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250311060000 +0000" stop="20250311070000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250311070000 +0000" stop="20250311080000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250311080000 +0000" stop="20250311090000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250311090000 +0000" stop="20250311100000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250311100000 +0000" stop="20250311130000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter AM</title></programme>
+<programme start="20250311130000 +0000" stop="20250311140000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos mÃ¡s importantes del deporte incluyendo resÃºmenes y marcadores.</desc><icon src="https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png"/></programme>
+<programme start="20250311140000 +0000" stop="20250311160000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F12</title></programme>
+<programme start="20250311160000 +0000" stop="20250311172500 +0000" channel="ESPN1SUR"><title lang="es">ESPN F90 Primera ediciÃ³n</title></programme>
+<programme start="20250311172500 +0000" stop="20250311194000 +0000" channel="ESPN1SUR"><title lang="es">FÃºtbol UEFA Champions League</title></programme>
+<programme start="20250311194000 +0000" stop="20250311215500 +0000" channel="ESPN1SUR"><title lang="es">FÃºtbol UEFA Champions League</title></programme>
+<programme start="20250311215500 +0000" stop="20250311233000 +0000" channel="ESPN1SUR"><title lang="es">Equipo F</title></programme>
 </tv>
