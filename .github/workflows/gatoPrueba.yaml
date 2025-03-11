@@ -42,11 +42,6 @@ jobs:
           npm install luxon
           npx epg-grabber --config=sites/gatotv.com/gatotv.com.config2.js --channels=sites/gatotv.com/gatotv.com.channels2.xml --output=gatotv2.com.xml --days=1 --timeout=30000
           #npx epg-grabber --config=sites/superguidatv.it/superguidatv.it.config.js --channels=sites/superguidatv.it/superguidatv.it.channels.xml --output=superguidatv.it.xml --days=3 --timeout=30000
-      - name: Dar permisos de ejecución al script
-        run: |
-          chmod +x .github/workflows/EPG_script.sh
-      - name: Ejecutar script
-        run: .github/workflows/EPG_script.sh
       - name: Commit & Push changes
         uses: actions-js/push@master
         #uses: stefanzweifel/git-auto-commit-action@v4
