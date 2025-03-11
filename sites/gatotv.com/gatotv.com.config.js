@@ -9,13 +9,21 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    date = ensureDateTime(date);
+    if (!(date instanceof DateTime)) {
+      date = DateTime.fromISO(date);
+    }
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`;
   },
-  parser({ content, date }) {
-    date = ensureDateTime(date);
-    console.log('Fecha recibida:', date.toISO());
-    console.log('HTML Hash:', getHash(content)); // Depuración
+  async parser({ content, date }) {
+    console.log('Fecha recibida:', date);
+    
+    if (!(date instanceof DateTime)) {
+      date = DateTime.fromISO(date);
+    }
+    console.log('Fecha convertida:', date.toISO());
+
+    const filteredContent = extractRelevantContent(content);
+    console.log('HTML Hash:', getHash(filteredContent)); // Depuración
     
     let programs = [];
     const items = parseItems(content);
@@ -49,7 +57,11 @@ module.exports = {
   },
   async channels() {
     const data = await axios
-      .get('https://www.gatotv.com/guia_tv/completa')
+      .get('https://www.gatotv.com/guia_tv/completa', {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+      })
       .then(response => response.data)
       .catch(console.log);
 
@@ -85,7 +97,10 @@ function parseImage($item) {
 }
 
 function parseStart($item, date) {
-  date = ensureDateTime(date);
+  if (!(date instanceof DateTime)) {
+    date = DateTime.fromISO(date);
+  }
+
   const time = $item('td:nth-child(1) > div > time').attr('datetime');
 
   return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
@@ -94,7 +109,10 @@ function parseStart($item, date) {
 }
 
 function parseStop($item, date) {
-  date = ensureDateTime(date);
+  if (!(date instanceof DateTime)) {
+    date = DateTime.fromISO(date);
+  }
+
   const time = $item('td:nth-child(2) > div > time').attr('datetime');
 
   return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
@@ -115,9 +133,7 @@ function getHash(content) {
   return crypto.createHash('md5').update(content).digest('hex');
 }
 
-function ensureDateTime(date) {
-  if (date instanceof DateTime) return date;
-  if (typeof date === 'string') return DateTime.fromISO(date);
-  if (date && date.$d) return DateTime.fromJSDate(date.$d);
-  return DateTime.now();
+function extractRelevantContent(html) {
+  const $ = cheerio.load(html);
+  return $('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected').toString();
 }
