@@ -83,17 +83,22 @@ function parseImage($item) {
 
 function parseStart($item, date) {
   const time = $item('td:nth-child(1) > div > time').attr('datetime');
-  return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  const parsedDate = DateTime.fromISO(date.toString()); // Convertir a DateTime si es necesario
+
+  return DateTime.fromFormat(`${parsedDate.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'America/New_York'
   }).setZone('UTC');
 }
 
 function parseStop($item, date) {
   const time = $item('td:nth-child(2) > div > time').attr('datetime');
-  return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  const parsedDate = DateTime.fromISO(date.toString());
+
+  return DateTime.fromFormat(`${parsedDate.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'America/New_York'
   }).setZone('UTC');
 }
+
 
 function parseItems(content) {
   const $ = cheerio.load(content);
