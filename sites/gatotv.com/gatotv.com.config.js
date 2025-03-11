@@ -135,3 +135,9 @@ function extractRelevantContent(html) {
   const $ = cheerio.load(html);
   return $('.tbl_EPG_row,.tbl_EPG_rowAlternate,.tbl_EPG_row_selected').toString();
 }
+
+function ensureDateTime(date) {
+  if (date instanceof DateTime) return date;
+  if (typeof date === 'string') return DateTime.fromISO(date);
+  if (date && date.$d) return DateTime.fromJSDate(date.$d);
+  return DateTime.now();
