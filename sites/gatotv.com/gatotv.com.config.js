@@ -9,14 +9,24 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
+    if (!(date instanceof DateTime)) {
+      date = DateTime.fromISO(date);
+    }
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`;
   },
   parser({ content, date }) {
+    console.log('Fecha recibida:', date);
+    
+    if (!(date instanceof DateTime)) {
+      date = DateTime.fromISO(date);
+    }
+    console.log('Fecha convertida:', date.toISO());
+
     console.log('HTML Hash:', getHash(content)); // Depuración
     
     let programs = [];
     const items = parseItems(content);
-    let fixedDate = date.minus({ days: 1 }); // Fecha base sin modificar `date`
+    let fixedDate = date.minus({ days: 1 });
     
     items.forEach((item, i) => {
       const $item = cheerio.load(item);
@@ -82,23 +92,28 @@ function parseImage($item) {
 }
 
 function parseStart($item, date) {
-  const time = $item('td:nth-child(1) > div > time').attr('datetime');
-  const parsedDate = DateTime.fromISO(date.toString()); // Convertir a DateTime si es necesario
+  if (!(date instanceof DateTime)) {
+    date = DateTime.fromISO(date);
+  }
 
-  return DateTime.fromFormat(`${parsedDate.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  const time = $item('td:nth-child(1) > div > time').attr('datetime');
+
+  return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'America/New_York'
   }).setZone('UTC');
 }
 
 function parseStop($item, date) {
-  const time = $item('td:nth-child(2) > div > time').attr('datetime');
-  const parsedDate = DateTime.fromISO(date.toString());
+  if (!(date instanceof DateTime)) {
+    date = DateTime.fromISO(date);
+  }
 
-  return DateTime.fromFormat(`${parsedDate.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
+  const time = $item('td:nth-child(2) > div > time').attr('datetime');
+
+  return DateTime.fromFormat(`${date.toFormat('yyyy-MM-dd')} ${time}`, 'yyyy-MM-dd HH:mm', {
     zone: 'America/New_York'
   }).setZone('UTC');
 }
-
 
 function parseItems(content) {
   const $ = cheerio.load(content);
