@@ -9,9 +9,7 @@ module.exports = {
   site: 'gatotv.com',
   days: 2,
   url({ channel, date }) {
-    if (!(date instanceof DateTime)) {
-      date = DateTime.fromISO(date);
-    }
+    date = ensureDateTime(date);
     return `https://www.gatotv.com/canal/${channel.site_id}/${date.toFormat('yyyy-MM-dd')}`;
   },
   async parser({ content, date }) {
