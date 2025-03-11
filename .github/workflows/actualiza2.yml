@@ -40,23 +40,6 @@ jobs:
           npm install @ntlab/sfetch
           npm install debug
           npm install luxon
-          #npx epg-grabber --config=sites/gatotv.com/gatotv.com.config.js --channels=sites/gatotv.com/gatotv.com.channels.xml --output=gatotv.com.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/superguidatv.it/superguidatv.it.config.js --channels=sites/superguidatv.it/superguidatv.it.channels.xml --output=superguidatv.it.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/nos.pt/nos.pt.config.js --channels=sites/nos.pt/nos.pt.channels.xml --output=nos.pt.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/sky.de/sky.de.config.js --channels=sites/sky.de/sky.de.channels.xml --output=sky.de.xml --days=3 --timeout=30000
-          #npx epg-grabber --config=sites/bt.com/bt.com.config.js --channels=sites/bt.com/bt.com.channels.xml --output=bt.com.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/player.ee.co.uk/player.ee.co.uk.config.js --channels=sites/player.ee.co.uk/player.ee.co.uk.channels.xml --output=bt.com.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/tvguide.com/tvguide.com.config.js --channels=sites/tvguide.com/tvguide.com.channels.xml --output=tvguide.com.xml --days=3 --timeout=30000
-          #npx epg-grabber --config=sites/directv.com/directv.com.config.js --channels=sites/directv.com/directv.com.channels.xml --output=directv.com.xml --days=3 --timeout=30000
-          #npx epg-grabber --config=sites/flixed.io/flixed.io.config.js --channels=sites/flixed.io/flixed.io.channels.xml --output=flixed.io.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/programtv.onet.pl/programtv.onet.pl.config.js --channels=sites/programtv.onet.pl/programtv.onet.pl.channels.xml --output=programtv.onet.pl.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/guidatv.sky.it/guidatv.sky.it.config.js --channels=sites/guidatv.sky.it/guidatv.sky.it.channels.xml --output=guidatv.sky.it.xml --days=3 --timeout=30000
-          #npx epg-grabber --config=sites/tvtv.us/tvtv.us.config.js --channels=sites/tvtv.us/tvtv.us.channels.xml --output=beinsports.com.xml --days=3 --timeout=30000
-          #npx epg-grabber --config=sites/beinsports.com/beinsports.com.config.js --channels=sites/beinsports.com/beinsports.com_us-en.channels.xml --output=beinsports.com.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/ziggogo.tv/ziggogo.tv.config.js --channels=sites/ziggogo.tv/ziggogo.tv.channels.xml --output=ziggogo.tv.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/programetv.ro/programetv.ro.config.js --channels=sites/programetv.ro/programetv.ro.channels.xml --output=programetv.ro.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/cablego.com.pe/cablego.com.pe.config.js --channels=sites/cablego.com.pe/cablego.com.pe.channels.xml --output=cablego.com.pe.xml --days=3 --timeout=30000
-          npx epg-grabber --config=sites/mi.tv/mi.tv.config.js --channels=sites/mi.tv/mi.tv_ar.channels.xml --output=mi.tv.xml --days=3 --timeout=30000
       - name: Dar permisos de ejecución al script
         run: |
           chmod +x .github/workflows/EPG_script.sh
