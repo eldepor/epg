@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site site="programtv.onet.pl">
   <channels>
-    <channel lang="pl" xmltv_id="ElevenSports1Poland.pl" site_id="eleven-208">Eleven Sports 1 Polska</channel>
-    <channel lang="pl" xmltv_id="ElevenSports2Poland.pl" site_id="eleven-sports-212">Eleven Sports 2 Polska</channel>
-    <channel lang="pl" xmltv_id="ElevenSports3Poland.pl" site_id="eleven-extra-531">Eleven Sports 3 Polska</channel>
-    <channel lang="pl" xmltv_id="ElevenSports4Poland.pl" site_id="eleven-sports-4-607">Eleven Sports 4 Polska</channel>
-    <channel lang="pl" xmltv_id="CanalPlusSport2Poland.pl" site_id="canal-sport-2-15">Canal + Sport 2 Polska</channel>
-    <channel lang="pl" xmltv_id="CanalPlusSport3Poland.pl" site_id="canal-sport-3-674">Canal + Sport 3 Polska</channel>
-    <channel lang="pl" xmltv_id="CanalPlusSport4Poland.pl" site_id="canal-sport-4-675">Canal + Sport 4 Polska</channel>
-    <channel lang="pl" xmltv_id="CanalPlusSportPoland.pl" site_id="canal-sport-14">Canal + Sport Polska</channel>
-    <channel lang="pl" xmltv_id="Eurosport1Poland.pl" site_id="eurosport-1-93">Eurosport 1 Polska</channel>
-    <channel lang="pl" xmltv_id="Eurosport2Poland.pl" site_id="eurosport-2-76">Eurosport 2 Polska</channel>
+    <channel lang="pl" xmltv_id="ElevenSports1Poland.pl" site_id="eleven-208">Eleven Sports 1 PL</channel>
+    <channel lang="pl" xmltv_id="ElevenSports2Poland.pl" site_id="eleven-sports-212">Eleven Sports 2 PL</channel>
+    <channel lang="pl" xmltv_id="ElevenSports3Poland.pl" site_id="eleven-extra-531">Eleven Sports 3 PL</channel>
+    <channel lang="pl" xmltv_id="ElevenSports4Poland.pl" site_id="eleven-sports-4-607">Eleven Sports 4 PL</channel>
+    <channel lang="pl" xmltv_id="CanalPlusSport2Poland.pl" site_id="canal-sport-2-15">Canal + Sport 2</channel>
+    <channel lang="pl" xmltv_id="CanalPlusSport3Poland.pl" site_id="canal-sport-3-674">Canal + Sport 3</channel>
+    <channel lang="pl" xmltv_id="CanalPlusSport4Poland.pl" site_id="canal-sport-4-675">Canal + Sport 4</channel>
+    <channel lang="pl" xmltv_id="CanalPlusSport5Poland.pl" site_id="nsport-hd-17">CANAL+ Sport 5</channel>
+    <channel lang="pl" xmltv_id="CanalPlusSportPoland.pl" site_id="canal-sport-14">Canal + Sport</channel>
+    <channel lang="pl" xmltv_id="Eurosport1Poland.pl" site_id="eurosport-1-93">Eurosport 1 PL</channel>
+    <channel lang="pl" xmltv_id="Eurosport2Poland.pl" site_id="eurosport-2-76">Eurosport 2 PL</channel>
   </channels>
 </site>
