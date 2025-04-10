@@ -58,7 +58,7 @@ jobs:
           #npx epg-grabber --config=sites/programetv.ro/programetv.ro.config.js --channels=sites/programetv.ro/programetv.ro.channels.xml --output=programetv.ro.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/cablego.com.pe/cablego.com.pe.config.js --channels=sites/cablego.com.pe/cablego.com.pe.channels.xml --output=cablego.com.pe.xml --days=3 --timeout=30000
           #npx epg-grabber --config=sites/mi.tv/mi.tv.config.js --channels=sites/mi.tv/mi.tv_ar.channels.xml --output=mi.tv.xml --days=3 --timeout=30000
-		  npx epg-grabber --config=sites/sky.com/sky.com.config.js --channels=sites/sky.com/sky.com.channels.xml --output=sky.com.xml --days=3 --timeout=30000
+          npx epg-grabber --config=sites/sky.com/sky.com.config.js --channels=sites/sky.com/sky.com.channels.xml --output=sky.com.xml --days=3 --timeout=30000
       - name: Dar permisos de ejecución al script
         run: |
           chmod +x .github/workflows/EPG_script.sh
