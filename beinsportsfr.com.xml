@@ -1,19 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20250426">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250427">
 <channel id="beINSportsMax6.fr"><display-name>beIN SPORTS MAX 6 FR</display-name><url>https://beinsports.com</url></channel>
 <channel id="beINSportsMax7.fr"><display-name>beIN SPORTS MAX 7 FR</display-name><url>https://beinsports.com</url></channel>
 <channel id="beINSportsMax8.fr"><display-name>beIN SPORTS MAX 8 FR</display-name><url>https://beinsports.com</url></channel>
 <channel id="beINSportsMax9.fr"><display-name>beIN SPORTS MAX 9 FR</display-name><url>https://beinsports.com</url></channel>
 <channel id="beINSportsMax10.fr"><display-name>beIN SPORTS MAX 10 FR</display-name><url>https://beinsports.com</url></channel>
-<programme start="20250426030000 +0000" stop="20250426070000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426070000 +0000" stop="20250426132500 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426132500 +0000" stop="20250426153000 +0000" channel="beINSportsMax6.fr"><title lang="fr">Football : Bundesliga - Wolfsburg / Fribourg</title></programme>
-<programme start="20250426153000 +0000" stop="20250426155500 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426155500 +0000" stop="20250426180000 +0000" channel="beINSportsMax6.fr"><title lang="fr">Football : Süper Lig - Gaziantep / Fenerbahçe</title></programme>
-<programme start="20250426180000 +0000" stop="20250426192500 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426192500 +0000" stop="20250426213000 +0000" channel="beINSportsMax6.fr"><title lang="fr">Football : Championnat du Portugal - Estrela Amadora / FC Porto</title></programme>
-<programme start="20250426213000 +0000" stop="20250426230000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250426230000 +0000" stop="20250427020000 +0000" channel="beINSportsMax6.fr"><title lang="fr">Hockey sur glace : NHL - Ottawa Senators / Toronto Maple Leafs</title></programme>
-<programme start="20250427020000 +0000" stop="20250427030000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427030000 +0000" stop="20250427070000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427070000 +0000" stop="20250427125500 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427125500 +0000" stop="20250427150000 +0000" channel="beINSportsMax6.fr"><title lang="fr">Football : Süper Lig - Trabzonspor / Alanyaspor</title></programme>
@@ -30,14 +21,13 @@
 <programme start="20250428150000 +0000" stop="20250428190000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428190000 +0000" stop="20250428230000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428230000 +0000" stop="20250429013000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250425230000 +0000" stop="20250426030000 +0000" channel="beINSportsMax7.fr"><title lang="fr">NFL Draft</title><desc lang="fr">2e tour</desc></programme>
-<programme start="20250426030000 +0000" stop="20250426070000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426070000 +0000" stop="20250426110000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426110000 +0000" stop="20250426132500 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426132500 +0000" stop="20250426153000 +0000" channel="beINSportsMax7.fr"><title lang="fr">Football : Bundesliga - Holstein Kiel / Mönchengladbach</title></programme>
-<programme start="20250426153000 +0000" stop="20250426161000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426161000 +0000" stop="20250426181500 +0000" channel="beINSportsMax7.fr"><title lang="fr">Football : Coupe d&apos;Angleterre - Crystal Palace / Aston Villa</title></programme>
-<programme start="20250426181500 +0000" stop="20250426230000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429013000 +0000" stop="20250429043000 +0000" channel="beINSportsMax6.fr"><title lang="fr">Hockey sur glace : NHL - Dallas Stars / Colorado Avalanche</title></programme>
+<programme start="20250429043000 +0000" stop="20250429070000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429070000 +0000" stop="20250429110000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429110000 +0000" stop="20250429150000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429150000 +0000" stop="20250429190000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429190000 +0000" stop="20250429230000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429230000 +0000" stop="20250430030000 +0000" channel="beINSportsMax6.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250426230000 +0000" stop="20250427030000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427030000 +0000" stop="20250427141000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427141000 +0000" stop="20250427161500 +0000" channel="beINSportsMax7.fr"><title lang="fr">Football : Liga - Villarreal / Espanyol Barcelone</title></programme>
@@ -50,16 +40,12 @@
 <programme start="20250428150000 +0000" stop="20250428190000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428190000 +0000" stop="20250428230000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428230000 +0000" stop="20250429030000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250425230000 +0000" stop="20250426020000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426020000 +0000" stop="20250426050000 +0000" channel="beINSportsMax8.fr"><title lang="fr">Baseball : MLB - Los Angeles Dodgers / Pittsburgh Pirates</title></programme>
-<programme start="20250426050000 +0000" stop="20250426070000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426070000 +0000" stop="20250426112500 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426112500 +0000" stop="20250426133000 +0000" channel="beINSportsMax8.fr"><title lang="fr">Football : EFL Championship - Luton Town / Coventry City</title></programme>
-<programme start="20250426133000 +0000" stop="20250426135500 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426135500 +0000" stop="20250426160000 +0000" channel="beINSportsMax8.fr"><title lang="fr">Football : EFL Championship - Oxford United / Sunderland</title></programme>
-<programme start="20250426160000 +0000" stop="20250426162500 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426162500 +0000" stop="20250426183000 +0000" channel="beINSportsMax8.fr"><title lang="fr">Football : League One - Wrexham AFC / Charlton Athletic</title></programme>
-<programme start="20250426183000 +0000" stop="20250426230000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429030000 +0000" stop="20250429070000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429070000 +0000" stop="20250429110000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429110000 +0000" stop="20250429150000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429150000 +0000" stop="20250429190000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429190000 +0000" stop="20250429230000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429230000 +0000" stop="20250430030000 +0000" channel="beINSportsMax7.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250426230000 +0000" stop="20250427030000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427030000 +0000" stop="20250427070000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427070000 +0000" stop="20250427090000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
@@ -71,11 +57,12 @@
 <programme start="20250428150000 +0000" stop="20250428190000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428190000 +0000" stop="20250428230000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428230000 +0000" stop="20250429030000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250425230000 +0000" stop="20250426020000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426050000 +0000" stop="20250426070000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426070000 +0000" stop="20250426090000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426090000 +0000" stop="20250426170000 +0000" channel="beINSportsMax9.fr"><title lang="fr">Tennis : Tournoi WTA de Madrid</title></programme>
-<programme start="20250426170000 +0000" stop="20250426223000 +0000" channel="beINSportsMax9.fr"><title lang="fr">Tennis : Tournoi WTA de Madrid</title></programme>
+<programme start="20250429030000 +0000" stop="20250429070000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429070000 +0000" stop="20250429110000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429110000 +0000" stop="20250429150000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429150000 +0000" stop="20250429190000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429190000 +0000" stop="20250429230000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429230000 +0000" stop="20250430030000 +0000" channel="beINSportsMax8.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250426223000 +0000" stop="20250427030000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427030000 +0000" stop="20250427070000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427070000 +0000" stop="20250427110000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
@@ -89,13 +76,12 @@
 <programme start="20250428150000 +0000" stop="20250428190000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428190000 +0000" stop="20250428230000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428230000 +0000" stop="20250429030000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250425230000 +0000" stop="20250426030000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426030000 +0000" stop="20250426070000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426070000 +0000" stop="20250426133000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426133000 +0000" stop="20250426160000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426160000 +0000" stop="20250426170000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
-<programme start="20250426170000 +0000" stop="20250426200000 +0000" channel="beINSportsMax10.fr"><title lang="fr">Hockey sur glace : NHL - Florida Panthers / Tampa Bay Lightning</title></programme>
-<programme start="20250426200000 +0000" stop="20250426230000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429030000 +0000" stop="20250429070000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429070000 +0000" stop="20250429110000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429110000 +0000" stop="20250429150000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429150000 +0000" stop="20250429190000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429190000 +0000" stop="20250429230000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429230000 +0000" stop="20250430030000 +0000" channel="beINSportsMax9.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250426230000 +0000" stop="20250427030000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427030000 +0000" stop="20250427070000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250427070000 +0000" stop="20250427110000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
@@ -109,4 +95,10 @@
 <programme start="20250428150000 +0000" stop="20250428190000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428190000 +0000" stop="20250428230000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 <programme start="20250428230000 +0000" stop="20250429030000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429030000 +0000" stop="20250429070000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429070000 +0000" stop="20250429110000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429110000 +0000" stop="20250429150000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429150000 +0000" stop="20250429190000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429190000 +0000" stop="20250429230000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
+<programme start="20250429230000 +0000" stop="20250430030000 +0000" channel="beINSportsMax10.fr"><title lang="fr">beIN SPORTS, le plus grand des spectacles</title></programme>
 </tv>
