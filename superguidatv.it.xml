@@ -1,28 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20250430">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250501">
 <channel id="SkySportArena.it"><display-name>Sky Sport Arena</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportUno.it"><display-name>Sky Sport Uno</display-name><url>https://superguidatv.it</url></channel>
 <channel id="SkySportNBA.it"><display-name>Sky Sport NBA</display-name><url>https://superguidatv.it</url></channel>
-<programme start="20250430020000 +0000" stop="20250430040000 +0000" channel="SkySportArena.it"><title lang="it">Milano Marathon 2025</title><category lang="it">Sport</category></programme>
-<programme start="20250430040000 +0000" stop="20250430044500 +0000" channel="SkySportArena.it"><title lang="it">4 Amici Al Box (St. 1 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430044500 +0000" stop="20250430053000 +0000" channel="SkySportArena.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250430053000 +0000" stop="20250430060000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 38)</title><category lang="it">Sport</category></programme>
-<programme start="20250430060000 +0000" stop="20250430074500 +0000" channel="SkySportArena.it"><title lang="it">Super Rugby (St. 2025 - Ep. 11)</title><category lang="it">Sport</category></programme>
-<programme start="20250430074500 +0000" stop="20250430080000 +0000" channel="SkySportArena.it"><title lang="it">Six Nations Highlights (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430080000 +0000" stop="20250430100000 +0000" channel="SkySportArena.it"><title lang="it">Milano Marathon 2025</title><category lang="it">Sport</category></programme>
-<programme start="20250430100000 +0000" stop="20250430115500 +0000" channel="SkySportArena.it"><title lang="it">Premier Padel (St. 2025 - Ep. 40)</title><category lang="it">Sport</category></programme>
-<programme start="20250430115500 +0000" stop="20250430141000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 150)</title><category lang="it">Sport</category></programme>
-<programme start="20250430141000 +0000" stop="20250430144000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 38)</title><category lang="it">Sport</category></programme>
-<programme start="20250430144000 +0000" stop="20250430163000 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 33)</title><category lang="it">Sport</category></programme>
-<programme start="20250430163000 +0000" stop="20250430170000 +0000" channel="SkySportArena.it"><title lang="it">Laureus Spirit of Sport (St. 2024 - Ep. 6)</title><category lang="it">Sport</category></programme>
-<programme start="20250430170000 +0000" stop="20250430174000 +0000" channel="SkySportArena.it"><title lang="it">4 Amici Al Box (St. 1 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430174000 +0000" stop="20250430194500 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 152)</title><category lang="it">Sport</category></programme>
-<programme start="20250430194500 +0000" stop="20250430201500 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 38)</title><category lang="it">Sport</category></programme>
-<programme start="20250430201500 +0000" stop="20250430203000 +0000" channel="SkySportArena.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430203000 +0000" stop="20250430204500 +0000" channel="SkySportArena.it"><title lang="it">Serie A (St. 2024 - Ep. 107)</title><category lang="it">Sport</category></programme>
-<programme start="20250430204500 +0000" stop="20250430213000 +0000" channel="SkySportArena.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250430213000 +0000" stop="20250430231500 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 175)</title><category lang="it">Sport</category></programme>
-<programme start="20250430231500 +0000" stop="20250430234500 +0000" channel="SkySportArena.it"><title lang="it">Racing on the Edge (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20250430234500 +0000" stop="20250501014000 +0000" channel="SkySportArena.it"><title lang="it">Six Nations (St. 2025 - Ep. 13)</title><category lang="it">Sport</category></programme>
 <programme start="20250501014000 +0000" stop="20250501040000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega (St. 2024 - Ep. 150)</title><category lang="it">Sport</category></programme>
 <programme start="20250501040000 +0000" stop="20250501043000 +0000" channel="SkySportArena.it"><title lang="it">Sky Sport Doctor (St. 2025 - Ep. 2)</title><category lang="it">Sport</category></programme>
 <programme start="20250501043000 +0000" stop="20250501052000 +0000" channel="SkySportArena.it"><title lang="it">Federico Buffa Talks (St. 1 - Ep. 22)</title><category lang="it">Sport</category></programme>
@@ -66,37 +45,41 @@
 <programme start="20250503000500 +0000" stop="20250503020000 +0000" channel="SkySportArena.it"><title lang="it">United Rugby Championship (St. 2024 - Ep. 32)</title><category lang="it">Sport</category></programme>
 <programme start="20250503020000 +0000" stop="20250503040000 +0000" channel="SkySportArena.it"><title lang="it">IAAF Diamond League (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
 <programme start="20250503040000 +0000" stop="20250503043000 +0000" channel="SkySportArena.it"><title lang="it">Sky Sport Doctor (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20250430020000 +0000" stop="20250430045000 +0000" channel="SkySportUno.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430045000 +0000" stop="20250430055000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa e Conference League Magazine (St. 2024 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20250430055000 +0000" stop="20250430064000 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250430064000 +0000" stop="20250430082500 +0000" channel="SkySportUno.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 175)</title><category lang="it">Sport</category></programme>
-<programme start="20250430082500 +0000" stop="20250430092500 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa e Conference League Magazine (St. 2024 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20250430092500 +0000" stop="20250430101500 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250430101500 +0000" stop="20250430110000 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430110000 +0000" stop="20250430130000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: WTA 1000 Madrid (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20250430130000 +0000" stop="20250430140000 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250430140000 +0000" stop="20250430152500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP &amp; WTA 1000 Madrid (St. 2025 - Ep. 9)</title><category lang="it">Sport</category></programme>
-<programme start="20250430152500 +0000" stop="20250430161000 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250430161000 +0000" stop="20250430164000 +0000" channel="SkySportUno.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430164000 +0000" stop="20250430165500 +0000" channel="SkySportUno.it"><title lang="it">B-Side (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430165500 +0000" stop="20250430171500 +0000" channel="SkySportUno.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430171500 +0000" stop="20250430180000 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430180000 +0000" stop="20250430200000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: WTA 1000 Madrid (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20250430200000 +0000" stop="20250430220000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP &amp; WTA 1000 Madrid (St. 2025 - Ep. 9)</title><category lang="it">Sport</category></programme>
-<programme start="20250430220000 +0000" stop="20250501002000 +0000" channel="SkySportUno.it"><title lang="it">Premier Padel (St. 2025 - Ep. 41)</title><category lang="it">Sport</category></programme>
-<programme start="20250501002000 +0000" stop="20250501020000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: WTA 1000 Madrid (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
-<programme start="20250501020000 +0000" stop="20250501023000 +0000" channel="SkySportUno.it"><title lang="it">NBA (St. 2024 - Ep. 312)</title><category lang="it">Sport</category></programme>
+<programme start="20250503043000 +0000" stop="20250503050000 +0000" channel="SkySportArena.it"><title lang="it">Racing on the Edge (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20250503050000 +0000" stop="20250503070000 +0000" channel="SkySportArena.it"><title lang="it">Six Nations (St. 2025 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20250503070000 +0000" stop="20250503085500 +0000" channel="SkySportArena.it"><title lang="it">Super Rugby (St. 2025 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20250503085500 +0000" stop="20250503091500 +0000" channel="SkySportArena.it"><title lang="it">Six Nations Highlights (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20250503091500 +0000" stop="20250503094000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 38)</title><category lang="it">Sport</category></programme>
+<programme start="20250503094000 +0000" stop="20250503101000 +0000" channel="SkySportArena.it"><title lang="it">Racing on the Edge (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20250503101000 +0000" stop="20250503110000 +0000" channel="SkySportArena.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20250503110000 +0000" stop="20250503125500 +0000" channel="SkySportArena.it"><title lang="it">IAAF Diamond League (St. 2025 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20250503125500 +0000" stop="20250503132500 +0000" channel="SkySportArena.it"><title lang="it">UEFA Champions League (St. 2024 - Ep. 17)</title><category lang="it">Sport</category></programme>
+<programme start="20250503132500 +0000" stop="20250503153000 +0000" channel="SkySportArena.it"><title lang="it">Bundesliga (St. 2024 - Ep. 169)</title><category lang="it">Sport</category></programme>
+<programme start="20250503153000 +0000" stop="20250503154500 +0000" channel="SkySportArena.it"><title lang="it">UEFA Europa Conference League (St. 2024 - Ep. 29)</title><category lang="it">Sport</category></programme>
+<programme start="20250503154500 +0000" stop="20250503155500 +0000" channel="SkySportArena.it"><title lang="it">Highlights Calcio</title><category lang="it">Sport</category></programme>
+<programme start="20250503155500 +0000" stop="20250503180000 +0000" channel="SkySportArena.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 50)</title><category lang="it">Sport</category></programme>
+<programme start="20250503180000 +0000" stop="20250503195500 +0000" channel="SkySportArena.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 49)</title><category lang="it">Sport</category></programme>
+<programme start="20250503195500 +0000" stop="20250503201000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 29)</title><category lang="it">Sport</category></programme>
+<programme start="20250503201000 +0000" stop="20250503204000 +0000" channel="SkySportArena.it"><title lang="it">Racing on the Edge (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20250503204000 +0000" stop="20250503223000 +0000" channel="SkySportArena.it"><title lang="it">Serie A (St. 2024 - Ep. 109)</title><category lang="it">Sport</category></programme>
+<programme start="20250503223000 +0000" stop="20250503231500 +0000" channel="SkySportArena.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20250503231500 +0000" stop="20250503233000 +0000" channel="SkySportArena.it"><title lang="it">Eurolega Mixtape (St. 2024 - Ep. 29)</title><category lang="it">Sport</category></programme>
+<programme start="20250503233000 +0000" stop="20250504000500 +0000" channel="SkySportArena.it"><title lang="it">The Boat Show (St. 2025 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20250504000500 +0000" stop="20250504020000 +0000" channel="SkySportArena.it"><title lang="it">Six Nations (St. 2025 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20250504020000 +0000" stop="20250504040000 +0000" channel="SkySportArena.it"><title lang="it">Eurocup (St. 2024 - Ep. 42)</title><category lang="it">Sport</category></programme>
+<programme start="20250504040000 +0000" stop="20250504043000 +0000" channel="SkySportArena.it"><title lang="it">Icarus Ultra (St. 2024 - Ep. 38)</title><category lang="it">Sport</category></programme>
+<programme start="20250501020000 +0000" stop="20250501050000 +0000" channel="SkySportUno.it"><title lang="it">NBA (St. 2024 - Ep. 312)</title><category lang="it">Sport</category></programme>
 <programme start="20250501050000 +0000" stop="20250501054500 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
 <programme start="20250501054500 +0000" stop="20250501060500 +0000" channel="SkySportUno.it"><title lang="it">B-Side (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
 <programme start="20250501060500 +0000" stop="20250501075500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP &amp; WTA 1000 Madrid (St. 2025 - Ep. 9)</title><category lang="it">Sport</category></programme>
 <programme start="20250501075500 +0000" stop="20250501084000 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250501084000 +0000" stop="20250501093000 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250501093000 +0000" stop="20250501094500 +0000" channel="SkySportUno.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20250501084000 +0000" stop="20250501092500 +0000" channel="SkySportUno.it"><title lang="it">L&apos;uomo della Domenica (St. 3 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20250501092500 +0000" stop="20250501094500 +0000" channel="SkySportUno.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
 <programme start="20250501094500 +0000" stop="20250501100000 +0000" channel="SkySportUno.it"><title lang="it">B-Side (St. 2024 - Ep. 5)</title><category lang="it">Sport</category></programme>
 <programme start="20250501100000 +0000" stop="20250501110000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa e Conference League Magazine (St. 2024 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20250501110000 +0000" stop="20250501140000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
-<programme start="20250501140000 +0000" stop="20250501164500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 2)</title><category lang="it">Sport</category></programme>
-<programme start="20250501164500 +0000" stop="20250501170000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20250501110000 +0000" stop="20250501130000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 1)</title><category lang="it">Sport</category></programme>
+<programme start="20250501130000 +0000" stop="20250501150000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 2)</title><category lang="it">Sport</category></programme>
+<programme start="20250501150000 +0000" stop="20250501170000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 3)</title><category lang="it">Sport</category></programme>
 <programme start="20250501170000 +0000" stop="20250501180000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa e Conference League Magazine (St. 2024 - Ep. 18)</title><category lang="it">Sport</category></programme>
 <programme start="20250501180000 +0000" stop="20250501185500 +0000" channel="SkySportUno.it"><title lang="it">Europa e Conference League Prepartita</title><category lang="it">Sport</category></programme>
 <programme start="20250501185500 +0000" stop="20250501210000 +0000" channel="SkySportUno.it"><title lang="it">UEFA Europa Conference League (St. 2024 - Ep. 29)</title><category lang="it">Sport</category></programme>
@@ -131,32 +114,33 @@
 <programme start="20250503013000 +0000" stop="20250503020000 +0000" channel="SkySportUno.it"><title lang="it">Tennis History Remix (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
 <programme start="20250503020000 +0000" stop="20250503040000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 6)</title><category lang="it">Sport</category></programme>
 <programme start="20250503040000 +0000" stop="20250503043000 +0000" channel="SkySportUno.it"><title lang="it">Tennis: ATP 1000 Madrid (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
-<programme start="20250430030000 +0000" stop="20250430050000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430050000 +0000" stop="20250430083000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
-<programme start="20250430083000 +0000" stop="20250430084500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20250430084500 +0000" stop="20250430091500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 310)</title><category lang="it">Sport</category></programme>
-<programme start="20250430091500 +0000" stop="20250430093000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20250430093000 +0000" stop="20250430112500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430112500 +0000" stop="20250430113500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 9)</title><category lang="it">Sport</category></programme>
-<programme start="20250430113500 +0000" stop="20250430115500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 7)</title><category lang="it">Sport</category></programme>
-<programme start="20250430115500 +0000" stop="20250430140000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430140000 +0000" stop="20250430143000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 310)</title><category lang="it">Sport</category></programme>
-<programme start="20250430143000 +0000" stop="20250430150000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430150000 +0000" stop="20250430154500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Special (St. 2020 - Ep. 18)</title><category lang="it">Sport</category></programme>
-<programme start="20250430154500 +0000" stop="20250430160000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 3)</title><category lang="it">Sport</category></programme>
-<programme start="20250430160000 +0000" stop="20250430161500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430161500 +0000" stop="20250430164500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430164500 +0000" stop="20250430170000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430170000 +0000" stop="20250430190000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430190000 +0000" stop="20250430191500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430191500 +0000" stop="20250430194500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430194500 +0000" stop="20250430200000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430200000 +0000" stop="20250430215500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430215500 +0000" stop="20250430221500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430221500 +0000" stop="20250430224500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 311)</title><category lang="it">Sport</category></programme>
-<programme start="20250430224500 +0000" stop="20250430230000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
-<programme start="20250430230000 +0000" stop="20250501000000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
-<programme start="20250501000000 +0000" stop="20250501003000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 312)</title><category lang="it">Sport</category></programme>
+<programme start="20250503060000 +0000" stop="20250503070000 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20250503070000 +0000" stop="20250503090000 +0000" channel="SkySportUno.it"><title lang="it">Super Rugby (St. 2025 - Ep. 12)</title><category lang="it">Sport</category></programme>
+<programme start="20250503090000 +0000" stop="20250503094500 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20250503094500 +0000" stop="20250503114000 +0000" channel="SkySportUno.it"><title lang="it">NBA (St. 2024 - Ep. 319)</title><category lang="it">Sport</category></programme>
+<programme start="20250503114000 +0000" stop="20250503120000 +0000" channel="SkySportUno.it"><title lang="it">Pre/Post Superbike (St. 2025 - Ep. 13)</title><category lang="it">Sport</category></programme>
+<programme start="20250503120000 +0000" stop="20250503123500 +0000" channel="SkySportUno.it"><title lang="it">WorldSBK (St. 2025 - Ep. 39)</title><category lang="it">Sport</category></programme>
+<programme start="20250503123500 +0000" stop="20250503124500 +0000" channel="SkySportUno.it"><title lang="it">Pre/Post Superbike (St. 2025 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20250503124500 +0000" stop="20250503125500 +0000" channel="SkySportUno.it"><title lang="it">Highlights Calcio Internazionale</title><category lang="it">Sport</category></programme>
+<programme start="20250503125500 +0000" stop="20250503145500 +0000" channel="SkySportUno.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 49)</title><category lang="it">Sport</category></programme>
+<programme start="20250503145500 +0000" stop="20250503151500 +0000" channel="SkySportUno.it"><title lang="it">Aspettando il GP (St. 2025 - Ep. 6)</title><category lang="it">Sport</category></programme>
+<programme start="20250503151500 +0000" stop="20250503155500 +0000" channel="SkySportUno.it"><title lang="it">F1 Paddock Live Pre Sprint</title><category lang="it">Sport</category></programme>
+<programme start="20250503155500 +0000" stop="20250503170000 +0000" channel="SkySportUno.it"><title lang="it">F1 (St. 2025 - Ep. 28)</title><category lang="it">Sport</category></programme>
+<programme start="20250503170000 +0000" stop="20250503173000 +0000" channel="SkySportUno.it"><title lang="it">F1 Paddock Live Post Sprint</title><category lang="it">Sport</category></programme>
+<programme start="20250503173000 +0000" stop="20250503183000 +0000" channel="SkySportUno.it"><title lang="it">F1 (St. 2025 - Ep. 28)</title><category lang="it">Sport</category></programme>
+<programme start="20250503183000 +0000" stop="20250503184000 +0000" channel="SkySportUno.it"><title lang="it">Highlights UCL</title><category lang="it">Sport</category></programme>
+<programme start="20250503184000 +0000" stop="20250503204500 +0000" channel="SkySportUno.it"><title lang="it">Serie A (St. 2024 - Ep. 109)</title><category lang="it">Sport</category></programme>
+<programme start="20250503204500 +0000" stop="20250503212000 +0000" channel="SkySportUno.it"><title lang="it">F1 (St. 2025 - Ep. 29)</title><category lang="it">Sport</category></programme>
+<programme start="20250503212000 +0000" stop="20250503214500 +0000" channel="SkySportUno.it"><title lang="it">F1 Paddock Live Post Qualifiche</title><category lang="it">Sport</category></programme>
+<programme start="20250503214500 +0000" stop="20250503221500 +0000" channel="SkySportUno.it"><title lang="it">Paddock Live Show - Fred Vasseur</title><category lang="it">Sport</category></programme>
+<programme start="20250503221500 +0000" stop="20250503230000 +0000" channel="SkySportUno.it"><title lang="it">Sky Tennis Club (St. 2025 - Ep. 5)</title><category lang="it">Sport</category></programme>
+<programme start="20250503230000 +0000" stop="20250504004500 +0000" channel="SkySportUno.it"><title lang="it">Tennis: WTA 1000 Madrid (St. 2025 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20250504004500 +0000" stop="20250504010000 +0000" channel="SkySportUno.it"><title lang="it">Sport Dataroom (St. 2024 - Ep. 100)</title><category lang="it">Sport</category></programme>
+<programme start="20250504010000 +0000" stop="20250504013000 +0000" channel="SkySportUno.it"><title lang="it">The Boat Show (St. 2025 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20250504013000 +0000" stop="20250504032500 +0000" channel="SkySportUno.it"><title lang="it">Volley CEV Champions League (St. 2024 - Ep. 49)</title><category lang="it">Sport</category></programme>
+<programme start="20250504032500 +0000" stop="20250504040000 +0000" channel="SkySportUno.it"><title lang="it">The Boat Show (St. 2025 - Ep. 14)</title><category lang="it">Sport</category></programme>
+<programme start="20250504040000 +0000" stop="20250504043000 +0000" channel="SkySportUno.it"><title lang="it">Racing on the Edge (St. 2025 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20250501020000 +0000" stop="20250501050000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 312)</title><category lang="it">Sport</category></programme>
 <programme start="20250501050000 +0000" stop="20250501080000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
 <programme start="20250501080000 +0000" stop="20250501081500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 8)</title><category lang="it">Sport</category></programme>
 <programme start="20250501081500 +0000" stop="20250501084500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 310)</title><category lang="it">Sport</category></programme>
@@ -208,4 +192,25 @@
 <programme start="20250502224000 +0000" stop="20250502230000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 10)</title><category lang="it">Sport</category></programme>
 <programme start="20250502230000 +0000" stop="20250503040000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
 <programme start="20250503040000 +0000" stop="20250503043000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
+<programme start="20250503090000 +0000" stop="20250503091500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 10)</title><category lang="it">Sport</category></programme>
+<programme start="20250503091500 +0000" stop="20250503094500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 28)</title><category lang="it">Sport</category></programme>
+<programme start="20250503094500 +0000" stop="20250503101500 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 313)</title><category lang="it">Sport</category></programme>
+<programme start="20250503101500 +0000" stop="20250503103000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 10)</title><category lang="it">Sport</category></programme>
+<programme start="20250503103000 +0000" stop="20250503104000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 7)</title><category lang="it">Sport</category></programme>
+<programme start="20250503104000 +0000" stop="20250503113000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Special (St. 2020 - Ep. 18)</title><category lang="it">Sport</category></programme>
+<programme start="20250503113000 +0000" stop="20250503114500 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 8)</title><category lang="it">Sport</category></programme>
+<programme start="20250503114500 +0000" stop="20250503120000 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 10)</title><category lang="it">Sport</category></programme>
+<programme start="20250503120000 +0000" stop="20250503123000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 28)</title><category lang="it">Sport</category></programme>
+<programme start="20250503123000 +0000" stop="20250503130000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 313)</title><category lang="it">Sport</category></programme>
+<programme start="20250503130000 +0000" stop="20250503150000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
+<programme start="20250503150000 +0000" stop="20250503153000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 28)</title><category lang="it">Sport</category></programme>
+<programme start="20250503153000 +0000" stop="20250503162500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Special (St. 2018 - Ep. 3)</title><category lang="it">Sport</category></programme>
+<programme start="20250503162500 +0000" stop="20250503170000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 313)</title><category lang="it">Sport</category></programme>
+<programme start="20250503170000 +0000" stop="20250503200000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 314)</title><category lang="it">Sport</category></programme>
+<programme start="20250503200000 +0000" stop="20250503201500 +0000" channel="SkySportNBA.it"><title lang="it">Basket Room Speciale Playoffs (St. 2025 - Ep. 10)</title><category lang="it">Sport</category></programme>
+<programme start="20250503201500 +0000" stop="20250503204500 +0000" channel="SkySportNBA.it"><title lang="it">NBA Action (St. 2024 - Ep. 28)</title><category lang="it">Sport</category></programme>
+<programme start="20250503204500 +0000" stop="20250503210000 +0000" channel="SkySportNBA.it"><title lang="it">ABC: l&apos;alfabeto della NBA (St. 2024 - Ep. 4)</title><category lang="it">Sport</category></programme>
+<programme start="20250503210000 +0000" stop="20250503230000 +0000" channel="SkySportNBA.it"><title lang="it">NBA (St. 2024 - Ep. 314)</title><category lang="it">Sport</category></programme>
+<programme start="20250503230000 +0000" stop="20250504040000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
+<programme start="20250504040000 +0000" stop="20250504043000 +0000" channel="SkySportNBA.it"><title lang="it">NBA Tv</title><category lang="it">Sport</category></programme>
 </tv>
