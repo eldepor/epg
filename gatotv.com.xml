@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20250505">
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250506">
 <channel id="ESPN1SUR"><display-name>ESPN</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN2COL"><display-name>ESPN 2</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN3SUR"><display-name>ESPN 3</display-name><url>https://gatotv.com</url></channel>
@@ -7,20 +7,6 @@
 <channel id="ESPN6SUR"><display-name>ESPN 6</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN7SUR"><display-name>ESPN 7</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPNPremium"><display-name>ESPN Premium</display-name><url>https://gatotv.com</url></channel>
-<programme start="20250504205500 +0000" stop="20250505012500 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505012500 +0000" stop="20250505033000 +0000" channel="ESPN1SUR"><title lang="es">ESPN Fútbol 1</title></programme>
-<programme start="20250505033000 +0000" stop="20250505053000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505053000 +0000" stop="20250505073000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505073000 +0000" stop="20250505080000 +0000" channel="ESPN1SUR"><title lang="es">UEFA Champions League Magazine</title></programme>
-<programme start="20250505080000 +0000" stop="20250505100000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505100000 +0000" stop="20250505130000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505130000 +0000" stop="20250505140000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505140000 +0000" stop="20250505160000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F12</title></programme>
-<programme start="20250505160000 +0000" stop="20250505180000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F90 Primera edición</title></programme>
-<programme start="20250505180000 +0000" stop="20250505193000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F3</title></programme>
-<programme start="20250505193000 +0000" stop="20250505200000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250505200000 +0000" stop="20250505210000 +0000" channel="ESPN1SUR"><title lang="es">Generación F</title></programme>
-<programme start="20250505210000 +0000" stop="20250505220000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F360</title></programme>
 <programme start="20250505220000 +0000" stop="20250505233000 +0000" channel="ESPN1SUR"><title lang="es">Equipo F</title></programme>
 <programme start="20250505233000 +0000" stop="20250506020000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250506020000 +0000" stop="20250506030000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F10</title></programme>
@@ -55,23 +41,22 @@
 <programme start="20250507183000 +0000" stop="20250507205500 +0000" channel="ESPN1SUR"><title lang="es">Fútbol UEFA Champions League</title></programme>
 <programme start="20250507205500 +0000" stop="20250507214500 +0000" channel="ESPN1SUR"><title lang="es">ESPN F360</title></programme>
 <programme start="20250507214500 +0000" stop="20250507235500 +0000" channel="ESPN1SUR"><title lang="es">CONMEBOL Copa Sudamericana</title></programme>
-<programme start="20250504205500 +0000" stop="20250504230000 +0000" channel="ESPN2COL"><title lang="es">Fútbol argentino Copa Liga Profesional</title></programme>
-<programme start="20250504230000 +0000" stop="20250505000000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - English Premier League</title></programme>
-<programme start="20250505000000 +0000" stop="20250505033000 +0000" channel="ESPN2COL"><title lang="es">Boxeo</title></programme>
-<programme start="20250505033000 +0000" stop="20250505043000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - ATP Masters 1000</title></programme>
-<programme start="20250505043000 +0000" stop="20250505063000 +0000" channel="ESPN2COL"><title lang="es">Fórmula 1</title></programme>
-<programme start="20250505063000 +0000" stop="20250505070000 +0000" channel="ESPN2COL"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20250505070000 +0000" stop="20250505090000 +0000" channel="ESPN2COL"><title lang="es">Baloncesto femenino Partido amistoso</title></programme>
-<programme start="20250505090000 +0000" stop="20250505100000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - Italian Serie A</title></programme>
-<programme start="20250505100000 +0000" stop="20250505110000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - English Premier League</title></programme>
-<programme start="20250505110000 +0000" stop="20250505120000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - La Liga</title></programme>
-<programme start="20250505120000 +0000" stop="20250505130000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - ATP Masters 1000</title></programme>
-<programme start="20250505130000 +0000" stop="20250505150000 +0000" channel="ESPN2COL"><title lang="es">Fórmula 1</title></programme>
-<programme start="20250505150000 +0000" stop="20250505155500 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - La Liga</title></programme>
-<programme start="20250505155500 +0000" stop="20250505165000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - Italian Serie A</title></programme>
-<programme start="20250505165000 +0000" stop="20250505175000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - English Premier League</title></programme>
-<programme start="20250505175000 +0000" stop="20250505185000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - La Liga</title></programme>
-<programme start="20250505185000 +0000" stop="20250505205500 +0000" channel="ESPN2COL"><title lang="es">Girona vs. Mallorca</title></programme>
+<programme start="20250507235500 +0000" stop="20250508020000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250508020000 +0000" stop="20250508030000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F10</title></programme>
+<programme start="20250508030000 +0000" stop="20250508040000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250508040000 +0000" stop="20250508050000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250508050000 +0000" stop="20250508060000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250508060000 +0000" stop="20250508070000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250508070000 +0000" stop="20250508080000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250508090000 +0000" stop="20250508100000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
+<programme start="20250508100000 +0000" stop="20250508130000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250508140000 +0000" stop="20250508160000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F12</title></programme>
+<programme start="20250508160000 +0000" stop="20250508180000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F90 Primera edición</title></programme>
+<programme start="20250508180000 +0000" stop="20250508184000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F3</title></programme>
+<programme start="20250508184000 +0000" stop="20250508205500 +0000" channel="ESPN1SUR"><title lang="es">Fútbol UEFA Europa League</title></programme>
+<programme start="20250508205500 +0000" stop="20250508220000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F360</title></programme>
 <programme start="20250505205500 +0000" stop="20250506000000 +0000" channel="ESPN2COL"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250506000000 +0000" stop="20250506010000 +0000" channel="ESPN2COL"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
 <programme start="20250506010000 +0000" stop="20250506020000 +0000" channel="ESPN2COL"><title lang="es">Goles de LaLiga</title></programme>
@@ -118,21 +103,29 @@
 <programme start="20250507192500 +0000" stop="20250507195500 +0000" channel="ESPN2COL"><title lang="es">Lo mejor de MotoGP</title></programme>
 <programme start="20250507195500 +0000" stop="20250507214500 +0000" channel="ESPN2COL"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250507214500 +0000" stop="20250507235500 +0000" channel="ESPN2COL"><title lang="es">Jornada 4 Cerro Largo vs. Universidad Católica</title></programme>
-<programme start="20250504205500 +0000" stop="20250504230000 +0000" channel="ESPN3SUR"><title lang="es">Jornada 35 Brighton and Hove Albion vs. Newcastle United FC</title></programme>
-<programme start="20250504230000 +0000" stop="20250505011000 +0000" channel="ESPN3SUR"><title lang="es">Rugby World Sevens Series</title></programme>
-<programme start="20250505011000 +0000" stop="20250505033500 +0000" channel="ESPN3SUR"><title lang="es">NBA</title></programme>
-<programme start="20250505033500 +0000" stop="20250505060000 +0000" channel="ESPN3SUR"><title lang="es">Playoff de la NBA</title></programme>
-<programme start="20250505060000 +0000" stop="20250505070000 +0000" channel="ESPN3SUR"><title lang="es">ESPN Compact - Premier League</title></programme>
-<programme start="20250505070000 +0000" stop="20250505090000 +0000" channel="ESPN3SUR"><title lang="es">Tenis</title></programme>
-<programme start="20250505090000 +0000" stop="20250505100000 +0000" channel="ESPN3SUR"><title lang="es">Scrum</title></programme>
-<programme start="20250505100000 +0000" stop="20250505120000 +0000" channel="ESPN3SUR"><title lang="es">Fútbol italiano Serie A</title></programme>
-<programme start="20250505120000 +0000" stop="20250505140000 +0000" channel="ESPN3SUR"><title lang="es">Fútbol italiano Serie A</title></programme>
-<programme start="20250505140000 +0000" stop="20250505160000 +0000" channel="ESPN3SUR"><title lang="es">Rugby union Copa de Campeones Europeos</title></programme>
-<programme start="20250505160000 +0000" stop="20250505170000 +0000" channel="ESPN3SUR"><title lang="es">ESPN Compact - La Liga</title></programme>
-<programme start="20250505170000 +0000" stop="20250505180000 +0000" channel="ESPN3SUR"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
-<programme start="20250505180000 +0000" stop="20250505183000 +0000" channel="ESPN3SUR"><title lang="es">ATP Tour This Week</title></programme>
-<programme start="20250505183000 +0000" stop="20250505190000 +0000" channel="ESPN3SUR"><title lang="es">Aguas arriba</title></programme>
-<programme start="20250505190000 +0000" stop="20250505210000 +0000" channel="ESPN3SUR"><title lang="es">Jornada 35 Brighton and Hove Albion vs. Newcastle United FC</title></programme>
+<programme start="20250507235500 +0000" stop="20250508005800 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508005800 +0000" stop="20250508020000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508020000 +0000" stop="20250508023000 +0000" channel="ESPN2COL"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508023000 +0000" stop="20250508030000 +0000" channel="ESPN2COL"><title lang="es">La Ultima Experiencia</title></programme>
+<programme start="20250508030000 +0000" stop="20250508040000 +0000" channel="ESPN2COL"><title lang="es">Semifinal Vuelta Paris Saint-Germain FC vs. Arsenal FC</title></programme>
+<programme start="20250508040000 +0000" stop="20250508050000 +0000" channel="ESPN2COL"><title lang="es">Equipo F</title></programme>
+<programme start="20250508050000 +0000" stop="20250508070000 +0000" channel="ESPN2COL"><title lang="es">Jornada 4 Cerro Largo vs. Universidad Católica</title></programme>
+<programme start="20250508070000 +0000" stop="20250508080000 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - UEFA Champions League</title></programme>
+<programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="ESPN2COL"><title lang="es">Equipo F</title></programme>
+<programme start="20250508090000 +0000" stop="20250508100000 +0000" channel="ESPN2COL"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508100000 +0000" stop="20250508103000 +0000" channel="ESPN2COL"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508103000 +0000" stop="20250508110000 +0000" channel="ESPN2COL"><title lang="es">La Ultima Experiencia</title></programme>
+<programme start="20250508110000 +0000" stop="20250508120000 +0000" channel="ESPN2COL"><title lang="es">Semifinal Vuelta Paris Saint-Germain FC vs. Arsenal FC</title></programme>
+<programme start="20250508120000 +0000" stop="20250508130000 +0000" channel="ESPN2COL"><title lang="es">Equipo F</title></programme>
+<programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="ESPN2COL"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
+<programme start="20250508140000 +0000" stop="20250508143000 +0000" channel="ESPN2COL"><title lang="es">La liga World</title></programme>
+<programme start="20250508143000 +0000" stop="20250508150000 +0000" channel="ESPN2COL"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508150000 +0000" stop="20250508170000 +0000" channel="ESPN2COL"><title lang="es">Semifinal Vuelta Paris Saint-Germain FC vs. Arsenal FC</title></programme>
+<programme start="20250508170000 +0000" stop="20250508180000 +0000" channel="ESPN2COL"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
+<programme start="20250508180000 +0000" stop="20250508184000 +0000" channel="ESPN2COL"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250508184000 +0000" stop="20250508205500 +0000" channel="ESPN2COL"><title lang="es">UEFA Europa league</title></programme>
+<programme start="20250508205500 +0000" stop="20250508214500 +0000" channel="ESPN2COL"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250508214500 +0000" stop="20250508224500 +0000" channel="ESPN2COL"><title lang="es">ESPN Compact - UEFA Champions League</title></programme>
 <programme start="20250505210000 +0000" stop="20250505230000 +0000" channel="ESPN3SUR"><title lang="es">Tenis</title></programme>
 <programme start="20250505230000 +0000" stop="20250506020000 +0000" channel="ESPN3SUR"><title lang="es">Beisbol MLB</title></programme>
 <programme start="20250506020000 +0000" stop="20250506023000 +0000" channel="ESPN3SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
@@ -164,23 +157,23 @@
 <programme start="20250507203000 +0000" stop="20250507210000 +0000" channel="ESPN3SUR"><title lang="es">La liga World</title></programme>
 <programme start="20250507210000 +0000" stop="20250507213000 +0000" channel="ESPN3SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
 <programme start="20250507213000 +0000" stop="20250507223500 +0000" channel="ESPN3SUR"><title lang="es">ESPN Compact - UEFA Champions League</title></programme>
-<programme start="20250504220000 +0000" stop="20250505000000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol Femenino Super League</title></programme>
-<programme start="20250505000000 +0000" stop="20250505004500 +0000" channel="ESPN4SUR"><title lang="es">F1 Academy</title></programme>
-<programme start="20250505004500 +0000" stop="20250505010000 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
-<programme start="20250505010000 +0000" stop="20250505020000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
-<programme start="20250505020000 +0000" stop="20250505030000 +0000" channel="ESPN4SUR"><title lang="es">Kings League Américas</title></programme>
-<programme start="20250505030000 +0000" stop="20250505050000 +0000" channel="ESPN4SUR"><title lang="es">Brighton &amp; Hove Albion vs. Newcastle United</title></programme>
-<programme start="20250505050000 +0000" stop="20250505063000 +0000" channel="ESPN4SUR"><title lang="es">Voleibol de playa universitario femenino</title></programme>
-<programme start="20250505063000 +0000" stop="20250505080000 +0000" channel="ESPN4SUR"><title lang="es">Voleibol de playa universitario femenino</title></programme>
-<programme start="20250505080000 +0000" stop="20250505090000 +0000" channel="ESPN4SUR"><title lang="es">Scrum</title></programme>
-<programme start="20250505090000 +0000" stop="20250505110000 +0000" channel="ESPN4SUR"><title lang="es">Super Rugby Américas</title></programme>
-<programme start="20250505110000 +0000" stop="20250505113000 +0000" channel="ESPN4SUR"><title lang="es">Aguas Arriba</title></programme>
-<programme start="20250505113000 +0000" stop="20250505133000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Knockout</title></programme>
-<programme start="20250505133000 +0000" stop="20250505143000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
-<programme start="20250505143000 +0000" stop="20250505163000 +0000" channel="ESPN4SUR"><title lang="es">Rugby Argentino Torneo de la URBA</title></programme>
-<programme start="20250505163000 +0000" stop="20250505183000 +0000" channel="ESPN4SUR"><title lang="es">Rugby Argentino Torneo de la URBA</title></programme>
-<programme start="20250505183000 +0000" stop="20250505204500 +0000" channel="ESPN4SUR"><title lang="es">Fútbol Serie A</title></programme>
-<programme start="20250505204500 +0000" stop="20250505214000 +0000" channel="ESPN4SUR"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
+<programme start="20250507223500 +0000" stop="20250507231000 +0000" channel="ESPN3SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250507231000 +0000" stop="20250508001500 +0000" channel="ESPN3SUR"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508001500 +0000" stop="20250508023000 +0000" channel="ESPN3SUR"><title lang="es">Atlético Grau vs. Grêmio</title></programme>
+<programme start="20250508023000 +0000" stop="20250508030000 +0000" channel="ESPN3SUR"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20250508030000 +0000" stop="20250508033000 +0000" channel="ESPN3SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508033000 +0000" stop="20250508040000 +0000" channel="ESPN3SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508040000 +0000" stop="20250508050000 +0000" channel="ESPN3SUR"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508050000 +0000" stop="20250508060000 +0000" channel="ESPN3SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508060000 +0000" stop="20250508070000 +0000" channel="ESPN3SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508070000 +0000" stop="20250508073000 +0000" channel="ESPN3SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508073000 +0000" stop="20250508080000 +0000" channel="ESPN3SUR"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="ESPN3SUR"><title lang="es">Goles De La Serie A</title></programme>
+<programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="ESPN3SUR"><title lang="es">Atlético Grau vs. Grêmio</title></programme>
+<programme start="20250508110000 +0000" stop="20250508130000 +0000" channel="ESPN3SUR"><title lang="es">Jornada 4 Mushuc Runa vs. Cruzeiro Mushuc Runa vs. Cruzeiro</title></programme>
+<programme start="20250508130000 +0000" stop="20250508170000 +0000" channel="ESPN3SUR"><title lang="es">Tenis</title></programme>
+<programme start="20250508170000 +0000" stop="20250508180000 +0000" channel="ESPN3SUR"><title lang="es">PGA Tour Highlights - The CJ Cup Byron Nelson</title></programme>
+<programme start="20250508180000 +0000" stop="20250508220000 +0000" channel="ESPN3SUR"><title lang="es">Golf</title></programme>
 <programme start="20250505214000 +0000" stop="20250505223000 +0000" channel="ESPN4SUR"><title lang="es">Scrum</title></programme>
 <programme start="20250505223000 +0000" stop="20250505230000 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
 <programme start="20250505230000 +0000" stop="20250506013000 +0000" channel="ESPN4SUR"><title lang="es">Hockey NHL</title></programme>
@@ -225,20 +218,30 @@
 <programme start="20250507190000 +0000" stop="20250507200000 +0000" channel="ESPN4SUR"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
 <programme start="20250507200000 +0000" stop="20250507210000 +0000" channel="ESPN4SUR"><title lang="es">Goles de LaLiga</title></programme>
 <programme start="20250507210000 +0000" stop="20250507220500 +0000" channel="ESPN4SUR"><title lang="es">PGA Tour Highlights</title></programme>
-<programme start="20250504210000 +0000" stop="20250504230000 +0000" channel="ESPN5SUR"><title lang="es">Fútbol escocés Scottish Premiership</title></programme>
-<programme start="20250504230000 +0000" stop="20250505020000 +0000" channel="ESPN5SUR"><title lang="es">Beisbol MLB</title></programme>
-<programme start="20250505020000 +0000" stop="20250505030000 +0000" channel="ESPN5SUR"><title lang="es">Motociclismo</title></programme>
-<programme start="20250505030000 +0000" stop="20250505050000 +0000" channel="ESPN5SUR"><title lang="es">Motociclismo</title></programme>
-<programme start="20250505050000 +0000" stop="20250505070000 +0000" channel="ESPN5SUR"><title lang="es">Tenis</title></programme>
-<programme start="20250505070000 +0000" stop="20250505090000 +0000" channel="ESPN5SUR"><title lang="es">Fórmula 1</title></programme>
-<programme start="20250505090000 +0000" stop="20250505100000 +0000" channel="ESPN5SUR"><title lang="es">Deporte Será Anunciado</title></programme>
-<programme start="20250505100000 +0000" stop="20250505130000 +0000" channel="ESPN5SUR"><title lang="es">UFC</title></programme>
-<programme start="20250505130000 +0000" stop="20250505150000 +0000" channel="ESPN5SUR"><title lang="es">Fútbol turco Süper Lig</title></programme>
-<programme start="20250505150000 +0000" stop="20250505170000 +0000" channel="ESPN5SUR"><title lang="es">Augsburg vs. Holstein Kiel</title></programme>
-<programme start="20250505170000 +0000" stop="20250505173000 +0000" channel="ESPN5SUR"><title lang="es">UEFA Europa &amp; Conference League Highlights</title></programme>
-<programme start="20250505173000 +0000" stop="20250505180000 +0000" channel="ESPN5SUR"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20250505180000 +0000" stop="20250505200000 +0000" channel="ESPN5SUR"><title lang="es">Tenis</title></programme>
-<programme start="20250505200000 +0000" stop="20250505220000 +0000" channel="ESPN5SUR"><title lang="es">Boxeo</title></programme>
+<programme start="20250507220500 +0000" stop="20250507223800 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
+<programme start="20250507223800 +0000" stop="20250507231100 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20250507231100 +0000" stop="20250507234400 +0000" channel="ESPN4SUR"><title lang="es">LaLiga World</title></programme>
+<programme start="20250507234400 +0000" stop="20250508001500 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508001500 +0000" stop="20250508023000 +0000" channel="ESPN4SUR"><title lang="es">CONMEBOL Copa Sudamericana</title></programme>
+<programme start="20250508023000 +0000" stop="20250508033000 +0000" channel="ESPN4SUR"><title lang="es">Goles del fútbol de Italia</title></programme>
+<programme start="20250508033000 +0000" stop="20250508040000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508040000 +0000" stop="20250508050000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508050000 +0000" stop="20250508060000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Premier League</title></programme>
+<programme start="20250508060000 +0000" stop="20250508070000 +0000" channel="ESPN4SUR"><title lang="es">PGA Tour Highlights</title></programme>
+<programme start="20250508070000 +0000" stop="20250508080000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="ESPN4SUR"><title lang="es">CONMEBOL Copa Sudamericana</title></programme>
+<programme start="20250508110000 +0000" stop="20250508113000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508113000 +0000" stop="20250508120000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508120000 +0000" stop="20250508123000 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
+<programme start="20250508123000 +0000" stop="20250508130000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Ligue 1</title></programme>
+<programme start="20250508130000 +0000" stop="20250508140000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508140000 +0000" stop="20250508150000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250508150000 +0000" stop="20250508170000 +0000" channel="ESPN4SUR"><title lang="es">CONMEBOL Copa Sudamericana</title></programme>
+<programme start="20250508170000 +0000" stop="20250508203000 +0000" channel="ESPN4SUR"><title lang="es">Tenis Internazionali BNL d&apos;Italia 2025</title></programme>
+<programme start="20250508203000 +0000" stop="20250508205800 +0000" channel="ESPN4SUR"><title lang="es">ATP Tour Uncovered</title></programme>
+<programme start="20250508205800 +0000" stop="20250508215500 +0000" channel="ESPN4SUR"><title lang="es">Revista del Turf</title></programme>
+<programme start="20250508215500 +0000" stop="20250508230000 +0000" channel="ESPN4SUR"><title lang="es">Queens League Americas</title></programme>
 <programme start="20250505220000 +0000" stop="20250506000000 +0000" channel="ESPN5SUR"><title lang="es">Fórmula 1</title></programme>
 <programme start="20250506000000 +0000" stop="20250506003000 +0000" channel="ESPN5SUR"><title lang="es">UEFA Champions League Weekly</title></programme>
 <programme start="20250506003000 +0000" stop="20250506013000 +0000" channel="ESPN5SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
@@ -268,22 +271,24 @@
 <programme start="20250507175500 +0000" stop="20250507195000 +0000" channel="ESPN5SUR"><title lang="es">Boxeo</title></programme>
 <programme start="20250507195000 +0000" stop="20250507214500 +0000" channel="ESPN5SUR"><title lang="es">Automovilismo</title></programme>
 <programme start="20250507214500 +0000" stop="20250507235500 +0000" channel="ESPN5SUR"><title lang="es">Puerto Cabello vs. Vasco da Gama</title></programme>
-<programme start="20250504220000 +0000" stop="20250504230000 +0000" channel="ESPN6SUR"><title lang="es">ESPN Compact - UEFA Champions League</title></programme>
-<programme start="20250504230000 +0000" stop="20250505000000 +0000" channel="ESPN6SUR"><title lang="es">ESPN Compact - UEFA Champions League</title></programme>
-<programme start="20250505000000 +0000" stop="20250505020000 +0000" channel="ESPN6SUR"><title lang="es">Motociclismo</title></programme>
-<programme start="20250505020000 +0000" stop="20250505040000 +0000" channel="ESPN6SUR"><title lang="es">Fútbol escocés Scottish Premiership</title></programme>
-<programme start="20250505040000 +0000" stop="20250505050000 +0000" channel="ESPN6SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
-<programme start="20250505050000 +0000" stop="20250505070000 +0000" channel="ESPN6SUR"><title lang="es">Automovilismo</title></programme>
-<programme start="20250505070000 +0000" stop="20250505080000 +0000" channel="ESPN6SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
-<programme start="20250505080000 +0000" stop="20250505090000 +0000" channel="ESPN6SUR"><title lang="es">UFC Countdown</title></programme>
-<programme start="20250505090000 +0000" stop="20250505093000 +0000" channel="ESPN6SUR"><title lang="es">EFL Highlights</title></programme>
-<programme start="20250505093000 +0000" stop="20250505100000 +0000" channel="ESPN6SUR"><title lang="es">UEFA Europa &amp; Conference League Highlights</title></programme>
-<programme start="20250505100000 +0000" stop="20250505120000 +0000" channel="ESPN6SUR"><title lang="es">Fútbol argentino Copa Liga Profesional</title></programme>
-<programme start="20250505120000 +0000" stop="20250505140000 +0000" channel="ESPN6SUR"><title lang="es">Tenis</title></programme>
-<programme start="20250505140000 +0000" stop="20250505170000 +0000" channel="ESPN6SUR"><title lang="es">Boxeo</title></programme>
-<programme start="20250505170000 +0000" stop="20250505180000 +0000" channel="ESPN6SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
-<programme start="20250505180000 +0000" stop="20250505200000 +0000" channel="ESPN6SUR"><title lang="es">Motociclismo</title></programme>
-<programme start="20250505200000 +0000" stop="20250505220000 +0000" channel="ESPN6SUR"><title lang="es">Fútbol argentino Copa Liga Profesional</title></programme>
+<programme start="20250507235500 +0000" stop="20250508023000 +0000" channel="ESPN5SUR"><title lang="es">Jornada 4 Cerro Porteño vs. Palmeiras</title></programme>
+<programme start="20250508023000 +0000" stop="20250508043000 +0000" channel="ESPN5SUR"><title lang="es">Jornada 4 Bahia vs. Nacional</title></programme>
+<programme start="20250508043000 +0000" stop="20250508063000 +0000" channel="ESPN5SUR"><title lang="es">Jornada 4 Universidad de Chile vs. Estudiantes de La Plata</title></programme>
+<programme start="20250508063000 +0000" stop="20250508070000 +0000" channel="ESPN5SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508070000 +0000" stop="20250508100000 +0000" channel="ESPN5SUR"><title lang="es">UFC</title></programme>
+<programme start="20250508100000 +0000" stop="20250508103000 +0000" channel="ESPN5SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508103000 +0000" stop="20250508110000 +0000" channel="ESPN5SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508110000 +0000" stop="20250508130000 +0000" channel="ESPN5SUR"><title lang="es">Puerto Cabello vs. Vasco da Gama</title></programme>
+<programme start="20250508130000 +0000" stop="20250508150000 +0000" channel="ESPN5SUR"><title lang="es">Jornada 4 Universidad de Chile vs. Estudiantes de La Plata</title></programme>
+<programme start="20250508150000 +0000" stop="20250508170000 +0000" channel="ESPN5SUR"><title lang="es">Semifinal Vuelta Inter vs. FC Barcelona</title></programme>
+<programme start="20250508170000 +0000" stop="20250508180000 +0000" channel="ESPN5SUR"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
+<programme start="20250508180000 +0000" stop="20250508190000 +0000" channel="ESPN5SUR"><title lang="es">Motociclismo</title></programme>
+<programme start="20250508190000 +0000" stop="20250508200000 +0000" channel="ESPN5SUR"><title lang="es">Motociclismo</title></programme>
+<programme start="20250508200000 +0000" stop="20250508203000 +0000" channel="ESPN5SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508203000 +0000" stop="20250508210000 +0000" channel="ESPN5SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508210000 +0000" stop="20250508213000 +0000" channel="ESPN5SUR"><title lang="es">EFL Highlights</title></programme>
+<programme start="20250508213000 +0000" stop="20250508214500 +0000" channel="ESPN5SUR"><title lang="es">Botafogo campeón Libertadores</title></programme>
+<programme start="20250508214500 +0000" stop="20250509000000 +0000" channel="ESPN5SUR"><title lang="es">Jornada 4 Talleres Córdoba vs. Libertad</title></programme>
 <programme start="20250505220000 +0000" stop="20250506000000 +0000" channel="ESPN6SUR"><title lang="es">Automovilismo</title></programme>
 <programme start="20250506000000 +0000" stop="20250506020000 +0000" channel="ESPN6SUR"><title lang="es">Semifinal Ida Arsenal FC vs. Paris Saint-Germain FC desde Emirates Stadium</title></programme>
 <programme start="20250506020000 +0000" stop="20250506030000 +0000" channel="ESPN6SUR"><title lang="es">Motociclismo</title></programme>
@@ -296,7 +301,7 @@
 <programme start="20250506090000 +0000" stop="20250506100000 +0000" channel="ESPN6SUR"><title lang="es">PGA Tour Highlights - The CJ Cup Byron Nelson</title></programme>
 <programme start="20250506100000 +0000" stop="20250506110000 +0000" channel="ESPN6SUR"><title lang="es">Motociclismo</title></programme>
 <programme start="20250506110000 +0000" stop="20250506120000 +0000" channel="ESPN6SUR"><title lang="es">Motociclismo</title></programme>
-<programme start="20250506120000 +0000" stop="20250506140000 +0000" channel="ESPN6SUR"><title lang="es">Deporte Será Anunciado</title></programme>
+<programme start="20250506120000 +0000" stop="20250506140000 +0000" channel="ESPN6SUR"><title lang="es">Fútbol turco Süper Lig</title></programme>
 <programme start="20250506140000 +0000" stop="20250506170000 +0000" channel="ESPN6SUR"><title lang="es">UFC</title></programme>
 <programme start="20250506170000 +0000" stop="20250506180000 +0000" channel="ESPN6SUR"><title lang="es">UFC</title></programme>
 <programme start="20250506180000 +0000" stop="20250506200000 +0000" channel="ESPN6SUR"><title lang="es">Tenis</title></programme>
@@ -318,23 +323,28 @@
 <programme start="20250507173000 +0000" stop="20250507180000 +0000" channel="ESPN6SUR"><title lang="es">UFC Conectado</title></programme>
 <programme start="20250507180000 +0000" stop="20250507200000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 Atlético Bucaramanga vs. Racing Club</title></programme>
 <programme start="20250507200000 +0000" stop="20250507220000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 San Antonio Bulo Bulo vs. Peñarol</title></programme>
-<programme start="20250504200000 +0000" stop="20250504230000 +0000" channel="ESPN7SUR"><title lang="es">UFC</title></programme>
-<programme start="20250504230000 +0000" stop="20250505010000 +0000" channel="ESPN7SUR"><title lang="es">Fútbol turco Süper Lig</title></programme>
-<programme start="20250505010000 +0000" stop="20250505020000 +0000" channel="ESPN7SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
-<programme start="20250505020000 +0000" stop="20250505040000 +0000" channel="ESPN7SUR"><title lang="es">Fútbol EFL Championship</title></programme>
-<programme start="20250505040000 +0000" stop="20250505070000 +0000" channel="ESPN7SUR"><title lang="es">UFC</title></programme>
-<programme start="20250505070000 +0000" stop="20250505080000 +0000" channel="ESPN7SUR"><title lang="es">UFC Countdown</title></programme>
-<programme start="20250505080000 +0000" stop="20250505090000 +0000" channel="ESPN7SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
-<programme start="20250505090000 +0000" stop="20250505093000 +0000" channel="ESPN7SUR"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20250505093000 +0000" stop="20250505100000 +0000" channel="ESPN7SUR"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20250505100000 +0000" stop="20250505120000 +0000" channel="ESPN7SUR"><title lang="es">Automovilismo</title></programme>
-<programme start="20250505120000 +0000" stop="20250505140000 +0000" channel="ESPN7SUR"><title lang="es">Augsburg vs. Holstein Kiel</title></programme>
-<programme start="20250505140000 +0000" stop="20250505160000 +0000" channel="ESPN7SUR"><title lang="es">Freiburg vs. Bayer Leverkusen</title></programme>
-<programme start="20250505160000 +0000" stop="20250505170000 +0000" channel="ESPN7SUR"><title lang="es">El Show de la CONMEBOL Libertadores</title></programme>
-<programme start="20250505170000 +0000" stop="20250505180000 +0000" channel="ESPN7SUR"><title lang="es">UFC Countdown</title></programme>
-<programme start="20250505180000 +0000" stop="20250505210000 +0000" channel="ESPN7SUR"><title lang="es">Boxeo</title></programme>
+<programme start="20250507220000 +0000" stop="20250508000000 +0000" channel="ESPN6SUR"><title lang="es">Semifinal Vuelta Paris Saint-Germain FC vs. Arsenal FC</title></programme>
+<programme start="20250508000000 +0000" stop="20250508020000 +0000" channel="ESPN6SUR"><title lang="es">Automovilismo</title></programme>
+<programme start="20250508020000 +0000" stop="20250508040000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 Deportivo Táchira vs. LDU Quito</title></programme>
+<programme start="20250508040000 +0000" stop="20250508060000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 CA Central Córdoba vs. Flamengo</title></programme>
+<programme start="20250508060000 +0000" stop="20250508070000 +0000" channel="ESPN6SUR"><title lang="es">ESPN Compact - Moto GP</title></programme>
+<programme start="20250508070000 +0000" stop="20250508080000 +0000" channel="ESPN6SUR"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508080000 +0000" stop="20250508083000 +0000" channel="ESPN6SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508083000 +0000" stop="20250508090000 +0000" channel="ESPN6SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508090000 +0000" stop="20250508093000 +0000" channel="ESPN6SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508093000 +0000" stop="20250508100000 +0000" channel="ESPN6SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508100000 +0000" stop="20250508120000 +0000" channel="ESPN6SUR"><title lang="es">Motociclismo</title></programme>
+<programme start="20250508120000 +0000" stop="20250508140000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 Bahia vs. Nacional</title></programme>
+<programme start="20250508140000 +0000" stop="20250508160000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 San Antonio Bulo Bulo vs. Peñarol</title></programme>
+<programme start="20250508160000 +0000" stop="20250508170000 +0000" channel="ESPN6SUR"><title lang="es">PGA Tour Highlights - The CJ Cup Byron Nelson</title></programme>
+<programme start="20250508170000 +0000" stop="20250508173000 +0000" channel="ESPN6SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508173000 +0000" stop="20250508180000 +0000" channel="ESPN6SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508180000 +0000" stop="20250508190000 +0000" channel="ESPN6SUR"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508190000 +0000" stop="20250508193000 +0000" channel="ESPN6SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508193000 +0000" stop="20250508200000 +0000" channel="ESPN6SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508200000 +0000" stop="20250508220000 +0000" channel="ESPN6SUR"><title lang="es">Jornada 4 Deportivo Táchira vs. LDU Quito</title></programme>
 <programme start="20250505210000 +0000" stop="20250505230000 +0000" channel="ESPN7SUR"><title lang="es">RB Leipzig vs. Bayern Múnich</title></programme>
-<programme start="20250505230000 +0000" stop="20250506000000 +0000" channel="ESPN7SUR"><title lang="es">Deporte Será Anunciado</title></programme>
+<programme start="20250505230000 +0000" stop="20250506000000 +0000" channel="ESPN7SUR"><title lang="es">UEFA Europa &amp; Conference League Highlights</title></programme>
 <programme start="20250506000000 +0000" stop="20250506030000 +0000" channel="ESPN7SUR"><title lang="es">UFC</title></programme>
 <programme start="20250506030000 +0000" stop="20250506050000 +0000" channel="ESPN7SUR"><title lang="es">Fútbol argentino Copa Liga Profesional</title></programme>
 <programme start="20250506050000 +0000" stop="20250506070000 +0000" channel="ESPN7SUR"><title lang="es">Tenis</title></programme>
@@ -372,20 +382,22 @@
 <programme start="20250507210000 +0000" stop="20250507213000 +0000" channel="ESPN7SUR"><title lang="es">Goles de la Champions League</title></programme>
 <programme start="20250507213000 +0000" stop="20250507214500 +0000" channel="ESPN7SUR"><title lang="es">Botafogo campeón Libertadores</title></programme>
 <programme start="20250507214500 +0000" stop="20250507235500 +0000" channel="ESPN7SUR"><title lang="es">Jornada 4 Deportivo Táchira vs. LDU Quito</title></programme>
-<programme start="20250504220000 +0000" stop="20250504230000 +0000" channel="ESPNPremium"><title lang="es">Motociclismo</title></programme>
-<programme start="20250504230000 +0000" stop="20250505010000 +0000" channel="ESPNPremium"><title lang="es">Fútbol escocés Scottish Premiership</title></programme>
-<programme start="20250505010000 +0000" stop="20250505030000 +0000" channel="ESPNPremium"><title lang="es">Freiburg vs. Bayer Leverkusen</title></programme>
-<programme start="20250505030000 +0000" stop="20250505050000 +0000" channel="ESPNPremium"><title lang="es">Fútbol turco Süper Lig</title></programme>
-<programme start="20250505050000 +0000" stop="20250505070000 +0000" channel="ESPNPremium"><title lang="es">Freiburg vs. Bayer Leverkusen</title></programme>
-<programme start="20250505070000 +0000" stop="20250505090000 +0000" channel="ESPNPremium"><title lang="es">Fútbol escocés Scottish Premiership</title></programme>
-<programme start="20250505090000 +0000" stop="20250505093000 +0000" channel="ESPNPremium"><title lang="es">UEFA Europa &amp; Conference League Highlights</title></programme>
-<programme start="20250505093000 +0000" stop="20250505100000 +0000" channel="ESPNPremium"><title lang="es">UEFA Champions League Weekly</title></programme>
-<programme start="20250505100000 +0000" stop="20250505120000 +0000" channel="ESPNPremium"><title lang="es">Motociclismo</title></programme>
-<programme start="20250505120000 +0000" stop="20250505130000 +0000" channel="ESPNPremium"><title lang="es">Motociclismo</title></programme>
-<programme start="20250505130000 +0000" stop="20250505160000 +0000" channel="ESPNPremium"><title lang="es">UFC</title></programme>
-<programme start="20250505160000 +0000" stop="20250505180000 +0000" channel="ESPNPremium"><title lang="es">Fútbol escocés Scottish Premiership</title></programme>
-<programme start="20250505180000 +0000" stop="20250505200000 +0000" channel="ESPNPremium"><title lang="es">Fórmula 1</title></programme>
-<programme start="20250505200000 +0000" stop="20250505220000 +0000" channel="ESPNPremium"><title lang="es">Fútbol turco Süper Lig</title></programme>
+<programme start="20250507235500 +0000" stop="20250508023000 +0000" channel="ESPN7SUR"><title lang="es">Jornada 4 CA Central Córdoba vs. Flamengo</title></programme>
+<programme start="20250508023000 +0000" stop="20250508030000 +0000" channel="ESPN7SUR"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508030000 +0000" stop="20250508050000 +0000" channel="ESPN7SUR"><title lang="es">Semifinal Vuelta Paris Saint-Germain FC vs. Arsenal FC</title></programme>
+<programme start="20250508050000 +0000" stop="20250508070000 +0000" channel="ESPN7SUR"><title lang="es">Jornada 4 Deportivo Táchira vs. LDU Quito</title></programme>
+<programme start="20250508070000 +0000" stop="20250508073000 +0000" channel="ESPN7SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508073000 +0000" stop="20250508080000 +0000" channel="ESPN7SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508080000 +0000" stop="20250508090000 +0000" channel="ESPN7SUR"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508090000 +0000" stop="20250508110000 +0000" channel="ESPN7SUR"><title lang="es">Jornada 4 Bahia vs. Nacional</title></programme>
+<programme start="20250508110000 +0000" stop="20250508120000 +0000" channel="ESPN7SUR"><title lang="es">Goles de LA Bundesliga</title></programme>
+<programme start="20250508120000 +0000" stop="20250508140000 +0000" channel="ESPN7SUR"><title lang="es">Motociclismo</title></programme>
+<programme start="20250508140000 +0000" stop="20250508143000 +0000" channel="ESPN7SUR"><title lang="es">ATP Tour This Week</title></programme>
+<programme start="20250508143000 +0000" stop="20250508150000 +0000" channel="ESPN7SUR"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508150000 +0000" stop="20250508170000 +0000" channel="ESPN7SUR"><title lang="es">Jornada 4 Atlético Bucaramanga vs. Racing Club</title></programme>
+<programme start="20250508170000 +0000" stop="20250508190000 +0000" channel="ESPN7SUR"><title lang="es">Jornada 4 San Antonio Bulo Bulo vs. Peñarol</title></programme>
+<programme start="20250508190000 +0000" stop="20250508210000 +0000" channel="ESPN7SUR"><title lang="es">Semifinal Vuelta Inter vs. FC Barcelona</title></programme>
+<programme start="20250508210000 +0000" stop="20250508230000 +0000" channel="ESPN7SUR"><title lang="es">RB Leipzig vs. Bayern Múnich</title></programme>
 <programme start="20250505220000 +0000" stop="20250506000000 +0000" channel="ESPNPremium"><title lang="es">Freiburg vs. Bayer Leverkusen</title></programme>
 <programme start="20250506000000 +0000" stop="20250506020000 +0000" channel="ESPNPremium"><title lang="es">Tenis</title></programme>
 <programme start="20250506020000 +0000" stop="20250506040000 +0000" channel="ESPNPremium"><title lang="es">Boxeo</title></programme>
@@ -417,4 +429,20 @@
 <programme start="20250507183000 +0000" stop="20250507205500 +0000" channel="ESPNPremium"><title lang="es">Semifinal Vuelta Paris Saint-Germain FC vs. Arsenal FC</title></programme>
 <programme start="20250507205500 +0000" stop="20250507214500 +0000" channel="ESPNPremium"><title lang="es">Goles de LA Bundesliga</title></programme>
 <programme start="20250507214500 +0000" stop="20250507235500 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Bahia vs. Nacional</title></programme>
+<programme start="20250507235500 +0000" stop="20250508015500 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Universidad de Chile vs. Estudiantes de La Plata</title></programme>
+<programme start="20250508015500 +0000" stop="20250508040000 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Sporting Cristal vs. Bolívar</title></programme>
+<programme start="20250508040000 +0000" stop="20250508060000 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Cerro Porteño vs. Palmeiras</title></programme>
+<programme start="20250508060000 +0000" stop="20250508070000 +0000" channel="ESPNPremium"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
+<programme start="20250508070000 +0000" stop="20250508090000 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Bahia vs. Nacional</title></programme>
+<programme start="20250508090000 +0000" stop="20250508100000 +0000" channel="ESPNPremium"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508100000 +0000" stop="20250508130000 +0000" channel="ESPNPremium"><title lang="es">UFC</title></programme>
+<programme start="20250508130000 +0000" stop="20250508133000 +0000" channel="ESPNPremium"><title lang="es">Aguas arriba</title></programme>
+<programme start="20250508133000 +0000" stop="20250508140000 +0000" channel="ESPNPremium"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508140000 +0000" stop="20250508160000 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Deportivo Táchira vs. LDU Quito</title></programme>
+<programme start="20250508160000 +0000" stop="20250508180000 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 Universidad de Chile vs. Estudiantes de La Plata</title></programme>
+<programme start="20250508180000 +0000" stop="20250508182800 +0000" channel="ESPNPremium"><title lang="es">Goles de la Champions League</title></programme>
+<programme start="20250508182800 +0000" stop="20250508185500 +0000" channel="ESPNPremium"><title lang="es">Lo mejor de MotoGP</title></programme>
+<programme start="20250508185500 +0000" stop="20250508205000 +0000" channel="ESPNPremium"><title lang="es">Boxeo</title></programme>
+<programme start="20250508205000 +0000" stop="20250508214500 +0000" channel="ESPNPremium"><title lang="es">Goles de la Eredivisie</title></programme>
+<programme start="20250508214500 +0000" stop="20250509000000 +0000" channel="ESPNPremium"><title lang="es">Jornada 4 CA Vélez Sarsfield vs. Olimpia</title></programme>
 </tv>
