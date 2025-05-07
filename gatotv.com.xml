@@ -184,10 +184,9 @@
 <programme start="20250509170000 +0000" stop="20250509180000 +0000" channel="ESPN3SUR"><title lang="es">PGA Tour Highlights - The CJ Cup Byron Nelson</title></programme>
 <programme start="20250509180000 +0000" stop="20250509220000 +0000" channel="ESPN3SUR"><title lang="es">Golf</title></programme>
 <programme start="20250506220000 +0000" stop="20250506230000 +0000" channel="ESPN4SUR"><title lang="es">Campeonato mundial de Superbikes FIM</title></programme>
-<programme start="20250506230000 +0000" stop="20250507020000 +0000" channel="ESPN4SUR"><title lang="es">Béisbol MLB</title></programme>
-<programme start="20250507020000 +0000" stop="20250507023000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Ligue 1</title></programme>
-<programme start="20250507023000 +0000" stop="20250507030000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Champions League</title></programme>
-<programme start="20250507030000 +0000" stop="20250507040000 +0000" channel="ESPN4SUR"><title lang="es">Goles del fútbol de Italia</title></programme>
+<programme start="20250506230000 +0000" stop="20250507010000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
+<programme start="20250507010000 +0000" stop="20250507013000 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
+<programme start="20250507013000 +0000" stop="20250507040000 +0000" channel="ESPN4SUR"><title lang="es">Hockey NHL</title></programme>
 <programme start="20250507040000 +0000" stop="20250507050000 +0000" channel="ESPN4SUR"><title lang="es">UEFA Europa &amp; Conference League Magazine</title></programme>
 <programme start="20250507050000 +0000" stop="20250507053000 +0000" channel="ESPN4SUR"><title lang="es">LaLiga World</title></programme>
 <programme start="20250507053000 +0000" stop="20250507060000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la Champions League</title></programme>
@@ -231,8 +230,9 @@
 <programme start="20250508170000 +0000" stop="20250508203000 +0000" channel="ESPN4SUR"><title lang="es">Tenis Internazionali BNL d&apos;Italia 2025</title></programme>
 <programme start="20250508203000 +0000" stop="20250508205800 +0000" channel="ESPN4SUR"><title lang="es">ATP Tour Uncovered</title></programme>
 <programme start="20250508205800 +0000" stop="20250508215500 +0000" channel="ESPN4SUR"><title lang="es">Revista del Turf</title></programme>
-<programme start="20250508215500 +0000" stop="20250508230000 +0000" channel="ESPN4SUR"><title lang="es">Queens League Americas</title></programme>
-<programme start="20250508230000 +0000" stop="20250509040000 +0000" channel="ESPN4SUR"><title lang="es">ESPN 4 Sur</title></programme>
+<programme start="20250508215500 +0000" stop="20250508230000 +0000" channel="ESPN4SUR"><title lang="es">ESPN 4 Sur</title></programme>
+<programme start="20250508230000 +0000" stop="20250509013000 +0000" channel="ESPN4SUR"><title lang="es">Hockey NHL</title></programme>
+<programme start="20250509013000 +0000" stop="20250509040000 +0000" channel="ESPN4SUR"><title lang="es">Hockey NHL</title></programme>
 <programme start="20250509040000 +0000" stop="20250509043000 +0000" channel="ESPN4SUR"><title lang="es">LaLiga Show</title></programme>
 <programme start="20250509043000 +0000" stop="20250509050000 +0000" channel="ESPN4SUR"><title lang="es">Goles de la UEFA Europa League</title></programme>
 <programme start="20250509050000 +0000" stop="20250509060000 +0000" channel="ESPN4SUR"><title lang="es">El show de la fórmula 1</title></programme>
