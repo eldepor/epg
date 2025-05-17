@@ -9,5 +9,8 @@
     <channel lang="es" xmltv_id="ESPN6SUR" site_id="espn_6_sudamerica">ESPN 6</channel>
     <channel lang="es" xmltv_id="ESPN7SUR" site_id="espn_7_sudamerica">ESPN 7</channel>
     <channel lang="es" xmltv_id="ESPNPremium" site_id="espn_premium_chile">ESPN Premium</channel>
+    <channel lang="es" xmltv_id="ESPN1MX" site_id="espn_mexico">ESPN 1 MX</channel>
+    <channel lang="es" xmltv_id="ESPN2MX" site_id="espn_2_mexico">ESPN 2 MX</channel>
+    <channel lang="es" xmltv_id="ESPN3MX" site_id="espn_3_mexico">ESPN 3 MX</channel>
   </channels>
 </site>
