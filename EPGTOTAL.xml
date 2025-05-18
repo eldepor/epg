@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 18/05/2025 13:44" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 18/05/2025 15:08" generator-info-url="t.me/EPG_dobleM">
 <channel id="SkySportF1Germany.de"><display-name>Sky Sport F1 HD</display-name><url>https://sky.de</url></channel>
 <channel id="SkySportBundesligaUHD.de"><display-name>Sky Sport Bundesliga UHD</display-name><url>https://sky.de</url></channel>
 <channel id="DAZN1HD.de"><display-name>DAZN 1 DE</display-name><url>https://sky.de</url></channel>
@@ -4164,43 +4164,20 @@
 <programme start="20250520174500 +0000" stop="20250520200000 +0000" channel="FoxSports2.us"><title lang="en">Saudi Pro League Soccer</title><desc lang="en">Al-Ittihad claimed a 3-2 victory against Al-Shabab in the King&apos;s Cup semi-finals on April 1 behind a brace from Danilo Pereira in stoppage time; Cristian Guanca found the net with a brace for Al-Shabab to go up, 2-1, in the second half of the loss.</desc></programme>
 <programme start="20250520083000 +0000" stop="20250520090000 +0000" channel="FoxSports2.us"><title lang="en">NHRA Pro Mod Series</title><desc lang="en">The top pro modified drivers compete against each other with three different engine setups in nitrous, blower and turbo, featuring detailed coverage of all the racing action, updates on track conditions, and highlights of memorable moments.</desc></programme>
 <programme start="20250520123000 +0000" stop="20250520140000 +0000" channel="FoxSports2.us"><title lang="en">CARS Tour</title><desc lang="en">Landen Lewis cut his deficit to Connor Hall to four points after winning at Ace Speedway for his first win of the season, while Hall finished in 11th; Ryan Millington and Conner Jones rounded out the podium in North Carolina.</desc></programme>
-<programme start="20250517205500 +0000" stop="20250518020000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter Sur</title></programme>
-<programme start="20250518020000 +0000" stop="20250518030000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250518030000 +0000" stop="20250518040000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F nacional</title></programme>
+<programme start="20250517174500 +0000" stop="20250518030000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250518030000 +0000" stop="20250518040000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250518040000 +0000" stop="20250518045800 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250518045800 +0000" stop="20250518055500 +0000" channel="ESPN1SUR"><title lang="es">ESPN Argentina</title></programme>
-<programme start="20250518055500 +0000" stop="20250518062500 +0000" channel="ESPN1SUR"><title lang="es">UEFA Champions League Magazine</title></programme>
-<programme start="20250518062500 +0000" stop="20250518073000 +0000" channel="ESPN1SUR"><title lang="es">Automovilismo FIA Fórmula 3</title></programme>
-<programme start="20250518073000 +0000" stop="20250518075000 +0000" channel="ESPN1SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
-<programme start="20250518075000 +0000" stop="20250518091500 +0000" channel="ESPN1SUR"><title lang="es">FIA Fórmula 2</title></programme>
-<programme start="20250518091500 +0000" stop="20250518113000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter+</title></programme>
-<programme start="20250518113000 +0000" stop="20250518125500 +0000" channel="ESPN1SUR"><title lang="es">Fórmula 1 Previa</title></programme>
-<programme start="20250518125500 +0000" stop="20250518164500 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter+</title></programme>
-<programme start="20250518164500 +0000" stop="20250518185500 +0000" channel="ESPN1SUR"><title lang="es">Fútbol LaLiga</title></programme>
-<programme start="20250518185500 +0000" stop="20250518204000 +0000" channel="ESPN1SUR"><title lang="es">Fútbol Serie A</title></programme>
-<programme start="20250518204000 +0000" stop="20250519010000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter Sur</title></programme>
-<programme start="20250519010000 +0000" stop="20250519030000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250519030000 +0000" stop="20250519050000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250519050000 +0000" stop="20250519070000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250519070000 +0000" stop="20250519080000 +0000" channel="ESPN1SUR"><title lang="es">ESPN Compact</title></programme>
-<programme start="20250519080000 +0000" stop="20250519100000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250519100000 +0000" stop="20250519180000 +0000" channel="ESPN1SUR"><title lang="es">ESPN Argentina</title></programme>
-<programme start="20250519180000 +0000" stop="20250519193000 +0000" channel="ESPN1SUR"><title lang="es">ESPN Argentina</title></programme>
-<programme start="20250519193000 +0000" stop="20250519200000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250519200000 +0000" stop="20250519210000 +0000" channel="ESPN1SUR"><title lang="es">Generación F</title></programme>
-<programme start="20250519210000 +0000" stop="20250519233000 +0000" channel="ESPN1SUR"><title lang="es">ESPN Argentina</title></programme>
-<programme start="20250519233000 +0000" stop="20250520022500 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250520022500 +0000" stop="20250520033000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F10</title></programme>
-<programme start="20250520033000 +0000" stop="20250520050000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250520050000 +0000" stop="20250520060000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250520060000 +0000" stop="20250520070000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250520070000 +0000" stop="20250520080000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250520080000 +0000" stop="20250520090000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250520090000 +0000" stop="20250520100000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter L.A.</title></programme>
-<programme start="20250520100000 +0000" stop="20250520130000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter AM</title></programme>
-<programme start="20250520130000 +0000" stop="20250520140000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250520140000 +0000" stop="20250520160000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F12</title></programme>
-<programme start="20250520160000 +0000" stop="20250520231500 +0000" channel="ESPN1SUR"><title lang="es">ESPN Argentina</title></programme>
+<programme start="20250518045800 +0000" stop="20250518055500 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250518055500 +0000" stop="20250518062500 +0000" channel="ESPN1SUR"><title lang="es">UEFA Champions League Weekly</title></programme>
+<programme start="20250518062500 +0000" stop="20250518073000 +0000" channel="ESPN1SUR"><title lang="es">Fórmula 3</title></programme>
+<programme start="20250518073000 +0000" stop="20250518075000 +0000" channel="ESPN1SUR"><title lang="es">Deporte Será Anunciado</title></programme>
+<programme start="20250518075000 +0000" stop="20250518091500 +0000" channel="ESPN1SUR"><title lang="es">Fórmula 2</title></programme>
+<programme start="20250518091500 +0000" stop="20250518105000 +0000" channel="ESPN1SUR"><title lang="es">Deporte Será Anunciado</title></programme>
+<programme start="20250518105000 +0000" stop="20250518130000 +0000" channel="ESPN1SUR"><title lang="es">Everton vs. Southampton</title></programme>
+<programme start="20250518130000 +0000" stop="20250518151000 +0000" channel="ESPN1SUR"><title lang="es">West Ham vs. Nottingham Forest</title></programme>
+<programme start="20250518151000 +0000" stop="20250518165000 +0000" channel="ESPN1SUR"><title lang="es">Deporte Será Anunciado</title></programme>
+<programme start="20250518165000 +0000" stop="20250518190000 +0000" channel="ESPN1SUR"><title lang="es">FC Barcelona vs. Villarreal</title></programme>
+<programme start="20250518190000 +0000" stop="20250519023000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250517170000 +0000" stop="20250517230000 +0000" channel="ESPN2COL"><title lang="es">Golf</title></programme>
 <programme start="20250517230000 +0000" stop="20250518002000 +0000" channel="ESPN2COL"><title lang="es">Fórmula 1</title></programme>
 <programme start="20250518002000 +0000" stop="20250518005300 +0000" channel="ESPN2COL"><title lang="es">UEFA Champions League Weekly</title></programme>
