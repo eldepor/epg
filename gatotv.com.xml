@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250518">
 <channel id="ESPN1SUR"><display-name>ESPN</display-name><url>https://gatotv.com</url></channel>
+<channel id="ESPN1SUR"><display-name>ESPN</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN2COL"><display-name>ESPN 2</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN3SUR"><display-name>ESPN 3</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN4SUR"><display-name>ESPN 4</display-name><url>https://gatotv.com</url></channel>
@@ -47,6 +48,12 @@
 <programme start="20250520130000 +0000" stop="20250520140000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250520140000 +0000" stop="20250520160000 +0000" channel="ESPN1SUR"><title lang="es">ESPN F12</title></programme>
 <programme start="20250520160000 +0000" stop="20250520231500 +0000" channel="ESPN1SUR"><title lang="es">ESPN Argentina</title></programme>
+<programme start="20250517174500 +0000" stop="20250518030000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250518105000 +0000" stop="20250518130000 +0000" channel="ESPN1SUR"><title lang="es">Everton vs. Southampton</title></programme>
+<programme start="20250518130000 +0000" stop="20250518151000 +0000" channel="ESPN1SUR"><title lang="es">West Ham vs. Nottingham Forest</title></programme>
+<programme start="20250518151000 +0000" stop="20250518165000 +0000" channel="ESPN1SUR"><title lang="es">Deporte Será Anunciado</title></programme>
+<programme start="20250518165000 +0000" stop="20250518190000 +0000" channel="ESPN1SUR"><title lang="es">FC Barcelona vs. Villarreal</title></programme>
+<programme start="20250518190000 +0000" stop="20250519023000 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
 <programme start="20250517170000 +0000" stop="20250517230000 +0000" channel="ESPN2COL"><title lang="es">Golf</title></programme>
 <programme start="20250517230000 +0000" stop="20250518002000 +0000" channel="ESPN2COL"><title lang="es">Fórmula 1</title></programme>
 <programme start="20250518002000 +0000" stop="20250518005300 +0000" channel="ESPN2COL"><title lang="es">UEFA Champions League Weekly</title></programme>
