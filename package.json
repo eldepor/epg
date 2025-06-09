@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@ntlab/sfetch": "^1.2.0",
-    "cheerio": "^1.0.0",
+    "cheerio": "^1.1.0",
     "debug": "^4.4.1",
     "epg-grabber": "^0.29.8",
     "luxon": "^3.6.1"
