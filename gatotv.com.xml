@@ -155,22 +155,22 @@
 <programme start="20250621160000 +0000" stop="20250621170000 +0000" channel="ESPN3SUR"><title lang="es">Deporte Será Anunciado</title></programme>
 <programme start="20250621170000 +0000" stop="20250621223000 +0000" channel="ESPN3SUR"><title lang="es">Golf PGA Tour</title></programme>
 <programme start="20250618212000 +0000" stop="20250618222300 +0000" channel="ESPN4SUR"><title lang="es">SailGP Racing</title></programme>
-<programme start="20250618222300 +0000" stop="20250618232500 +0000" channel="ESPN4SUR"><title lang="es">The Memorial Tournament</title></programme>
+<programme start="20250618222300 +0000" stop="20250618232500 +0000" channel="ESPN4SUR"><title lang="es">Golf PGA Tour</title></programme>
 <programme start="20250618232500 +0000" stop="20250619002800 +0000" channel="ESPN4SUR"><title lang="es">Goles del fútbol de Italia</title></programme>
 <programme start="20250619002800 +0000" stop="20250619013000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
 <programme start="20250619013000 +0000" stop="20250619020000 +0000" channel="ESPN4SUR"><title lang="es">ATP Tour Uncovered</title></programme>
 <programme start="20250619020000 +0000" stop="20250619030000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
 <programme start="20250619030000 +0000" stop="20250619040000 +0000" channel="ESPN4SUR"><title lang="es">Equipo Scrum</title></programme>
-<programme start="20250619040000 +0000" stop="20250619050000 +0000" channel="ESPN4SUR"><title lang="es">The Memorial Tournament</title></programme>
+<programme start="20250619040000 +0000" stop="20250619050000 +0000" channel="ESPN4SUR"><title lang="es">Golf PGA Tour</title></programme>
 <programme start="20250619050000 +0000" stop="20250619060000 +0000" channel="ESPN4SUR"><title lang="es">Goles del fútbol de Italia</title></programme>
 <programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
 <programme start="20250619070000 +0000" stop="20250619090000 +0000" channel="ESPN4SUR"><title lang="es">2025 Concacaf Gold Cup Soccer</title></programme>
 <programme start="20250619090000 +0000" stop="20250619110000 +0000" channel="ESPN4SUR"><title lang="es">Copa Oro Concacaf 2025</title></programme>
 <programme start="20250619110000 +0000" stop="20250619120000 +0000" channel="ESPN4SUR"><title lang="es">Goles del fútbol de Italia</title></programme>
 <programme start="20250619120000 +0000" stop="20250619130000 +0000" channel="ESPN4SUR"><title lang="es">UEFA Nations League Review</title></programme>
-<programme start="20250619130000 +0000" stop="20250619150000 +0000" channel="ESPN4SUR"><title lang="es">Boxeo</title></programme>
-<programme start="20250619150000 +0000" stop="20250619153000 +0000" channel="ESPN4SUR"><title lang="es">ATP Tour Uncovered</title></programme>
-<programme start="20250619153000 +0000" stop="20250619160000 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
+<programme start="20250619130000 +0000" stop="20250619140000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
+<programme start="20250619140000 +0000" stop="20250619143000 +0000" channel="ESPN4SUR"><title lang="es">Moto Grand Prix F.I.M. Highlights</title></programme>
+<programme start="20250619143000 +0000" stop="20250619160000 +0000" channel="ESPN4SUR"><title lang="es">ESPN 4 Sur</title></programme>
 <programme start="20250619160000 +0000" stop="20250619170000 +0000" channel="ESPN4SUR"><title lang="es">UEFA Nations League Review</title></programme>
 <programme start="20250619170000 +0000" stop="20250619180000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
 <programme start="20250619180000 +0000" stop="20250619190000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
@@ -186,7 +186,7 @@
 <programme start="20250620033000 +0000" stop="20250620040000 +0000" channel="ESPN4SUR"><title lang="es">ATP Tour Uncovered</title></programme>
 <programme start="20250620040000 +0000" stop="20250620060000 +0000" channel="ESPN4SUR"><title lang="es">Boxeo</title></programme>
 <programme start="20250620060000 +0000" stop="20250620070000 +0000" channel="ESPN4SUR"><title lang="es">F Táctico</title></programme>
-<programme start="20250620070000 +0000" stop="20250620080000 +0000" channel="ESPN4SUR"><title lang="es">ESPN 4 Sur</title></programme>
+<programme start="20250620070000 +0000" stop="20250620080000 +0000" channel="ESPN4SUR"><title lang="es">Revista del Turf</title></programme>
 <programme start="20250620080000 +0000" stop="20250620100000 +0000" channel="ESPN4SUR"><title lang="es">Golf PGA Tour</title></programme>
 <programme start="20250620100000 +0000" stop="20250620120000 +0000" channel="ESPN4SUR"><title lang="es">2025 Concacaf Gold Cup Soccer</title></programme>
 <programme start="20250620120000 +0000" stop="20250620140000 +0000" channel="ESPN4SUR"><title lang="es">Copa Oro Concacaf 2025</title></programme>
@@ -204,8 +204,18 @@
 <programme start="20250621010000 +0000" stop="20250621020000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20250621020000 +0000" stop="20250621050000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Knockout</title></programme>
 <programme start="20250621050000 +0000" stop="20250621070000 +0000" channel="ESPN4SUR"><title lang="es">Golf PGA Tour</title></programme>
-<programme start="20250621070000 +0000" stop="20250621150000 +0000" channel="ESPN4SUR"><title lang="es">ESPN 4 Sur</title></programme>
-<programme start="20250621150000 +0000" stop="20250621230000 +0000" channel="ESPN4SUR"><title lang="es">ESPN 4 Sur</title></programme>
+<programme start="20250621070000 +0000" stop="20250621090000 +0000" channel="ESPN4SUR"><title lang="es">Rugby Top 14 de Francia</title></programme>
+<programme start="20250621090000 +0000" stop="20250621110000 +0000" channel="ESPN4SUR"><title lang="es">Copa Oro Concacaf 2025</title></programme>
+<programme start="20250621110000 +0000" stop="20250621120000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250621120000 +0000" stop="20250621123000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
+<programme start="20250621123000 +0000" stop="20250621133000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
+<programme start="20250621133000 +0000" stop="20250621143000 +0000" channel="ESPN4SUR"><title lang="es">Fútbol LaLiga</title></programme>
+<programme start="20250621143000 +0000" stop="20250621153000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250621153000 +0000" stop="20250621163000 +0000" channel="ESPN4SUR"><title lang="es">ESPN Compact</title></programme>
+<programme start="20250621163000 +0000" stop="20250621173000 +0000" channel="ESPN4SUR"><title lang="es">Campeonato Mundial de MotoGP</title></programme>
+<programme start="20250621173000 +0000" stop="20250621183000 +0000" channel="ESPN4SUR"><title lang="es">Campeonato Mundial de MotoGP</title></programme>
+<programme start="20250621183000 +0000" stop="20250621203000 +0000" channel="ESPN4SUR"><title lang="es">Rugby Argentino Torneo de la URBA</title></programme>
+<programme start="20250621203000 +0000" stop="20250621221500 +0000" channel="ESPN4SUR"><title lang="es">Hockey sobre césped FIH Pro League femenina</title></programme>
 <programme start="20250618210000 +0000" stop="20250618230000 +0000" channel="ESPN5SUR"><title lang="es">Fútbol Copa Oro CONCACAF</title></programme>
 <programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="ESPN5SUR"><title lang="es">UEFA Nations League Finals Review</title></programme>
 <programme start="20250619000000 +0000" stop="20250619030000 +0000" channel="ESPN5SUR"><title lang="es">Beisbol MLB</title></programme>
@@ -383,7 +393,8 @@
 <programme start="20250621150000 +0000" stop="20250622030000 +0000" channel="ESPNPremium"><title lang="es">ESPN Premium</title></programme>
 <programme start="20250618220000 +0000" stop="20250618230000 +0000" channel="ESPN1MX"><title lang="es">Generación Futbol</title></programme>
 <programme start="20250618230000 +0000" stop="20250619000000 +0000" channel="ESPN1MX"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
-<programme start="20250619000000 +0000" stop="20250619020000 +0000" channel="ESPN1MX"><title lang="es">Spain vs. Italy</title></programme>
+<programme start="20250619000000 +0000" stop="20250619010000 +0000" channel="ESPN1MX"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
+<programme start="20250619010000 +0000" stop="20250619020000 +0000" channel="ESPN1MX"><title lang="es">Futbol Picante</title></programme>
 <programme start="20250619020000 +0000" stop="20250619050000 +0000" channel="ESPN1MX"><title lang="es">ESPN&apos;s Wednesday Night Basebal</title></programme>
 <programme start="20250619050000 +0000" stop="20250619060000 +0000" channel="ESPN1MX"><title lang="es">Futbol Picante</title></programme>
 <programme start="20250619060000 +0000" stop="20250619070000 +0000" channel="ESPN1MX"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc></programme>
