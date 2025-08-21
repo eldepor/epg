@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="dobleM 21/08/2025 13:20" generator-info-url="t.me/EPG_dobleM">
+<tv generator-info-name="dobleM 21/08/2025 14:15" generator-info-url="t.me/EPG_dobleM">
 <channel id="SkySportF1Germany.de"><display-name>Sky Sport F1 HD</display-name><url>https://sky.de</url></channel>
 <channel id="SkySportBundesligaUHD.de"><display-name>Sky Sport Bundesliga UHD</display-name><url>https://sky.de</url></channel>
 <channel id="DAZN1HD.de"><display-name>DAZN 1 DE</display-name><url>https://sky.de</url></channel>
@@ -110,6 +110,13 @@
 <channel id="ESPN1MX"><display-name>ESPN 1 MX</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN2MX"><display-name>ESPN 2 MX</display-name><url>https://gatotv.com</url></channel>
 <channel id="ESPN3MX"><display-name>ESPN 3 MX</display-name><url>https://gatotv.com</url></channel>
+<channel id="beINSportsenEspanol.us"><display-name>BeIn Sports en Español</display-name><url>https://tvtv.us</url></channel>
+<channel id="beINSPORTSXTRAenEspanol.us"><display-name>beIN Sports Xtra En Espanol</display-name><url>https://tvtv.us</url></channel>
+<channel id="TSN1.ca"><display-name>TSN1</display-name><url>https://tvtv.us</url></channel>
+<channel id="TSN2.ca"><display-name>TSN2</display-name><url>https://tvtv.us</url></channel>
+<channel id="TSN3.ca"><display-name>TSN3</display-name><url>https://tvtv.us</url></channel>
+<channel id="TSN4.ca"><display-name>TSN4</display-name><url>https://tvtv.us</url></channel>
+<channel id="TSN5.ca"><display-name>TSN5</display-name><url>https://tvtv.us</url></channel>
 <programme start="20250820231500 +0000" stop="20250820233000 +0000" channel="SkySportF1Germany.de"><title lang="de">F1: Greatest Races: J. Button / Kanada 2011</title><category lang="de">Formel 1</category><icon src="http://sky.de/static/img/program_guide/12148698_s.jpg"/></programme>
 <programme start="20250820233000 +0000" stop="20250821003000 +0000" channel="SkySportF1Germany.de"><title lang="de">IndyCar: Highlights: bitnile.com Grand Prix of Portland</title><category lang="de">Motorsport</category><icon src="http://sky.de/static/img/program_guide/15034394_s.jpg"/></programme>
 <programme start="20250821003000 +0000" stop="20250821004500 +0000" channel="SkySportF1Germany.de"><title lang="de">Chasing the Dream: Möglichkeiten kreieren</title><category lang="de">Motorsport</category><icon src="http://sky.de/static/img/program_guide/15013634_s.jpg"/></programme>
@@ -5292,4 +5299,478 @@
 <programme start="20250823161500 +0000" stop="20250823183000 +0000" channel="ESPN1SUR"><title lang="es">Arsenal FC vs. Leeds United</title></programme>
 <programme start="20250823183000 +0000" stop="20250823204000 +0000" channel="ESPN1SUR"><title lang="es">Fútbol italiano Serie A</title></programme>
 <programme start="20250823204000 +0000" stop="20250823232500 +0000" channel="ESPN1SUR"><title lang="es">SportsCenter</title><desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</desc><image>https://imagenes.gatotv.com/categorias/noticieros/miniatura/sportscenter.png</image></programme>
+<programme start="20250821000000 +0000" stop="20250821002000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250821002000 +0000" stop="20250821023000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250821023000 +0000" stop="20250821030000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821030000 +0000" stop="20250821040000 +0000" channel="beINSportsenEspanol.us"><title lang="en">BYB Xtreme Fighting Series</title></programme>
+<programme start="20250821040000 +0000" stop="20250821043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250821043000 +0000" stop="20250821050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821050000 +0000" stop="20250821070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250821070000 +0000" stop="20250821073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821073000 +0000" stop="20250821080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821080000 +0000" stop="20250821083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821083000 +0000" stop="20250821090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821090000 +0000" stop="20250821093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821093000 +0000" stop="20250821100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821100000 +0000" stop="20250821103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821103000 +0000" stop="20250821110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821110000 +0000" stop="20250821120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250821120000 +0000" stop="20250821123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821123000 +0000" stop="20250821143000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Polaco Primera División</title></programme>
+<programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821150000 +0000" stop="20250821160000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Pro Footvolley Tour</title></programme>
+<programme start="20250821160000 +0000" stop="20250821173000 +0000" channel="beINSportsenEspanol.us"><title lang="en">SailGP</title></programme>
+<programme start="20250821173000 +0000" stop="20250821180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821180000 +0000" stop="20250821183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250821183000 +0000" stop="20250821190000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821190000 +0000" stop="20250821210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250821210000 +0000" stop="20250821215000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250821215000 +0000" stop="20250822000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250822000000 +0000" stop="20250822002000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250822002000 +0000" stop="20250822023000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250822023000 +0000" stop="20250822030000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822030000 +0000" stop="20250822040000 +0000" channel="beINSportsenEspanol.us"><title lang="en">BYB Xtreme Fighting Series</title></programme>
+<programme start="20250822040000 +0000" stop="20250822043000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250822043000 +0000" stop="20250822050000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822050000 +0000" stop="20250822070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250822070000 +0000" stop="20250822073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822073000 +0000" stop="20250822080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822080000 +0000" stop="20250822083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822083000 +0000" stop="20250822090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822090000 +0000" stop="20250822093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822093000 +0000" stop="20250822100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822100000 +0000" stop="20250822103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822103000 +0000" stop="20250822110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822110000 +0000" stop="20250822120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250822120000 +0000" stop="20250822123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822123000 +0000" stop="20250822143000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Polaco Primera División</title></programme>
+<programme start="20250822143000 +0000" stop="20250822150000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Pro Footvolley Tour</title></programme>
+<programme start="20250822160000 +0000" stop="20250822173000 +0000" channel="beINSportsenEspanol.us"><title lang="en">SailGP</title></programme>
+<programme start="20250822173000 +0000" stop="20250822180000 +0000" channel="beINSportsenEspanol.us"><title lang="en">This is Paris</title></programme>
+<programme start="20250822180000 +0000" stop="20250822183000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250822183000 +0000" stop="20250822183500 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250822183500 +0000" stop="20250822204500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250822204500 +0000" stop="20250822210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20250822210000 +0000" stop="20250822220000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250822220000 +0000" stop="20250822223000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822223000 +0000" stop="20250822230000 +0000" channel="beINSportsenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822230000 +0000" stop="20250823000000 +0000" channel="beINSportsenEspanol.us"><title lang="en">BYB Xtreme Fighting Series</title></programme>
+<programme start="20250822233000 +0000" stop="20250823020000 +0000" channel="TSN5.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250823023000 +0000" stop="20250823040000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250823043000 +0000" stop="20250823050000 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250823050000 +0000" stop="20250823060000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823060000 +0000" stop="20250823070000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823070000 +0000" stop="20250823080000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823080000 +0000" stop="20250823090000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823090000 +0000" stop="20250823100000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823100000 +0000" stop="20250823104200 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823104200 +0000" stop="20250823131500 +0000" channel="TSN5.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250823131500 +0000" stop="20250823132700 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250823132700 +0000" stop="20250823160000 +0000" channel="TSN5.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250823160000 +0000" stop="20250823163000 +0000" channel="TSN5.ca"><title lang="en">2025 Women&apos;s Rugby World Cup Pregame</title></programme>
+<programme start="20250823163000 +0000" stop="20250823185700 +0000" channel="TSN5.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250823185700 +0000" stop="20250823213000 +0000" channel="TSN5.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250823213000 +0000" stop="20250823230000 +0000" channel="TSN5.ca"><title lang="en">NASCAR Canada Series</title></programme>
+<programme start="20250823230000 +0000" stop="20250823233000 +0000" channel="TSN5.ca"><title lang="en">NASCAR Cup Series Prerace</title></programme>
+<programme start="20250823233000 +0000" stop="20250824000100 +0000" channel="TSN5.ca"><title lang="en">NASCAR Cup Series</title></programme>
+<programme start="20250821233000 +0000" stop="20250822020000 +0000" channel="TSN5.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822023000 +0000" stop="20250822040000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822050000 +0000" stop="20250822060000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822060000 +0000" stop="20250822070000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822070000 +0000" stop="20250822080000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822080000 +0000" stop="20250822090000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822090000 +0000" stop="20250822100000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822100000 +0000" stop="20250822110000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822110000 +0000" stop="20250822120000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822120000 +0000" stop="20250822130000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822130000 +0000" stop="20250822140000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822140000 +0000" stop="20250822150000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822160000 +0000" stop="20250822180000 +0000" channel="TSN5.ca"><title lang="en">First Take</title></programme>
+<programme start="20250822180000 +0000" stop="20250822183000 +0000" channel="TSN5.ca"><title lang="en">Canadian Superbike Championship</title></programme>
+<programme start="20250822183000 +0000" stop="20250822190000 +0000" channel="TSN5.ca"><title lang="en">2025 Motorcycle Experience</title></programme>
+<programme start="20250822190000 +0000" stop="20250822193000 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250822193000 +0000" stop="20250822200000 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250822200000 +0000" stop="20250822210000 +0000" channel="TSN5.ca"><title lang="en">NFL Live</title></programme>
+<programme start="20250822210000 +0000" stop="20250822213000 +0000" channel="TSN5.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250822213000 +0000" stop="20250822220000 +0000" channel="TSN5.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250822220000 +0000" stop="20250822230000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822230000 +0000" stop="20250822233000 +0000" channel="TSN5.ca"><title lang="en">CFL on TSN Pregame</title></programme>
+<programme start="20250821000000 +0000" stop="20250821020000 +0000" channel="TSN5.ca"><title lang="en">Leagues Cup</title></programme>
+<programme start="20250821020000 +0000" stop="20250821030000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821030000 +0000" stop="20250821050000 +0000" channel="TSN5.ca"><title lang="en">Leagues Cup</title></programme>
+<programme start="20250821050000 +0000" stop="20250821060000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821060000 +0000" stop="20250821070000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821070000 +0000" stop="20250821080000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821080000 +0000" stop="20250821090000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821100000 +0000" stop="20250821110000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821110000 +0000" stop="20250821120000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821120000 +0000" stop="20250821130000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821130000 +0000" stop="20250821140000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821140000 +0000" stop="20250821150000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821150000 +0000" stop="20250821160000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821160000 +0000" stop="20250821170000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821170000 +0000" stop="20250821173000 +0000" channel="TSN5.ca"><title lang="en">Canadian Superbike Championship</title></programme>
+<programme start="20250821173000 +0000" stop="20250821180000 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250821180000 +0000" stop="20250821183000 +0000" channel="TSN5.ca"><title lang="en">Rising North</title></programme>
+<programme start="20250821183000 +0000" stop="20250821193000 +0000" channel="TSN5.ca"><title lang="en">SailGP Highlights</title></programme>
+<programme start="20250821193000 +0000" stop="20250821200000 +0000" channel="TSN5.ca"><title lang="en">SC</title></programme>
+<programme start="20250821200000 +0000" stop="20250821210000 +0000" channel="TSN5.ca"><title lang="en">NFL Live</title></programme>
+<programme start="20250821210000 +0000" stop="20250821213000 +0000" channel="TSN5.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250821213000 +0000" stop="20250821220000 +0000" channel="TSN5.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250821220000 +0000" stop="20250821233000 +0000" channel="TSN5.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822220000 +0000" stop="20250822223000 +0000" channel="TSN4.ca"><title lang="en">CEBL Basketball</title></programme>
+<programme start="20250823003000 +0000" stop="20250823030000 +0000" channel="TSN4.ca"><title lang="en">CEBL Basketball</title></programme>
+<programme start="20250823030000 +0000" stop="20250823040000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250823043000 +0000" stop="20250823050000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250823050000 +0000" stop="20250823060000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823060000 +0000" stop="20250823070000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823070000 +0000" stop="20250823080000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823080000 +0000" stop="20250823090000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823090000 +0000" stop="20250823100000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823100000 +0000" stop="20250823110000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823110000 +0000" stop="20250823120000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823120000 +0000" stop="20250823130000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823130000 +0000" stop="20250823140000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823140000 +0000" stop="20250823150000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823150000 +0000" stop="20250823160000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823160000 +0000" stop="20250823170000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823170000 +0000" stop="20250823173000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250823173000 +0000" stop="20250823183000 +0000" channel="TSN4.ca"><title lang="en">The Amazing Race Canada</title></programme>
+<programme start="20250823183000 +0000" stop="20250823230000 +0000" channel="TSN4.ca"><title lang="en">2025 TOUR Championship</title></programme>
+<programme start="20250823230000 +0000" stop="20250823233000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250823233000 +0000" stop="20250824000100 +0000" channel="TSN4.ca"><title lang="en">MLS Soccer</title></programme>
+<programme start="20250821230000 +0000" stop="20250822003000 +0000" channel="TSN4.ca"><title lang="en">MLB Baseball</title></programme>
+<programme start="20250822013000 +0000" stop="20250822023000 +0000" channel="TSN4.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822023000 +0000" stop="20250822040000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822050000 +0000" stop="20250822060000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822060000 +0000" stop="20250822070000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822070000 +0000" stop="20250822080000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822080000 +0000" stop="20250822090000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822090000 +0000" stop="20250822100000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822100000 +0000" stop="20250822110000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822110000 +0000" stop="20250822120000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822120000 +0000" stop="20250822130000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822130000 +0000" stop="20250822160000 +0000" channel="TSN4.ca"><title lang="en">LPGA Tour Golf</title></programme>
+<programme start="20250822160000 +0000" stop="20250822170000 +0000" channel="TSN4.ca"><title lang="en">PBR Bull Riding</title></programme>
+<programme start="20250822170000 +0000" stop="20250822173000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250822173000 +0000" stop="20250822175300 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250822175300 +0000" stop="20250822204500 +0000" channel="TSN4.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250822204500 +0000" stop="20250822210000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250822210000 +0000" stop="20250822213000 +0000" channel="TSN4.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250822213000 +0000" stop="20250822220000 +0000" channel="TSN4.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250821000000 +0000" stop="20250821023000 +0000" channel="TSN4.ca"><title lang="en">MLB Baseball</title></programme>
+<programme start="20250821023000 +0000" stop="20250821033000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250821040000 +0000" stop="20250821050000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821050000 +0000" stop="20250821060000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821060000 +0000" stop="20250821070000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821070000 +0000" stop="20250821080000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821080000 +0000" stop="20250821090000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821100000 +0000" stop="20250821110000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821110000 +0000" stop="20250821120000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821120000 +0000" stop="20250821130000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821130000 +0000" stop="20250821160000 +0000" channel="TSN4.ca"><title lang="en">LPGA Tour Golf</title></programme>
+<programme start="20250821160000 +0000" stop="20250821163000 +0000" channel="TSN4.ca"><title lang="en">SC</title></programme>
+<programme start="20250821163000 +0000" stop="20250821170000 +0000" channel="TSN4.ca"><title lang="en">2025 Motorcycle Experience</title></programme>
+<programme start="20250821170000 +0000" stop="20250821200000 +0000" channel="TSN4.ca"><title lang="en">AFL Premiership Football</title></programme>
+<programme start="20250821200000 +0000" stop="20250821220000 +0000" channel="TSN4.ca"><title lang="en">Overdrive</title></programme>
+<programme start="20250821220000 +0000" stop="20250821230000 +0000" channel="TSN4.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823000000 +0000" stop="20250823010000 +0000" channel="TSN3.ca"><title lang="en">Park the Bus</title></programme>
+<programme start="20250823010000 +0000" stop="20250823030000 +0000" channel="TSN3.ca"><title lang="en">2025 World Rugby Pacific Nations Cup</title></programme>
+<programme start="20250823030000 +0000" stop="20250823050000 +0000" channel="TSN3.ca"><title lang="en">AFL Women&apos;s Premiership Football</title></programme>
+<programme start="20250823050000 +0000" stop="20250823060000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823060000 +0000" stop="20250823070000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823070000 +0000" stop="20250823080000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823080000 +0000" stop="20250823090000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823090000 +0000" stop="20250823100000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823100000 +0000" stop="20250823110000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823110000 +0000" stop="20250823120000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823120000 +0000" stop="20250823130000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823130000 +0000" stop="20250823140000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823140000 +0000" stop="20250823150000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823150000 +0000" stop="20250823160000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823160000 +0000" stop="20250823163000 +0000" channel="TSN3.ca"><title lang="en">SC</title></programme>
+<programme start="20250823163000 +0000" stop="20250823170000 +0000" channel="TSN3.ca"><title lang="en">SC</title></programme>
+<programme start="20250823170000 +0000" stop="20250823200000 +0000" channel="TSN3.ca"><title lang="en">NFL Football</title></programme>
+<programme start="20250823200000 +0000" stop="20250823203000 +0000" channel="TSN3.ca"><title lang="en">LPGA Tour Golf</title></programme>
+<programme start="20250823203000 +0000" stop="20250823230000 +0000" channel="TSN3.ca"><title lang="en">LPGA Tour Golf</title></programme>
+<programme start="20250823230000 +0000" stop="20250824000100 +0000" channel="TSN3.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250821233000 +0000" stop="20250822020000 +0000" channel="TSN3.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822023000 +0000" stop="20250822040000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822050000 +0000" stop="20250822060000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822060000 +0000" stop="20250822070000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822070000 +0000" stop="20250822080000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822080000 +0000" stop="20250822090000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822090000 +0000" stop="20250822100000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822100000 +0000" stop="20250822110000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822110000 +0000" stop="20250822120000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822120000 +0000" stop="20250822130000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822130000 +0000" stop="20250822140000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822140000 +0000" stop="20250822150000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822160000 +0000" stop="20250822170000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822170000 +0000" stop="20250822173000 +0000" channel="TSN3.ca"><title lang="en">SC</title></programme>
+<programme start="20250822173000 +0000" stop="20250822175300 +0000" channel="TSN3.ca"><title lang="en">SC</title></programme>
+<programme start="20250822175300 +0000" stop="20250822204500 +0000" channel="TSN3.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250822204500 +0000" stop="20250822210000 +0000" channel="TSN3.ca"><title lang="en">SC</title></programme>
+<programme start="20250822210000 +0000" stop="20250822213000 +0000" channel="TSN3.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250822213000 +0000" stop="20250822220000 +0000" channel="TSN3.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250822220000 +0000" stop="20250823000000 +0000" channel="TSN3.ca"><title lang="en">Canadian Premier League Soccer</title></programme>
+<programme start="20250820230000 +0000" stop="20250821010000 +0000" channel="TSN3.ca"><title lang="en">2025 US Open Tennis</title></programme>
+<programme start="20250821020000 +0000" stop="20250821033000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="TSN3.ca"><title lang="en">SC</title></programme>
+<programme start="20250821040000 +0000" stop="20250821050000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821050000 +0000" stop="20250821060000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821060000 +0000" stop="20250821070000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821070000 +0000" stop="20250821080000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821080000 +0000" stop="20250821090000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821100000 +0000" stop="20250821110000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821110000 +0000" stop="20250821120000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821120000 +0000" stop="20250821130000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821130000 +0000" stop="20250821140000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821140000 +0000" stop="20250821150000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821150000 +0000" stop="20250821160000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821160000 +0000" stop="20250821180000 +0000" channel="TSN3.ca"><title lang="en">First Take</title></programme>
+<programme start="20250821180000 +0000" stop="20250821190000 +0000" channel="TSN3.ca"><title lang="en">PBR Bull Riding</title></programme>
+<programme start="20250821190000 +0000" stop="20250821210000 +0000" channel="TSN3.ca"><title lang="en">2025 Little League Baseball World Series</title></programme>
+<programme start="20250821210000 +0000" stop="20250821213000 +0000" channel="TSN3.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250821213000 +0000" stop="20250821220000 +0000" channel="TSN3.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250821220000 +0000" stop="20250821233000 +0000" channel="TSN3.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823000000 +0000" stop="20250823030000 +0000" channel="TSN2.ca"><title lang="en">NFL Football</title></programme>
+<programme start="20250823030000 +0000" stop="20250823033000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250823033000 +0000" stop="20250823040000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250823043000 +0000" stop="20250823050000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250823050000 +0000" stop="20250823080000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250823080000 +0000" stop="20250823110000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250823110000 +0000" stop="20250823140000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250823140000 +0000" stop="20250823160000 +0000" channel="TSN2.ca"><title lang="en">AFL Women&apos;s Premiership Football</title></programme>
+<programme start="20250823160000 +0000" stop="20250823170000 +0000" channel="TSN2.ca"><title lang="en">PBR Bull Riding</title></programme>
+<programme start="20250823170000 +0000" stop="20250823200000 +0000" channel="TSN2.ca"><title lang="en">NFL Football</title></programme>
+<programme start="20250823200000 +0000" stop="20250823230000 +0000" channel="TSN2.ca"><title lang="en">NFL Football</title></programme>
+<programme start="20250823230000 +0000" stop="20250823233000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250823233000 +0000" stop="20250824000000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822000000 +0000" stop="20250822030000 +0000" channel="TSN2.ca"><title lang="en">NFL Football</title></programme>
+<programme start="20250822030000 +0000" stop="20250822033000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822033000 +0000" stop="20250822040000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="TSN2.ca"><title lang="en">The Amazing Race Canada</title></programme>
+<programme start="20250822050000 +0000" stop="20250822080000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822080000 +0000" stop="20250822110000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822110000 +0000" stop="20250822140000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822140000 +0000" stop="20250822170000 +0000" channel="TSN2.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822170000 +0000" stop="20250822173000 +0000" channel="TSN2.ca"><title lang="en">Rising North</title></programme>
+<programme start="20250822173000 +0000" stop="20250822180000 +0000" channel="TSN2.ca"><title lang="en">Rising North</title></programme>
+<programme start="20250822180000 +0000" stop="20250822183000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822183000 +0000" stop="20250822190000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822190000 +0000" stop="20250822200000 +0000" channel="TSN2.ca"><title lang="en">The Amazing Race Canada</title></programme>
+<programme start="20250822200000 +0000" stop="20250822230000 +0000" channel="TSN2.ca"><title lang="en">Overdrive</title></programme>
+<programme start="20250822230000 +0000" stop="20250822233000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822233000 +0000" stop="20250823000000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821000000 +0000" stop="20250821020000 +0000" channel="TSN2.ca"><title lang="en">All Elite Wrestling: Dynamite</title></programme>
+<programme start="20250821020000 +0000" stop="20250821023000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821023000 +0000" stop="20250821033000 +0000" channel="TSN2.ca"><title lang="en">Golf Talk Canada</title></programme>
+<programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="TSN2.ca"><title lang="en">PGA TOUR - The Drop</title></programme>
+<programme start="20250821040000 +0000" stop="20250821050000 +0000" channel="TSN2.ca"><title lang="en">PBR Bull Riding</title></programme>
+<programme start="20250821050000 +0000" stop="20250821070000 +0000" channel="TSN2.ca"><title lang="en">All Elite Wrestling: Dynamite</title></programme>
+<programme start="20250821070000 +0000" stop="20250821073000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821073000 +0000" stop="20250821080000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821080000 +0000" stop="20250821083000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821083000 +0000" stop="20250821090000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821090000 +0000" stop="20250821093000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821093000 +0000" stop="20250821100000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821100000 +0000" stop="20250821103000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821103000 +0000" stop="20250821110000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821110000 +0000" stop="20250821113000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821113000 +0000" stop="20250821120000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821120000 +0000" stop="20250821123000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821123000 +0000" stop="20250821130000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821130000 +0000" stop="20250821133000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821133000 +0000" stop="20250821140000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821140000 +0000" stop="20250821143000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821150000 +0000" stop="20250821153000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821153000 +0000" stop="20250821160000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821160000 +0000" stop="20250821170000 +0000" channel="TSN2.ca"><title lang="en">The Cannons</title></programme>
+<programme start="20250821170000 +0000" stop="20250821180000 +0000" channel="TSN2.ca"><title lang="en">Beyond Their Years: The Incredible Legacies of Herb Carnegie and Buck O&apos;Neil</title></programme>
+<programme start="20250821180000 +0000" stop="20250821190000 +0000" channel="TSN2.ca"><title lang="en">The Amazing Race Canada</title></programme>
+<programme start="20250821190000 +0000" stop="20250821193000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250821193000 +0000" stop="20250821210000 +0000" channel="TSN2.ca"><title lang="en">NASCAR Canada Series</title></programme>
+<programme start="20250821210000 +0000" stop="20250821213000 +0000" channel="TSN2.ca"><title lang="en">Canadian Superbike Championship</title></programme>
+<programme start="20250821213000 +0000" stop="20250821220000 +0000" channel="TSN2.ca"><title lang="en">2025 Motorcycle Experience</title></programme>
+<programme start="20250821220000 +0000" stop="20250821230000 +0000" channel="TSN2.ca"><title lang="en">Overdrive</title></programme>
+<programme start="20250821230000 +0000" stop="20250821233000 +0000" channel="TSN2.ca"><title lang="en">Why We Love Football</title></programme>
+<programme start="20250821233000 +0000" stop="20250822000000 +0000" channel="TSN2.ca"><title lang="en">SC</title></programme>
+<programme start="20250822233000 +0000" stop="20250823020000 +0000" channel="TSN1.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250823023000 +0000" stop="20250823040000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="TSN1.ca"><title lang="en">SC</title></programme>
+<programme start="20250823043000 +0000" stop="20250823050000 +0000" channel="TSN1.ca"><title lang="en">SC</title></programme>
+<programme start="20250823050000 +0000" stop="20250823060000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823060000 +0000" stop="20250823070000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823070000 +0000" stop="20250823080000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823080000 +0000" stop="20250823090000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823090000 +0000" stop="20250823100000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823100000 +0000" stop="20250823110000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823110000 +0000" stop="20250823120000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823120000 +0000" stop="20250823130000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823130000 +0000" stop="20250823140000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823140000 +0000" stop="20250823150000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823150000 +0000" stop="20250823160000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823160000 +0000" stop="20250823163000 +0000" channel="TSN1.ca"><title lang="en">2025 Women&apos;s Rugby World Cup Pregame</title></programme>
+<programme start="20250823163000 +0000" stop="20250823190000 +0000" channel="TSN1.ca"><title lang="en">2025 Women&apos;s Rugby World Cup</title></programme>
+<programme start="20250823190000 +0000" stop="20250823220000 +0000" channel="TSN1.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250823220000 +0000" stop="20250823230000 +0000" channel="TSN1.ca"><title lang="en">Park the Bus</title></programme>
+<programme start="20250823230000 +0000" stop="20250824000100 +0000" channel="TSN1.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250821233000 +0000" stop="20250822020000 +0000" channel="TSN1.ca"><title lang="en">CFL Football</title></programme>
+<programme start="20250822023000 +0000" stop="20250822040000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822040000 +0000" stop="20250822050000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822050000 +0000" stop="20250822060000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822060000 +0000" stop="20250822070000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822070000 +0000" stop="20250822080000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822080000 +0000" stop="20250822090000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822090000 +0000" stop="20250822100000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822100000 +0000" stop="20250822110000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822110000 +0000" stop="20250822120000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822120000 +0000" stop="20250822130000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822130000 +0000" stop="20250822160000 +0000" channel="TSN1.ca"><title lang="en">LPGA Tour Golf</title></programme>
+<programme start="20250822160000 +0000" stop="20250822170000 +0000" channel="TSN1.ca"><title lang="en">PBR Bull Riding</title></programme>
+<programme start="20250822170000 +0000" stop="20250822200000 +0000" channel="TSN1.ca"><title lang="en">AFL Premiership Football</title></programme>
+<programme start="20250822200000 +0000" stop="20250822210000 +0000" channel="TSN1.ca"><title lang="en">NFL Live</title></programme>
+<programme start="20250822210000 +0000" stop="20250822213000 +0000" channel="TSN1.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250822213000 +0000" stop="20250822220000 +0000" channel="TSN1.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250822220000 +0000" stop="20250822230000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250822230000 +0000" stop="20250822233000 +0000" channel="TSN1.ca"><title lang="en">CFL on TSN Pregame</title></programme>
+<programme start="20250820230000 +0000" stop="20250821000000 +0000" channel="TSN1.ca"><title lang="en">2025 Little League Baseball World Series</title></programme>
+<programme start="20250821010000 +0000" stop="20250821023000 +0000" channel="TSN1.ca"><title lang="en">MLB Baseball</title></programme>
+<programme start="20250821023000 +0000" stop="20250821033000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821033000 +0000" stop="20250821040000 +0000" channel="TSN1.ca"><title lang="en">SC</title></programme>
+<programme start="20250821040000 +0000" stop="20250821050000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821050000 +0000" stop="20250821060000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821060000 +0000" stop="20250821070000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821070000 +0000" stop="20250821080000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821080000 +0000" stop="20250821090000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821090000 +0000" stop="20250821100000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821100000 +0000" stop="20250821110000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821110000 +0000" stop="20250821120000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821120000 +0000" stop="20250821130000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250821130000 +0000" stop="20250821160000 +0000" channel="TSN1.ca"><title lang="en">LPGA Tour Golf</title></programme>
+<programme start="20250821160000 +0000" stop="20250821163000 +0000" channel="TSN1.ca"><title lang="en">SC</title></programme>
+<programme start="20250821163000 +0000" stop="20250821170000 +0000" channel="TSN1.ca"><title lang="en">2025 Motorcycle Experience</title></programme>
+<programme start="20250821170000 +0000" stop="20250821173000 +0000" channel="TSN1.ca"><title lang="en">Canadian Superbike Championship</title></programme>
+<programme start="20250821173000 +0000" stop="20250821180000 +0000" channel="TSN1.ca"><title lang="en">SC</title></programme>
+<programme start="20250821180000 +0000" stop="20250821190000 +0000" channel="TSN1.ca"><title lang="en">PBR Bull Riding</title></programme>
+<programme start="20250821190000 +0000" stop="20250821210000 +0000" channel="TSN1.ca"><title lang="en">2025 Little League Baseball World Series</title></programme>
+<programme start="20250821210000 +0000" stop="20250821213000 +0000" channel="TSN1.ca"><title lang="en">College Football Live</title></programme>
+<programme start="20250821213000 +0000" stop="20250821220000 +0000" channel="TSN1.ca"><title lang="en">Pardon the Interruption</title></programme>
+<programme start="20250821220000 +0000" stop="20250821233000 +0000" channel="TSN1.ca"><title lang="en">SportsCentre</title></programme>
+<programme start="20250823000000 +0000" stop="20250823030100 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">LUX Challenge 54</title></programme>
+<programme start="20250823030100 +0000" stop="20250823050100 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250823050100 +0000" stop="20250823070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">CONMEBOL Copa Sudamericana</title></programme>
+<programme start="20250823070000 +0000" stop="20250823073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823073000 +0000" stop="20250823080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823080000 +0000" stop="20250823083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823083000 +0000" stop="20250823090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823090000 +0000" stop="20250823093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823093000 +0000" stop="20250823100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823100000 +0000" stop="20250823103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823103000 +0000" stop="20250823110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823110000 +0000" stop="20250823113000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823113000 +0000" stop="20250823120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823120000 +0000" stop="20250823123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823123000 +0000" stop="20250823124000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250823124000 +0000" stop="20250823144500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Polaco Primera División</title></programme>
+<programme start="20250823144500 +0000" stop="20250823145000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250823145000 +0000" stop="20250823165500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823165500 +0000" stop="20250823190000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823190000 +0000" stop="20250823210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823210000 +0000" stop="20250823230000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823230000 +0000" stop="20250824000100 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250822000000 +0000" stop="20250822002000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250822002000 +0000" stop="20250822023000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250822023000 +0000" stop="20250822030000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822030000 +0000" stop="20250822040000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">BYB Xtreme Fighting Series</title></programme>
+<programme start="20250822040000 +0000" stop="20250822043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250822043000 +0000" stop="20250822050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822050000 +0000" stop="20250822070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250822070000 +0000" stop="20250822073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822073000 +0000" stop="20250822080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822080000 +0000" stop="20250822083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822083000 +0000" stop="20250822090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822090000 +0000" stop="20250822093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822093000 +0000" stop="20250822100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822100000 +0000" stop="20250822103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822103000 +0000" stop="20250822110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822110000 +0000" stop="20250822120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250822120000 +0000" stop="20250822123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822123000 +0000" stop="20250822143000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Polaco Primera División</title></programme>
+<programme start="20250822143000 +0000" stop="20250822150000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250822150000 +0000" stop="20250822160000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Pro Footvolley Tour</title></programme>
+<programme start="20250822160000 +0000" stop="20250822173000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">SailGP</title></programme>
+<programme start="20250822173000 +0000" stop="20250822180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">This is Paris</title></programme>
+<programme start="20250822180000 +0000" stop="20250822183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250822183000 +0000" stop="20250822183500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250822183500 +0000" stop="20250822204500 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250822204500 +0000" stop="20250822210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Ligue 1 - Highlight Show</title></programme>
+<programme start="20250822210000 +0000" stop="20250822220000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250822220000 +0000" stop="20250822223000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822223000 +0000" stop="20250822230000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250822230000 +0000" stop="20250823000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">BYB Xtreme Fighting Series</title></programme>
+<programme start="20250821000000 +0000" stop="20250821002000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250821002000 +0000" stop="20250821023000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250821023000 +0000" stop="20250821030000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821030000 +0000" stop="20250821040000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">BYB Xtreme Fighting Series</title></programme>
+<programme start="20250821040000 +0000" stop="20250821043000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250821043000 +0000" stop="20250821050000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821050000 +0000" stop="20250821070000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250821070000 +0000" stop="20250821073000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821073000 +0000" stop="20250821080000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821080000 +0000" stop="20250821083000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821083000 +0000" stop="20250821090000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821090000 +0000" stop="20250821093000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821093000 +0000" stop="20250821100000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821100000 +0000" stop="20250821103000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821103000 +0000" stop="20250821110000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821110000 +0000" stop="20250821120000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250821120000 +0000" stop="20250821123000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821123000 +0000" stop="20250821143000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol Polaco Primera División</title></programme>
+<programme start="20250821143000 +0000" stop="20250821150000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250821150000 +0000" stop="20250821160000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Pro Footvolley Tour</title></programme>
+<programme start="20250821160000 +0000" stop="20250821173000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">SailGP</title></programme>
+<programme start="20250821173000 +0000" stop="20250821180000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821180000 +0000" stop="20250821183000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Knockout Room</title></programme>
+<programme start="20250821183000 +0000" stop="20250821190000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">90 in 30</title></programme>
+<programme start="20250821190000 +0000" stop="20250821210000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250821210000 +0000" stop="20250821215000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">The Xtra</title></programme>
+<programme start="20250821215000 +0000" stop="20250822000000 +0000" channel="beINSPORTSXTRAenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250823000000 +0000" stop="20250823030100 +0000" channel="beINSportsenEspanol.us"><title lang="en">LUX Challenge 54</title></programme>
+<programme start="20250823030100 +0000" stop="20250823050100 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol CONMEBOL Copa Libertadores</title></programme>
+<programme start="20250823050100 +0000" stop="20250823070000 +0000" channel="beINSportsenEspanol.us"><title lang="en">CONMEBOL Copa Sudamericana</title></programme>
+<programme start="20250823070000 +0000" stop="20250823073000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823073000 +0000" stop="20250823080000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823080000 +0000" stop="20250823083000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823083000 +0000" stop="20250823090000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823090000 +0000" stop="20250823093000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823093000 +0000" stop="20250823100000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823100000 +0000" stop="20250823103000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823103000 +0000" stop="20250823110000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823110000 +0000" stop="20250823113000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823113000 +0000" stop="20250823120000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823120000 +0000" stop="20250823123000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Programa pagado</title></programme>
+<programme start="20250823123000 +0000" stop="20250823124000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250823124000 +0000" stop="20250823144500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Polaco Primera División</title></programme>
+<programme start="20250823144500 +0000" stop="20250823145000 +0000" channel="beINSportsenEspanol.us"><title lang="en">The Express Preview</title></programme>
+<programme start="20250823145000 +0000" stop="20250823165500 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823165500 +0000" stop="20250823190000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823190000 +0000" stop="20250823210000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823210000 +0000" stop="20250823230000 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
+<programme start="20250823230000 +0000" stop="20250824000100 +0000" channel="beINSportsenEspanol.us"><title lang="en">Fútbol Ligue 1</title></programme>
 </tv>
